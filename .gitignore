@@ -1,0 +1,12 @@
+# MD> Most gitignore settings are in ~/.gitignore_global
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
