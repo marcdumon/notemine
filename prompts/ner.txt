@@ -1,0 +1,24 @@
+Extract all named entities from the note below.
+
+Return a JSON object with one key "entities", which is a list of [entity_text, entity_type] pairs.
+
+Use these types only:
+- PER — person (individual human)
+- ORG — organisation, institution, company, team
+- LOC — location, place, geopolitical area
+- DATE — date, year, time period, or time expression
+- PROD — product, model, software, or brand name
+- MISC — other clearly named entity (law, award, event, concept)
+
+Rules:
+- Keep entity text exactly as it appears in the source note (do not translate)
+- Extract only clearly named entities, not generic nouns or descriptions
+- Dates should be extracted as they appear in the text, not normalised
+
+Note content:
+---
+{content}
+---
+
+Return only the JSON object. No explanation, no markdown fences.
+Example: {{"entities": [["Sam Altman", "PER"], ["OpenAI", "ORG"], ["March 2025", "DATE"]]}}

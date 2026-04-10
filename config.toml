@@ -1,0 +1,16 @@
+[ollama]
+model = "llama3.2"
+base_url = "http://localhost:11434/v1"
+temperature = 0.1
+num_ctx = 8192
+max_tokens = 2000
+
+[claude]
+model = "claude-sonnet-4-5"
+temperature = 0.1
+max_tokens = 2000
+
+[vault]
+path = "./data"
+ground_truth = "./data/ground_truth.yaml"
+prompts_dir = "./prompts"

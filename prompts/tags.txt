@@ -1,0 +1,17 @@
+Generate topic tags for the note below.
+
+Return a JSON object with one key "tags", which is a list of 5 to 10 lowercase hyphenated tags.
+
+Rules:
+- Tags should describe the subject matter, domain, and key concepts of the note
+- Use the language of the source note (Dutch notes get Dutch tags, English notes get English tags)
+- Format: lowercase, words separated by hyphens (e.g. "machine-learning", "klimaatverandering")
+- Be specific enough to be useful, not so narrow they apply to only one document
+
+Note content:
+---
+{content}
+---
+
+Return only the JSON object. No explanation, no markdown fences.
+Example: {{"tags": ["artificial-intelligence", "openai", "gpt-5", "tech-conference"]}}

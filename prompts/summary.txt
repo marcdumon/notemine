@@ -1,0 +1,18 @@
+Summarise the note below.
+
+Return a JSON object with one key "summary", which is a list of 2 to 4 sentences that together
+form a concise summary of the note's key ideas, entities, and findings.
+
+Rules:
+- Write in English regardless of the source language
+- Each sentence should be self-contained and informative
+- Focus on who, what, where, when, and why — not on the document structure
+- Do not include phrases like "this article discusses" or "the note covers"
+
+Note content:
+---
+{content}
+---
+
+Return only the JSON object. No explanation, no markdown fences.
+Example: {{"summary": ["OpenAI announced GPT-5 in San Francisco on March 15, 2025.", "The model outperforms competitors on the MMLU benchmark."]}}
