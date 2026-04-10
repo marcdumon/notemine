@@ -1,0 +1,1028 @@
+# Notemine ground truth benchmark
+# All content in English regardless of source note language.
+# Each NL entry is an exact mirror of its EN counterpart.
+# Entity format: {entity: <text>, type: <PER|ORG|LOC|DATE|PROD|MISC>}
+
+- file: short_tech_news_openai_announcement_en.md
+  lang: en
+  length: short
+  summary: >-
+    OpenAI CEO Sam Altman announced GPT-5 at the Moscone Center in San Francisco on March 15, 2025,
+    claiming it outperforms Google DeepMind's Gemini Ultra 2.0 on the MMLU benchmark.
+    Microsoft confirmed GPT-5 integration into Azure AI Studio and Microsoft Copilot by April 2025.
+    AI safety researcher Geoffrey Hinton and EU regulators called for independent safety evaluations
+    before deployment.
+  tags:
+    - ai
+    - openai
+    - gpt-5
+    - tech-conference
+    - san-francisco
+    - microsoft
+    - llm
+  entities:
+    - {entity: Sam Altman, type: PER}
+    - {entity: Geoffrey Hinton, type: PER}
+    - {entity: Satya Nadella, type: PER}
+    - {entity: OpenAI, type: ORG}
+    - {entity: Microsoft, type: ORG}
+    - {entity: Google DeepMind, type: ORG}
+    - {entity: Moscone Center, type: LOC}
+    - {entity: San Francisco, type: LOC}
+    - {entity: "Redmond, Washington", type: LOC}
+    - {entity: European Union, type: LOC}
+    - {entity: March 15, 2025, type: DATE}
+    - {entity: April 2025, type: DATE}
+    - {entity: January 2025, type: DATE}
+    - {entity: GPT-5, type: PROD}
+    - {entity: Gemini Ultra 2.0, type: PROD}
+    - {entity: Azure AI Studio, type: PROD}
+    - {entity: Microsoft Copilot, type: PROD}
+    - {entity: EU AI Act, type: MISC}
+    - {entity: MMLU benchmark, type: MISC}
+
+- file: short_tech_nieuws_openai_aankondiging_nl.md
+  lang: nl
+  length: short
+  summary: >-
+    OpenAI CEO Sam Altman announced GPT-5 at the Moscone Center in San Francisco on March 15, 2025,
+    claiming it outperforms Google DeepMind's Gemini Ultra 2.0 on the MMLU benchmark.
+    Microsoft confirmed GPT-5 integration into Azure AI Studio and Microsoft Copilot by April 2025.
+    AI safety researcher Geoffrey Hinton and EU regulators called for independent safety evaluations
+    before deployment.
+  tags:
+    - ai
+    - openai
+    - gpt-5
+    - tech-conference
+    - san-francisco
+    - microsoft
+    - llm
+  entities:
+    - {entity: Sam Altman, type: PER}
+    - {entity: Geoffrey Hinton, type: PER}
+    - {entity: Satya Nadella, type: PER}
+    - {entity: OpenAI, type: ORG}
+    - {entity: Microsoft, type: ORG}
+    - {entity: Google DeepMind, type: ORG}
+    - {entity: Moscone Center, type: LOC}
+    - {entity: San Francisco, type: LOC}
+    - {entity: "Redmond, Washington", type: LOC}
+    - {entity: European Union, type: LOC}
+    - {entity: March 15, 2025, type: DATE}
+    - {entity: April 2025, type: DATE}
+    - {entity: January 2025, type: DATE}
+    - {entity: GPT-5, type: PROD}
+    - {entity: Gemini Ultra 2.0, type: PROD}
+    - {entity: Azure AI Studio, type: PROD}
+    - {entity: Microsoft Copilot, type: PROD}
+    - {entity: EU AI Act, type: MISC}
+    - {entity: MMLU benchmark, type: MISC}
+
+- file: short_recipe_dutch_stamppot_en.md
+  lang: en
+  length: short
+  summary: >-
+    A recipe for classic Dutch stamppot boerenkool met worst, combining mashed potatoes with curly
+    kale and smoked sausage (rookworst). The recipe includes ingredients, step-by-step instructions,
+    and a seasonal note that stamppot is traditionally eaten from October to March in the Netherlands.
+    Brands Unox and Hema are cited as traditional rookworst producers.
+  tags:
+    - recipe
+    - dutch-cuisine
+    - stamppot
+    - boerenkool
+    - winter
+    - comfort-food
+    - netherlands
+  entities:
+    - {entity: Liesbeth Verhoeven, type: PER}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Unox, type: ORG}
+    - {entity: Hema, type: ORG}
+    - {entity: Albert Heijn, type: ORG}
+    - {entity: Jumbo, type: ORG}
+    - {entity: October to March, type: DATE}
+    - {entity: Bildtstar, type: PROD}
+    - {entity: Eigenheimer, type: PROD}
+
+- file: short_recept_stamppot_nl.md
+  lang: nl
+  length: short
+  summary: >-
+    A recipe for classic Dutch stamppot boerenkool met worst, combining mashed potatoes with curly
+    kale and smoked sausage (rookworst). The recipe includes ingredients, step-by-step instructions,
+    and a seasonal note that stamppot is traditionally eaten from October to March in the Netherlands.
+    Brands Unox and Hema are cited as traditional rookworst producers.
+  tags:
+    - recipe
+    - dutch-cuisine
+    - stamppot
+    - boerenkool
+    - winter
+    - comfort-food
+    - netherlands
+  entities:
+    - {entity: Liesbeth Verhoeven, type: PER}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Unox, type: ORG}
+    - {entity: Hema, type: ORG}
+    - {entity: Albert Heijn, type: ORG}
+    - {entity: Jumbo, type: ORG}
+    - {entity: October to March, type: DATE}
+    - {entity: Bildtstar, type: PROD}
+    - {entity: Eigenheimer, type: PROD}
+
+- file: short_sports_news_ajax_champions_league_en.md
+  lang: en
+  length: short
+  summary: >-
+    Ajax defeated Bayern Munich 2-1 at the Johan Cruyff Arena in Amsterdam on April 8, 2025,
+    in the first leg of the UEFA Champions League quarter-final. Goals from Brian Brobbey and
+    Devyne Rensch secured the win, with Harry Kane scoring a late consolation for Bayern.
+    The second leg is scheduled for April 15 at the Allianz Arena in Munich.
+  tags:
+    - ajax
+    - champions-league
+    - uefa
+    - football
+    - bayernmunich
+    - amsterdam
+    - sports
+  entities:
+    - {entity: Brian Brobbey, type: PER}
+    - {entity: Devyne Rensch, type: PER}
+    - {entity: Harry Kane, type: PER}
+    - {entity: Francesco Farioli, type: PER}
+    - {entity: Vincent Kompany, type: PER}
+    - {entity: Just Spee, type: PER}
+    - {entity: Ajax, type: ORG}
+    - {entity: Bayern Munich, type: ORG}
+    - {entity: UEFA, type: ORG}
+    - {entity: KNVB, type: ORG}
+    - {entity: Tottenham Hotspur, type: ORG}
+    - {entity: Johan Cruyff Arena, type: LOC}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Allianz Arena, type: LOC}
+    - {entity: Munich, type: LOC}
+    - {entity: April 8, 2025, type: DATE}
+    - {entity: April 15, type: DATE}
+    - {entity: "2019", type: DATE}
+    - {entity: Champions League, type: MISC}
+
+- file: short_sport_nieuws_ajax_champions_league_nl.md
+  lang: nl
+  length: short
+  summary: >-
+    Ajax defeated Bayern Munich 2-1 at the Johan Cruyff Arena in Amsterdam on April 8, 2025,
+    in the first leg of the UEFA Champions League quarter-final. Goals from Brian Brobbey and
+    Devyne Rensch secured the win, with Harry Kane scoring a late consolation for Bayern.
+    The second leg is scheduled for April 15 at the Allianz Arena in Munich.
+  tags:
+    - ajax
+    - champions-league
+    - uefa
+    - football
+    - bayernmunich
+    - amsterdam
+    - sports
+  entities:
+    - {entity: Brian Brobbey, type: PER}
+    - {entity: Devyne Rensch, type: PER}
+    - {entity: Harry Kane, type: PER}
+    - {entity: Francesco Farioli, type: PER}
+    - {entity: Vincent Kompany, type: PER}
+    - {entity: Just Spee, type: PER}
+    - {entity: Ajax, type: ORG}
+    - {entity: Bayern Munich, type: ORG}
+    - {entity: UEFA, type: ORG}
+    - {entity: KNVB, type: ORG}
+    - {entity: Tottenham Hotspur, type: ORG}
+    - {entity: Johan Cruyff Arena, type: LOC}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Allianz Arena, type: LOC}
+    - {entity: Munich, type: LOC}
+    - {entity: April 8, 2025, type: DATE}
+    - {entity: April 15, type: DATE}
+    - {entity: "2019", type: DATE}
+    - {entity: Champions League, type: MISC}
+
+- file: short_review_samsung_galaxy_s25_ultra_en.md
+  lang: en
+  length: short
+  summary: >-
+    A product review of the Samsung Galaxy S25 Ultra, which features a Snapdragon 8 Elite chip,
+    200 MP camera, and costs €1,349. The reviewer benchmarks it against the Apple iPhone 16 Pro Max
+    and Google Pixel 9 Pro, awarding it a 9/10 score. Samsung Galaxy AI features powered by
+    Google Gemini are praised as genuinely useful.
+  tags:
+    - samsung
+    - galaxy-s25-ultra
+    - android
+    - smartphone
+    - review
+    - snapdragon
+    - camera
+  entities:
+    - {entity: Joris Hendriksen, type: PER}
+    - {entity: Samsung, type: ORG}
+    - {entity: Qualcomm, type: ORG}
+    - {entity: TSMC, type: ORG}
+    - {entity: Apple, type: ORG}
+    - {entity: Google, type: ORG}
+    - {entity: Galaxy S25 Ultra, type: PROD}
+    - {entity: Snapdragon 8 Elite, type: PROD}
+    - {entity: Snapdragon 8 Gen 3, type: PROD}
+    - {entity: iPhone 16 Pro Max, type: PROD}
+    - {entity: Pixel 9 Pro, type: PROD}
+    - {entity: ISOCELL HP9, type: PROD}
+    - {entity: ProVisual Engine, type: PROD}
+    - {entity: Google Gemini, type: PROD}
+    - {entity: Geekbench 6, type: MISC}
+
+- file: short_recensie_samsung_galaxy_s25_ultra_nl.md
+  lang: nl
+  length: short
+  summary: >-
+    A product review of the Samsung Galaxy S25 Ultra, which features a Snapdragon 8 Elite chip,
+    200 MP camera, and costs €1,349. The reviewer benchmarks it against the Apple iPhone 16 Pro Max
+    and Google Pixel 9 Pro, awarding it a 9/10 score. Samsung Galaxy AI features powered by
+    Google Gemini are praised as genuinely useful.
+  tags:
+    - samsung
+    - galaxy-s25-ultra
+    - android
+    - smartphone
+    - review
+    - snapdragon
+    - camera
+  entities:
+    - {entity: Joris Hendriksen, type: PER}
+    - {entity: Samsung, type: ORG}
+    - {entity: Qualcomm, type: ORG}
+    - {entity: TSMC, type: ORG}
+    - {entity: Apple, type: ORG}
+    - {entity: Google, type: ORG}
+    - {entity: Galaxy S25 Ultra, type: PROD}
+    - {entity: Snapdragon 8 Elite, type: PROD}
+    - {entity: Snapdragon 8 Gen 3, type: PROD}
+    - {entity: iPhone 16 Pro Max, type: PROD}
+    - {entity: Pixel 9 Pro, type: PROD}
+    - {entity: ISOCELL HP9, type: PROD}
+    - {entity: ProVisual Engine, type: PROD}
+    - {entity: Google Gemini, type: PROD}
+    - {entity: Geekbench 6, type: MISC}
+
+- file: medium_climate_blog_paris_agreement_en.md
+  lang: en
+  length: medium
+  summary: >-
+    Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions
+    have reached record levels and temperatures are at 1.45°C above pre-industrial baseline.
+    While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India
+    (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is
+    cited as a critical test of international resolve.
+  tags:
+    - climate-change
+    - paris-agreement
+    - ipcc
+    - emissions
+    - policy
+    - cop30
+    - fossil-fuels
+    - net-zero
+  entities:
+    - {entity: Elena Fischer, type: PER}
+    - {entity: Friederike Otto, type: PER}
+    - {entity: Pierre Friedlingstein, type: PER}
+    - {entity: Ursula von der Leyen, type: PER}
+    - {entity: "Luiz Inácio Lula da Silva", type: PER}
+    - {entity: Greta Thunberg, type: PER}
+    - {entity: "António Guterres", type: PER}
+    - {entity: Katharine Hayhoe, type: PER}
+    - {entity: Wael Sawan, type: PER}
+    - {entity: Le Bourget, type: LOC}
+    - {entity: France, type: LOC}
+    - {entity: Brazil, type: LOC}
+    - {entity: Amazon Basin, type: LOC}
+    - {entity: "São José dos Campos", type: LOC}
+    - {entity: "Belém", type: LOC}
+    - {entity: IPCC, type: ORG}
+    - {entity: Grantham Institute, type: ORG}
+    - {entity: Imperial College London, type: ORG}
+    - {entity: Global Carbon Project, type: ORG}
+    - {entity: University of Exeter, type: ORG}
+    - {entity: International Energy Agency, type: ORG}
+    - {entity: European Union, type: ORG}
+    - {entity: INPE, type: ORG}
+    - {entity: Youth Climate Coalition, type: ORG}
+    - {entity: Climate Council, type: ORG}
+    - {entity: InfluenceMap, type: ORG}
+    - {entity: Shell, type: ORG}
+    - {entity: BP, type: ORG}
+    - {entity: ExxonMobil, type: ORG}
+    - {entity: Saudi Aramco, type: ORG}
+    - {entity: The Nature Conservancy, type: ORG}
+    - {entity: Texas Tech University, type: ORG}
+    - {entity: "Ørsted", type: ORG}
+    - {entity: Iberdrola, type: ORG}
+    - {entity: BloombergNEF, type: ORG}
+    - {entity: "December 12, 2015", type: DATE}
+    - {entity: "2024", type: DATE}
+    - {entity: November 2025, type: DATE}
+    - {entity: COP30, type: MISC}
+    - {entity: Paris Agreement, type: MISC}
+    - {entity: European Green Deal, type: MISC}
+
+- file: medium_klimaat_blog_parijs_akkoord_nl.md
+  lang: nl
+  length: medium
+  summary: >-
+    Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions
+    have reached record levels and temperatures are at 1.45°C above pre-industrial baseline.
+    While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India
+    (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is
+    cited as a critical test of international resolve.
+  tags:
+    - climate-change
+    - paris-agreement
+    - ipcc
+    - emissions
+    - policy
+    - cop30
+    - fossil-fuels
+    - net-zero
+  entities:
+    - {entity: Elena Fischer, type: PER}
+    - {entity: Friederike Otto, type: PER}
+    - {entity: Pierre Friedlingstein, type: PER}
+    - {entity: Ursula von der Leyen, type: PER}
+    - {entity: "Luiz Inácio Lula da Silva", type: PER}
+    - {entity: Greta Thunberg, type: PER}
+    - {entity: "António Guterres", type: PER}
+    - {entity: Katharine Hayhoe, type: PER}
+    - {entity: Wael Sawan, type: PER}
+    - {entity: Le Bourget, type: LOC}
+    - {entity: France, type: LOC}
+    - {entity: Brazil, type: LOC}
+    - {entity: Amazon Basin, type: LOC}
+    - {entity: "São José dos Campos", type: LOC}
+    - {entity: "Belém", type: LOC}
+    - {entity: IPCC, type: ORG}
+    - {entity: Grantham Institute, type: ORG}
+    - {entity: Imperial College London, type: ORG}
+    - {entity: Global Carbon Project, type: ORG}
+    - {entity: University of Exeter, type: ORG}
+    - {entity: International Energy Agency, type: ORG}
+    - {entity: European Union, type: ORG}
+    - {entity: INPE, type: ORG}
+    - {entity: Youth Climate Coalition, type: ORG}
+    - {entity: Climate Council, type: ORG}
+    - {entity: InfluenceMap, type: ORG}
+    - {entity: Shell, type: ORG}
+    - {entity: BP, type: ORG}
+    - {entity: ExxonMobil, type: ORG}
+    - {entity: Saudi Aramco, type: ORG}
+    - {entity: The Nature Conservancy, type: ORG}
+    - {entity: Texas Tech University, type: ORG}
+    - {entity: "Ørsted", type: ORG}
+    - {entity: Iberdrola, type: ORG}
+    - {entity: BloombergNEF, type: ORG}
+    - {entity: "December 12, 2015", type: DATE}
+    - {entity: "2024", type: DATE}
+    - {entity: November 2025, type: DATE}
+    - {entity: COP30, type: MISC}
+    - {entity: Paris Agreement, type: MISC}
+    - {entity: European Green Deal, type: MISC}
+
+- file: medium_history_dutch_golden_age_en.md
+  lang: en
+  length: medium
+  summary: >-
+    An encyclopaedic overview of the Dutch Golden Age (1588-1702), covering the founding of the VOC
+    in Amsterdam in 1602 and its role in global trade from Batavia to New Amsterdam. The article
+    covers major artists Rembrandt van Rijn and Johannes Vermeer, scientists Christiaan Huygens and
+    Antonie van Leeuwenhoek, and philosopher Baruch Spinoza. The Dutch government's 2022 apology
+    for the WIC's role in the transatlantic slave trade is noted.
+  tags:
+    - dutch-history
+    - golden-age
+    - voc
+    - rembrandt
+    - amsterdam
+    - 17th-century
+    - trade
+    - colonialism
+  entities:
+    - {entity: Hanneke Oosterhout, type: PER}
+    - {entity: Jan Pieterszoon Coen, type: PER}
+    - {entity: Rembrandt van Rijn, type: PER}
+    - {entity: Johannes Vermeer, type: PER}
+    - {entity: Christiaan Huygens, type: PER}
+    - {entity: Antonie van Leeuwenhoek, type: PER}
+    - {entity: Baruch Spinoza, type: PER}
+    - {entity: Nicolaes Tulp, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Leiden, type: LOC}
+    - {entity: Delft, type: LOC}
+    - {entity: The Hague, type: LOC}
+    - {entity: Batavia, type: LOC}
+    - {entity: New Amsterdam, type: LOC}
+    - {entity: West Africa, type: LOC}
+    - {entity: Brazil, type: LOC}
+    - {entity: Maluku Islands, type: LOC}
+    - {entity: Republic of the Seven United Netherlands, type: ORG}
+    - {entity: VOC (Vereenigde Oost-Indische Compagnie), type: ORG}
+    - {entity: WIC (Westindische Compagnie), type: ORG}
+    - {entity: Amsterdam Stock Exchange, type: ORG}
+    - {entity: UNESCO, type: ORG}
+    - {entity: "March 20, 1602", type: DATE}
+    - {entity: "1619", type: DATE}
+    - {entity: "1621", type: DATE}
+    - {entity: "1642", type: DATE}
+    - {entity: "1656", type: DATE}
+    - {entity: "1674", type: DATE}
+    - {entity: December 2022, type: DATE}
+    - {entity: The Night Watch, type: MISC}
+    - {entity: The Anatomy Lesson of Dr. Nicolaes Tulp, type: MISC}
+    - {entity: Girl with a Pearl Earring, type: MISC}
+    - {entity: Ethics, type: MISC}
+    - {entity: Franco-Dutch War, type: MISC}
+    - {entity: Glorious Revolution, type: MISC}
+    - {entity: Grachtengordel, type: MISC}
+
+- file: medium_geschiedenis_gouden_eeuw_nl.md
+  lang: nl
+  length: medium
+  summary: >-
+    An encyclopaedic overview of the Dutch Golden Age (1588-1702), covering the founding of the VOC
+    in Amsterdam in 1602 and its role in global trade from Batavia to New Amsterdam. The article
+    covers major artists Rembrandt van Rijn and Johannes Vermeer, scientists Christiaan Huygens and
+    Antonie van Leeuwenhoek, and philosopher Baruch Spinoza. The Dutch government's 2022 apology
+    for the WIC's role in the transatlantic slave trade is noted.
+  tags:
+    - dutch-history
+    - golden-age
+    - voc
+    - rembrandt
+    - amsterdam
+    - 17th-century
+    - trade
+    - colonialism
+  entities:
+    - {entity: Hanneke Oosterhout, type: PER}
+    - {entity: Jan Pieterszoon Coen, type: PER}
+    - {entity: Rembrandt van Rijn, type: PER}
+    - {entity: Johannes Vermeer, type: PER}
+    - {entity: Christiaan Huygens, type: PER}
+    - {entity: Antonie van Leeuwenhoek, type: PER}
+    - {entity: Baruch Spinoza, type: PER}
+    - {entity: Nicolaes Tulp, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Leiden, type: LOC}
+    - {entity: Delft, type: LOC}
+    - {entity: The Hague, type: LOC}
+    - {entity: Batavia, type: LOC}
+    - {entity: New Amsterdam, type: LOC}
+    - {entity: West Africa, type: LOC}
+    - {entity: Brazil, type: LOC}
+    - {entity: Maluku Islands, type: LOC}
+    - {entity: Republic of the Seven United Netherlands, type: ORG}
+    - {entity: VOC (Vereenigde Oost-Indische Compagnie), type: ORG}
+    - {entity: WIC (Westindische Compagnie), type: ORG}
+    - {entity: Amsterdam Stock Exchange, type: ORG}
+    - {entity: UNESCO, type: ORG}
+    - {entity: "March 20, 1602", type: DATE}
+    - {entity: "1619", type: DATE}
+    - {entity: "1621", type: DATE}
+    - {entity: "1642", type: DATE}
+    - {entity: "1656", type: DATE}
+    - {entity: "1674", type: DATE}
+    - {entity: December 2022, type: DATE}
+    - {entity: The Night Watch, type: MISC}
+    - {entity: The Anatomy Lesson of Dr. Nicolaes Tulp, type: MISC}
+    - {entity: Girl with a Pearl Earring, type: MISC}
+    - {entity: Ethics, type: MISC}
+    - {entity: Franco-Dutch War, type: MISC}
+    - {entity: Glorious Revolution, type: MISC}
+    - {entity: Grachtengordel, type: MISC}
+
+- file: medium_travel_guide_amsterdam_en.md
+  lang: en
+  length: medium
+  summary: >-
+    A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams,
+    cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods
+    (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The
+    guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3
+    tourist tax and Airbnb restrictions.
+  tags:
+    - amsterdam
+    - travel
+    - netherlands
+    - museums
+    - food
+    - cycling
+    - tourism
+    - jordaan
+    - canal
+  entities:
+    - {entity: Clara van Houten, type: PER}
+    - {entity: Femke Halsema, type: PER}
+    - {entity: Vincent van Gogh, type: PER}
+    - {entity: Anne Frank, type: PER}
+    - {entity: Rembrandt, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Jordaan, type: LOC}
+    - {entity: Amsterdam-Noord, type: LOC}
+    - {entity: NDSM Wharf, type: LOC}
+    - {entity: De Wallen, type: LOC}
+    - {entity: Museumplein, type: LOC}
+    - {entity: Museumstraat, type: LOC}
+    - {entity: Westermarkt, type: LOC}
+    - {entity: Amstel River, type: LOC}
+    - {entity: Amstelveenseweg, type: LOC}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Paris, type: LOC}
+    - {entity: London, type: LOC}
+    - {entity: Royal Schiphol Group, type: ORG}
+    - {entity: GVB, type: ORG}
+    - {entity: MacBike, type: ORG}
+    - {entity: Black Bikes, type: ORG}
+    - {entity: Rijksmuseum, type: ORG}
+    - {entity: Van Gogh Museum, type: ORG}
+    - {entity: Anne Frank House, type: ORG}
+    - {entity: "Café de Jaren", type: ORG}
+    - {entity: Restaurant Blauw, type: ORG}
+    - {entity: "2025", type: DATE}
+    - {entity: "2023", type: DATE}
+    - {entity: "1942–1944", type: DATE}
+    - {entity: OV-chipkaart, type: MISC}
+    - {entity: Intercity Direct, type: MISC}
+    - {entity: De Negen Straatjes, type: MISC}
+
+- file: medium_reisgids_amsterdam_nl.md
+  lang: nl
+  length: medium
+  summary: >-
+    A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams,
+    cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods
+    (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The
+    guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3
+    tourist tax and Airbnb restrictions.
+  tags:
+    - amsterdam
+    - travel
+    - netherlands
+    - museums
+    - food
+    - cycling
+    - tourism
+    - jordaan
+    - canal
+  entities:
+    - {entity: Clara van Houten, type: PER}
+    - {entity: Femke Halsema, type: PER}
+    - {entity: Vincent van Gogh, type: PER}
+    - {entity: Anne Frank, type: PER}
+    - {entity: Rembrandt, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Jordaan, type: LOC}
+    - {entity: Amsterdam-Noord, type: LOC}
+    - {entity: NDSM Wharf, type: LOC}
+    - {entity: De Wallen, type: LOC}
+    - {entity: Museumplein, type: LOC}
+    - {entity: Museumstraat, type: LOC}
+    - {entity: Westermarkt, type: LOC}
+    - {entity: Amstel River, type: LOC}
+    - {entity: Amstelveenseweg, type: LOC}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Paris, type: LOC}
+    - {entity: London, type: LOC}
+    - {entity: Royal Schiphol Group, type: ORG}
+    - {entity: GVB, type: ORG}
+    - {entity: MacBike, type: ORG}
+    - {entity: Black Bikes, type: ORG}
+    - {entity: Rijksmuseum, type: ORG}
+    - {entity: Van Gogh Museum, type: ORG}
+    - {entity: Anne Frank House, type: ORG}
+    - {entity: "Café de Jaren", type: ORG}
+    - {entity: Restaurant Blauw, type: ORG}
+    - {entity: "2025", type: DATE}
+    - {entity: "2023", type: DATE}
+    - {entity: "1942–1944", type: DATE}
+    - {entity: OV-chipkaart, type: MISC}
+    - {entity: Intercity Direct, type: MISC}
+    - {entity: De Negen Straatjes, type: MISC}
+
+- file: long_ai_healthcare_oncology_research_en.md
+  lang: en
+  length: long
+  summary: >-
+    A clinical trial at Amsterdam UMC involving 2,847 patients found that AI-assisted pathology
+    (PathAI Colorectal Classifier v3.1) improved early-stage colorectal cancer diagnostic accuracy
+    from 91.7% to 96.3% and reduced reporting time by 38.7%. The trial, led by Dr. Jan de Vries
+    and Prof. Maria Santos, was published in The Lancet Digital Health and received CE marking
+    under EU MDR. Philips Healthcare and PathAI announced a commercial partnership to roll out
+    the technology to 35 Dutch hospitals by Q1 2026.
+  tags:
+    - ai
+    - oncology
+    - cancer-diagnosis
+    - amsterdam-umc
+    - deep-learning
+    - pathology
+    - clinical-trial
+    - healthcare
+    - machine-learning
+  entities:
+    - {entity: Jan de Vries, type: PER}
+    - {entity: Maria Santos, type: PER}
+    - {entity: Kwame Asante, type: PER}
+    - {entity: Eric Lim, type: PER}
+    - {entity: Mariana Costa, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Nijmegen, type: LOC}
+    - {entity: Rotterdam, type: LOC}
+    - {entity: Groningen, type: LOC}
+    - {entity: Maastricht, type: LOC}
+    - {entity: Utrecht, type: LOC}
+    - {entity: Boston, type: LOC}
+    - {entity: London, type: LOC}
+    - {entity: Amsterdam UMC, type: ORG}
+    - {entity: Academic Medical Center (AMC), type: ORG}
+    - {entity: VU University Medical Center (VUmc), type: ORG}
+    - {entity: Cancer Center Amsterdam, type: ORG}
+    - {entity: Radboud University Medical Center, type: ORG}
+    - {entity: Erasmus MC, type: ORG}
+    - {entity: UMCG, type: ORG}
+    - {entity: "Maastricht UMC+", type: ORG}
+    - {entity: KNAW, type: ORG}
+    - {entity: Dutch Cancer Registry (IKNL), type: ORG}
+    - {entity: Dutch Association of Pathology (NVVP), type: ORG}
+    - {entity: PathAI Inc., type: ORG}
+    - {entity: Google Health, type: ORG}
+    - {entity: Delft University of Technology, type: ORG}
+    - {entity: ZonMW, type: ORG}
+    - {entity: Autoriteit Persoonsgegevens, type: ORG}
+    - {entity: SURFsara, type: ORG}
+    - {entity: SURF, type: ORG}
+    - {entity: Royal Brompton Hospital, type: ORG}
+    - {entity: European Society for Medical Oncology (ESMO), type: ORG}
+    - {entity: KWF Kankerbestrijding, type: ORG}
+    - {entity: European Research Council (ERC), type: ORG}
+    - {entity: Philips Healthcare, type: ORG}
+    - {entity: The Lancet Digital Health, type: MISC}
+    - {entity: January 2023, type: DATE}
+    - {entity: December 2024, type: DATE}
+    - {entity: "June 3, 2025", type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: Q1 2026, type: DATE}
+    - {entity: "2027", type: DATE}
+    - {entity: PathAI Colorectal Classifier v3.1, type: PROD}
+    - {entity: IntelliSite Pathology Solution, type: PROD}
+    - {entity: Horizon Europe, type: MISC}
+    - {entity: EU Medical Device Regulation (MDR 2017/745), type: MISC}
+    - {entity: Declaration of Helsinki, type: MISC}
+
+- file: long_ai_gezondheidszorg_oncologie_onderzoek_nl.md
+  lang: nl
+  length: long
+  summary: >-
+    A clinical trial at Amsterdam UMC involving 2,847 patients found that AI-assisted pathology
+    (PathAI Colorectal Classifier v3.1) improved early-stage colorectal cancer diagnostic accuracy
+    from 91.7% to 96.3% and reduced reporting time by 38.7%. The trial, led by Dr. Jan de Vries
+    and Prof. Maria Santos, was published in The Lancet Digital Health and received CE marking
+    under EU MDR. Philips Healthcare and PathAI announced a commercial partnership to roll out
+    the technology to 35 Dutch hospitals by Q1 2026.
+  tags:
+    - ai
+    - oncology
+    - cancer-diagnosis
+    - amsterdam-umc
+    - deep-learning
+    - pathology
+    - clinical-trial
+    - healthcare
+    - machine-learning
+  entities:
+    - {entity: Jan de Vries, type: PER}
+    - {entity: Maria Santos, type: PER}
+    - {entity: Kwame Asante, type: PER}
+    - {entity: Eric Lim, type: PER}
+    - {entity: Mariana Costa, type: PER}
+    - {entity: Amsterdam, type: LOC}
+    - {entity: Nijmegen, type: LOC}
+    - {entity: Rotterdam, type: LOC}
+    - {entity: Groningen, type: LOC}
+    - {entity: Maastricht, type: LOC}
+    - {entity: Utrecht, type: LOC}
+    - {entity: Boston, type: LOC}
+    - {entity: London, type: LOC}
+    - {entity: Amsterdam UMC, type: ORG}
+    - {entity: Academic Medical Center (AMC), type: ORG}
+    - {entity: VU University Medical Center (VUmc), type: ORG}
+    - {entity: Cancer Center Amsterdam, type: ORG}
+    - {entity: Radboud University Medical Center, type: ORG}
+    - {entity: Erasmus MC, type: ORG}
+    - {entity: UMCG, type: ORG}
+    - {entity: "Maastricht UMC+", type: ORG}
+    - {entity: KNAW, type: ORG}
+    - {entity: Dutch Cancer Registry (IKNL), type: ORG}
+    - {entity: Dutch Association of Pathology (NVVP), type: ORG}
+    - {entity: PathAI Inc., type: ORG}
+    - {entity: Google Health, type: ORG}
+    - {entity: Delft University of Technology, type: ORG}
+    - {entity: ZonMW, type: ORG}
+    - {entity: Autoriteit Persoonsgegevens, type: ORG}
+    - {entity: SURFsara, type: ORG}
+    - {entity: SURF, type: ORG}
+    - {entity: Royal Brompton Hospital, type: ORG}
+    - {entity: European Society for Medical Oncology (ESMO), type: ORG}
+    - {entity: KWF Kankerbestrijding, type: ORG}
+    - {entity: European Research Council (ERC), type: ORG}
+    - {entity: Philips Healthcare, type: ORG}
+    - {entity: The Lancet Digital Health, type: MISC}
+    - {entity: January 2023, type: DATE}
+    - {entity: December 2024, type: DATE}
+    - {entity: "June 3, 2025", type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: Q1 2026, type: DATE}
+    - {entity: "2027", type: DATE}
+    - {entity: PathAI Colorectal Classifier v3.1, type: PROD}
+    - {entity: IntelliSite Pathology Solution, type: PROD}
+    - {entity: Horizon Europe, type: MISC}
+    - {entity: EU Medical Device Regulation (MDR 2017/745), type: MISC}
+    - {entity: Declaration of Helsinki, type: MISC}
+
+- file: long_interview_climate_scientist_sea_level_en.md
+  lang: en
+  length: long
+  summary: >-
+    An interview with Dr. Maria van den Berg, professor of coastal hydrology at TU Delft and senior
+    fellow at Deltares, about sea level rise risks to the Netherlands. She warns that current Dutch
+    flood defence standards are based on outdated projections and advocates for adaptive pathway
+    planning, citing Rotterdam as a world leader in adaptation. She criticises the Schoof cabinet's
+    €14 million cut to KNMI's budget as a false economy that undermines the science needed to design
+    flood defences.
+  tags:
+    - climate-science
+    - sea-level-rise
+    - netherlands
+    - delta-works
+    - rotterdam
+    - interview
+    - knmi
+    - deltares
+    - flooding
+  entities:
+    - {entity: Maria van den Berg, type: PER}
+    - {entity: Tobias Schout, type: PER}
+    - {entity: Peter Glas, type: PER}
+    - {entity: Mona Keijzer, type: PER}
+    - {entity: Delft, type: LOC}
+    - {entity: Rotterdam, type: LOC}
+    - {entity: Zeeland, type: LOC}
+    - {entity: Benthemplein, type: LOC}
+    - {entity: Rijnhaven, type: LOC}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Greenland, type: LOC}
+    - {entity: Antarctica, type: LOC}
+    - {entity: West Antarctica, type: LOC}
+    - {entity: Sharm el-Sheikh, type: LOC}
+    - {entity: Delft University of Technology (TU Delft), type: ORG}
+    - {entity: Deltares, type: ORG}
+    - {entity: NWO, type: ORG}
+    - {entity: IPCC, type: ORG}
+    - {entity: KNMI, type: ORG}
+    - {entity: ECMWF, type: ORG}
+    - {entity: NOAA, type: ORG}
+    - {entity: Municipality of Rotterdam, type: ORG}
+    - {entity: Port of Rotterdam Authority, type: ORG}
+    - {entity: Ministry of Infrastructure and Water Management, type: ORG}
+    - {entity: De Urbanisten, type: ORG}
+    - {entity: WUR, type: ORG}
+    - {entity: Utrecht University, type: ORG}
+    - {entity: VU Amsterdam, type: ORG}
+    - {entity: NRC, type: ORG}
+    - {entity: "1997", type: DATE}
+    - {entity: "2017", type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: "1953", type: DATE}
+    - {entity: "1854", type: DATE}
+    - {entity: Oosterscheldekering, type: MISC}
+    - {entity: Maeslantkering, type: MISC}
+    - {entity: Haringvlietdam, type: MISC}
+    - {entity: Delta Works, type: MISC}
+    - {entity: Dutch Water Act, type: MISC}
+    - {entity: Haarlemmermeer, type: MISC}
+    - {entity: Zuiderzeewerken, type: MISC}
+    - {entity: Water Square, type: MISC}
+    - {entity: RISES-AM, type: MISC}
+    - {entity: SSP5-8.5, type: MISC}
+    - {entity: COP27, type: MISC}
+
+- file: long_interview_klimaatwetenschapper_zeespiegel_nl.md
+  lang: nl
+  length: long
+  summary: >-
+    An interview with Dr. Maria van den Berg, professor of coastal hydrology at TU Delft and senior
+    fellow at Deltares, about sea level rise risks to the Netherlands. She warns that current Dutch
+    flood defence standards are based on outdated projections and advocates for adaptive pathway
+    planning, citing Rotterdam as a world leader in adaptation. She criticises the Schoof cabinet's
+    €14 million cut to KNMI's budget as a false economy that undermines the science needed to design
+    flood defences.
+  tags:
+    - climate-science
+    - sea-level-rise
+    - netherlands
+    - delta-works
+    - rotterdam
+    - interview
+    - knmi
+    - deltares
+    - flooding
+  entities:
+    - {entity: Maria van den Berg, type: PER}
+    - {entity: Tobias Schout, type: PER}
+    - {entity: Peter Glas, type: PER}
+    - {entity: Mona Keijzer, type: PER}
+    - {entity: Delft, type: LOC}
+    - {entity: Rotterdam, type: LOC}
+    - {entity: Zeeland, type: LOC}
+    - {entity: Benthemplein, type: LOC}
+    - {entity: Rijnhaven, type: LOC}
+    - {entity: Netherlands, type: LOC}
+    - {entity: Greenland, type: LOC}
+    - {entity: Antarctica, type: LOC}
+    - {entity: West Antarctica, type: LOC}
+    - {entity: Sharm el-Sheikh, type: LOC}
+    - {entity: Delft University of Technology (TU Delft), type: ORG}
+    - {entity: Deltares, type: ORG}
+    - {entity: NWO, type: ORG}
+    - {entity: IPCC, type: ORG}
+    - {entity: KNMI, type: ORG}
+    - {entity: ECMWF, type: ORG}
+    - {entity: NOAA, type: ORG}
+    - {entity: Municipality of Rotterdam, type: ORG}
+    - {entity: Port of Rotterdam Authority, type: ORG}
+    - {entity: Ministry of Infrastructure and Water Management, type: ORG}
+    - {entity: De Urbanisten, type: ORG}
+    - {entity: WUR, type: ORG}
+    - {entity: Utrecht University, type: ORG}
+    - {entity: VU Amsterdam, type: ORG}
+    - {entity: NRC, type: ORG}
+    - {entity: "1997", type: DATE}
+    - {entity: "2017", type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: "1953", type: DATE}
+    - {entity: "1854", type: DATE}
+    - {entity: Oosterscheldekering, type: MISC}
+    - {entity: Maeslantkering, type: MISC}
+    - {entity: Haringvlietdam, type: MISC}
+    - {entity: Delta Works, type: MISC}
+    - {entity: Dutch Water Act, type: MISC}
+    - {entity: Haarlemmermeer, type: MISC}
+    - {entity: Zuiderzeewerken, type: MISC}
+    - {entity: Water Square, type: MISC}
+    - {entity: RISES-AM, type: MISC}
+    - {entity: SSP5-8.5, type: MISC}
+    - {entity: COP27, type: MISC}
+
+- file: long_opinion_eu_ai_act_digital_policy_en.md
+  lang: en
+  length: long
+  summary: >-
+    An opinion piece arguing that while the EU AI Act is a genuine regulatory achievement, its
+    implementation is undermined by slow member-state enforcement, lobbying-induced dilution, and
+    structural timing lags behind fast-moving AI development. The author compares the Act's likely
+    trajectory to the GDPR's slow enforcement and argues that effective AI governance also requires
+    European sovereign compute, a transatlantic agreement, civil society funding, and clarity on
+    what fundamental rights the regulation is meant to protect.
+  tags:
+    - eu-ai-act
+    - digital-policy
+    - european-union
+    - regulation
+    - chatgpt
+    - facial-recognition
+    - gdpr
+    - fundamental-rights
+    - big-tech
+  entities:
+    - {entity: Thomas Weber, type: PER}
+    - {entity: Ursula von der Leyen, type: PER}
+    - {entity: Margrethe Vestager, type: PER}
+    - {entity: Max Schrems, type: PER}
+    - {entity: Matt Clifford, type: PER}
+    - {entity: Yoshua Bengio, type: PER}
+    - {entity: European Union, type: LOC}
+    - {entity: Brussels, type: LOC}
+    - {entity: Dublin, type: LOC}
+    - {entity: Berlin, type: LOC}
+    - {entity: European Parliament, type: ORG}
+    - {entity: European Commission, type: ORG}
+    - {entity: European AI Office, type: ORG}
+    - {entity: DG CONNECT, type: ORG}
+    - {entity: Internal Market and Consumer Protection Committee (IMCO), type: ORG}
+    - {entity: Irish Data Protection Commission (DPC), type: ORG}
+    - {entity: Meta, type: ORG}
+    - {entity: Microsoft, type: ORG}
+    - {entity: Palantir, type: ORG}
+    - {entity: IBM, type: ORG}
+    - {entity: Apple, type: ORG}
+    - {entity: Google, type: ORG}
+    - {entity: OpenAI, type: ORG}
+    - {entity: AlgorithmWatch, type: ORG}
+    - {entity: Bits of Freedom, type: ORG}
+    - {entity: "Gesellschaft für Freiheitsrechte", type: ORG}
+    - {entity: Access Now, type: ORG}
+    - {entity: "noyb (None of Your Business)", type: ORG}
+    - {entity: UK AI Safety Institute, type: ORG}
+    - {entity: The Guardian, type: ORG}
+    - {entity: EuroHPC, type: ORG}
+    - {entity: "March 13, 2024", type: DATE}
+    - {entity: April 2021, type: DATE}
+    - {entity: August 2025, type: DATE}
+    - {entity: May 2018, type: DATE}
+    - {entity: January 2023, type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: October 2023, type: DATE}
+    - {entity: GPT-4, type: PROD}
+    - {entity: GPT-5, type: PROD}
+    - {entity: Gemini, type: PROD}
+    - {entity: Llama, type: PROD}
+    - {entity: Claude, type: PROD}
+    - {entity: EU AI Act, type: MISC}
+    - {entity: GDPR, type: MISC}
+    - {entity: CPRA, type: MISC}
+    - {entity: EU Charter of Fundamental Rights, type: MISC}
+
+- file: long_opinie_eu_ai_act_digitaal_beleid_nl.md
+  lang: nl
+  length: long
+  summary: >-
+    An opinion piece arguing that while the EU AI Act is a genuine regulatory achievement, its
+    implementation is undermined by slow member-state enforcement, lobbying-induced dilution, and
+    structural timing lags behind fast-moving AI development. The author compares the Act's likely
+    trajectory to the GDPR's slow enforcement and argues that effective AI governance also requires
+    European sovereign compute, a transatlantic agreement, civil society funding, and clarity on
+    what fundamental rights the regulation is meant to protect.
+  tags:
+    - eu-ai-act
+    - digital-policy
+    - european-union
+    - regulation
+    - chatgpt
+    - facial-recognition
+    - gdpr
+    - fundamental-rights
+    - big-tech
+  entities:
+    - {entity: Thomas Weber, type: PER}
+    - {entity: Ursula von der Leyen, type: PER}
+    - {entity: Margrethe Vestager, type: PER}
+    - {entity: Max Schrems, type: PER}
+    - {entity: Matt Clifford, type: PER}
+    - {entity: Yoshua Bengio, type: PER}
+    - {entity: European Union, type: LOC}
+    - {entity: Brussels, type: LOC}
+    - {entity: Dublin, type: LOC}
+    - {entity: Berlin, type: LOC}
+    - {entity: European Parliament, type: ORG}
+    - {entity: European Commission, type: ORG}
+    - {entity: European AI Office, type: ORG}
+    - {entity: DG CONNECT, type: ORG}
+    - {entity: Internal Market and Consumer Protection Committee (IMCO), type: ORG}
+    - {entity: Irish Data Protection Commission (DPC), type: ORG}
+    - {entity: Meta, type: ORG}
+    - {entity: Microsoft, type: ORG}
+    - {entity: Palantir, type: ORG}
+    - {entity: IBM, type: ORG}
+    - {entity: Apple, type: ORG}
+    - {entity: Google, type: ORG}
+    - {entity: OpenAI, type: ORG}
+    - {entity: AlgorithmWatch, type: ORG}
+    - {entity: Bits of Freedom, type: ORG}
+    - {entity: "Gesellschaft für Freiheitsrechte", type: ORG}
+    - {entity: Access Now, type: ORG}
+    - {entity: "noyb (None of Your Business)", type: ORG}
+    - {entity: UK AI Safety Institute, type: ORG}
+    - {entity: The Guardian, type: ORG}
+    - {entity: EuroHPC, type: ORG}
+    - {entity: "March 13, 2024", type: DATE}
+    - {entity: April 2021, type: DATE}
+    - {entity: August 2025, type: DATE}
+    - {entity: May 2018, type: DATE}
+    - {entity: January 2023, type: DATE}
+    - {entity: November 2024, type: DATE}
+    - {entity: October 2023, type: DATE}
+    - {entity: GPT-4, type: PROD}
+    - {entity: GPT-5, type: PROD}
+    - {entity: Gemini, type: PROD}
+    - {entity: Llama, type: PROD}
+    - {entity: Claude, type: PROD}
+    - {entity: EU AI Act, type: MISC}
+    - {entity: GDPR, type: MISC}
+    - {entity: CPRA, type: MISC}
+    - {entity: EU Charter of Fundamental Rights, type: MISC}
