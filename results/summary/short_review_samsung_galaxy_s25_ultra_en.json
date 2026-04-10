@@ -1,0 +1,9 @@
+{
+  "file": "short_review_samsung_galaxy_s25_ultra_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 3.422,
+  "ground_truth": "A product review of the Samsung Galaxy S25 Ultra, which features a Snapdragon 8 Elite chip, 200 MP camera, and costs €1,349. The reviewer benchmarks it against the Apple iPhone 16 Pro Max and Google Pixel 9 Pro, awarding it a 9/10 score. Samsung Galaxy AI features powered by Google Gemini are praised as genuinely useful.",
+  "summary": "Samsung's Galaxy S25 Ultra boasts a powerful Snapdragon 8 Elite chip and a 200 MP main camera. The phone delivers outstanding performance in daylight photography but lags slightly behind competitors in low-light conditions. With a large 5,000 mAh battery and useful AI features, the Galaxy S25 Ultra is an easy recommendation for those in the Samsung ecosystem.",
+  "error": null
+}

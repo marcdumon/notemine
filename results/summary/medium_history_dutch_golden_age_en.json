@@ -1,0 +1,9 @@
+{
+  "file": "medium_history_dutch_golden_age_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 5.296,
+  "ground_truth": "An encyclopaedic overview of the Dutch Golden Age (1588-1702), covering the founding of the VOC in Amsterdam in 1602 and its role in global trade from Batavia to New Amsterdam. The article covers major artists Rembrandt van Rijn and Johannes Vermeer, scientists Christiaan Huygens and Antonie van Leeuwenhoek, and philosopher Baruch Spinoza. The Dutch government's 2022 apology for the WIC's role in the transatlantic slave trade is noted.",
+  "summary": "The Dutch Golden Age was a period of extraordinary achievement from 1588 to 1702 in trade, science, and the arts. The VOC played a key role in establishing the Netherlands as a global commercial power, controlling the spice trade and generating profits that funded cultural and scientific flowering. Artists such as Rembrandt and Vermeer produced masterworks, while scientists like Huygens and van Leeuwenhoek made groundbreaking discoveries. The Golden Age declined after the Franco-Dutch War and the Glorious Revolution, but its legacy endures in Dutch institutions and global culture.",
+  "error": null
+}

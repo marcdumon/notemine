@@ -1,0 +1,79 @@
+{
+  "file": "short_recept_stamppot_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 2.766,
+  "ground_truth": [
+    [
+      "Liesbeth Verhoeven",
+      "PER"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Unox",
+      "ORG"
+    ],
+    [
+      "Hema",
+      "ORG"
+    ],
+    [
+      "Albert Heijn",
+      "ORG"
+    ],
+    [
+      "Jumbo",
+      "ORG"
+    ],
+    [
+      "October to March",
+      "DATE"
+    ],
+    [
+      "Bildtstar",
+      "PROD"
+    ],
+    [
+      "Eigenheimer",
+      "PROD"
+    ]
+  ],
+  "entities": [
+    [
+      "Unox",
+      "ORG"
+    ],
+    [
+      "Hema",
+      "ORG"
+    ],
+    [
+      "Bildtstar",
+      "PROD"
+    ],
+    [
+      "Eigenheimer",
+      "PROD"
+    ],
+    [
+      "Albert Heijn",
+      "ORG"
+    ],
+    [
+      "Jumbo",
+      "ORG"
+    ],
+    [
+      "OpenAI",
+      "ORG"
+    ],
+    [
+      "March",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

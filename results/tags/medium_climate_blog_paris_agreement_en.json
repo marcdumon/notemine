@@ -1,0 +1,24 @@
+{
+  "file": "medium_climate_blog_paris_agreement_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.787,
+  "ground_truth": [
+    "climate-change",
+    "cop30",
+    "emissions",
+    "fossil-fuels",
+    "ipcc",
+    "net-zero",
+    "paris-agreement",
+    "policy"
+  ],
+  "tags": [
+    "climate-change",
+    "paris-agreement",
+    "sustainability",
+    "renewable-energy",
+    "fossil-fuel-lobbying"
+  ],
+  "error": null
+}

@@ -1,0 +1,411 @@
+{
+  "file": "medium_climate_blog_paris_agreement_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 19.669,
+  "ground_truth": [
+    [
+      "Elena Fischer",
+      "PER"
+    ],
+    [
+      "Friederike Otto",
+      "PER"
+    ],
+    [
+      "Pierre Friedlingstein",
+      "PER"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "Greta Thunberg",
+      "PER"
+    ],
+    [
+      "António Guterres",
+      "PER"
+    ],
+    [
+      "Katharine Hayhoe",
+      "PER"
+    ],
+    [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "Le Bourget",
+      "LOC"
+    ],
+    [
+      "France",
+      "LOC"
+    ],
+    [
+      "Brazil",
+      "LOC"
+    ],
+    [
+      "Amazon Basin",
+      "LOC"
+    ],
+    [
+      "São José dos Campos",
+      "LOC"
+    ],
+    [
+      "Belém",
+      "LOC"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "Global Carbon Project",
+      "ORG"
+    ],
+    [
+      "University of Exeter",
+      "ORG"
+    ],
+    [
+      "International Energy Agency",
+      "ORG"
+    ],
+    [
+      "European Union",
+      "ORG"
+    ],
+    [
+      "INPE",
+      "ORG"
+    ],
+    [
+      "Youth Climate Coalition",
+      "ORG"
+    ],
+    [
+      "Climate Council",
+      "ORG"
+    ],
+    [
+      "InfluenceMap",
+      "ORG"
+    ],
+    [
+      "Shell",
+      "ORG"
+    ],
+    [
+      "BP",
+      "ORG"
+    ],
+    [
+      "ExxonMobil",
+      "ORG"
+    ],
+    [
+      "Saudi Aramco",
+      "ORG"
+    ],
+    [
+      "The Nature Conservancy",
+      "ORG"
+    ],
+    [
+      "Texas Tech University",
+      "ORG"
+    ],
+    [
+      "Ørsted",
+      "ORG"
+    ],
+    [
+      "Iberdrola",
+      "ORG"
+    ],
+    [
+      "BloombergNEF",
+      "ORG"
+    ],
+    [
+      "December 12, 2015",
+      "DATE"
+    ],
+    [
+      "2024",
+      "DATE"
+    ],
+    [
+      "November 2025",
+      "DATE"
+    ],
+    [
+      "COP30",
+      "MISC"
+    ],
+    [
+      "Paris Agreement",
+      "MISC"
+    ],
+    [
+      "European Green Deal",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Le Bourget",
+      "LOC"
+    ],
+    [
+      "Paris Agreement",
+      "PROD"
+    ],
+    [
+      "December 12",
+      "DATE"
+    ],
+    [
+      "France",
+      "LOC"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Sixth Assessment Report",
+      "MISC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "2024",
+      "DATE"
+    ],
+    [
+      "Dr. Friederike Otto",
+      "PER"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "Global Carbon Project",
+      "ORG"
+    ],
+    [
+      "Professor Pierre Friedlingstein",
+      "PER"
+    ],
+    [
+      "University of Exeter",
+      "ORG"
+    ],
+    [
+      "Germany",
+      "LOC"
+    ],
+    [
+      "China",
+      "LOC"
+    ],
+    [
+      "United States",
+      "LOC"
+    ],
+    [
+      "International Energy Agency",
+      "ORG"
+    ],
+    [
+      "Paris",
+      "LOC"
+    ],
+    [
+      "South and Southeast Asia",
+      "LOC"
+    ],
+    [
+      "European Union",
+      "ORG"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "European Commission President",
+      "MISC"
+    ],
+    [
+      "Brazil",
+      "LOC"
+    ],
+    [
+      "Amazon Basin",
+      "LOC"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "President",
+      "MISC"
+    ],
+    [
+      "National Institute for Space Research",
+      "ORG"
+    ],
+    [
+      "INPE",
+      "ORG"
+    ],
+    [
+      "São José dos Campos",
+      "LOC"
+    ],
+    [
+      "India",
+      "LOC"
+    ],
+    [
+      "China",
+      "ORG"
+    ],
+    [
+      "United States",
+      "ORG"
+    ],
+    [
+      "Greta Thunberg",
+      "PER"
+    ],
+    [
+      "Youth Climate Coalition",
+      "MISC"
+    ],
+    [
+      "Climate Council",
+      "ORG"
+    ],
+    [
+      "Australian",
+      "MISC"
+    ],
+    [
+      "Pacific Island nations",
+      "MISC"
+    ],
+    [
+      "Saudi Aramco",
+      "PROD"
+    ],
+    [
+      "Shell",
+      "PROD"
+    ],
+    [
+      "BP",
+      "PROD"
+    ],
+    [
+      "ExxonMobil",
+      "PROD"
+    ],
+    [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "InfluenceMap",
+      "ORG"
+    ],
+    [
+      "London-based think tank",
+      "MISC"
+    ],
+    [
+      "September 2025",
+      "DATE"
+    ],
+    [
+      "COP30 summit",
+      "MISC"
+    ],
+    [
+      "Belém",
+      "LOC"
+    ],
+    [
+      "UN Secretary-General",
+      "MISC"
+    ],
+    [
+      "António Guterres",
+      "PER"
+    ],
+    [
+      "Texas Tech University",
+      "ORG"
+    ],
+    [
+      "The Nature Conservancy",
+      "ORG"
+    ],
+    [
+      "Katharine Hayhoe",
+      "PER"
+    ],
+    [
+      "Danish wind energy company Ørsted",
+      "PROD"
+    ],
+    [
+      "Spain's Iberdrola",
+      "PROD"
+    ],
+    [
+      "BloombergNEF",
+      "MISC"
+    ],
+    [
+      "March 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

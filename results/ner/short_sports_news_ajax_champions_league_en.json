@@ -1,0 +1,139 @@
+{
+  "file": "short_sports_news_ajax_champions_league_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 4.623,
+  "ground_truth": [
+    [
+      "Brian Brobbey",
+      "PER"
+    ],
+    [
+      "Devyne Rensch",
+      "PER"
+    ],
+    [
+      "Harry Kane",
+      "PER"
+    ],
+    [
+      "Francesco Farioli",
+      "PER"
+    ],
+    [
+      "Vincent Kompany",
+      "PER"
+    ],
+    [
+      "Just Spee",
+      "PER"
+    ],
+    [
+      "Ajax",
+      "ORG"
+    ],
+    [
+      "Bayern Munich",
+      "ORG"
+    ],
+    [
+      "UEFA",
+      "ORG"
+    ],
+    [
+      "KNVB",
+      "ORG"
+    ],
+    [
+      "Tottenham Hotspur",
+      "ORG"
+    ],
+    [
+      "Johan Cruyff Arena",
+      "LOC"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Allianz Arena",
+      "LOC"
+    ],
+    [
+      "Munich",
+      "LOC"
+    ],
+    [
+      "April 8",
+      "DATE"
+    ],
+    [
+      "April 15",
+      "DATE"
+    ],
+    [
+      "2019",
+      "DATE"
+    ],
+    [
+      "Champions League",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Johan Cruyff Arena",
+      "LOC"
+    ],
+    [
+      "Ajax",
+      "ORG"
+    ],
+    [
+      "Bayern Munich",
+      "ORG"
+    ],
+    [
+      "Brian Brobbey",
+      "PER"
+    ],
+    [
+      "Devyne Rensch",
+      "PER"
+    ],
+    [
+      "Harry Kane",
+      "PER"
+    ],
+    [
+      "Francesco Farioli",
+      "PER"
+    ],
+    [
+      "Vincent Kompany",
+      "PER"
+    ],
+    [
+      "Tottenham Hotspur",
+      "ORG"
+    ],
+    [
+      "KNVB",
+      "ORG"
+    ],
+    [
+      "Allianz Arena",
+      "LOC"
+    ],
+    [
+      "April 15",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

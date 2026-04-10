@@ -1,0 +1,30 @@
+{
+  "file": "medium_reisgids_amsterdam_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 2.205,
+  "ground_truth": [
+    "amsterdam",
+    "canal",
+    "cycling",
+    "food",
+    "jordaan",
+    "museums",
+    "netherlands",
+    "tourism",
+    "travel"
+  ],
+  "tags": [
+    "amsterdam",
+    "tourism",
+    "travel",
+    "netherlands",
+    "culture",
+    "museums",
+    "history",
+    "food",
+    "drinking",
+    "city-life"
+  ],
+  "error": null
+}

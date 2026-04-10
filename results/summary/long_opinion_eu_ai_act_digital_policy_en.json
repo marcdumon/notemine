@@ -1,0 +1,9 @@
+{
+  "file": "long_opinion_eu_ai_act_digital_policy_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 4.378,
+  "ground_truth": "An opinion piece arguing that while the EU AI Act is a genuine regulatory achievement, its implementation is undermined by slow member-state enforcement, lobbying-induced dilution, and structural timing lags behind fast-moving AI development. The author compares the Act's likely trajectory to the GDPR's slow enforcement and argues that effective AI governance also requires European sovereign compute, a transatlantic agreement, civil society funding, and clarity on what fundamental rights the regulation is meant to protect.",
+  "summary": "The EU AI Act introduces a tiered risk framework for AI systems, with bans on unacceptable risk applications and conformity assessments for high-risk systems. However, enforcement challenges and lobbying-induced dilution have raised concerns about the Act's effectiveness. A European sovereign compute infrastructure, transatlantic AI governance dialogue, civil society resourcing, and clearer regulatory standards are needed to address the gaps between the Act's ambitions and its implementation.",
+  "error": null
+}

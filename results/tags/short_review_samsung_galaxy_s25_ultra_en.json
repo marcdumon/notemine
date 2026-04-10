@@ -1,0 +1,23 @@
+{
+  "file": "short_review_samsung_galaxy_s25_ultra_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.538,
+  "ground_truth": [
+    "android",
+    "camera",
+    "galaxy-s25-ultra",
+    "review",
+    "samsung",
+    "smartphone",
+    "snapdragon"
+  ],
+  "tags": [
+    "android-phone",
+    "smartphone-review",
+    "samsung-galaxy-s25-ultra",
+    "mobile-performance",
+    "camera-review"
+  ],
+  "error": null
+}

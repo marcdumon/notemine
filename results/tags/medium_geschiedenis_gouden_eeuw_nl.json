@@ -1,0 +1,26 @@
+{
+  "file": "medium_geschiedenis_gouden_eeuw_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.748,
+  "ground_truth": [
+    "17th-century",
+    "amsterdam",
+    "colonialism",
+    "dutch-history",
+    "golden-age",
+    "rembrandt",
+    "trade",
+    "voc"
+  ],
+  "tags": [
+    "netherlands",
+    "17th-century",
+    "trade",
+    "art",
+    "architecture",
+    "science",
+    "philosophy"
+  ],
+  "error": null
+}

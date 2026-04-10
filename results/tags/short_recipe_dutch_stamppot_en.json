@@ -1,0 +1,23 @@
+{
+  "file": "short_recipe_dutch_stamppot_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.506,
+  "ground_truth": [
+    "boerenkool",
+    "comfort-food",
+    "dutch-cuisine",
+    "netherlands",
+    "recipe",
+    "stamppot",
+    "winter"
+  ],
+  "tags": [
+    "dutch-cuisine",
+    "winter-dishes",
+    "kale-recipes",
+    "smoked-sausage",
+    "traditional-netherlands"
+  ],
+  "error": null
+}

@@ -1,0 +1,127 @@
+{
+  "file": "short_review_samsung_galaxy_s25_ultra_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 5.165,
+  "ground_truth": [
+    [
+      "Joris Hendriksen",
+      "PER"
+    ],
+    [
+      "Samsung",
+      "ORG"
+    ],
+    [
+      "Qualcomm",
+      "ORG"
+    ],
+    [
+      "TSMC",
+      "ORG"
+    ],
+    [
+      "Apple",
+      "ORG"
+    ],
+    [
+      "Google",
+      "ORG"
+    ],
+    [
+      "Galaxy S25 Ultra",
+      "PROD"
+    ],
+    [
+      "Snapdragon 8 Elite",
+      "PROD"
+    ],
+    [
+      "Snapdragon 8 Gen 3",
+      "PROD"
+    ],
+    [
+      "iPhone 16 Pro Max",
+      "PROD"
+    ],
+    [
+      "Pixel 9 Pro",
+      "PROD"
+    ],
+    [
+      "ISOCELL HP9",
+      "PROD"
+    ],
+    [
+      "ProVisual Engine",
+      "PROD"
+    ],
+    [
+      "Google Gemini",
+      "PROD"
+    ],
+    [
+      "Geekbench 6",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Samsung",
+      "ORG"
+    ],
+    [
+      "Galaxy S25 Ultra",
+      "MISC"
+    ],
+    [
+      "Snapdragon 8 Elite",
+      "PROD"
+    ],
+    [
+      "Qualcomm",
+      "ORG"
+    ],
+    [
+      "TSMC",
+      "ORG"
+    ],
+    [
+      "iPhone 16 Pro Max",
+      "MISC"
+    ],
+    [
+      "Apple",
+      "ORG"
+    ],
+    [
+      "Google Pixel 9 Pro",
+      "MISC"
+    ],
+    [
+      "Samsung Galaxy AI",
+      "MISC"
+    ],
+    [
+      "Live Translate",
+      "MISC"
+    ],
+    [
+      "Note Assist",
+      "MISC"
+    ],
+    [
+      "Circle to Search",
+      "MISC"
+    ],
+    [
+      "Google Gemini",
+      "MISC"
+    ],
+    [
+      "March 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

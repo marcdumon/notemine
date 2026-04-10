@@ -1,0 +1,391 @@
+{
+  "file": "long_opinion_eu_ai_act_digital_policy_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 15.742,
+  "ground_truth": [
+    [
+      "Thomas Weber",
+      "PER"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "Margrethe Vestager",
+      "PER"
+    ],
+    [
+      "Max Schrems",
+      "PER"
+    ],
+    [
+      "Matt Clifford",
+      "PER"
+    ],
+    [
+      "Yoshua Bengio",
+      "PER"
+    ],
+    [
+      "European Union",
+      "LOC"
+    ],
+    [
+      "Brussels",
+      "LOC"
+    ],
+    [
+      "Dublin",
+      "LOC"
+    ],
+    [
+      "Berlin",
+      "LOC"
+    ],
+    [
+      "European Parliament",
+      "ORG"
+    ],
+    [
+      "European Commission",
+      "ORG"
+    ],
+    [
+      "European AI Office",
+      "ORG"
+    ],
+    [
+      "DG CONNECT",
+      "ORG"
+    ],
+    [
+      "Internal Market and Consumer Protection Committee (IMCO)",
+      "ORG"
+    ],
+    [
+      "Irish Data Protection Commission (DPC)",
+      "ORG"
+    ],
+    [
+      "Meta",
+      "ORG"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Palantir",
+      "ORG"
+    ],
+    [
+      "IBM",
+      "ORG"
+    ],
+    [
+      "Apple",
+      "ORG"
+    ],
+    [
+      "Google",
+      "ORG"
+    ],
+    [
+      "OpenAI",
+      "ORG"
+    ],
+    [
+      "AlgorithmWatch",
+      "ORG"
+    ],
+    [
+      "Bits of Freedom",
+      "ORG"
+    ],
+    [
+      "Gesellschaft für Freiheitsrechte",
+      "ORG"
+    ],
+    [
+      "Access Now",
+      "ORG"
+    ],
+    [
+      "noyb (None of Your Business)",
+      "ORG"
+    ],
+    [
+      "UK AI Safety Institute",
+      "ORG"
+    ],
+    [
+      "The Guardian",
+      "ORG"
+    ],
+    [
+      "EuroHPC",
+      "ORG"
+    ],
+    [
+      "March 13, 2024",
+      "DATE"
+    ],
+    [
+      "April 2021",
+      "DATE"
+    ],
+    [
+      "August 2025",
+      "DATE"
+    ],
+    [
+      "May 2018",
+      "DATE"
+    ],
+    [
+      "January 2023",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "October 2023",
+      "DATE"
+    ],
+    [
+      "GPT-4",
+      "PROD"
+    ],
+    [
+      "GPT-5",
+      "PROD"
+    ],
+    [
+      "Gemini",
+      "PROD"
+    ],
+    [
+      "Llama",
+      "PROD"
+    ],
+    [
+      "Claude",
+      "PROD"
+    ],
+    [
+      "EU AI Act",
+      "MISC"
+    ],
+    [
+      "GDPR",
+      "MISC"
+    ],
+    [
+      "CPRA",
+      "MISC"
+    ],
+    [
+      "EU Charter of Fundamental Rights",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "European Parliament",
+      "ORG"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "China",
+      "LOC"
+    ],
+    [
+      "European Commission",
+      "ORG"
+    ],
+    [
+      "Google",
+      "PROD"
+    ],
+    [
+      "Meta",
+      "ORG"
+    ],
+    [
+      "OpenAI",
+      "PROD"
+    ],
+    [
+      "Gemini",
+      "PROD"
+    ],
+    [
+      "Llama",
+      "PROD"
+    ],
+    [
+      "Claude",
+      "PROD"
+    ],
+    [
+      "Anthropic",
+      "ORG"
+    ],
+    [
+      "Brussels",
+      "LOC"
+    ],
+    [
+      "DG CONNECT",
+      "ORG"
+    ],
+    [
+      "€110 million",
+      "MISC"
+    ],
+    [
+      "140",
+      "MISC"
+    ],
+    [
+      "Bulgaria",
+      "LOC"
+    ],
+    [
+      "Romania",
+      "LOC"
+    ],
+    [
+      "Cyprus",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Autoriteit Persoonsgegevens",
+      "ORG"
+    ],
+    [
+      "AP",
+      "ORG"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Palantir",
+      "ORG"
+    ],
+    [
+      "IBM",
+      "ORG"
+    ],
+    [
+      "Bits of Freedom",
+      "MISC"
+    ],
+    [
+      "AlgorithmWatch",
+      "MISC"
+    ],
+    [
+      "Gesellschaft für Freiheitsrechte in Berlin",
+      "MISC"
+    ],
+    [
+      "Access Now",
+      "MISC"
+    ],
+    [
+      "Margrethe Vestager",
+      "PER"
+    ],
+    [
+      "Apple",
+      "PROD"
+    ],
+    [
+      "Google",
+      "PROD"
+    ],
+    [
+      "Meta",
+      "PROD"
+    ],
+    [
+      "California",
+      "LOC"
+    ],
+    [
+      "Ireland",
+      "LOC"
+    ],
+    [
+      "Irish Data Protection Commission",
+      "ORG"
+    ],
+    [
+      "Max Schrems",
+      "PER"
+    ],
+    [
+      "noyb",
+      "MISC"
+    ],
+    [
+      "None of Your Business",
+      "MISC"
+    ],
+    [
+      "AWS",
+      "PROD"
+    ],
+    [
+      "Microsoft Azure",
+      "PROD"
+    ],
+    [
+      "Google Cloud",
+      "PROD"
+    ],
+    [
+      "EuroHPC",
+      "MISC"
+    ],
+    [
+      "€10 billion",
+      "MISC"
+    ],
+    [
+      "$100 billion",
+      "MISC"
+    ],
+    [
+      "Biden administration",
+      "ORG"
+    ],
+    [
+      "UK AI Safety Institute",
+      "ORG"
+    ],
+    [
+      "Matt Clifford",
+      "PER"
+    ],
+    [
+      "Yoshua Bengio",
+      "PER"
+    ]
+  ],
+  "error": null
+}

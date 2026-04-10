@@ -1,0 +1,9 @@
+{
+  "file": "medium_climate_blog_paris_agreement_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 3.856,
+  "ground_truth": "Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions have reached record levels and temperatures are at 1.45°C above pre-industrial baseline. While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is cited as a critical test of international resolve.",
+  "summary": "Global average temperatures are 1.45°C above pre-industrial levels, close to the 1.5°C threshold set by the Paris Agreement. Major oil and gas companies spent $750 million on lobbying against climate legislation between 2020 and 2024. The upcoming COP30 summit will test international resolve and determine whether the Paris Agreement becomes a turning point in human history.",
+  "error": null
+}

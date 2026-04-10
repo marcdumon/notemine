@@ -1,0 +1,9 @@
+{
+  "file": "medium_travel_guide_amsterdam_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 5.123,
+  "ground_truth": "A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams, cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3 tourist tax and Airbnb restrictions.",
+  "summary": "Amsterdam is a city with an intimate character that offers world-class museums, historic architecture, diverse cuisine, and vibrant nightlife. Getting to Amsterdam is easy by air or train, and cycling is a popular way to explore the city. Must-see museums include the Rijksmuseum, Van Gogh Museum, and Anne Frank House. The Jordaan district is a charming neighbourhood with narrow streets, independent galleries, and vintage shops. Amsterdam has strict policies on tourism, including a tax and restrictions on new shops and Airbnb rentals.",
+  "error": null
+}

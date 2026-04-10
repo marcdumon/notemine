@@ -1,0 +1,25 @@
+{
+  "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 2.106,
+  "ground_truth": [
+    "climate-science",
+    "delta-works",
+    "deltares",
+    "flooding",
+    "interview",
+    "knmi",
+    "netherlands",
+    "rotterdam",
+    "sea-level-rise"
+  ],
+  "tags": [
+    "climate-change",
+    "sea-level-rise",
+    "netherlands",
+    "deltawerken",
+    "water-management"
+  ],
+  "error": null
+}

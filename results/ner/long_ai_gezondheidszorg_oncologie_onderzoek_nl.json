@@ -1,0 +1,279 @@
+{
+  "file": "long_ai_gezondheidszorg_oncologie_onderzoek_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 8.943,
+  "ground_truth": [
+    [
+      "Jan de Vries",
+      "PER"
+    ],
+    [
+      "Maria Santos",
+      "PER"
+    ],
+    [
+      "Kwame Asante",
+      "PER"
+    ],
+    [
+      "Eric Lim",
+      "PER"
+    ],
+    [
+      "Mariana Costa",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Nijmegen",
+      "LOC"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Groningen",
+      "LOC"
+    ],
+    [
+      "Maastricht",
+      "LOC"
+    ],
+    [
+      "Utrecht",
+      "LOC"
+    ],
+    [
+      "Boston",
+      "LOC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Amsterdam UMC",
+      "ORG"
+    ],
+    [
+      "Academic Medical Center (AMC)",
+      "ORG"
+    ],
+    [
+      "VU University Medical Center (VUmc)",
+      "ORG"
+    ],
+    [
+      "Cancer Center Amsterdam",
+      "ORG"
+    ],
+    [
+      "Radboud University Medical Center",
+      "ORG"
+    ],
+    [
+      "Erasmus MC",
+      "ORG"
+    ],
+    [
+      "UMCG",
+      "ORG"
+    ],
+    [
+      "Maastricht UMC+",
+      "ORG"
+    ],
+    [
+      "KNAW",
+      "ORG"
+    ],
+    [
+      "Dutch Cancer Registry (IKNL)",
+      "ORG"
+    ],
+    [
+      "Dutch Association of Pathology (NVVP)",
+      "ORG"
+    ],
+    [
+      "PathAI Inc.",
+      "ORG"
+    ],
+    [
+      "Google Health",
+      "ORG"
+    ],
+    [
+      "Delft University of Technology",
+      "ORG"
+    ],
+    [
+      "ZonMW",
+      "ORG"
+    ],
+    [
+      "Autoriteit Persoonsgegevens",
+      "ORG"
+    ],
+    [
+      "SURFsara",
+      "ORG"
+    ],
+    [
+      "SURF",
+      "ORG"
+    ],
+    [
+      "Royal Brompton Hospital",
+      "ORG"
+    ],
+    [
+      "European Society for Medical Oncology (ESMO)",
+      "ORG"
+    ],
+    [
+      "KWF Kankerbestrijding",
+      "ORG"
+    ],
+    [
+      "European Research Council (ERC)",
+      "ORG"
+    ],
+    [
+      "Philips Healthcare",
+      "ORG"
+    ],
+    [
+      "The Lancet Digital Health",
+      "MISC"
+    ],
+    [
+      "January 2023",
+      "DATE"
+    ],
+    [
+      "December 2024",
+      "DATE"
+    ],
+    [
+      "June 3, 2025",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "Q1 2026",
+      "DATE"
+    ],
+    [
+      "2027",
+      "DATE"
+    ],
+    [
+      "PathAI Colorectal Classifier v3.1",
+      "PROD"
+    ],
+    [
+      "IntelliSite Pathology Solution",
+      "PROD"
+    ],
+    [
+      "Horizon Europe",
+      "MISC"
+    ],
+    [
+      "EU Medical Device Regulation (MDR 2017/745)",
+      "MISC"
+    ],
+    [
+      "Declaration of Helsinki",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Amsterdam UMC",
+      "ORG"
+    ],
+    [
+      "The Lancet Digital Health",
+      "LOC"
+    ],
+    [
+      "Nederlandse Kankerregistratie",
+      "ORG"
+    ],
+    [
+      "Utrecht",
+      "LOC"
+    ],
+    [
+      "Jan de Vries",
+      "PER"
+    ],
+    [
+      "Maria Santos",
+      "PER"
+    ],
+    [
+      "Kwame Asante",
+      "PER"
+    ],
+    [
+      "Boston",
+      "LOC"
+    ],
+    [
+      "Google Health",
+      "ORG"
+    ],
+    [
+      "PathAI Inc.",
+      "ORG"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "Technische Universiteit Delft",
+      "ORG"
+    ],
+    [
+      "European Society for Medical Oncology",
+      "ORG"
+    ],
+    [
+      "Londen",
+      "LOC"
+    ],
+    [
+      "Royal Brompton Hospital",
+      "LOC"
+    ],
+    [
+      "Eric Lim",
+      "PER"
+    ],
+    [
+      "Mariana Costa",
+      "PER"
+    ],
+    [
+      "KWF Kankerbestrijding",
+      "ORG"
+    ],
+    [
+      "Europese Onderzoeksraad",
+      "ORG"
+    ]
+  ],
+  "error": null
+}

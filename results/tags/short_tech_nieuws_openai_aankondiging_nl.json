@@ -1,0 +1,25 @@
+{
+  "file": "short_tech_nieuws_openai_aankondiging_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.781,
+  "ground_truth": [
+    "ai",
+    "gpt-5",
+    "llm",
+    "microsoft",
+    "openai",
+    "san-francisco",
+    "tech-conference"
+  ],
+  "tags": [
+    "machine-learning",
+    "natural-language-processing",
+    "openai",
+    "gpt-5",
+    "ai-innovation",
+    "tech-conference",
+    "artificial-intelligence"
+  ],
+  "error": null
+}

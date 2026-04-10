@@ -1,0 +1,143 @@
+{
+  "file": "short_tech_news_openai_announcement_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 5.038,
+  "ground_truth": [
+    [
+      "Sam Altman",
+      "PER"
+    ],
+    [
+      "Geoffrey Hinton",
+      "PER"
+    ],
+    [
+      "Satya Nadella",
+      "PER"
+    ],
+    [
+      "OpenAI",
+      "ORG"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Google DeepMind",
+      "ORG"
+    ],
+    [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
+      "San Francisco",
+      "LOC"
+    ],
+    [
+      "Redmond, Washington",
+      "LOC"
+    ],
+    [
+      "European Union",
+      "LOC"
+    ],
+    [
+      "March 15",
+      "DATE"
+    ],
+    [
+      "April 2025",
+      "DATE"
+    ],
+    [
+      "January 2025",
+      "DATE"
+    ],
+    [
+      "GPT-5",
+      "PROD"
+    ],
+    [
+      "Gemini Ultra 2.0",
+      "PROD"
+    ],
+    [
+      "Azure AI Studio",
+      "PROD"
+    ],
+    [
+      "Microsoft Copilot",
+      "PROD"
+    ],
+    [
+      "EU AI Act",
+      "MISC"
+    ],
+    [
+      "MMLU benchmark",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "San Francisco",
+      "LOC"
+    ],
+    [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
+      "Sam Altman",
+      "PER"
+    ],
+    [
+      "Google DeepMind",
+      "ORG"
+    ],
+    [
+      "Gemini Ultra 2.0",
+      "PROD"
+    ],
+    [
+      "Azure AI Studio",
+      "ORG"
+    ],
+    [
+      "Microsoft Copilot",
+      "PROD"
+    ],
+    [
+      "Redmond",
+      "LOC"
+    ],
+    [
+      "Geoffrey Hinton",
+      "PER"
+    ],
+    [
+      "Nobel Prize",
+      "MISC"
+    ],
+    [
+      "EU AI Act",
+      "MISC"
+    ],
+    [
+      "March 15, 2025",
+      "DATE"
+    ],
+    [
+      "April 2025",
+      "DATE"
+    ],
+    [
+      "January 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

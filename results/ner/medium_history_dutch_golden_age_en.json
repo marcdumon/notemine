@@ -1,0 +1,283 @@
+{
+  "file": "medium_history_dutch_golden_age_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 12.027,
+  "ground_truth": [
+    [
+      "Hanneke Oosterhout",
+      "PER"
+    ],
+    [
+      "Jan Pieterszoon Coen",
+      "PER"
+    ],
+    [
+      "Rembrandt van Rijn",
+      "PER"
+    ],
+    [
+      "Johannes Vermeer",
+      "PER"
+    ],
+    [
+      "Christiaan Huygens",
+      "PER"
+    ],
+    [
+      "Antonie van Leeuwenhoek",
+      "PER"
+    ],
+    [
+      "Baruch Spinoza",
+      "PER"
+    ],
+    [
+      "Nicolaes Tulp",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Leiden",
+      "LOC"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "The Hague",
+      "LOC"
+    ],
+    [
+      "Batavia",
+      "LOC"
+    ],
+    [
+      "New Amsterdam",
+      "LOC"
+    ],
+    [
+      "West Africa",
+      "LOC"
+    ],
+    [
+      "Brazil",
+      "LOC"
+    ],
+    [
+      "Maluku Islands",
+      "LOC"
+    ],
+    [
+      "Republic of the Seven United Netherlands",
+      "ORG"
+    ],
+    [
+      "VOC (Vereenigde Oost-Indische Compagnie)",
+      "ORG"
+    ],
+    [
+      "WIC (Westindische Compagnie)",
+      "ORG"
+    ],
+    [
+      "Amsterdam Stock Exchange",
+      "ORG"
+    ],
+    [
+      "UNESCO",
+      "ORG"
+    ],
+    [
+      "March 20, 1602",
+      "DATE"
+    ],
+    [
+      "1619",
+      "DATE"
+    ],
+    [
+      "1621",
+      "DATE"
+    ],
+    [
+      "1642",
+      "DATE"
+    ],
+    [
+      "1656",
+      "DATE"
+    ],
+    [
+      "1674",
+      "DATE"
+    ],
+    [
+      "December 2022",
+      "DATE"
+    ],
+    [
+      "The Night Watch",
+      "MISC"
+    ],
+    [
+      "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "MISC"
+    ],
+    [
+      "Girl with a Pearl Earring",
+      "MISC"
+    ],
+    [
+      "Ethics",
+      "MISC"
+    ],
+    [
+      "Franco-Dutch War",
+      "MISC"
+    ],
+    [
+      "Glorious Revolution",
+      "MISC"
+    ],
+    [
+      "Grachtengordel",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Batavia",
+      "LOC"
+    ],
+    [
+      "New Amsterdam",
+      "LOC"
+    ],
+    [
+      "Vereenigde Oost-Indische Compagnie",
+      "ORG"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Jan Pieterszoon Coen",
+      "PER"
+    ],
+    [
+      "Maluku Islands",
+      "LOC"
+    ],
+    [
+      "Nutmeg",
+      "PROD"
+    ],
+    [
+      "Cloves",
+      "PROD"
+    ],
+    [
+      "Pepper",
+      "PROD"
+    ],
+    [
+      "Silk",
+      "PROD"
+    ],
+    [
+      "Westindische Compagnie",
+      "ORG"
+    ],
+    [
+      "Brazil",
+      "LOC"
+    ],
+    [
+      "December 2022",
+      "DATE"
+    ],
+    [
+      "Rembrandt van Rijn",
+      "PER"
+    ],
+    [
+      "Leiden",
+      "LOC"
+    ],
+    [
+      "The Night Watch",
+      "MISC"
+    ],
+    [
+      "Johannes Vermeer",
+      "PER"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "Girl with a Pearl Earring",
+      "MISC"
+    ],
+    [
+      "Mauritshuis",
+      "LOC"
+    ],
+    [
+      "Grachtengordel",
+      "MISC"
+    ],
+    [
+      "UNESCO",
+      "ORG"
+    ],
+    [
+      "The Hague",
+      "LOC"
+    ],
+    [
+      "Christiaan Huygens",
+      "PER"
+    ],
+    [
+      "Titan",
+      "PROD"
+    ],
+    [
+      "Antonie van Leeuwenhoek",
+      "PER"
+    ],
+    [
+      "Baruch Spinoza",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Portuguese-Jewish",
+      "MISC"
+    ],
+    [
+      "Franco-Dutch War",
+      "MISC"
+    ],
+    [
+      "Glorious Revolution",
+      "MISC"
+    ],
+    [
+      "England",
+      "ORG"
+    ]
+  ],
+  "error": null
+}

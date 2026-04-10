@@ -1,0 +1,25 @@
+{
+  "file": "long_opinion_eu_ai_act_digital_policy_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.946,
+  "ground_truth": [
+    "big-tech",
+    "chatgpt",
+    "digital-policy",
+    "eu-ai-act",
+    "european-union",
+    "facial-recognition",
+    "fundamental-rights",
+    "gdpr",
+    "regulation"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "eu-aia-act",
+    "machine-learning",
+    "regulation",
+    "data-protection"
+  ],
+  "error": null
+}

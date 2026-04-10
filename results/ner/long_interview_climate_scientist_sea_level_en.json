@@ -1,0 +1,319 @@
+{
+  "file": "long_interview_climate_scientist_sea_level_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 13.137,
+  "ground_truth": [
+    [
+      "Maria van den Berg",
+      "PER"
+    ],
+    [
+      "Tobias Schout",
+      "PER"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "Mona Keijzer",
+      "PER"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Zeeland",
+      "LOC"
+    ],
+    [
+      "Benthemplein",
+      "LOC"
+    ],
+    [
+      "Rijnhaven",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Greenland",
+      "LOC"
+    ],
+    [
+      "Antarctica",
+      "LOC"
+    ],
+    [
+      "West Antarctica",
+      "LOC"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "LOC"
+    ],
+    [
+      "Delft University of Technology (TU Delft)",
+      "ORG"
+    ],
+    [
+      "Deltares",
+      "ORG"
+    ],
+    [
+      "NWO",
+      "ORG"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "KNMI",
+      "ORG"
+    ],
+    [
+      "ECMWF",
+      "ORG"
+    ],
+    [
+      "NOAA",
+      "ORG"
+    ],
+    [
+      "Municipality of Rotterdam",
+      "ORG"
+    ],
+    [
+      "Port of Rotterdam Authority",
+      "ORG"
+    ],
+    [
+      "Ministry of Infrastructure and Water Management",
+      "ORG"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
+    ],
+    [
+      "WUR",
+      "ORG"
+    ],
+    [
+      "Utrecht University",
+      "ORG"
+    ],
+    [
+      "VU Amsterdam",
+      "ORG"
+    ],
+    [
+      "NRC",
+      "ORG"
+    ],
+    [
+      "1997",
+      "DATE"
+    ],
+    [
+      "2017",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "1953",
+      "DATE"
+    ],
+    [
+      "1854",
+      "DATE"
+    ],
+    [
+      "Oosterscheldekering",
+      "MISC"
+    ],
+    [
+      "Maeslantkering",
+      "MISC"
+    ],
+    [
+      "Haringvlietdam",
+      "MISC"
+    ],
+    [
+      "Delta Works",
+      "MISC"
+    ],
+    [
+      "Dutch Water Act",
+      "MISC"
+    ],
+    [
+      "Haarlemmermeer",
+      "MISC"
+    ],
+    [
+      "Zuiderzeewerken",
+      "MISC"
+    ],
+    [
+      "Water Square",
+      "MISC"
+    ],
+    [
+      "RISES-AM",
+      "MISC"
+    ],
+    [
+      "SSP5-8.5",
+      "MISC"
+    ],
+    [
+      "COP27",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Dr. Maria van den Berg",
+      "PER"
+    ],
+    [
+      "Delft University of Technology",
+      "ORG"
+    ],
+    [
+      "TU Delft",
+      "ORG"
+    ],
+    [
+      "Deltares",
+      "ORG"
+    ],
+    [
+      "NWO",
+      "ORG"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Oosterscheldekering",
+      "MISC"
+    ],
+    [
+      "Maeslantkering",
+      "MISC"
+    ],
+    [
+      "Haringvlietdam",
+      "MISC"
+    ],
+    [
+      "Dutch Water Act",
+      "MISC"
+    ],
+    [
+      "KNMI",
+      "ORG"
+    ],
+    [
+      "European Centre for Medium-Range Weather Forecasts",
+      "ORG"
+    ],
+    [
+      "NOAA",
+      "ORG"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "LOC"
+    ],
+    [
+      "COP27",
+      "MISC"
+    ],
+    [
+      "Rotterdam Climate Adaptation Plan",
+      "MISC"
+    ],
+    [
+      "Benthemplein",
+      "MISC"
+    ],
+    [
+      "De Urbanisten",
+      "MISC"
+    ],
+    [
+      "Rijnhaven",
+      "MISC"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "Deltacommissaris",
+      "MISC"
+    ],
+    [
+      "March 1997",
+      "DATE"
+    ],
+    [
+      "20th century",
+      "MISC"
+    ],
+    [
+      "21st century",
+      "MISC"
+    ],
+    [
+      "SSP5-8.5",
+      "MISC"
+    ],
+    [
+      "West Antarctica",
+      "LOC"
+    ],
+    [
+      "Greenland",
+      "LOC"
+    ],
+    [
+      "1.5°C",
+      "PROD"
+    ],
+    [
+      "3°C",
+      "PROD"
+    ],
+    [
+      "Billion euros",
+      "MISC"
+    ]
+  ],
+  "error": null
+}

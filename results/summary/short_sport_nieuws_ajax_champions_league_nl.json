@@ -1,0 +1,9 @@
+{
+  "file": "short_sport_nieuws_ajax_champions_league_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 3.619,
+  "ground_truth": "Ajax defeated Bayern Munich 2-1 at the Johan Cruyff Arena in Amsterdam on April 8, 2025, in the first leg of the UEFA Champions League quarter-final. Goals from Brian Brobbey and Devyne Rensch secured the win, with Harry Kane scoring a late consolation for Bayern. The second leg is scheduled for April 15 at the Allianz Arena in Munich.",
+  "summary": "Ajax defeated Bayern Munich 2-1 in the first leg of the Champions League quarterfinals. Goals from Brian Brobbey and Devyne Rensch gave Ajax a comfortable lead, which was nearly cancelled out by Harry Kane's late equalizer. The win marked a historic moment for Dutch football, with KNVB president Just Spee hailing it as 'an incredible night'.",
+  "error": null
+}

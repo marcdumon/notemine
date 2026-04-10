@@ -1,0 +1,227 @@
+{
+  "file": "medium_travel_guide_amsterdam_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 7.809,
+  "ground_truth": [
+    [
+      "Clara van Houten",
+      "PER"
+    ],
+    [
+      "Femke Halsema",
+      "PER"
+    ],
+    [
+      "Vincent van Gogh",
+      "PER"
+    ],
+    [
+      "Anne Frank",
+      "PER"
+    ],
+    [
+      "Rembrandt",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Jordaan",
+      "LOC"
+    ],
+    [
+      "Amsterdam-Noord",
+      "LOC"
+    ],
+    [
+      "NDSM Wharf",
+      "LOC"
+    ],
+    [
+      "De Wallen",
+      "LOC"
+    ],
+    [
+      "Museumplein",
+      "LOC"
+    ],
+    [
+      "Museumstraat",
+      "LOC"
+    ],
+    [
+      "Westermarkt",
+      "LOC"
+    ],
+    [
+      "Amstel River",
+      "LOC"
+    ],
+    [
+      "Amstelveenseweg",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Paris",
+      "LOC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Royal Schiphol Group",
+      "ORG"
+    ],
+    [
+      "GVB",
+      "ORG"
+    ],
+    [
+      "MacBike",
+      "ORG"
+    ],
+    [
+      "Black Bikes",
+      "ORG"
+    ],
+    [
+      "Rijksmuseum",
+      "ORG"
+    ],
+    [
+      "Van Gogh Museum",
+      "ORG"
+    ],
+    [
+      "Anne Frank House",
+      "ORG"
+    ],
+    [
+      "Café de Jaren",
+      "ORG"
+    ],
+    [
+      "Restaurant Blauw",
+      "ORG"
+    ],
+    [
+      "2025",
+      "DATE"
+    ],
+    [
+      "2023",
+      "DATE"
+    ],
+    [
+      "1942–1944",
+      "DATE"
+    ],
+    [
+      "OV-chipkaart",
+      "MISC"
+    ],
+    [
+      "Intercity Direct",
+      "MISC"
+    ],
+    [
+      "De Negen Straatjes",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "ORG"
+    ],
+    [
+      "Europe",
+      "LOC"
+    ],
+    [
+      "Paris",
+      "LOC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Royal Schiphol Group",
+      "ORG"
+    ],
+    [
+      "MacBike",
+      "MISC"
+    ],
+    [
+      "Black Bikes",
+      "MISC"
+    ],
+    [
+      "Rijksmuseum",
+      "MISC"
+    ],
+    [
+      "Rembrandt",
+      "PROD"
+    ],
+    [
+      "The Night Watch",
+      "PROD"
+    ],
+    [
+      "Van Gogh Museum",
+      "MISC"
+    ],
+    [
+      "Vincent van Gogh",
+      "PROD"
+    ],
+    [
+      "Anne Frank House",
+      "MISC"
+    ],
+    [
+      "Jordaan",
+      "LOC"
+    ],
+    [
+      "IJ River",
+      "LOC"
+    ],
+    [
+      "Café de Jaren",
+      "MISC"
+    ],
+    [
+      "Restaurant Blauw",
+      "MISC"
+    ],
+    [
+      "Amstel River",
+      "LOC"
+    ],
+    [
+      "Femke Halsema",
+      "PER"
+    ],
+    [
+      "March 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

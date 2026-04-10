@@ -1,0 +1,9 @@
+{
+  "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 10.608,
+  "ground_truth": "An interview with Dr. Maria van den Berg, professor of coastal hydrology at TU Delft and senior fellow at Deltares, about sea level rise risks to the Netherlands. She warns that current Dutch flood defence standards are based on outdated projections and advocates for adaptive pathway planning, citing Rotterdam as a world leader in adaptation. She criticises the Schoof cabinet's €14 million cut to KNMI's budget as a false economy that undermines the science needed to design flood defences.",
+  "summary": "Nederland is beter voorbereid dan vrijwel elk ander land op zeespiegelstijging, maar de huidige veiligheidsnormen zijn gebaseerd op scenario's die uitgingen van 0,35 meter stijging tegen 2100. De bijgewerkte prognoses van het IPCC suggereren nu dat we 0,8 tot 1,0 meter kunnen zien tegen 2100 — en dat is voordat we rekening houden met mogelijke instabiliteit van de mariene ijsplaat in West-Antarctica. Rotterdam is een van de wereldleiders op het gebied van klimaatadaptatie, maar de haveninfrastructuur kan te maken krijgen met sluitingen die honderden miljoenen per dag kosten als de zeespiegel sneller stijgt dan voorspeld. De beslissing om het KNMI te korten is naar mijn mening een schijnbesparing, want we geven tientallen miljarden uit aan waterkeringen en hebben de best mogelijke wetenschap nodig om die te ontwerpen.",
+  "error": null
+}

@@ -1,0 +1,287 @@
+{
+  "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 10.059,
+  "ground_truth": [
+    [
+      "Maria van den Berg",
+      "PER"
+    ],
+    [
+      "Tobias Schout",
+      "PER"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "Mona Keijzer",
+      "PER"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Zeeland",
+      "LOC"
+    ],
+    [
+      "Benthemplein",
+      "LOC"
+    ],
+    [
+      "Rijnhaven",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Greenland",
+      "LOC"
+    ],
+    [
+      "Antarctica",
+      "LOC"
+    ],
+    [
+      "West Antarctica",
+      "LOC"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "LOC"
+    ],
+    [
+      "Delft University of Technology (TU Delft)",
+      "ORG"
+    ],
+    [
+      "Deltares",
+      "ORG"
+    ],
+    [
+      "NWO",
+      "ORG"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "KNMI",
+      "ORG"
+    ],
+    [
+      "ECMWF",
+      "ORG"
+    ],
+    [
+      "NOAA",
+      "ORG"
+    ],
+    [
+      "Municipality of Rotterdam",
+      "ORG"
+    ],
+    [
+      "Port of Rotterdam Authority",
+      "ORG"
+    ],
+    [
+      "Ministry of Infrastructure and Water Management",
+      "ORG"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
+    ],
+    [
+      "WUR",
+      "ORG"
+    ],
+    [
+      "Utrecht University",
+      "ORG"
+    ],
+    [
+      "VU Amsterdam",
+      "ORG"
+    ],
+    [
+      "NRC",
+      "ORG"
+    ],
+    [
+      "1997",
+      "DATE"
+    ],
+    [
+      "2017",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "1953",
+      "DATE"
+    ],
+    [
+      "1854",
+      "DATE"
+    ],
+    [
+      "Oosterscheldekering",
+      "MISC"
+    ],
+    [
+      "Maeslantkering",
+      "MISC"
+    ],
+    [
+      "Haringvlietdam",
+      "MISC"
+    ],
+    [
+      "Delta Works",
+      "MISC"
+    ],
+    [
+      "Dutch Water Act",
+      "MISC"
+    ],
+    [
+      "Haarlemmermeer",
+      "MISC"
+    ],
+    [
+      "Zuiderzeewerken",
+      "MISC"
+    ],
+    [
+      "Water Square",
+      "MISC"
+    ],
+    [
+      "RISES-AM",
+      "MISC"
+    ],
+    [
+      "SSP5-8.5",
+      "MISC"
+    ],
+    [
+      "COP27",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "dr. Maria van den Berg",
+      "PER"
+    ],
+    [
+      "Technische Universiteit Delft",
+      "ORG"
+    ],
+    [
+      "Delft",
+      "LOC"
+    ],
+    [
+      "TU Delft",
+      "ORG"
+    ],
+    [
+      "Deltares",
+      "ORG"
+    ],
+    [
+      "NWO",
+      "ORG"
+    ],
+    [
+      "RISES-AM",
+      "PROD"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "NRC",
+      "ORG"
+    ],
+    [
+      "Tobias Schout",
+      "PER"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Maeslantkering",
+      "PROD"
+    ],
+    [
+      "Haringvlietdam",
+      "PROD"
+    ],
+    [
+      "Oosterscheldekering",
+      "PROD"
+    ],
+    [
+      "Benthemplein",
+      "LOC"
+    ],
+    [
+      "Rijnhaven",
+      "LOC"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
+    ],
+    [
+      "Gemeente Rotterdam",
+      "ORG"
+    ],
+    [
+      "Nederlandse Waterwet",
+      "PROD"
+    ],
+    [
+      "KNMI",
+      "ORG"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "COP27",
+      "MISC"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "LOC"
+    ],
+    [
+      "March 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

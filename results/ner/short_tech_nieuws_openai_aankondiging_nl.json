@@ -1,0 +1,127 @@
+{
+  "file": "short_tech_nieuws_openai_aankondiging_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 3.909,
+  "ground_truth": [
+    [
+      "Sam Altman",
+      "PER"
+    ],
+    [
+      "Geoffrey Hinton",
+      "PER"
+    ],
+    [
+      "Satya Nadella",
+      "PER"
+    ],
+    [
+      "OpenAI",
+      "ORG"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Google DeepMind",
+      "ORG"
+    ],
+    [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
+      "San Francisco",
+      "LOC"
+    ],
+    [
+      "Redmond, Washington",
+      "LOC"
+    ],
+    [
+      "European Union",
+      "LOC"
+    ],
+    [
+      "March 15",
+      "DATE"
+    ],
+    [
+      "April 2025",
+      "DATE"
+    ],
+    [
+      "January 2025",
+      "DATE"
+    ],
+    [
+      "GPT-5",
+      "PROD"
+    ],
+    [
+      "Gemini Ultra 2.0",
+      "PROD"
+    ],
+    [
+      "Azure AI Studio",
+      "PROD"
+    ],
+    [
+      "Microsoft Copilot",
+      "PROD"
+    ],
+    [
+      "EU AI Act",
+      "MISC"
+    ],
+    [
+      "MMLU benchmark",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "San Francisco",
+      "LOC"
+    ],
+    [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
+      "Sam Altman",
+      "PER"
+    ],
+    [
+      "GPT-5",
+      "PROD"
+    ],
+    [
+      "Google DeepMind's Gemini Ultra 2.0",
+      "PROD"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Satya Nadella",
+      "PER"
+    ],
+    [
+      "Redmond, Washington",
+      "LOC"
+    ],
+    [
+      "EU AI Act",
+      "MISC"
+    ],
+    [
+      "March 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

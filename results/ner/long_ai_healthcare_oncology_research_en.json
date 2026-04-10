@@ -1,0 +1,343 @@
+{
+  "file": "long_ai_healthcare_oncology_research_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 12.45,
+  "ground_truth": [
+    [
+      "Jan de Vries",
+      "PER"
+    ],
+    [
+      "Maria Santos",
+      "PER"
+    ],
+    [
+      "Kwame Asante",
+      "PER"
+    ],
+    [
+      "Eric Lim",
+      "PER"
+    ],
+    [
+      "Mariana Costa",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Nijmegen",
+      "LOC"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Groningen",
+      "LOC"
+    ],
+    [
+      "Maastricht",
+      "LOC"
+    ],
+    [
+      "Utrecht",
+      "LOC"
+    ],
+    [
+      "Boston",
+      "LOC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Amsterdam UMC",
+      "ORG"
+    ],
+    [
+      "Academic Medical Center (AMC)",
+      "ORG"
+    ],
+    [
+      "VU University Medical Center (VUmc)",
+      "ORG"
+    ],
+    [
+      "Cancer Center Amsterdam",
+      "ORG"
+    ],
+    [
+      "Radboud University Medical Center",
+      "ORG"
+    ],
+    [
+      "Erasmus MC",
+      "ORG"
+    ],
+    [
+      "UMCG",
+      "ORG"
+    ],
+    [
+      "Maastricht UMC+",
+      "ORG"
+    ],
+    [
+      "KNAW",
+      "ORG"
+    ],
+    [
+      "Dutch Cancer Registry (IKNL)",
+      "ORG"
+    ],
+    [
+      "Dutch Association of Pathology (NVVP)",
+      "ORG"
+    ],
+    [
+      "PathAI Inc.",
+      "ORG"
+    ],
+    [
+      "Google Health",
+      "ORG"
+    ],
+    [
+      "Delft University of Technology",
+      "ORG"
+    ],
+    [
+      "ZonMW",
+      "ORG"
+    ],
+    [
+      "Autoriteit Persoonsgegevens",
+      "ORG"
+    ],
+    [
+      "SURFsara",
+      "ORG"
+    ],
+    [
+      "SURF",
+      "ORG"
+    ],
+    [
+      "Royal Brompton Hospital",
+      "ORG"
+    ],
+    [
+      "European Society for Medical Oncology (ESMO)",
+      "ORG"
+    ],
+    [
+      "KWF Kankerbestrijding",
+      "ORG"
+    ],
+    [
+      "European Research Council (ERC)",
+      "ORG"
+    ],
+    [
+      "Philips Healthcare",
+      "ORG"
+    ],
+    [
+      "The Lancet Digital Health",
+      "MISC"
+    ],
+    [
+      "January 2023",
+      "DATE"
+    ],
+    [
+      "December 2024",
+      "DATE"
+    ],
+    [
+      "June 3, 2025",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "Q1 2026",
+      "DATE"
+    ],
+    [
+      "2027",
+      "DATE"
+    ],
+    [
+      "PathAI Colorectal Classifier v3.1",
+      "PROD"
+    ],
+    [
+      "IntelliSite Pathology Solution",
+      "PROD"
+    ],
+    [
+      "Horizon Europe",
+      "MISC"
+    ],
+    [
+      "EU Medical Device Regulation (MDR 2017/745)",
+      "MISC"
+    ],
+    [
+      "Declaration of Helsinki",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Amsterdam UMC",
+      "ORG"
+    ],
+    [
+      "Academic Medical Center",
+      "ORG"
+    ],
+    [
+      "VU University Medical Center",
+      "ORG"
+    ],
+    [
+      "The Lancet Digital Health",
+      "ORG"
+    ],
+    [
+      "European Union",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Dutch Cancer Registry",
+      "ORG"
+    ],
+    [
+      "IKNL",
+      "ORG"
+    ],
+    [
+      "NVVP",
+      "ORG"
+    ],
+    [
+      "Royal Netherlands Academy of Arts and Sciences",
+      "ORG"
+    ],
+    [
+      "KNAW",
+      "ORG"
+    ],
+    [
+      "Google Health",
+      "ORG"
+    ],
+    [
+      "PathAI Inc.",
+      "ORG"
+    ],
+    [
+      "Boston",
+      "LOC"
+    ],
+    [
+      "Delft University of Technology",
+      "ORG"
+    ],
+    [
+      "Horizon Europe",
+      "ORG"
+    ],
+    [
+      "European Research Council",
+      "ORG"
+    ],
+    [
+      "KWF Kankerbestrijding",
+      "ORG"
+    ],
+    [
+      "Philips Healthcare",
+      "ORG"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Utrecht",
+      "LOC"
+    ],
+    [
+      "Nijmegen",
+      "LOC"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
+    ],
+    [
+      "Groningen",
+      "LOC"
+    ],
+    [
+      "Maastricht",
+      "LOC"
+    ],
+    [
+      "January 2023",
+      "DATE"
+    ],
+    [
+      "December 2024",
+      "DATE"
+    ],
+    [
+      "June 3",
+      "DATE"
+    ],
+    [
+      "2022",
+      "DATE"
+    ],
+    [
+      "2023",
+      "DATE"
+    ],
+    [
+      "2025",
+      "DATE"
+    ],
+    [
+      "2030",
+      "DATE"
+    ],
+    [
+      "2028",
+      "DATE"
+    ],
+    [
+      "2027",
+      "DATE"
+    ],
+    [
+      "Q1 2026",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

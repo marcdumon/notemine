@@ -1,0 +1,227 @@
+{
+  "file": "medium_reisgids_amsterdam_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 7.852,
+  "ground_truth": [
+    [
+      "Clara van Houten",
+      "PER"
+    ],
+    [
+      "Femke Halsema",
+      "PER"
+    ],
+    [
+      "Vincent van Gogh",
+      "PER"
+    ],
+    [
+      "Anne Frank",
+      "PER"
+    ],
+    [
+      "Rembrandt",
+      "PER"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Jordaan",
+      "LOC"
+    ],
+    [
+      "Amsterdam-Noord",
+      "LOC"
+    ],
+    [
+      "NDSM Wharf",
+      "LOC"
+    ],
+    [
+      "De Wallen",
+      "LOC"
+    ],
+    [
+      "Museumplein",
+      "LOC"
+    ],
+    [
+      "Museumstraat",
+      "LOC"
+    ],
+    [
+      "Westermarkt",
+      "LOC"
+    ],
+    [
+      "Amstel River",
+      "LOC"
+    ],
+    [
+      "Amstelveenseweg",
+      "LOC"
+    ],
+    [
+      "Netherlands",
+      "LOC"
+    ],
+    [
+      "Paris",
+      "LOC"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Royal Schiphol Group",
+      "ORG"
+    ],
+    [
+      "GVB",
+      "ORG"
+    ],
+    [
+      "MacBike",
+      "ORG"
+    ],
+    [
+      "Black Bikes",
+      "ORG"
+    ],
+    [
+      "Rijksmuseum",
+      "ORG"
+    ],
+    [
+      "Van Gogh Museum",
+      "ORG"
+    ],
+    [
+      "Anne Frank House",
+      "ORG"
+    ],
+    [
+      "Café de Jaren",
+      "ORG"
+    ],
+    [
+      "Restaurant Blauw",
+      "ORG"
+    ],
+    [
+      "2025",
+      "DATE"
+    ],
+    [
+      "2023",
+      "DATE"
+    ],
+    [
+      "1942–1944",
+      "DATE"
+    ],
+    [
+      "OV-chipkaart",
+      "MISC"
+    ],
+    [
+      "Intercity Direct",
+      "MISC"
+    ],
+    [
+      "De Negen Straatjes",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Nederland",
+      "ORG"
+    ],
+    [
+      "Europa",
+      "LOC"
+    ],
+    [
+      "Parijs",
+      "LOC"
+    ],
+    [
+      "Londen",
+      "LOC"
+    ],
+    [
+      "Royal Schiphol Group",
+      "ORG"
+    ],
+    [
+      "Schiphol",
+      "LOC"
+    ],
+    [
+      "MacBike",
+      "MISC"
+    ],
+    [
+      "Black Bikes",
+      "MISC"
+    ],
+    [
+      "Rembrandt",
+      "PROD"
+    ],
+    [
+      "De Nachtwacht",
+      "PROD"
+    ],
+    [
+      "Vincent van Gogh",
+      "PROD"
+    ],
+    [
+      "Amandelbloesem",
+      "PROD"
+    ],
+    [
+      "Anne Frank",
+      "PER"
+    ],
+    [
+      "IJ",
+      "LOC"
+    ],
+    [
+      "NDSM-pont",
+      "LOC"
+    ],
+    [
+      "Centraal Station",
+      "LOC"
+    ],
+    [
+      "Amstelveenseweg",
+      "LOC"
+    ],
+    [
+      "Café de Jaren",
+      "MISC"
+    ],
+    [
+      "Restaurant Blauw",
+      "MISC"
+    ],
+    [
+      "Femke Halsema",
+      "PER"
+    ]
+  ],
+  "error": null
+}

@@ -1,0 +1,347 @@
+{
+  "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 16.571,
+  "ground_truth": [
+    [
+      "Elena Fischer",
+      "PER"
+    ],
+    [
+      "Friederike Otto",
+      "PER"
+    ],
+    [
+      "Pierre Friedlingstein",
+      "PER"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "Greta Thunberg",
+      "PER"
+    ],
+    [
+      "António Guterres",
+      "PER"
+    ],
+    [
+      "Katharine Hayhoe",
+      "PER"
+    ],
+    [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "Le Bourget",
+      "LOC"
+    ],
+    [
+      "France",
+      "LOC"
+    ],
+    [
+      "Brazil",
+      "LOC"
+    ],
+    [
+      "Amazon Basin",
+      "LOC"
+    ],
+    [
+      "São José dos Campos",
+      "LOC"
+    ],
+    [
+      "Belém",
+      "LOC"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "Global Carbon Project",
+      "ORG"
+    ],
+    [
+      "University of Exeter",
+      "ORG"
+    ],
+    [
+      "International Energy Agency",
+      "ORG"
+    ],
+    [
+      "European Union",
+      "ORG"
+    ],
+    [
+      "INPE",
+      "ORG"
+    ],
+    [
+      "Youth Climate Coalition",
+      "ORG"
+    ],
+    [
+      "Climate Council",
+      "ORG"
+    ],
+    [
+      "InfluenceMap",
+      "ORG"
+    ],
+    [
+      "Shell",
+      "ORG"
+    ],
+    [
+      "BP",
+      "ORG"
+    ],
+    [
+      "ExxonMobil",
+      "ORG"
+    ],
+    [
+      "Saudi Aramco",
+      "ORG"
+    ],
+    [
+      "The Nature Conservancy",
+      "ORG"
+    ],
+    [
+      "Texas Tech University",
+      "ORG"
+    ],
+    [
+      "Ørsted",
+      "ORG"
+    ],
+    [
+      "Iberdrola",
+      "ORG"
+    ],
+    [
+      "BloombergNEF",
+      "ORG"
+    ],
+    [
+      "December 12, 2015",
+      "DATE"
+    ],
+    [
+      "2024",
+      "DATE"
+    ],
+    [
+      "November 2025",
+      "DATE"
+    ],
+    [
+      "COP30",
+      "MISC"
+    ],
+    [
+      "Paris Agreement",
+      "MISC"
+    ],
+    [
+      "European Green Deal",
+      "MISC"
+    ]
+  ],
+  "entities": [
+    [
+      "Parijs",
+      "LOC"
+    ],
+    [
+      "Le Bourget",
+      "LOC"
+    ],
+    [
+      "Frankrijk",
+      "LOC"
+    ],
+    [
+      "Akkoord van Parijs",
+      "PROD"
+    ],
+    [
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "London",
+      "LOC"
+    ],
+    [
+      "Zesde Beoordelingsrapport",
+      "MISC"
+    ],
+    [
+      "Intergovernmental Panel on Climate Change",
+      "ORG"
+    ],
+    [
+      "Friederike Otto",
+      "PER"
+    ],
+    [
+      "Grantham Institute",
+      "ORG"
+    ],
+    [
+      "Imperial College London",
+      "ORG"
+    ],
+    [
+      "Londense denktank",
+      "MISC"
+    ],
+    [
+      "InfluenceMap",
+      "ORG"
+    ],
+    [
+      "Saudi Aramco",
+      "PROD"
+    ],
+    [
+      "Shell",
+      "PROD"
+    ],
+    [
+      "BP",
+      "PROD"
+    ],
+    [
+      "ExxonMobil",
+      "PROD"
+    ],
+    [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "COP30-top",
+      "MISC"
+    ],
+    [
+      "Belém",
+      "LOC"
+    ],
+    [
+      "Brazilië",
+      "LOC"
+    ],
+    [
+      "UN",
+      "ORG"
+    ],
+    [
+      "António Guterres",
+      "PER"
+    ],
+    [
+      "Texas Tech University",
+      "ORG"
+    ],
+    [
+      "The Nature Conservancy",
+      "ORG"
+    ],
+    [
+      "Katharine Hayhoe",
+      "PER"
+    ],
+    [
+      "Europees Commissievoorzitter",
+      "MISC"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "Europese Unie",
+      "ORG"
+    ],
+    [
+      "Europese Green Deal",
+      "PROD"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
+      "MISC"
+    ],
+    [
+      "INPE",
+      "MISC"
+    ],
+    [
+      "São José dos Campos",
+      "LOC"
+    ],
+    [
+      "India",
+      "LOC"
+    ],
+    [
+      "Greta Thunberg",
+      "PER"
+    ],
+    [
+      "Youth Climate Coalition",
+      "ORG"
+    ],
+    [
+      "Australische belangengroep",
+      "MISC"
+    ],
+    [
+      "Climate Council",
+      "ORG"
+    ],
+    [
+      "Stille Oceaan",
+      "LOC"
+    ],
+    [
+      "September 2025",
+      "DATE"
+    ]
+  ],
+  "error": null
+}

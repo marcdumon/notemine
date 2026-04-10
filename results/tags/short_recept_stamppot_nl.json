@@ -1,0 +1,23 @@
+{
+  "file": "short_recept_stamppot_nl.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.547,
+  "ground_truth": [
+    "boerenkool",
+    "comfort-food",
+    "dutch-cuisine",
+    "netherlands",
+    "recipe",
+    "stamppot",
+    "winter"
+  ],
+  "tags": [
+    "dutch-cuisine",
+    "stamppot",
+    "boerenkool",
+    "rookworst",
+    "traditional-netherlands"
+  ],
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "file": "medium_history_dutch_golden_age_en.md",
+  "backend": "ollama",
+  "model": "llama3.2",
+  "elapsed_s": 1.786,
+  "ground_truth": [
+    "17th-century",
+    "amsterdam",
+    "colonialism",
+    "dutch-history",
+    "golden-age",
+    "rembrandt",
+    "trade",
+    "voc"
+  ],
+  "tags": [
+    "dutch-golden-age",
+    "trade-history",
+    "art-and-architecture",
+    "science-innovation",
+    "17th-century-europe"
+  ],
+  "error": null
+}
