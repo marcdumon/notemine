@@ -11,7 +11,7 @@ Use these types only:
 - MISC — other clearly named entity (law, award, event, concept)
 
 Rules:
-- Keep entity text exactly as it appears in the source note (do not translate)
+- Always return entity text in English, translating from the source language if necessary
 - Extract only clearly named entities, not generic nouns or descriptions
 - Dates should be extracted as they appear in the text, not normalised
 
