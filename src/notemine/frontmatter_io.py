@@ -34,3 +34,17 @@ def reset_vault(vault: str) -> int:
             save_note(path, post)
             count += 1
     return count
+
+
+def strip_tags_vault(vault: str) -> int:
+    """Remove the 'tags' key from frontmatter of all .md files in vault. Returns count modified."""
+    paths = glob(f'{vault}/**/*.md', recursive=True)
+    count = 0
+    for path in paths:
+        post = load_note(path)
+        if 'tags' in post.metadata:
+            del post.metadata['tags']
+            save_note(path, post)
+            print(f'Stripped tags: {path}')
+            count += 1
+    return count
