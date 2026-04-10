@@ -1,7 +1,7 @@
 import os
 
 import anthropic
-from openai import OpenAI
+import ollama
 
 
 def complete(backend: str, system: str, user: str, config: dict) -> str:
@@ -15,23 +15,23 @@ def complete(backend: str, system: str, user: str, config: dict) -> str:
     """
     if backend == 'ollama':
         cfg = config['ollama']
-        client = OpenAI(base_url=cfg['base_url'], api_key='ollama')
-        response = client.chat.completions.create(
+        client = ollama.Client(host=cfg['base_url'])
+        response = client.chat(
             model=cfg['model'],
             messages=[
                 {'role': 'system', 'content': system},
                 {'role': 'user', 'content': user},
             ],
-            temperature=cfg['temperature'],
-            max_tokens=cfg['max_tokens'],
-            response_format={'type': 'json_object'},
-            extra_body={'options': {'num_ctx': cfg['num_ctx']}},
+            format='json',
+            options={
+                'temperature': cfg['temperature'],
+                'num_predict': cfg['max_tokens'],
+                'num_ctx': cfg['num_ctx'],
+            },
         )
-        return response.choices[0].message.content
+        return response.message.content
 
-    elif backend == 'claude': # Todo: implement this properly once we have access to the API. For now, just return an empty string.
-        print('NOT IMPLEMENTED: Claude backend is not yet implemented. Please use Ollama for now.')
-        return ''
+    elif backend == 'claude':
         cfg = config['claude']
         client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
         response = client.messages.create(
