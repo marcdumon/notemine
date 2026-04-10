@@ -10,6 +10,9 @@ model = "claude-sonnet-4-5"
 temperature = 0.1
 max_tokens = 2000
 
+[run]
+backend = "ollama"
+
 [vault]
 path = "./data"
 ground_truth = "./data/ground_truth.yaml"
