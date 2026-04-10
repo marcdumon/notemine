@@ -1,10 +1,9 @@
 ---
-title: "De Gouden Eeuw: handel, kunst en rijk in de 17e eeuw"
-source: "https://rijksmuseum.nl/nl/verhalen/gouden-eeuw-overzicht"
-author: "Prof. Hanneke Oosterhout"
-published: "2024-09-22"
-created: "2024-09-23T12:00:00"
-tags: [nederlandse-geschiedenis, gouden-eeuw, voc, rembrandt, amsterdam, 17e-eeuw, handel, kolonialisme]
+author: Prof. Hanneke Oosterhout
+created: '2024-09-23T12:00:00'
+published: '2024-09-22'
+source: https://rijksmuseum.nl/nl/verhalen/gouden-eeuw-overzicht
+title: 'De Gouden Eeuw: handel, kunst en rijk in de 17e eeuw'
 ---
 
 # De Gouden Eeuw: handel, kunst en rijk in de 17e eeuw

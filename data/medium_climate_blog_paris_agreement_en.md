@@ -1,10 +1,9 @@
 ---
-title: "Ten Years After Paris: Are We Keeping Our Climate Promises?"
-source: "https://carbonbrief.org/ten-years-paris-agreement-review-2025"
-author: "Dr. Elena Fischer"
-published: "2025-12-12"
-created: "2025-12-13T08:14:00"
-tags: [climate-change, paris-agreement, ipcc, emissions, policy, cop30, fossil-fuels, net-zero]
+author: Dr. Elena Fischer
+created: '2025-12-13T08:14:00'
+published: '2025-12-12'
+source: https://carbonbrief.org/ten-years-paris-agreement-review-2025
+title: 'Ten Years After Paris: Are We Keeping Our Climate Promises?'
 ---
 
 # Ten Years After Paris: Are We Keeping Our Climate Promises?

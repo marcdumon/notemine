@@ -1,10 +1,9 @@
 ---
-title: "Amsterdam Travel Guide: What to See, Eat and Do in 2025"
-source: "https://lonelyplanet.com/netherlands/amsterdam/travel-tips-and-articles/amsterdam-guide-2025"
-author: "Clara van Houten"
-published: "2025-01-10"
-created: "2025-01-11T09:40:00"
-tags: [amsterdam, travel, netherlands, museums, food, cycling, tourism, jordaan, canal]
+author: Clara van Houten
+created: '2025-01-11T09:40:00'
+published: '2025-01-10'
+source: https://lonelyplanet.com/netherlands/amsterdam/travel-tips-and-articles/amsterdam-guide-2025
+title: 'Amsterdam Travel Guide: What to See, Eat and Do in 2025'
 ---
 
 # Amsterdam Travel Guide: What to See, Eat and Do in 2025

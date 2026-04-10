@@ -1,10 +1,9 @@
 ---
-title: "Tien jaar na Parijs: houden we onze klimaatbeloften?"
-source: "https://carbonbrief.org/ten-years-paris-agreement-review-2025"
-author: "Dr. Elena Fischer"
-published: "2025-12-12"
-created: "2025-12-13T08:50:00"
-tags: [klimaatverandering, parijs-akkoord, ipcc, uitstoot, beleid, cop30, fossiele-brandstoffen, netto-nul]
+author: Dr. Elena Fischer
+created: '2025-12-13T08:50:00'
+published: '2025-12-12'
+source: https://carbonbrief.org/ten-years-paris-agreement-review-2025
+title: 'Tien jaar na Parijs: houden we onze klimaatbeloften?'
 ---
 
 # Tien jaar na Parijs: houden we onze klimaatbeloften?

@@ -1,10 +1,9 @@
 ---
-title: "De EU AI Act is een echte prestatie — maar ze redt ons niet van onszelf"
-source: "https://politico.eu/article/eu-ai-act-digital-policy-analysis-2025"
-author: "Thomas Weber"
-published: "2025-04-02"
-created: "2025-04-02T14:20:00"
-tags: [eu-ai-act, digitaal-beleid, europese-unie, regelgeving, chatgpt, gezichtsherkenning, avg, grondrechten, big-tech]
+author: Thomas Weber
+created: '2025-04-02T14:20:00'
+published: '2025-04-02'
+source: https://politico.eu/article/eu-ai-act-digital-policy-analysis-2025
+title: De EU AI Act is een echte prestatie — maar ze redt ons niet van onszelf
 ---
 
 # De EU AI Act is een echte prestatie — maar ze redt ons niet van onszelf

@@ -1,10 +1,10 @@
 ---
-title: "Interview: Dr. Maria van den Berg on Sea Level Rise and the Future of the Dutch Delta"
-source: "https://nrc.nl/nieuws/2025/09/14/sea-level-dutch-delta-interview-van-den-berg"
-author: "Tobias Schout"
-published: "2025-09-14"
-created: "2025-09-14T16:20:00"
-tags: [climate-science, sea-level-rise, netherlands, delta-works, rotterdam, interview, knmi, deltares, flooding]
+author: Tobias Schout
+created: '2025-09-14T16:20:00'
+published: '2025-09-14'
+source: https://nrc.nl/nieuws/2025/09/14/sea-level-dutch-delta-interview-van-den-berg
+title: 'Interview: Dr. Maria van den Berg on Sea Level Rise and the Future of the
+  Dutch Delta'
 ---
 
 # Interview: Dr. Maria van den Berg on Sea Level Rise and the Future of the Dutch Delta

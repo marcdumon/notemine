@@ -1,10 +1,9 @@
 ---
-title: "OpenAI onthult GPT-5 op ontwikkelaarsconferentie in San Francisco"
-source: "https://techcrunch.com/2025/03/15/openai-unveils-gpt5"
-author: "Sarah Mitchell"
-published: "2025-03-15"
-created: "2025-03-15T15:10:00"
-tags: [ai, openai, gpt-5, technologieconferentie, san-francisco, microsoft, llm]
+author: Sarah Mitchell
+created: '2025-03-15T15:10:00'
+published: '2025-03-15'
+source: https://techcrunch.com/2025/03/15/openai-unveils-gpt5
+title: OpenAI onthult GPT-5 op ontwikkelaarsconferentie in San Francisco
 ---
 
 # OpenAI onthult GPT-5 op ontwikkelaarsconferentie in San Francisco

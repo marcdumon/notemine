@@ -1,10 +1,10 @@
 ---
-title: "Interview: dr. Maria van den Berg over zeespiegelstijging en de toekomst van de Nederlandse delta"
-source: "https://nrc.nl/nieuws/2025/09/14/zeespiegel-nederlandse-delta-interview-van-den-berg"
-author: "Tobias Schout"
-published: "2025-09-14"
-created: "2025-09-14T17:00:00"
-tags: [klimaatwetenschap, zeespiegelstijging, nederland, deltawerken, rotterdam, interview, knmi, deltares, overstromingen]
+author: Tobias Schout
+created: '2025-09-14T17:00:00'
+published: '2025-09-14'
+source: https://nrc.nl/nieuws/2025/09/14/zeespiegel-nederlandse-delta-interview-van-den-berg
+title: 'Interview: dr. Maria van den Berg over zeespiegelstijging en de toekomst van
+  de Nederlandse delta'
 ---
 
 # Interview: dr. Maria van den Berg over zeespiegelstijging en de toekomst van de Nederlandse delta

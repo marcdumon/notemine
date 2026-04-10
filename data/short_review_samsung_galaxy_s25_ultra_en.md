@@ -1,10 +1,9 @@
 ---
-title: "Samsung Galaxy S25 Ultra Review: The Best Android Phone of 2025"
-source: "https://tweakers.net/reviews/samsung-galaxy-s25-ultra-2025"
-author: "Joris Hendriksen"
-published: "2025-02-20"
-created: "2025-02-21T09:05:00"
-tags: [samsung, galaxy-s25-ultra, android, smartphone, review, snapdragon, camera]
+author: Joris Hendriksen
+created: '2025-02-21T09:05:00'
+published: '2025-02-20'
+source: https://tweakers.net/reviews/samsung-galaxy-s25-ultra-2025
+title: 'Samsung Galaxy S25 Ultra Review: The Best Android Phone of 2025'
 ---
 
 # Samsung Galaxy S25 Ultra Review: The Best Android Phone of 2025

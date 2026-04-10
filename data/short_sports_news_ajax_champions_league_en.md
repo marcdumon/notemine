@@ -1,10 +1,9 @@
 ---
-title: "Ajax Stun Bayern Munich in Champions League Quarter-Final First Leg"
-source: "https://nu.nl/sport/voetbal/ajax-vs-bayernmunich-ucl-2025"
-author: "Pieter van Dijk"
-published: "2025-04-08"
-created: "2025-04-08T23:15:00"
-tags: [ajax, champions-league, uefa, football, bayernmunich, amsterdam, sports]
+author: Pieter van Dijk
+created: '2025-04-08T23:15:00'
+published: '2025-04-08'
+source: https://nu.nl/sport/voetbal/ajax-vs-bayernmunich-ucl-2025
+title: Ajax Stun Bayern Munich in Champions League Quarter-Final First Leg
 ---
 
 # Ajax Stun Bayern Munich in Champions League Quarter-Final First Leg

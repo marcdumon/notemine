@@ -1,10 +1,9 @@
 ---
-title: "AI-Assisted Cancer Diagnosis at Amsterdam UMC: A Two-Year Clinical Trial"
-source: "https://thelancet.com/journals/landig/article/PIIS2589-7500(25)00041-2/fulltext"
-author: "Dr. Jan de Vries, Prof. Maria Santos, Dr. Kwame Asante"
-published: "2025-06-03"
-created: "2025-06-04T07:55:00"
-tags: [ai, oncology, cancer-diagnosis, amsterdam-umc, deep-learning, pathology, clinical-trial, healthcare, machine-learning]
+author: Dr. Jan de Vries, Prof. Maria Santos, Dr. Kwame Asante
+created: '2025-06-04T07:55:00'
+published: '2025-06-03'
+source: https://thelancet.com/journals/landig/article/PIIS2589-7500(25)00041-2/fulltext
+title: 'AI-Assisted Cancer Diagnosis at Amsterdam UMC: A Two-Year Clinical Trial'
 ---
 
 # AI-Assisted Cancer Diagnosis at Amsterdam UMC: A Two-Year Clinical Trial

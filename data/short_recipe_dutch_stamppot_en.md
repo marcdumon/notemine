@@ -1,10 +1,9 @@
 ---
-title: "Classic Dutch Stamppot: Boerenkool met Worst"
-source: "https://hollandsfoodguide.nl/recipes/stamppot-boerenkool"
-author: "Liesbeth Verhoeven"
-published: "2024-11-08"
-created: "2024-11-09T10:22:00"
-tags: [recipe, dutch-cuisine, stamppot, boerenkool, winter, comfort-food, netherlands]
+author: Liesbeth Verhoeven
+created: '2024-11-09T10:22:00'
+published: '2024-11-08'
+source: https://hollandsfoodguide.nl/recipes/stamppot-boerenkool
+title: 'Classic Dutch Stamppot: Boerenkool met Worst'
 ---
 
 # Classic Dutch Stamppot: Boerenkool met Worst

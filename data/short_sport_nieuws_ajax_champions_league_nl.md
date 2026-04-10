@@ -1,10 +1,9 @@
 ---
-title: "Ajax verslaat Bayern München in eerste kwartfinale Champions League"
-source: "https://nu.nl/sport/voetbal/ajax-vs-bayernmunich-ucl-2025"
-author: "Pieter van Dijk"
-published: "2025-04-08"
-created: "2025-04-08T23:35:00"
-tags: [ajax, champions-league, uefa, voetbal, bayernmunchen, amsterdam, sport]
+author: Pieter van Dijk
+created: '2025-04-08T23:35:00'
+published: '2025-04-08'
+source: https://nu.nl/sport/voetbal/ajax-vs-bayernmunich-ucl-2025
+title: Ajax verslaat Bayern München in eerste kwartfinale Champions League
 ---
 
 # Ajax verslaat Bayern München in eerste kwartfinale Champions League

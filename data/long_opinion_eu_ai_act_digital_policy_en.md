@@ -1,10 +1,9 @@
 ---
-title: "The EU AI Act Is a Genuine Achievement — but It Won't Save Us from Ourselves"
-source: "https://politico.eu/article/eu-ai-act-digital-policy-analysis-2025"
-author: "Thomas Weber"
-published: "2025-04-02"
-created: "2025-04-02T13:45:00"
-tags: [eu-ai-act, digital-policy, european-union, regulation, chatgpt, facial-recognition, gdpr, fundamental-rights, big-tech]
+author: Thomas Weber
+created: '2025-04-02T13:45:00'
+published: '2025-04-02'
+source: https://politico.eu/article/eu-ai-act-digital-policy-analysis-2025
+title: The EU AI Act Is a Genuine Achievement — but It Won't Save Us from Ourselves
 ---
 
 # The EU AI Act Is a Genuine Achievement — but It Won't Save Us from Ourselves

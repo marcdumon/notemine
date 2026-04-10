@@ -1,10 +1,9 @@
 ---
-title: "OpenAI Unveils GPT-5 at San Francisco Developer Conference"
-source: "https://techcrunch.com/2025/03/15/openai-unveils-gpt5"
-author: "Sarah Mitchell"
-published: "2025-03-15"
-created: "2025-03-15T14:32:00"
-tags: [ai, openai, gpt-5, tech-conference, san-francisco, microsoft, llm]
+author: Sarah Mitchell
+created: '2025-03-15T14:32:00'
+published: '2025-03-15'
+source: https://techcrunch.com/2025/03/15/openai-unveils-gpt5
+title: OpenAI Unveils GPT-5 at San Francisco Developer Conference
 ---
 
 # OpenAI Unveils GPT-5 at San Francisco Developer Conference

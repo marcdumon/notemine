@@ -1,10 +1,9 @@
 ---
-title: "The Dutch Golden Age: Trade, Art and Empire in the 17th Century"
-source: "https://rijksmuseum.nl/en/stories/dutch-golden-age-overview"
-author: "Prof. Hanneke Oosterhout"
-published: "2024-09-22"
-created: "2024-09-23T11:30:00"
-tags: [dutch-history, golden-age, voc, rembrandt, amsterdam, 17th-century, trade, colonialism]
+author: Prof. Hanneke Oosterhout
+created: '2024-09-23T11:30:00'
+published: '2024-09-22'
+source: https://rijksmuseum.nl/en/stories/dutch-golden-age-overview
+title: 'The Dutch Golden Age: Trade, Art and Empire in the 17th Century'
 ---
 
 # The Dutch Golden Age: Trade, Art and Empire in the 17th Century

@@ -1,10 +1,9 @@
 ---
-title: "Samsung Galaxy S25 Ultra recensie: de beste Android-telefoon van 2025"
-source: "https://tweakers.net/reviews/samsung-galaxy-s25-ultra-2025"
-author: "Joris Hendriksen"
-published: "2025-02-20"
-created: "2025-02-21T09:30:00"
-tags: [samsung, galaxy-s25-ultra, android, smartphone, recensie, snapdragon, camera]
+author: Joris Hendriksen
+created: '2025-02-21T09:30:00'
+published: '2025-02-20'
+source: https://tweakers.net/reviews/samsung-galaxy-s25-ultra-2025
+title: 'Samsung Galaxy S25 Ultra recensie: de beste Android-telefoon van 2025'
 ---
 
 # Samsung Galaxy S25 Ultra recensie: de beste Android-telefoon van 2025

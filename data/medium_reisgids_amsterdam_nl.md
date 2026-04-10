@@ -1,10 +1,9 @@
 ---
-title: "Amsterdam reisgids: wat te zien, eten en doen in 2025"
-source: "https://lonelyplanet.com/netherlands/amsterdam/travel-tips-and-articles/amsterdam-guide-2025"
-author: "Clara van Houten"
-published: "2025-01-10"
-created: "2025-01-11T10:15:00"
-tags: [amsterdam, reizen, nederland, musea, eten, fietsen, toerisme, jordaan, gracht]
+author: Clara van Houten
+created: '2025-01-11T10:15:00'
+published: '2025-01-10'
+source: https://lonelyplanet.com/netherlands/amsterdam/travel-tips-and-articles/amsterdam-guide-2025
+title: 'Amsterdam reisgids: wat te zien, eten en doen in 2025'
 ---
 
 # Amsterdam reisgids: wat te zien, eten en doen in 2025

@@ -1,10 +1,9 @@
 ---
-title: "Klassieke Hollandse stamppot boerenkool met worst"
-source: "https://hollandsfoodguide.nl/recepten/stamppot-boerenkool"
-author: "Liesbeth Verhoeven"
-published: "2024-11-08"
-created: "2024-11-09T10:45:00"
-tags: [recept, hollandse-keuken, stamppot, boerenkool, winter, comfort-food, nederland]
+author: Liesbeth Verhoeven
+created: '2024-11-09T10:45:00'
+published: '2024-11-08'
+source: https://hollandsfoodguide.nl/recepten/stamppot-boerenkool
+title: Klassieke Hollandse stamppot boerenkool met worst
 ---
 
 # Klassieke Hollandse stamppot boerenkool met worst
