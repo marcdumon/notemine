@@ -1,10 +1,10 @@
-Summarise the note below.
+Summarise the note below. Always write in English, regardless of the source language of the note.
 
 Return a JSON object with one key "summary", which is a list of 2 to 4 sentences that together
 form a concise summary of the note's key ideas, entities, and findings.
 
 Rules:
-- Write in English regardless of the source language
+- Write in English regardless of the source language — do not use any other language
 - Each sentence should be self-contained and informative
 - Focus on who, what, where, when, and why — not on the document structure
 - Do not include phrases like "this article discusses" or "the note covers"
