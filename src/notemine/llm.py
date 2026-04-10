@@ -29,7 +29,9 @@ def complete(backend: str, system: str, user: str, config: dict) -> str:
         )
         return response.choices[0].message.content
 
-    elif backend == 'claude':
+    elif backend == 'claude': # Todo: implement this properly once we have access to the API. For now, just return an empty string.
+        print('NOT IMPLEMENTED: Claude backend is not yet implemented. Please use Ollama for now.')
+        return ''
         cfg = config['claude']
         client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
         response = client.messages.create(
