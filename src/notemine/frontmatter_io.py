@@ -27,6 +27,7 @@ def reset_vault(vault: str) -> int:
     paths = glob(f'{vault}/**/*.md', recursive=True)
     count = 0
     for path in paths:
+        print(f'Resetting {path}...')
         post = load_note(path)
         if 'notemine' in post.metadata:
             del post.metadata['notemine']
