@@ -2,6 +2,7 @@ import os
 
 import anthropic
 import ollama
+from anthropic.types import TextBlock
 
 from notemine.config import Config
 
@@ -31,7 +32,7 @@ def complete(backend: str, system: str, user: str, config: Config) -> str:
                 'num_ctx': cfg['num_ctx'],
             },
         )
-        return response.message.content
+        return response.message.content or ''
 
     elif backend == 'claude':
         cfg = config['claude']
@@ -43,7 +44,8 @@ def complete(backend: str, system: str, user: str, config: Config) -> str:
             temperature=cfg['temperature'],
             max_tokens=cfg['max_tokens'],
         )
-        return response.content[0].text
+        text_blocks = [block.text for block in response.content if isinstance(block, TextBlock)]
+        return ''.join(text_blocks)
 
     else:
         raise ValueError(f'Unknown backend: {backend!r}. Use "ollama" or "claude".')
