@@ -3,8 +3,10 @@ import os
 import anthropic
 import ollama
 
+from notemine.config import Config
 
-def complete(backend: str, system: str, user: str, config: dict) -> str:
+
+def complete(backend: str, system: str, user: str, config: Config) -> str:
     """Return a raw string completion from the chosen backend.
 
     Args:

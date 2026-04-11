@@ -1,6 +1,8 @@
 import json
 from pathlib import Path
+from typing import Any
 
+from notemine.config import Config
 from notemine.llm import complete
 
 _SYSTEM = 'You are a precise information extraction assistant. Return valid JSON only. No markdown fences.'
@@ -11,7 +13,7 @@ def _load_prompt(prompts_dir: str, task: str) -> str:
     return Path(prompts_dir, f'{task}.txt').read_text(encoding='utf-8')
 
 
-def _parse_json(raw: str) -> dict:
+def _parse_json(raw: str) -> dict[str, Any]:
     """Strip optional markdown fences and parse JSON."""
     raw = raw.strip()
     if raw.startswith('```'):
@@ -19,7 +21,7 @@ def _parse_json(raw: str) -> dict:
     return json.loads(raw)
 
 
-def run_ner(backend: str, content: str, config: dict) -> list[list[str]]:
+def run_ner(backend: str, content: str, config: Config) -> list[list[str]]:
     """Run NER on note content. Returns list of [entity_text, entity_type] pairs."""
     template = _load_prompt(config['vault']['prompts_dir'], 'ner')
     user = template.format(content=content)
@@ -28,7 +30,7 @@ def run_ner(backend: str, content: str, config: dict) -> list[list[str]]:
     return result['entities']
 
 
-def run_tags(backend: str, content: str, config: dict) -> list[str]:
+def run_tags(backend: str, content: str, config: Config) -> list[str]:
     """Run tag generation on note content. Returns list of tag strings."""
     template = _load_prompt(config['vault']['prompts_dir'], 'tags')
     user = template.format(content=content)
@@ -37,7 +39,7 @@ def run_tags(backend: str, content: str, config: dict) -> list[str]:
     return result['tags']
 
 
-def run_summary(backend: str, content: str, config: dict) -> list[str]:
+def run_summary(backend: str, content: str, config: Config) -> list[str]:
     """Run summarisation on note content. Returns list of sentence strings."""
     template = _load_prompt(config['vault']['prompts_dir'], 'summary')
     user = template.format(content=content)

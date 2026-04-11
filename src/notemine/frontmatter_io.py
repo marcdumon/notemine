@@ -1,6 +1,9 @@
+import logging
 from glob import glob
 
 import frontmatter
+
+logger = logging.getLogger(__name__)
 
 
 def load_note(path: str) -> frontmatter.Post:
@@ -27,7 +30,7 @@ def reset_vault(vault: str) -> int:
     paths = glob(f'{vault}/**/*.md', recursive=True)
     count = 0
     for path in paths:
-        print(f'Resetting {path}...')
+        logger.info('Resetting %s', path)
         post = load_note(path)
         if 'notemine' in post.metadata:
             del post.metadata['notemine']
@@ -45,6 +48,6 @@ def strip_tags_vault(vault: str) -> int:
         if 'tags' in post.metadata:
             del post.metadata['tags']
             save_note(path, post)
-            print(f'Stripped tags: {path}')
+            logger.info('Stripped tags: %s', path)
             count += 1
     return count
