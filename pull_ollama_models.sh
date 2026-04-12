@@ -9,7 +9,6 @@ models=(
   "granite3.3:8b"
   "gemma2:2b"
   "deepseek-r1:8b"
-  "phi4:mini"
 )
 
 for m in "${models[@]}"; do
