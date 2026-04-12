@@ -123,7 +123,7 @@ Score each 1–5:
 ## Output format
 
 Return a JSON array. One object per input record, preserving `model`, `task`, `doc`,
-`elapsed_s`, and `result` fields unchanged, with a `scores` dict added:
+and `elapsed_s` fields. Do not include the `result` field. Add a `scores` dict:
 
 ```json
 [
@@ -132,7 +132,6 @@ Return a JSON array. One object per input record, preserving `model`, `task`, `d
     "task": "ner",
     "doc": "medium_climate_blog_paris_agreement_en.md",
     "elapsed_s": 40.7,
-    "result": [...],
     "scores": {
       "entity_form": 3,
       "type_accuracy": 4,

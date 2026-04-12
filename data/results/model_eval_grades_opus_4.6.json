@@ -1,0 +1,762 @@
+[
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 40.7,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Verbose forms with Dr./Professor/President titles, parenthetical expansions (IPCC), context phrases (London-based think tank); non-entities extracted (coal use, Global CO₂ emissions, solar power capacity); uses invalid NUM type; Saudi Aramco typed PROD not ORG"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 2.3,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Only 5 tags; relevant and atomic but misses lobbying, COP30, deforestation, NDCs"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 8.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate with key figures (1.45°C, 37.4 Gt, 2070) but only covers temperature, emissions, and Brazil/India; misses lobbying, renewable energy, COP30"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 38.7,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Dr./Professor titles kept; 'President' alone as PER; context phrases (Deense windenergiebedrijf, Spaanse Iberdrola); non-entities (Climate activists, monument); VN-secretaris-generaal typed ORG; uses invalid NUM type; Global Carbon Project typed MISC"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "6 short atomic English tags, all relevant, but misses deforestation, lobbying, COP30"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate facts, English output, includes 1.45°C and 37.4 Gt but only 3 sentences with limited scope"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 20.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr. title on Otto; President title on Lula; merged IPCC+Sixth Assessment Report into one entity; context phrases (Danish wind energy company, COP30 summit in Belém Brazil); 'former European Commission President' as PER; uses invalid EVENT type; Paris Agreement typed PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good breadth including lobbying and cop30; nationally-determined-contributions is verbose"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Covers temperatures, India pledge, lobbying, COP30 with specific figures; misses emissions total, EU progress, renewable energy"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 24.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr. title on Otto; Europees Commissievoorzitter merged with name; VN-secretaris-generaal merged with name; '196 landen' extracted as LOC; Akkoord van Parijs/Zesde Beoordelingsrapport/COP30-top all typed PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.8,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Malformed tag 'copolitical-will' (typo/merge); otherwise decent English coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 7.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate English output covering temperatures, India, lobbying, COP30 with specific figures; misses EU progress and renewable energy"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 43.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Dr. titles on Otto and Hayhoe, Professor on Friedlingstein; verbose Grantham Institute at Imperial College London; all oil companies and Ørsted/Iberdrola typed PROD instead of ORG; European Union typed LOC; Paris Agreement typed PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.8,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Descriptive compounds: fossil-fuel-lobbying, international-environmental-policy, deforestation-amazon; should be shorter atomic terms"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 9.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Only 2 sentences covering the signing and temperatures; misses emissions, EU, Brazil, India, lobbying, COP30, renewable energy"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 34.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Dr. title on Otto; Europees Commissievoorzitter merged with name; VN-secretaris-generaal merged with name; verbose Nationaal Instituut voor Ruimteonderzoek (INPE); types mostly correct"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 3,
+      "coverage": 4,
+      "notes": "'klimaatbeloften' is Dutch; 'international-environmental-policy' and 'cop30-top' are compound/have Dutch suffix"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 13.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Accurate English output with strong specificity (196 countries, 2015, 1.45°C, 37.4 Gt, 2070, November 2025); covers signing, temperatures, emissions, India, COP30"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 52.6,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Null result; model failed to produce NER output"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 34.1,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Wide topic coverage but many compound tags: ipcc-report, global-carbon-project, fossil-fuel-lobbying, cop30-summit, climate-promises, eu-green-deal, india-net-zero"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 16.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Excellent coverage of all major storylines with specific figures: 1.45°C, 37.4 Gt, 11568 km², $750M, COP30, Belém, November 2025"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 48.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Null result; model failed to produce NER output"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 25.8,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good English tags with wide coverage; fossil-fuel-lobby slightly compound but mostly atomic terms"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 15.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Comprehensive English summary with strong specificity: 1.45°C, 37.4 Gt, 11568 km², 430 GW, 2070, Lula da Silva"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 89.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Null result; model failed to produce NER output"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 45.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Wide coverage but compound tags: fossil-fuel-lobbying, renewable-energy-growth, brazil-deforestation, india-climate-policy, net-zero-targets"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 22.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Comprehensive with all major storylines and rich detail: dates, names, figures throughout"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 84.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr. title on Otto; 'Australische belangengroep' is context phrase; misspells 'Akkord' (should be Akkoord); oil companies and Ørsted/Iberdrola typed PROD; VN-secretaris-generaal typed MISC"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 41.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Compound tags: fossil-fuel-lobbyists, international-climate-summit; otherwise relevant English terms"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 31.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Excellent English summary covering all storylines with specific figures: 37.4 Gt, 32%, 11568 km², $750M, 430 GW, 89%, 2 TW"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 25.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr./Professor titles kept; UN Secretary-General merged with name; context phrases (Australian advocacy group, London-based think tank, Spain's Iberdrola); Paris Agreement/Global Carbon Project/InfluenceMap/BloombergNEF all typed PROD"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.6,
+    "scores": {
+      "relevance": 4,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good range with lobbying and cop30; 'sustainability' and 'united-nations' are somewhat generic"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate with key figures but only 3 sentences covering signing, temperatures/emissions, EU/Brazil/India; misses lobbying, renewable energy, COP30"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 22.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr. titles kept; 1,5°C and 2°C extracted as entities (not named entities); multiple PROD mistyping (IEA, INPE, COP30-top, VN-secretaris-generaal, Nationally Determined Contributions, Akkoord van Parijs)"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good English tags with decent range; eu-green-deal and carbon-neutrality are acceptable compounds"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate English output but only 3 general sentences; lacks specific figures (no temperature value, no emissions total); misses renewable energy and COP30"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 21.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 3,
+      "notes": "Dr./Professor titles; context phrases (Danish wind energy company Ørsted); President/UN Secretary-General/European Commission President as standalone entities; China and United States typed ORG in duplicates; oil companies typed PROD; hallucinated date 'March 2025' not in source"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 1.8,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Short atomic terms but only 6 tags; misses lobbying, COP30, deforestation, India"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 sentences covering signing, emissions, EU/Brazil, lobbying with good specificity; misses India pledge, COP30, renewable energy details"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 16.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Context phrases (Londense denktank, Europees Commissievoorzitter, VN-secretaris-generaal); Grantham Institute duplicated with conflicting types (ORG/PROD); oil companies typed PROD; Youth Climate Coalition typed MISC; 'Brazil' in English form"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 1.9,
+    "scores": {
+      "relevance": 3,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Hallucinated topic 'copenhagen-summit' (not in article); only 5 tags with limited coverage"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "5 well-structured English sentences covering temperature, fossil fuels, EU, Brazil deforestation, India pledge with strong specificity"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 24.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Dr./Professor titles; verbose forms (IPCC with parenthetical, Grantham Institute at Imperial College London, Brazil's INPE with parenthetical, Australian advocacy group Climate Council); types mostly correct; all entities present in source"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Relevant coverage but compound tags: fossil-fuel-lobbying, nationally-determined-contributions"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Covers main topics including renewable energy and COP30 but lacks specific figures (no 37.4 Gt, says 'millions' not $750M, no deforestation figure)"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 9.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Clean forms without titles/context phrases; but some English entity forms for Dutch text (University of Exeter, European Green Deal, Paris, Brazil, Amazon); IPCC typed MISC instead of ORG; sparse extraction"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.7,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Compound tags: fossils-fuels-lobbying (also typo), brazilian-rainforest, india-climate-policy"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Incorrectly calls Brazil a top-3 emitter (source says India is third); only 3 sentences missing EU, India pledge, lobbying, COP30, renewable energy"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 23.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Dr. titles; verbose forms (IPCC parenthetical, Grantham Institute at ICL, Le Bourget France merged, Danish wind energy company Ørsted); non-entities (Global average temperatures in 2024, solar power capacity globally, 2 terawatts); Global Carbon Project typed MISC"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.7,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage but nationally-determined-contributions is verbose; otherwise solid"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 11.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "8 comprehensive sentences covering all major topics with rich detail: 196 nations, 1.45°C, 37.4 Gt, 32%, 2070, $750M, COP30, 2 TW"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 16.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Dr./professor titles; verbose Grantham Institute van het ICL; context phrase Londense denktank; non-entities (1,45°C as DATE, 37.4 gigaton, zonne-energiecapaciteit, 2 terawatt as MISC); InfluenceMap/Global Carbon Project typed MISC"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good English tags; ipcc-report slightly compound but acceptable"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 17.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "7 comprehensive English sentences with rich detail covering all storylines; includes specific figures throughout"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 53.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Null result; model failed to produce NER output"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 39.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Short atomic English tags with excellent coverage: paris-agreement, emissions, ipcc, renewable-energy, fossil-fuel, deforestation, ndcs, cop30"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 27.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate 3 sentences covering temperatures, lobbying, Brazil, renewable energy, COP30; misses EU progress, India pledge, emissions total"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 48.6,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Null result; model failed to produce NER output"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 37.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good English tags with wide coverage; fossil-fuel-lobby slightly compound but mostly atomic"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 31.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Comprehensive English summary: 4 sentences covering Paris Agreement, emissions, EU, Brazil, lobbying, renewable energy, COP30, Katharine Hayhoe with rich specific detail"
+    }
+  }
+]
