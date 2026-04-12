@@ -1,9 +1,0 @@
-{
-  "file": "long_ai_gezondheidszorg_oncologie_onderzoek_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 8.405,
-  "ground_truth": "A clinical trial at Amsterdam UMC involving 2,847 patients found that AI-assisted pathology (PathAI Colorectal Classifier v3.1) improved early-stage colorectal cancer diagnostic accuracy from 91.7% to 96.3% and reduced reporting time by 38.7%. The trial, led by Dr. Jan de Vries and Prof. Maria Santos, was published in The Lancet Digital Health and received CE marking under EU MDR. Philips Healthcare and PathAI announced a commercial partnership to roll out the technology to 35 Dutch hospitals by Q1 2026.",
-  "summary": "A two-year randomized controlled study at Amsterdam UMC showed that AI-assisted pathology can reduce diagnostic errors for early-stage colorectal cancer by 96.3% compared to 91.7% in standard pathology. The study, published on June 3, 2025, in The Lancet Digital Health, is one of the largest clinical validations of AI in oncological pathology in Europe. Pathologists' confidence increased in the AI-assisted group, with a significant reduction in false negatives for patients over 70 years old and rare tumor subtypes.",
-  "error": null
-}

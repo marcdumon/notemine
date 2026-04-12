@@ -1,9 +1,0 @@
-{
-  "file": "short_tech_nieuws_openai_aankondiging_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 3.525,
-  "ground_truth": "OpenAI CEO Sam Altman announced GPT-5 at the Moscone Center in San Francisco on March 15, 2025, claiming it outperforms Google DeepMind's Gemini Ultra 2.0 on the MMLU benchmark. Microsoft confirmed GPT-5 integration into Azure AI Studio and Microsoft Copilot by April 2025. AI safety researcher Geoffrey Hinton and EU regulators called for independent safety evaluations before deployment.",
-  "summary": "OpenAI unveiled GPT-5 at a developers conference in San Francisco on March 15, 2025. Sam Altman demonstrated improved reasoning abilities of GPT-5 with a score of 94% on the MMLU benchmark.",
-  "error": null
-}

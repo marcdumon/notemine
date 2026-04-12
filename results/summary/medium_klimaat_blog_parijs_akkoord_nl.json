@@ -1,9 +1,0 @@
-{
-  "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 7.248,
-  "ground_truth": "Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions have reached record levels and temperatures are at 1.45°C above pre-industrial baseline. While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is cited as a critical test of international resolve.",
-  "summary": "In 2024, global temperatures were 1.45°C above pre-industrial levels according to the IPCC. India's emissions are second only to China and the US, with a timeline of 2070 for climate neutrality deemed too late by activists. Lobbyists from oil and gas companies spent $750 million between 2020 and 2024 opposing climate legislation. The upcoming COP30 in Belém in November 2025 will test global commitment to the Paris Agreement.",
-  "error": null
-}

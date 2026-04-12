@@ -1,9 +1,0 @@
-{
-  "file": "short_recept_stamppot_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 3.448,
-  "ground_truth": "A recipe for classic Dutch stamppot boerenkool met worst, combining mashed potatoes with curly kale and smoked sausage (rookworst). The recipe includes ingredients, step-by-step instructions, and a seasonal note that stamppot is traditionally eaten from October to March in the Netherlands. Brands Unox and Hema are cited as traditional rookworst producers.",
-  "summary": "Stamppot is a traditional Dutch winter dish combining sauerkraut with mashed potatoes and served with smoked sausage from Unox or Hema. Albert Heijn and Jumbo sell pre-cut sauerkraut during October to March in the Netherlands.",
-  "error": null
-}

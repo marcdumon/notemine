@@ -1,9 +1,0 @@
-{
-  "file": "medium_reisgids_amsterdam_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 6.866,
-  "ground_truth": "A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams, cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3 tourist tax and Airbnb restrictions.",
-  "summary": "Amsterdam Airport Schiphol is one of Europe's busiest airports with direct connections to over 300 destinations. The Rijksmuseum houses Rembrandt's *De Nachtwacht* and has tickets starting at €22.50 for adults. The Jordaan, west of the canal ring, features narrow streets, independent galleries, and vintage shops. Café de Jaren on Nieuwe Doelenstraat offers a sunny terrace with views of the Amstel river.",
-  "error": null
-}

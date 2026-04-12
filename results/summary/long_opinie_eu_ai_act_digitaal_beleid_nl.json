@@ -1,9 +1,0 @@
-{
-  "file": "long_opinie_eu_ai_act_digitaal_beleid_nl.md",
-  "backend": "ollama",
-  "model": "qwen2.5:7b",
-  "elapsed_s": 6.345,
-  "ground_truth": "An opinion piece arguing that while the EU AI Act is a genuine regulatory achievement, its implementation is undermined by slow member-state enforcement, lobbying-induced dilution, and structural timing lags behind fast-moving AI development. The author compares the Act's likely trajectory to the GDPR's slow enforcement and argues that effective AI governance also requires European sovereign compute, a transatlantic agreement, civil society funding, and clarity on what fundamental rights the regulation is meant to protect.",
-  "summary": "The European Union's AI Act was adopted by the European Parliament on March 13, 2024. Key provisions for general-purpose AI models will only take effect in August 2025. Critics argue that enforcement and timing issues may undermine its effectiveness. Proponents suggest additional measures like a European sovereign computing infrastructure are needed.",
-  "error": null
-}
