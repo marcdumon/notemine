@@ -1,9 +1,9 @@
 {
   "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 4.01,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 5.331,
   "ground_truth": "Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions have reached record levels and temperatures are at 1.45°C above pre-industrial baseline. While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is cited as a critical test of international resolve.",
-  "summary": "The Paris Agreement's goal to limit global warming to 1.5°C is no longer considered achievable. Global CO2 emissions reached a record high in 2023, and fossil fuel usage remains high despite growing renewable energy. Some countries, like the EU, have made progress with their climate goals, while others, such as Brazil and India, are criticized for their slow action.",
+  "summary": "Ten years after the Paris Agreement, global temperatures are dangerously close to the 1.5°C threshold. Fossil fuel consumption remains high despite renewable energy expansion. Lobbying by oil and gas companies has hindered climate legislation. The upcoming COP30 in Belém will test international commitment. Renewable energy, particularly solar, shows promise but faces political challenges",
   "error": null
 }

@@ -1,8 +1,8 @@
 {
   "file": "long_ai_gezondheidszorg_oncologie_onderzoek_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 2.421,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 5.215,
   "ground_truth": [
     "ai",
     "amsterdam-umc",
@@ -15,11 +15,15 @@
     "pathology"
   ],
   "tags": [
-    "artificial-intelligence",
+    "ai-pathology",
+    "cancer-diagnosis",
+    " amsterdam-umc",
     "machine-learning",
-    "medical-diagnosis",
-    "pathology",
-    "computational-pathology"
+    "medical-research",
+    "diagnostic-accuracy",
+    "pathologist-assistance",
+    "clinical-study",
+    "healthcare-innovation"
   ],
   "error": null
 }

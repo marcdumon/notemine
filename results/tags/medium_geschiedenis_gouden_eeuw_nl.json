@@ -1,8 +1,8 @@
 {
   "file": "medium_geschiedenis_gouden_eeuw_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.748,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 2.908,
   "ground_truth": [
     "17th-century",
     "amsterdam",
@@ -14,13 +14,11 @@
     "voc"
   ],
   "tags": [
-    "netherlands",
-    "17th-century",
-    "trade",
-    "art",
-    "architecture",
-    "science",
-    "philosophy"
+    "netherlands-golden-age",
+    "voc-commerce",
+    "colonial-expansion",
+    "rembrandt-vermeer",
+    "amsterdam-grachten"
   ],
   "error": null
 }

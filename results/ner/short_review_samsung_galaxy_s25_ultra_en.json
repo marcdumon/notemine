@@ -1,8 +1,8 @@
 {
   "file": "short_review_samsung_galaxy_s25_ultra_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 5.165,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 7.727,
   "ground_truth": [
     [
       "Joris Hendriksen",
@@ -67,15 +67,11 @@
   ],
   "entities": [
     [
-      "Samsung",
-      "ORG"
+      "Samsung Galaxy S25 Ultra",
+      "PROD"
     ],
     [
-      "Galaxy S25 Ultra",
-      "MISC"
-    ],
-    [
-      "Snapdragon 8 Elite",
+      "Snapdragon 8 Elite chip",
       "PROD"
     ],
     [
@@ -87,40 +83,40 @@
       "ORG"
     ],
     [
-      "iPhone 16 Pro Max",
-      "MISC"
+      "Snapdragon 8 Gen 3",
+      "PROD"
     ],
     [
-      "Apple",
-      "ORG"
+      "Apple iPhone 16 Pro Max",
+      "PROD"
     ],
     [
       "Google Pixel 9 Pro",
-      "MISC"
+      "PROD"
+    ],
+    [
+      "5,000 mAh battery",
+      "PROD"
     ],
     [
       "Samsung Galaxy AI",
-      "MISC"
+      "PROD"
     ],
     [
       "Live Translate",
-      "MISC"
+      "PROD"
     ],
     [
       "Note Assist",
-      "MISC"
+      "PROD"
     ],
     [
-      "Circle to Search",
-      "MISC"
+      "Circle to Search powered by Google Gemini",
+      "PROD"
     ],
     [
-      "Google Gemini",
-      "MISC"
-    ],
-    [
-      "March 2025",
-      "DATE"
+      "iPhone 16 Pro Max",
+      "PROD"
     ]
   ],
   "error": null

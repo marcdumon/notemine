@@ -1,8 +1,8 @@
 {
   "file": "long_ai_healthcare_oncology_research_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 2.129,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 3.406,
   "ground_truth": [
     "ai",
     "amsterdam-umc",
@@ -15,11 +15,11 @@
     "pathology"
   ],
   "tags": [
-    "artificial-intelligence-assisted pathology",
-    "colorectal cancer diagnosis",
-    "machine-learning",
-    "medical imaging",
-    "digital health"
+    "ai-assisted-diagnosis",
+    "cancer-pathology",
+    "colorectal-cancer",
+    "clinical-trial",
+    "pathologist-augmentation"
   ],
   "error": null
 }

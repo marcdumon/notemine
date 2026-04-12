@@ -1,8 +1,8 @@
 {
   "file": "long_ai_healthcare_oncology_research_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 12.45,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 13.786,
   "ground_truth": [
     [
       "Jan de Vries",
@@ -203,43 +203,47 @@
       "ORG"
     ],
     [
-      "Academic Medical Center",
+      "Academic Medical Center (AMC)",
       "ORG"
     ],
     [
-      "VU University Medical Center",
+      "VU University Medical Center (VUmc)",
       "ORG"
     ],
     [
       "The Lancet Digital Health",
-      "ORG"
-    ],
-    [
-      "European Union",
-      "LOC"
+      "PROD"
     ],
     [
       "Netherlands",
       "LOC"
     ],
     [
-      "Dutch Cancer Registry",
-      "ORG"
+      "Colorectal cancer",
+      "MISC"
     ],
     [
       "IKNL",
       "ORG"
     ],
     [
-      "NVVP",
+      "Radboud University Medical Center",
       "ORG"
     ],
     [
-      "Royal Netherlands Academy of Arts and Sciences",
+      "Nijmegen",
+      "LOC"
+    ],
+    [
+      "KNAW (Royal Netherlands Academy of Arts and Sciences)",
       "ORG"
     ],
     [
-      "KNAW",
+      "PathAI Colorectal Classifier v3.1",
+      "PROD"
+    ],
+    [
+      "Boston-based PathAI Inc.",
       "ORG"
     ],
     [
@@ -247,96 +251,40 @@
       "ORG"
     ],
     [
-      "PathAI Inc.",
-      "ORG"
-    ],
-    [
-      "Boston",
-      "LOC"
-    ],
-    [
       "Delft University of Technology",
       "ORG"
     ],
     [
       "Horizon Europe",
+      "MISC"
+    ],
+    [
+      "ZonMW (the Netherlands Organisation for Health Research and Development)",
       "ORG"
     ],
     [
-      "European Research Council",
+      "SURFsara",
       "ORG"
     ],
     [
-      "KWF Kankerbestrijding",
+      "Royal Brompton Hospital",
+      "ORG"
+    ],
+    [
+      "European Society for Medical Oncology (ESMO)",
+      "ORG"
+    ],
+    [
+      "KWF Kankerbestrijding (Dutch Cancer Society)",
+      "ORG"
+    ],
+    [
+      "European Research Council (ERC)",
       "ORG"
     ],
     [
       "Philips Healthcare",
       "ORG"
-    ],
-    [
-      "Amsterdam",
-      "LOC"
-    ],
-    [
-      "Utrecht",
-      "LOC"
-    ],
-    [
-      "Nijmegen",
-      "LOC"
-    ],
-    [
-      "Rotterdam",
-      "LOC"
-    ],
-    [
-      "Groningen",
-      "LOC"
-    ],
-    [
-      "Maastricht",
-      "LOC"
-    ],
-    [
-      "January 2023",
-      "DATE"
-    ],
-    [
-      "December 2024",
-      "DATE"
-    ],
-    [
-      "June 3",
-      "DATE"
-    ],
-    [
-      "2022",
-      "DATE"
-    ],
-    [
-      "2023",
-      "DATE"
-    ],
-    [
-      "2025",
-      "DATE"
-    ],
-    [
-      "2030",
-      "DATE"
-    ],
-    [
-      "2028",
-      "DATE"
-    ],
-    [
-      "2027",
-      "DATE"
-    ],
-    [
-      "Q1 2026",
-      "DATE"
     ]
   ],
   "error": null

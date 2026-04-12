@@ -1,8 +1,8 @@
 {
   "file": "long_opinion_eu_ai_act_digital_policy_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 15.742,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 22.416,
   "ground_truth": [
     [
       "Thomas Weber",
@@ -203,23 +203,51 @@
       "PER"
     ],
     [
-      "China",
-      "LOC"
-    ],
-    [
-      "European Commission",
+      "Chinese authorities",
       "ORG"
     ],
     [
-      "Google",
-      "PROD"
+      "DG CONNECT",
+      "ORG"
     ],
     [
-      "Meta",
+      "Bits of Freedom",
+      "ORG"
+    ],
+    [
+      "AlgorithmWatch",
+      "ORG"
+    ],
+    [
+      "Autoriteit Persoonsgegevens (AP)",
+      "ORG"
+    ],
+    [
+      "Microsoft",
+      "ORG"
+    ],
+    [
+      "Palantir",
+      "ORG"
+    ],
+    [
+      "IBM",
+      "ORG"
+    ],
+    [
+      "Internal Market and Consumer Protection Committee (IMCO)",
       "ORG"
     ],
     [
       "OpenAI",
+      "ORG"
+    ],
+    [
+      "GPT-4",
+      "PROD"
+    ],
+    [
+      "GPT-5",
       "PROD"
     ],
     [
@@ -227,11 +255,11 @@
       "PROD"
     ],
     [
-      "Llama",
-      "PROD"
+      "Meta",
+      "ORG"
     ],
     [
-      "Claude",
+      "Llama",
       "PROD"
     ],
     [
@@ -239,20 +267,16 @@
       "ORG"
     ],
     [
-      "Brussels",
-      "LOC"
+      "Claude",
+      "PROD"
+    ],
+    [
+      "European AI Office",
+      "ORG"
     ],
     [
       "DG CONNECT",
       "ORG"
-    ],
-    [
-      "€110 million",
-      "MISC"
-    ],
-    [
-      "140",
-      "MISC"
     ],
     [
       "Bulgaria",
@@ -271,67 +295,23 @@
       "LOC"
     ],
     [
-      "Autoriteit Persoonsgegevens",
-      "ORG"
-    ],
-    [
-      "AP",
-      "ORG"
-    ],
-    [
-      "Microsoft",
-      "ORG"
-    ],
-    [
-      "Palantir",
-      "ORG"
-    ],
-    [
-      "IBM",
-      "ORG"
-    ],
-    [
-      "Bits of Freedom",
-      "MISC"
-    ],
-    [
-      "AlgorithmWatch",
-      "MISC"
-    ],
-    [
-      "Gesellschaft für Freiheitsrechte in Berlin",
-      "MISC"
-    ],
-    [
-      "Access Now",
-      "MISC"
-    ],
-    [
-      "Margrethe Vestager",
-      "PER"
-    ],
-    [
       "Apple",
-      "PROD"
+      "ORG"
     ],
     [
       "Google",
-      "PROD"
+      "ORG"
     ],
     [
       "Meta",
+      "ORG"
+    ],
+    [
+      "California's CPRA",
       "PROD"
     ],
     [
-      "California",
-      "LOC"
-    ],
-    [
-      "Ireland",
-      "LOC"
-    ],
-    [
-      "Irish Data Protection Commission",
+      "Irish Data Protection Commission (DPC)",
       "ORG"
     ],
     [
@@ -339,36 +319,24 @@
       "PER"
     ],
     [
-      "noyb",
-      "MISC"
-    ],
-    [
-      "None of Your Business",
-      "MISC"
+      "noyb (None of Your Business)",
+      "ORG"
     ],
     [
       "AWS",
-      "PROD"
+      "ORG"
     ],
     [
       "Microsoft Azure",
-      "PROD"
+      "ORG"
     ],
     [
       "Google Cloud",
-      "PROD"
+      "ORG"
     ],
     [
       "EuroHPC",
-      "MISC"
-    ],
-    [
-      "€10 billion",
-      "MISC"
-    ],
-    [
-      "$100 billion",
-      "MISC"
+      "ORG"
     ],
     [
       "Biden administration",
@@ -385,6 +353,38 @@
     [
       "Yoshua Bengio",
       "PER"
+    ],
+    [
+      "Access Now",
+      "ORG"
+    ],
+    [
+      "EU Charter of Fundamental Rights",
+      "MISC"
+    ],
+    [
+      "March 13, 2024",
+      "DATE"
+    ],
+    [
+      "April 2021",
+      "DATE"
+    ],
+    [
+      "February 2025",
+      "DATE"
+    ],
+    [
+      "January 2023",
+      "DATE"
+    ],
+    [
+      "November 2024",
+      "DATE"
+    ],
+    [
+      "October 2023",
+      "DATE"
     ]
   ],
   "error": null

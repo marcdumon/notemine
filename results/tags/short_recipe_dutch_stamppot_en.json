@@ -1,8 +1,8 @@
 {
   "file": "short_recipe_dutch_stamppot_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.506,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 2.107,
   "ground_truth": [
     "boerenkool",
     "comfort-food",
@@ -14,10 +14,10 @@
   ],
   "tags": [
     "dutch-cuisine",
-    "winter-dishes",
-    "kale-recipes",
-    "smoked-sausage",
-    "traditional-netherlands"
+    "stamppot",
+    "boerenkool",
+    "rookworst",
+    "curly-kale"
   ],
   "error": null
 }

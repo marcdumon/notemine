@@ -1,8 +1,8 @@
 {
   "file": "long_opinie_eu_ai_act_digitaal_beleid_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 15.51,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 21.349,
   "ground_truth": [
     [
       "Thomas Weber",
@@ -195,11 +195,43 @@
   ],
   "entities": [
     [
+      "European Union AI Act",
+      "PROD"
+    ],
+    [
+      "Europees Parlement",
+      "ORG"
+    ],
+    [
       "Ursula von der Leyen",
       "PER"
     ],
     [
-      "Europees Parlement",
+      "China",
+      "LOC"
+    ],
+    [
+      "OpenAI's GPT-4 and GPT-5",
+      "PROD"
+    ],
+    [
+      "Google's Gemini",
+      "PROD"
+    ],
+    [
+      "Meta's Llama",
+      "PROD"
+    ],
+    [
+      "Anthropic's Claude",
+      "PROD"
+    ],
+    [
+      "European AI Office",
+      "ORG"
+    ],
+    [
+      "Directoraat-Generaal Communicatienetwerken, Inhoud en Technologie (DG CONNECT)",
       "ORG"
     ],
     [
@@ -219,12 +251,16 @@
       "LOC"
     ],
     [
-      "Europese Unie",
+      "Autoriteit Persoonsgegevens (AP)",
       "ORG"
     ],
     [
-      "China",
-      "LOC"
+      "Bits of Freedom",
+      "ORG"
+    ],
+    [
+      "AlgorithmWatch",
+      "ORG"
     ],
     [
       "Microsoft",
@@ -239,112 +275,52 @@
       "ORG"
     ],
     [
-      "OpenAI",
-      "ORG"
-    ],
-    [
-      "GPT-4",
-      "PROD"
-    ],
-    [
-      "GPT-5",
-      "PROD"
-    ],
-    [
-      "Gemini",
-      "PROD"
-    ],
-    [
-      "Llama",
-      "PROD"
-    ],
-    [
-      "Claude",
-      "PROD"
-    ],
-    [
-      "European AI Office",
-      "ORG"
-    ],
-    [
-      "Brussel",
-      "LOC"
-    ],
-    [
-      "Directoraat-Generaal Communicatienetwerken, Inhoud en Technologie",
-      "ORG"
-    ],
-    [
-      "DG CONNECT",
-      "ORG"
-    ],
-    [
-      "110 miljoen euro",
-      "MISC"
-    ],
-    [
-      "140 medewerkers",
-      "MISC"
-    ],
-    [
       "Apple",
-      "PROD"
+      "ORG"
     ],
     [
       "Google",
-      "PROD"
-    ],
-    [
-      "Meta",
-      "PROD"
-    ],
-    [
-      "Californië",
-      "LOC"
-    ],
-    [
-      "CPRA",
-      "PROD"
-    ],
-    [
-      "Ierse Data Protection Commission",
       "ORG"
     ],
     [
-      "Dublin",
-      "LOC"
+      "Meta",
+      "ORG"
+    ],
+    [
+      "California's CPRA",
+      "PROD"
+    ],
+    [
+      "Ierse Data Protection Commission (DPC)",
+      "ORG"
     ],
     [
       "Max Schrems",
-      "MISC"
+      "PER"
     ],
     [
-      "None of Your Business",
-      "MISC"
-    ],
-    [
-      "AWS",
-      "PROD"
-    ],
-    [
-      "Microsoft Azure",
-      "PROD"
-    ],
-    [
-      "Google Cloud",
-      "PROD"
+      "None of Your Business (noyb)",
+      "ORG"
     ],
     [
       "EuroHPC",
       "ORG"
     ],
     [
-      "100 miljard dollar",
-      "MISC"
+      "AWS",
+      "ORG"
     ],
     [
-      "Biden-regering",
+      "Microsoft Azure",
       "ORG"
+    ],
+    [
+      "Google Cloud",
+      "ORG"
+    ],
+    [
+      "AI Executive Order",
+      "PROD"
     ],
     [
       "UK AI Safety Institute",
@@ -352,11 +328,31 @@
     ],
     [
       "Matt Clifford",
-      "MISC"
+      "PER"
     ],
     [
       "Yoshua Bengio",
-      "MISC"
+      "PER"
+    ],
+    [
+      "AlgorithmWatch",
+      "ORG"
+    ],
+    [
+      "Bits of Freedom",
+      "ORG"
+    ],
+    [
+      "Gesellschaft für Freiheitsrechte in Berlijn",
+      "ORG"
+    ],
+    [
+      "Access Now",
+      "ORG"
+    ],
+    [
+      "EU-Handvest van de grondrechten",
+      "PROD"
     ]
   ],
   "error": null

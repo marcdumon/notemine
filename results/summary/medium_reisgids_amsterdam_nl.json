@@ -1,9 +1,9 @@
 {
   "file": "medium_reisgids_amsterdam_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 3.744,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 5.802,
   "ground_truth": "A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams, cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3 tourist tax and Airbnb restrictions.",
-  "summary": "Amsterdam is a unique blend of world-class museums, historic architecture, and local culture. The city offers a range of experiences, from visiting famous museums like the Rijksmuseum and Van Gogh Museum to exploring charming neighborhoods like the Jordaan. Amsterdam also has a thriving food scene, with options ranging from traditional Dutch cuisine to international flavors.",
+  "summary": "Amsterdam is a densely packed city with world-class museums and historic architecture, accessible by foot or bike. Key attractions include the Rijksmuseum, Van Gogh Museum, and Anne Frank House. Popular neighborhoods like Jordaan offer charming streets and local experiences, while Amsterdam-Noord features creative studios and bars. Tourists can enjoy dining options from traditional herring kiosks to upscale cafes, with a €3 per night tourist tax.",
   "error": null
 }

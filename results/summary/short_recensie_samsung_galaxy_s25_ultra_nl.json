@@ -1,9 +1,9 @@
 {
   "file": "short_recensie_samsung_galaxy_s25_ultra_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 3.77,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 6.525,
   "ground_truth": "A product review of the Samsung Galaxy S25 Ultra, which features a Snapdragon 8 Elite chip, 200 MP camera, and costs €1,349. The reviewer benchmarks it against the Apple iPhone 16 Pro Max and Google Pixel 9 Pro, awarding it a 9/10 score. Samsung Galaxy AI features powered by Google Gemini are praised as genuinely useful.",
-  "summary": "The Samsung Galaxy S25 Ultra features a Snapdragon 8 Elite chip and a 200MP camera, making it one of the best Android phones of 2025. It offers improved performance and camera capabilities compared to its competitors, including the Apple iPhone 16 Pro Max. With its AI-powered features and long-lasting battery, the Galaxy S25 Ultra is a recommended choice for those in the Samsung ecosystem.",
+  "summary": "Samsung's Galaxy S25 Ultra features a Snapdragon 8 Elite chip and costs €1.349 for the base model with 256 GB storage, making it Samsung's most expensive phone. It scores highly in performance tests but lags slightly behind iPhone 16 Pro Max in low-light video quality. The camera uses an advanced AI engine to produce good results during the day but falls short at night compared to competitors. Overall, it is recommended for those within the Samsung ecosystem, though the iPhone 16 Pro Max outperforms slightly in video quality.",
   "error": null
 }

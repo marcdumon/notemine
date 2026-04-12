@@ -1,8 +1,8 @@
 {
   "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 16.571,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 22.988,
   "ground_truth": [
     [
       "Elena Fischer",
@@ -171,7 +171,7 @@
   ],
   "entities": [
     [
-      "Parijs",
+      "196 landen",
       "LOC"
     ],
     [
@@ -187,31 +187,23 @@
       "PROD"
     ],
     [
-      "IPCC",
-      "ORG"
-    ],
-    [
-      "Grantham Institute",
-      "ORG"
-    ],
-    [
-      "Imperial College London",
-      "ORG"
-    ],
-    [
-      "London",
-      "LOC"
-    ],
-    [
-      "Zesde Beoordelingsrapport",
-      "MISC"
+      "12 december 2015",
+      "DATE"
     ],
     [
       "Intergovernmental Panel on Climate Change",
       "ORG"
     ],
     [
-      "Friederike Otto",
+      "IPCC",
+      "ORG"
+    ],
+    [
+      "Zesde Beoordelingsrapport",
+      "MISC"
+    ],
+    [
+      "Dr. Friederike Otto",
       "PER"
     ],
     [
@@ -223,99 +215,71 @@
       "ORG"
     ],
     [
-      "Londense denktank",
-      "MISC"
-    ],
-    [
-      "InfluenceMap",
+      "Global Carbon Project",
       "ORG"
     ],
     [
-      "Saudi Aramco",
-      "PROD"
-    ],
-    [
-      "Shell",
-      "PROD"
-    ],
-    [
-      "BP",
-      "PROD"
-    ],
-    [
-      "ExxonMobil",
-      "PROD"
-    ],
-    [
-      "Wael Sawan",
+      "professor Pierre Friedlingstein",
       "PER"
     ],
     [
-      "COP30-top",
-      "MISC"
+      "Universiteit van Exeter",
+      "ORG"
     ],
     [
-      "Belém",
+      "Internationaal Energieagentschap",
+      "ORG"
+    ],
+    [
+      "IEA",
+      "ORG"
+    ],
+    [
+      "Zuid- en Zuidoost-Azië",
       "LOC"
-    ],
-    [
-      "Brazilië",
-      "LOC"
-    ],
-    [
-      "UN",
-      "ORG"
-    ],
-    [
-      "António Guterres",
-      "PER"
-    ],
-    [
-      "Texas Tech University",
-      "ORG"
-    ],
-    [
-      "The Nature Conservancy",
-      "ORG"
-    ],
-    [
-      "Katharine Hayhoe",
-      "PER"
-    ],
-    [
-      "Europees Commissievoorzitter",
-      "MISC"
-    ],
-    [
-      "Ursula von der Leyen",
-      "PER"
-    ],
-    [
-      "Europese Unie",
-      "ORG"
-    ],
-    [
-      "Europese Green Deal",
-      "PROD"
-    ],
-    [
-      "Luiz Inácio Lula da Silva",
-      "PER"
     ],
     [
       "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
-      "MISC"
+      "ORG"
     ],
     [
       "INPE",
-      "MISC"
+      "ORG"
     ],
     [
       "São José dos Campos",
       "LOC"
     ],
     [
+      "Europese Unie",
+      "ORG"
+    ],
+    [
+      "Europees Commissievoorzitter Ursula von der Leyen",
+      "PER"
+    ],
+    [
+      "Brazilië",
+      "LOC"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "Amazonegebied",
+      "LOC"
+    ],
+    [
       "India",
+      "LOC"
+    ],
+    [
+      "China",
+      "LOC"
+    ],
+    [
+      "Verenigde Staten",
       "LOC"
     ],
     [
@@ -327,20 +291,64 @@
       "ORG"
     ],
     [
-      "Australische belangengroep",
-      "MISC"
-    ],
-    [
-      "Climate Council",
+      "Australische belangengroep Climate Council",
       "ORG"
     ],
     [
-      "Stille Oceaan",
+      "InfluenceMap",
+      "ORG"
+    ],
+    [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "Saudi Aramco",
+      "ORG"
+    ],
+    [
+      "Shell",
+      "ORG"
+    ],
+    [
+      "BP",
+      "ORG"
+    ],
+    [
+      "ExxonMobil",
+      "ORG"
+    ],
+    [
+      "Belém",
       "LOC"
     ],
     [
-      "September 2025",
-      "DATE"
+      "António Guterres",
+      "PER"
+    ],
+    [
+      "VN-secretaris-generaal",
+      "PROD"
+    ],
+    [
+      "The Nature Conservancy",
+      "ORG"
+    ],
+    [
+      "Texas Tech University",
+      "ORG"
+    ],
+    [
+      "Ørsted",
+      "ORG"
+    ],
+    [
+      "Iberdrola",
+      "ORG"
+    ],
+    [
+      "BloombergNEF",
+      "ORG"
     ]
   ],
   "error": null

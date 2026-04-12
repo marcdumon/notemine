@@ -1,8 +1,8 @@
 {
   "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 2.106,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 3.537,
   "ground_truth": [
     "climate-science",
     "delta-works",
@@ -17,8 +17,9 @@
   "tags": [
     "climate-change",
     "sea-level-rise",
-    "netherlands",
-    "deltawerken",
+    "deltaworks",
+    "adaptation-strategies",
+    "research-institute",
     "water-management"
   ],
   "error": null

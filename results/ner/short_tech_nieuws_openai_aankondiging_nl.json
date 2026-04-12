@@ -1,8 +1,8 @@
 {
   "file": "short_tech_nieuws_openai_aankondiging_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 3.909,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 6.107,
   "ground_truth": [
     [
       "Sam Altman",
@@ -83,11 +83,7 @@
   ],
   "entities": [
     [
-      "San Francisco",
-      "LOC"
-    ],
-    [
-      "Moscone Center",
+      "San Francisco, CA",
       "LOC"
     ],
     [
@@ -95,8 +91,20 @@
       "PER"
     ],
     [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
+      "15 March 2025",
+      "DATE"
+    ],
+    [
       "GPT-5",
       "PROD"
+    ],
+    [
+      "OpenAI",
+      "ORG"
     ],
     [
       "Google DeepMind's Gemini Ultra 2.0",
@@ -107,20 +115,16 @@
       "ORG"
     ],
     [
-      "Satya Nadella",
-      "PER"
-    ],
-    [
       "Redmond, Washington",
       "LOC"
     ],
     [
-      "EU AI Act",
-      "MISC"
+      "Geoffrey Hinton",
+      "PER"
     ],
     [
-      "March 2025",
-      "DATE"
+      "EU AI Act",
+      "MISC"
     ]
   ],
   "error": null

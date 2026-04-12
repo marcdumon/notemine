@@ -1,8 +1,8 @@
 {
   "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.76,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 3.544,
   "ground_truth": [
     "climate-change",
     "cop30",
@@ -16,9 +16,12 @@
   "tags": [
     "climate-change",
     "paris-agreement",
-    "sustainability",
-    "green-energy",
-    "fossil-fuels"
+    "global-warming",
+    "renewable-energy",
+    "fossil-fuels",
+    "lobbying",
+    "international-policy",
+    "environmental-sustainability"
   ],
   "error": null
 }

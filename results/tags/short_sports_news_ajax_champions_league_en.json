@@ -1,8 +1,8 @@
 {
   "file": "short_sports_news_ajax_champions_league_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.608,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 2.211,
   "ground_truth": [
     "ajax",
     "amsterdam",
@@ -13,13 +13,11 @@
     "uefa"
   ],
   "tags": [
-    "ajax",
-    "bayern-munich",
-    "champions-league",
-    "football",
-    "soccer",
-    "uefa",
-    "sports-upset"
+    "ajax-bayern-munich",
+    "uefa-champions-league",
+    "quarter-final",
+    "upset-victory",
+    "tactical-discipline"
   ],
   "error": null
 }

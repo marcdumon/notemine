@@ -1,8 +1,8 @@
 {
   "file": "medium_travel_guide_amsterdam_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 7.809,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 14.569,
   "ground_truth": [
     [
       "Clara van Houten",
@@ -144,10 +144,6 @@
     ],
     [
       "Netherlands",
-      "ORG"
-    ],
-    [
-      "Europe",
       "LOC"
     ],
     [
@@ -163,39 +159,63 @@
       "ORG"
     ],
     [
+      "Schiphol",
+      "PROD"
+    ],
+    [
+      "Intercity Direct train",
+      "PROD"
+    ],
+    [
+      "Amsterdam Centraal Station",
+      "LOC"
+    ],
+    [
+      "GVB",
+      "ORG"
+    ],
+    [
       "MacBike",
-      "MISC"
+      "PROD"
     ],
     [
       "Black Bikes",
-      "MISC"
+      "PROD"
     ],
     [
       "Rijksmuseum",
-      "MISC"
-    ],
-    [
-      "Rembrandt",
       "PROD"
     ],
     [
-      "The Night Watch",
-      "PROD"
+      "Museumstraat 1",
+      "LOC"
     ],
     [
       "Van Gogh Museum",
-      "MISC"
-    ],
-    [
-      "Vincent van Gogh",
       "PROD"
     ],
     [
+      "Museumplein 6",
+      "LOC"
+    ],
+    [
       "Anne Frank House",
-      "MISC"
+      "PROD"
+    ],
+    [
+      "Westermarkt 20, Jordaan district",
+      "LOC"
     ],
     [
       "Jordaan",
+      "LOC"
+    ],
+    [
+      "De Negen Straatjes",
+      "LOC"
+    ],
+    [
+      "Amsterdam-Noord",
       "LOC"
     ],
     [
@@ -203,24 +223,36 @@
       "LOC"
     ],
     [
+      "NDSM Wharf",
+      "PROD"
+    ],
+    [
+      "Pllek beach bar",
+      "PROD"
+    ],
+    [
       "Café de Jaren",
-      "MISC"
+      "PROD"
     ],
     [
-      "Restaurant Blauw",
-      "MISC"
-    ],
-    [
-      "Amstel River",
+      "Nieuwe Doelenstraat 20",
       "LOC"
     ],
     [
-      "Femke Halsema",
-      "PER"
+      "Amstelveenseweg",
+      "LOC"
     ],
     [
-      "March 2025",
-      "DATE"
+      "haring",
+      "PROD"
+    ],
+    [
+      "tourist tax",
+      "MISC"
+    ],
+    [
+      "Red Light District (De Wallen)",
+      "LOC"
     ]
   ],
   "error": null

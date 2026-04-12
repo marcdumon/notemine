@@ -1,8 +1,8 @@
 {
   "file": "medium_climate_blog_paris_agreement_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.787,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 3.026,
   "ground_truth": [
     "climate-change",
     "cop30",
@@ -16,9 +16,11 @@
   "tags": [
     "climate-change",
     "paris-agreement",
-    "sustainability",
+    "global-warming",
     "renewable-energy",
-    "fossil-fuel-lobbying"
+    "fossil-fuel",
+    "lobbying",
+    "international-climate-summit"
   ],
   "error": null
 }

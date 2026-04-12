@@ -1,8 +1,8 @@
 {
   "file": "long_interview_climate_scientist_sea_level_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 13.137,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 19.164,
   "ground_truth": [
     [
       "Maria van den Berg",
@@ -191,11 +191,7 @@
       "PER"
     ],
     [
-      "Delft University of Technology",
-      "ORG"
-    ],
-    [
-      "TU Delft",
+      "Delft University of Technology (TU Delft)",
       "ORG"
     ],
     [
@@ -203,92 +199,48 @@
       "ORG"
     ],
     [
-      "NWO",
-      "ORG"
+      "NWO-funded RISES-AM research programme",
+      "PROD"
     ],
     [
-      "IPCC",
-      "ORG"
-    ],
-    [
-      "Rotterdam",
-      "LOC"
-    ],
-    [
-      "Netherlands",
-      "LOC"
+      "IPCC Sixth Assessment Report's chapter on sea and coast",
+      "PROD"
     ],
     [
       "Oosterscheldekering",
-      "MISC"
+      "PROD"
     ],
     [
       "Maeslantkering",
-      "MISC"
+      "PROD"
     ],
     [
       "Haringvlietdam",
-      "MISC"
+      "PROD"
     ],
     [
-      "Dutch Water Act",
-      "MISC"
+      "Delta Works",
+      "PROD"
     ],
     [
-      "KNMI",
-      "ORG"
-    ],
-    [
-      "European Centre for Medium-Range Weather Forecasts",
-      "ORG"
-    ],
-    [
-      "NOAA",
-      "ORG"
-    ],
-    [
-      "Sharm el-Sheikh",
-      "LOC"
-    ],
-    [
-      "COP27",
-      "MISC"
-    ],
-    [
-      "Rotterdam Climate Adaptation Plan",
-      "MISC"
-    ],
-    [
-      "Benthemplein",
-      "MISC"
-    ],
-    [
-      "De Urbanisten",
-      "MISC"
-    ],
-    [
-      "Rijnhaven",
-      "MISC"
-    ],
-    [
-      "Peter Glas",
+      "NRC journalist Tobias Schout",
       "PER"
     ],
     [
-      "Deltacommissaris",
-      "MISC"
-    ],
-    [
-      "March 1997",
+      "0.3 and 1 metre of sea level rise by 2100",
       "DATE"
     ],
     [
-      "20th century",
+      "moderate emissions scenarios",
       "MISC"
     ],
     [
-      "21st century",
-      "MISC"
+      "southwestern Netherlands",
+      "LOC"
+    ],
+    [
+      "Dutch Water Act",
+      "LAW"
     ],
     [
       "SSP5-8.5",
@@ -299,20 +251,68 @@
       "LOC"
     ],
     [
-      "Greenland",
-      "LOC"
-    ],
-    [
-      "1.5°C",
-      "PROD"
-    ],
-    [
-      "3°C",
-      "PROD"
-    ],
-    [
-      "Billion euros",
+      "deep uncertainty",
       "MISC"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "Water Square at Benthemplein",
+      "PROD"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
+    ],
+    [
+      "Rijnhaven floating residential district",
+      "PROD"
+    ],
+    [
+      "green roofs programme",
+      "PROD"
+    ],
+    [
+      "Rotterdam Climate Adaptation Plan",
+      "PROD"
+    ],
+    [
+      "Port of Rotterdam Authority",
+      "ORG"
+    ],
+    [
+      "Ministry of Infrastructure and Water Management",
+      "ORG"
+    ],
+    [
+      "KNMI, the Royal Netherlands Meteorological Institute",
+      "ORG"
+    ],
+    [
+      "ECMWF in Reading",
+      "ORG"
+    ],
+    [
+      "NOAA",
+      "ORG"
+    ],
+    [
+      "Schoof cabinet",
+      "MISC"
+    ],
+    [
+      "€14 million",
+      "MISC"
+    ],
+    [
+      "young Dutch engineers",
+      "MISC"
+    ],
+    [
+      "COP27 in Sharm el-Sheikh",
+      "LOC"
     ]
   ],
   "error": null

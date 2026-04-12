@@ -1,8 +1,8 @@
 {
   "file": "short_recipe_dutch_stamppot_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 3.005,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 6.213,
   "ground_truth": [
     [
       "Liesbeth Verhoeven",
@@ -43,6 +43,22 @@
   ],
   "entities": [
     [
+      "Classic Dutch Stamppot",
+      "PROD"
+    ],
+    [
+      "boerenkool met worst",
+      "PROD"
+    ],
+    [
+      "curly kale",
+      "PROD"
+    ],
+    [
+      "rookworst",
+      "PROD"
+    ],
+    [
       "Unox",
       "ORG"
     ],
@@ -55,7 +71,11 @@
       "PROD"
     ],
     [
-      "Eigenheimer",
+      "Eigenheimer variety",
+      "PROD"
+    ],
+    [
+      "rookworst",
       "PROD"
     ],
     [
@@ -67,16 +87,8 @@
       "ORG"
     ],
     [
-      "OpenAI",
-      "ORG"
-    ],
-    [
-      "Sam Altman",
-      "PER"
-    ],
-    [
-      "March",
-      "DATE"
+      "boerenkool",
+      "PROD"
     ]
   ],
   "error": null

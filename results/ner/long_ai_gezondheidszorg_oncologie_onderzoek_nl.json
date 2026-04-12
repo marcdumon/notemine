@@ -1,8 +1,8 @@
 {
   "file": "long_ai_gezondheidszorg_oncologie_onderzoek_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 8.943,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 30.643,
   "ground_truth": [
     [
       "Jan de Vries",
@@ -203,51 +203,143 @@
       "ORG"
     ],
     [
+      "Academisch Medisch Centrum (AMC)",
+      "ORG"
+    ],
+    [
+      "VU Universitario Medico Center (VUmc)",
+      "ORG"
+    ],
+    [
       "The Lancet Digital Health",
+      "PROD"
+    ],
+    [
+      "AI-ondersteunde pathologie",
+      "MISC"
+    ],
+    [
+      "darmkanker",
       "LOC"
     ],
     [
-      "Nederlandse Kankerregistratie",
+      "Nederland",
+      "LOC"
+    ],
+    [
+      "Kankerregistratie (IKNL)",
       "ORG"
     ],
     [
-      "Utrecht",
-      "LOC"
-    ],
-    [
-      "Jan de Vries",
-      "PER"
-    ],
-    [
-      "Maria Santos",
-      "PER"
-    ],
-    [
-      "Kwame Asante",
-      "PER"
-    ],
-    [
-      "Boston",
-      "LOC"
-    ],
-    [
-      "Google Health",
+      "Radboud Universitair Medisch Centrum",
       "ORG"
+    ],
+    [
+      "Nijmegen",
+      "LOC"
+    ],
+    [
+      "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
+      "ORG"
+    ],
+    [
+      "AI & Gezondheid",
+      "PROD"
+    ],
+    [
+      "Cancer Center Amsterdam",
+      "ORG"
+    ],
+    [
+      "Erasmus MC in Rotterdam",
+      "ORG"
+    ],
+    [
+      "UMCG in Groningen",
+      "ORG"
+    ],
+    [
+      "Maastricht UMC+",
+      "ORG"
+    ],
+    [
+      "PathAI Colorectal Classifier v3.1",
+      "PROD"
     ],
     [
       "PathAI Inc.",
       "ORG"
     ],
     [
-      "Delft",
-      "LOC"
+      "Google Health",
+      "ORG"
     ],
     [
       "Technische Universiteit Delft",
       "ORG"
     ],
     [
-      "European Society for Medical Oncology",
+      "Horizon Europe-subsidie",
+      "MISC"
+    ],
+    [
+      "ZonMW",
+      "ORG"
+    ],
+    [
+      "Nederlandse organisatie voor gezondheidsonderzoek en zorginnovatie",
+      "ORG"
+    ],
+    [
+      "120 miljoen euro per jaar",
+      "MISC"
+    ],
+    [
+      "dr. Jan de Vries",
+      "PER"
+    ],
+    [
+      "prof. Maria Santos",
+      "PER"
+    ],
+    [
+      "dr. Kwame Asante",
+      "PER"
+    ],
+    [
+      "Nederlandse Vereniging voor Pathologie (NVVP)",
+      "ORG"
+    ],
+    [
+      "2030",
+      "DATE"
+    ],
+    [
+      "2847 patiënten",
+      "MISC"
+    ],
+    [
+      "januari 2023",
+      "DATE"
+    ],
+    [
+      "december 2024",
+      "DATE"
+    ],
+    [
+      "6,2 werkdagen",
+      "MISC"
+    ],
+    [
+      "3,8 werkdagen",
+      "MISC"
+    ],
+    [
+      "101082218",
+      "MISC"
+    ],
+    [
+      "Royal Brompton Hospital",
       "ORG"
     ],
     [
@@ -255,24 +347,24 @@
       "LOC"
     ],
     [
-      "Royal Brompton Hospital",
-      "LOC"
-    ],
-    [
-      "Eric Lim",
-      "PER"
-    ],
-    [
-      "Mariana Costa",
-      "PER"
+      "European Society for Medical Oncology (ESMO)",
+      "ORG"
     ],
     [
       "KWF Kankerbestrijding",
       "ORG"
     ],
     [
-      "Europese Onderzoeksraad",
+      "Europese Onderzoeksraad (ERC)",
       "ORG"
+    ],
+    [
+      "Philips Healthcare",
+      "ORG"
+    ],
+    [
+      "IntelliSite Pathology Solution",
+      "PROD"
     ]
   ],
   "error": null

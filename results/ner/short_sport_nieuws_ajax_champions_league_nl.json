@@ -1,8 +1,8 @@
 {
   "file": "short_sport_nieuws_ajax_champions_league_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 5.528,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 8.012,
   "ground_truth": [
     [
       "Brian Brobbey",
@@ -83,6 +83,14 @@
   ],
   "entities": [
     [
+      "Ajax",
+      "PROD"
+    ],
+    [
+      "Bayern München",
+      "ORG"
+    ],
+    [
       "Amsterdam",
       "LOC"
     ],
@@ -91,12 +99,8 @@
       "LOC"
     ],
     [
-      "Ajax",
-      "ORG"
-    ],
-    [
-      "Bayern München",
-      "ORG"
+      "UEFA Champions League",
+      "MISC"
     ],
     [
       "Brian Brobbey",
@@ -111,40 +115,36 @@
       "PER"
     ],
     [
+      "Allianz Arena",
+      "LOC"
+    ],
+    [
       "Francesco Farioli",
       "PER"
+    ],
+    [
+      "Italia",
+      "LOC"
     ],
     [
       "Vincent Kompany",
       "PER"
     ],
     [
-      "Just Spee",
-      "PER"
+      "15 april",
+      "DATE"
     ],
     [
       "Tottenham Hotspur",
       "ORG"
     ],
     [
-      "Netherlands",
-      "LOC"
+      "KNVB-voorzitter Just Spee",
+      "PER"
     ],
     [
-      "Champions League",
-      "PROD"
-    ],
-    [
-      "Allianz Arena",
-      "LOC"
-    ],
-    [
-      "April 15",
-      "DATE"
-    ],
-    [
-      "2019",
-      "DATE"
+      "Nederlandse voetbal",
+      "MISC"
     ]
   ],
   "error": null

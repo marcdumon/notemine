@@ -1,6 +1,7 @@
 [ollama]
 # model = "qwen3:8b"
-model = "llama3.2"
+# model = "llama3.2"
+model = "qwen2.5:7b"
 base_url = "http://localhost:11434/"
 temperature = 0.1
 num_ctx = 8192

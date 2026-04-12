@@ -1,8 +1,8 @@
 {
   "file": "medium_history_dutch_golden_age_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 12.027,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 25.586,
   "ground_truth": [
     [
       "Hanneke Oosterhout",
@@ -151,7 +151,23 @@
   ],
   "entities": [
     [
+      "Dutch Golden Age",
+      "MISC"
+    ],
+    [
+      "1588–1702",
+      "DATE"
+    ],
+    [
+      "Republic of the Seven United Netherlands",
+      "ORG"
+    ],
+    [
       "Batavia",
+      "LOC"
+    ],
+    [
+      "present-day Jakarta",
       "LOC"
     ],
     [
@@ -159,43 +175,63 @@
       "LOC"
     ],
     [
-      "Vereenigde Oost-Indische Compagnie",
+      "present-day New York",
+      "LOC"
+    ],
+    [
+      "Vereenigde Oost-Indische Compagnie (VOC)",
       "ORG"
     ],
     [
-      "Amsterdam",
-      "LOC"
+      "Amsterdam Stock Exchange",
+      "MISC"
+    ],
+    [
+      "1602",
+      "DATE"
     ],
     [
       "Jan Pieterszoon Coen",
       "PER"
     ],
     [
+      "Batavia",
+      "LOC"
+    ],
+    [
       "Maluku Islands",
       "LOC"
     ],
     [
-      "Nutmeg",
+      "nutmeg",
       "PROD"
     ],
     [
-      "Cloves",
+      "cloves",
       "PROD"
     ],
     [
-      "Pepper",
+      "pepper",
       "PROD"
     ],
     [
-      "Silk",
+      "silk",
       "PROD"
     ],
     [
-      "Westindische Compagnie",
+      "Westindische Compagnie (WIC)",
       "ORG"
     ],
     [
-      "Brazil",
+      "1621",
+      "DATE"
+    ],
+    [
+      "northeastern Brazil",
+      "LOC"
+    ],
+    [
+      "West African coast",
       "LOC"
     ],
     [
@@ -211,11 +247,47 @@
       "LOC"
     ],
     [
-      "The Night Watch",
+      "The Night Watch (1642)",
+      "PROD"
+    ],
+    [
+      "The Anatomy Lesson of Dr. Nicolaes Tulp (1632)",
+      "PROD"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Mauritshuis in The Hague",
+      "LOC"
+    ],
+    [
+      "Grachtengordel",
+      "LOC"
+    ],
+    [
+      "2010",
+      "DATE"
+    ],
+    [
+      "Christiaan Huygens",
+      "PER"
+    ],
+    [
+      "The Hague",
+      "LOC"
+    ],
+    [
+      "pendulum clock",
+      "PROD"
+    ],
+    [
+      "Saturn's moon Titan",
       "MISC"
     ],
     [
-      "Johannes Vermeer",
+      "Antonie van Leeuwenhoek",
       "PER"
     ],
     [
@@ -223,36 +295,12 @@
       "LOC"
     ],
     [
-      "Girl with a Pearl Earring",
-      "MISC"
-    ],
-    [
-      "Mauritshuis",
-      "LOC"
-    ],
-    [
-      "Grachtengordel",
-      "MISC"
-    ],
-    [
-      "UNESCO",
-      "ORG"
-    ],
-    [
-      "The Hague",
-      "LOC"
-    ],
-    [
-      "Christiaan Huygens",
-      "PER"
-    ],
-    [
-      "Titan",
+      "microscope",
       "PROD"
     ],
     [
-      "Antonie van Leeuwenhoek",
-      "PER"
+      "bacteria",
+      "PROD"
     ],
     [
       "Baruch Spinoza",
@@ -263,20 +311,20 @@
       "LOC"
     ],
     [
-      "Portuguese-Jewish",
+      "1674",
+      "DATE"
+    ],
+    [
+      "Ethics (1677)",
+      "PROD"
+    ],
+    [
+      "Franco-Dutch War (1672–1678)",
       "MISC"
     ],
     [
-      "Franco-Dutch War",
+      "Glorious Revolution of 1688",
       "MISC"
-    ],
-    [
-      "Glorious Revolution",
-      "MISC"
-    ],
-    [
-      "England",
-      "ORG"
     ]
   ],
   "error": null

@@ -1,8 +1,8 @@
 {
   "file": "medium_geschiedenis_gouden_eeuw_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 8.167,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 17.564,
   "ground_truth": [
     [
       "Hanneke Oosterhout",
@@ -152,7 +152,15 @@
   "entities": [
     [
       "De Gouden Eeuw",
-      "MISC"
+      "LOC"
+    ],
+    [
+      "1588–1702",
+      "DATE"
+    ],
+    [
+      "Republiek der Zeven Verenigde Nederlanden",
+      "ORG"
     ],
     [
       "Batavia",
@@ -163,6 +171,10 @@
       "LOC"
     ],
     [
+      "Amsterdamse Effectenbeurs",
+      "PROD"
+    ],
+    [
       "Vereenigde Oost-Indische Compagnie",
       "ORG"
     ],
@@ -171,27 +183,55 @@
       "PER"
     ],
     [
-      "Rembrandt van Rijn",
+      "Molukken",
+      "LOC"
+    ],
+    [
+      "Nootmuskaat",
       "PROD"
+    ],
+    [
+      "Kruidnagel",
+      "PROD"
+    ],
+    [
+      "Peper",
+      "PROD"
+    ],
+    [
+      "Zijde",
+      "PROD"
+    ],
+    [
+      "Westindische Compagnie",
+      "ORG"
+    ],
+    [
+      "Brazilië",
+      "LOC"
+    ],
+    [
+      "West-Afrikaanse kust",
+      "LOC"
+    ],
+    [
+      "Rembrandt van Rijn",
+      "PER"
     ],
     [
       "De Nachtwacht",
       "PROD"
     ],
     [
-      "Johannes Vermeer",
+      "De Anatomische Les van Dr. Nicolaes Tulp",
       "PROD"
     ],
     [
-      "Meisje met de parel",
-      "PROD"
-    ],
-    [
-      "Amsterdam",
+      "Amsterdamse grachtengordel",
       "LOC"
     ],
     [
-      "UNESCO",
+      "UNESCO Werelderfgoedlijst",
       "ORG"
     ],
     [
@@ -199,8 +239,8 @@
       "PER"
     ],
     [
-      "Titan",
-      "MISC"
+      "Saturnus' maan Titan",
+      "PROD"
     ],
     [
       "Antonie van Leeuwenhoek",
@@ -216,11 +256,11 @@
     ],
     [
       "Frans-Nederlandse Oorlog",
-      "MISC"
+      "ORG"
     ],
     [
       "Glorieuze Revolutie",
-      "MISC"
+      "EVENT"
     ]
   ],
   "error": null

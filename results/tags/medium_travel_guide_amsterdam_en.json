@@ -1,8 +1,8 @@
 {
   "file": "medium_travel_guide_amsterdam_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 1.775,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 2.533,
   "ground_truth": [
     "amsterdam",
     "canal",
@@ -15,14 +15,11 @@
     "travel"
   ],
   "tags": [
-    "amsterdam",
-    "travel-guide",
-    "netherlands",
+    "amsterdam-travel-guide",
     "museums",
-    "history",
-    "culture",
-    "food",
-    "tourism"
+    "neighbourhoods",
+    "cycling",
+    "tourism-policies"
   ],
   "error": null
 }

@@ -1,8 +1,8 @@
 {
   "file": "short_sports_news_ajax_champions_league_en.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 4.623,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 7.02,
   "ground_truth": [
     [
       "Brian Brobbey",
@@ -83,6 +83,14 @@
   ],
   "entities": [
     [
+      "Ajax",
+      "PROD"
+    ],
+    [
+      "Bayern Munich",
+      "ORG"
+    ],
+    [
       "Amsterdam",
       "LOC"
     ],
@@ -91,12 +99,8 @@
       "LOC"
     ],
     [
-      "Ajax",
-      "ORG"
-    ],
-    [
-      "Bayern Munich",
-      "ORG"
+      "UEFA Champions League",
+      "MISC"
     ],
     [
       "Brian Brobbey",
@@ -115,8 +119,16 @@
       "PER"
     ],
     [
-      "Vincent Kompany",
-      "PER"
+      "Allianz Arena",
+      "LOC"
+    ],
+    [
+      "Munich",
+      "LOC"
+    ],
+    [
+      "April 15",
+      "DATE"
     ],
     [
       "Tottenham Hotspur",
@@ -127,12 +139,8 @@
       "ORG"
     ],
     [
-      "Allianz Arena",
-      "LOC"
-    ],
-    [
-      "April 15",
-      "DATE"
+      "Just Spee",
+      "PER"
     ]
   ],
   "error": null

@@ -1,8 +1,8 @@
 {
   "file": "medium_reisgids_amsterdam_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 7.852,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 15.121,
   "ground_truth": [
     [
       "Clara van Houten",
@@ -144,18 +144,14 @@
     ],
     [
       "Nederland",
-      "ORG"
-    ],
-    [
-      "Europa",
       "LOC"
     ],
     [
-      "Parijs",
+      "Paris",
       "LOC"
     ],
     [
-      "Londen",
+      "London",
       "LOC"
     ],
     [
@@ -167,60 +163,92 @@
       "LOC"
     ],
     [
+      "Intercity Direct Amsterdam Centraal Station",
+      "PROD"
+    ],
+    [
+      "GVB",
+      "ORG"
+    ],
+    [
       "MacBike",
-      "MISC"
+      "ORG"
     ],
     [
       "Black Bikes",
-      "MISC"
+      "ORG"
     ],
     [
-      "Rembrandt",
+      "Rijksmuseum",
       "PROD"
     ],
     [
-      "De Nachtwacht",
+      "Museumstraat 1",
+      "LOC"
+    ],
+    [
+      "Van Gogh Museum",
       "PROD"
     ],
     [
-      "Vincent van Gogh",
+      "Museumplein 6",
+      "LOC"
+    ],
+    [
+      "Anne Frank Huis",
       "PROD"
     ],
     [
-      "Amandelbloesem",
-      "PROD"
+      "Westermarkt 20, Jordaan",
+      "LOC"
     ],
     [
-      "Anne Frank",
-      "PER"
+      "Jordaan",
+      "LOC"
+    ],
+    [
+      "Negen Straatjes",
+      "LOC"
+    ],
+    [
+      "Amsterdam-Noord",
+      "LOC"
     ],
     [
       "IJ",
       "LOC"
     ],
     [
-      "NDSM-pont",
+      "NDSM-werf",
+      "PROD"
+    ],
+    [
+      "Pllek",
+      "PROD"
+    ],
+    [
+      "Café de Jaren",
+      "PROD"
+    ],
+    [
+      "Nieuwe Doelenstraat 20",
       "LOC"
     ],
     [
-      "Centraal Station",
-      "LOC"
+      "Restaurant Blauw",
+      "PROD"
     ],
     [
       "Amstelveenseweg",
       "LOC"
     ],
     [
-      "Café de Jaren",
-      "MISC"
+      "Hollandse haringkramen",
+      "PROD"
     ],
     [
-      "Restaurant Blauw",
-      "MISC"
-    ],
-    [
-      "Femke Halsema",
-      "PER"
+      "Rosse Buurt (De Wallen)",
+      "LOC"
     ]
   ],
   "error": null

@@ -1,8 +1,8 @@
 {
   "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
   "backend": "ollama",
-  "model": "llama3.2",
-  "elapsed_s": 10.059,
+  "model": "qwen2.5:7b",
+  "elapsed_s": 20.358,
   "ground_truth": [
     [
       "Maria van den Berg",
@@ -191,15 +191,7 @@
       "PER"
     ],
     [
-      "Technische Universiteit Delft",
-      "ORG"
-    ],
-    [
-      "Delft",
-      "LOC"
-    ],
-    [
-      "TU Delft",
+      "Technische Universiteit Delft (TU Delft)",
       "ORG"
     ],
     [
@@ -219,19 +211,27 @@
       "ORG"
     ],
     [
-      "NRC",
-      "ORG"
-    ],
-    [
-      "Tobias Schout",
+      "NRC-journalist Tobias Schout",
       "PER"
     ],
     [
-      "Rotterdam",
-      "LOC"
+      "Het Zesde Beoordelingsrapport van het IPCC",
+      "MISC"
     ],
     [
-      "Maeslantkering",
+      "0,3 en 1 meter zeespiegelstijging tegen 2100",
+      "DATE"
+    ],
+    [
+      "Deltawerken",
+      "PROD"
+    ],
+    [
+      "Oosterscheldekering",
+      "PROD"
+    ],
+    [
+      "Maeslantkering bij Rotterdam",
       "PROD"
     ],
     [
@@ -239,8 +239,36 @@
       "PROD"
     ],
     [
-      "Oosterscheldekering",
+      "Maeslantkering",
       "PROD"
+    ],
+    [
+      "2017",
+      "DATE"
+    ],
+    [
+      "Nederlandse Waterwet",
+      "MISC"
+    ],
+    [
+      "SSP5-8.5",
+      "MISC"
+    ],
+    [
+      "Groenland",
+      "LOC"
+    ],
+    [
+      "Antarctica",
+      "LOC"
+    ],
+    [
+      "Peter Glas",
+      "PER"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
     ],
     [
       "Benthemplein",
@@ -251,36 +279,44 @@
       "LOC"
     ],
     [
-      "De Urbanisten",
-      "ORG"
-    ],
-    [
       "Gemeente Rotterdam",
       "ORG"
     ],
     [
-      "Nederlandse Waterwet",
-      "PROD"
+      "Havenbedrijf Rotterdam",
+      "ORG"
+    ],
+    [
+      "Ministerie van Infrastructuur en Waterstaat",
+      "ORG"
     ],
     [
       "KNMI",
       "ORG"
     ],
     [
-      "Peter Glas",
+      "Koninklijk Nederlands Meteorologisch Instituut",
+      "ORG"
+    ],
+    [
+      "ECMWF",
+      "ORG"
+    ],
+    [
+      "NOAA",
+      "ORG"
+    ],
+    [
+      "kabinet-Schoof",
+      "ORG"
+    ],
+    [
+      "Mona Keijzer",
       "PER"
     ],
     [
-      "COP27",
-      "MISC"
-    ],
-    [
-      "Sharm el-Sheikh",
+      "COP27 in Sharm el-Sheikh",
       "LOC"
-    ],
-    [
-      "March 2025",
-      "DATE"
     ]
   ],
   "error": null
