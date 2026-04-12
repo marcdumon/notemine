@@ -1,7 +1,7 @@
 # Grading Spec
 
 ## How to use
-Read this file and `data/results/model_eval.json`, then grade every record according
+Read `data/results/grading_spec.md` and `data/results/model_eval.json`, then grade every record according
 to the criteria below. Write the results to `data/results/model_eval_grades.json`.
 
 ---

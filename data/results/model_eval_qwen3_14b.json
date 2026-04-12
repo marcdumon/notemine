@@ -1,0 +1,276 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 89.1,
+    "tags": [
+      "ipcc",
+      "iea",
+      "climate-agreement",
+      "global-warming",
+      "fossil-fuel-lobbying",
+      "renewable-energy-growth",
+      "brazil-deforestation",
+      "india-climate-policy",
+      "cop30",
+      "net-zero-targets"
+    ],
+    "tags_s": 45.6,
+    "summary": [
+      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but 2024 temperatures reached 1.45°C above pre-industrial levels, according to the IPCC Sixth Assessment Report.",
+      "Global CO₂ emissions hit 37.4 gigatons in 2023, with fossil fuel use remaining high despite renewable growth in Germany, China, and the U.S., while Brazil's deforestation in the Amazon reached 11,568 km² in 2024 per INPE.",
+      "Oil and gas giants like Saudi Aramco and Shell spent $750 million lobbying against climate laws between 2020-2024, per InfluenceMap, as India's 2070 net-zero pledge faces criticism from Greta Thunberg and the Climate Council.",
+      "The COP30 summit in Belém, Brazil, in November 2025, will assess updated climate commitments, with UN Secretary-General António Guterres urging stronger 2035 targets."
+    ],
+    "summary_s": 22.8
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "Akkord van Parijs",
+        "MISC"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Internationaal Energieagentschap",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Europese Unie",
+        "ORG"
+      ],
+      [
+        "Europese Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
+        "ORG"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Australische belangengroep",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Stille Oceaan",
+        "LOC"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "PROD"
+      ],
+      [
+        "Shell",
+        "PROD"
+      ],
+      [
+        "BP",
+        "PROD"
+      ],
+      [
+        "ExxonMobil",
+        "PROD"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30-top",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "VN-secretaris-generaal",
+        "MISC"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "Ørsted",
+        "PROD"
+      ],
+      [
+        "Iberdrola",
+        "PROD"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "september 2025",
+        "DATE"
+      ],
+      [
+        "november 2025",
+        "DATE"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Nationally Determined Contributions",
+        "MISC"
+      ],
+      [
+        "NDC's",
+        "MISC"
+      ]
+    ],
+    "ner_s": 84.3,
+    "tags": [
+      "paris-agreement",
+      "climate-change",
+      "co2-emissions",
+      "renewable-energy",
+      "fossil-fuel-lobbyists",
+      "international-climate-summit",
+      "climate-policy",
+      "global-warming",
+      "climate-activism"
+    ],
+    "tags_s": 41.6,
+    "summary": [
+      "The Paris Agreement, signed in 2015, aimed to limit global warming to 1.5°C, but 2024 temperatures reached 1.45°C above pre-industrial levels, according to the IPCC's Sixth Assessment Report.",
+      "Global CO₂ emissions hit 37.4 gigaton in 2023, while the EU reduced emissions by 32% since 1990, but Brazil's deforestation in the Amazon reached 11,568 km² in 2024, per INPE.",
+      "India's 2070 climate neutrality pledge faces criticism from Greta Thunberg, and fossil fuel companies spent $750 million on lobbying against climate legislation between 2020-2024, per InfluenceMap's 2025 report.",
+      "Renewable energy growth offers hope, with global solar capacity exceeding 2 terawatts in 2024, China adding 430 gigawatts, and battery storage costs dropping 89% since 2010, per BloombergNEF."
+    ],
+    "summary_s": 31.2
+  }
+]

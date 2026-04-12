@@ -1,0 +1,51 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 53.3,
+    "tags": [
+      "paris-agreement",
+      "climate-change",
+      "global-warming",
+      "emissions",
+      "ipcc",
+      "renewable-energy",
+      "fossil-fuel",
+      "deforestation",
+      "ndcs",
+      "cop30"
+    ],
+    "tags_s": 39.9,
+    "summary": [
+      "Ten years after the Paris Agreement was signed in 2015, global temperatures reached 1.45°C above pre-industrial levels in 2024.",
+      "Major fossil fuel companies spent $750 million lobbying against climate legislation between 2020 and 2024, while Brazil faces criticism for its Amazon deforestation rates.",
+      "Renewable energy growth offers hope, with solar capacity surpassing 2 terawatts globally in 2024, but updated commitments at COP30 in 2025 are essential for meeting climate goals."
+    ],
+    "summary_s": 27.7
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 48.6,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "co2-emissions",
+      "renewable-energy",
+      "deforestation",
+      "fossil-fuel-lobby",
+      "ipcc",
+      "climate-policy",
+      "ndc"
+    ],
+    "tags_s": 37.5,
+    "summary": [
+      "The Paris Agreement, formally adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but in 2024, temperatures reached 1.45°C above pre-industrial levels as reported by the IPCC.",
+      "Global CO₂ emissions peaked at 37.4 gigaton in 2023, with the EU reducing its emissions by 32% since 1990, while Brazil faced criticism for deforestation of 11,568 km² in 2024.",
+      "Fossil fuel lobbyists spent $750 million opposing climate legislation between 2020 and 2024, yet renewable energy advancements, like solar capacity exceeding 2 terawatts, offer hope for meeting climate goals.",
+      "The upcoming COP30 conference in November 2025 will assess international commitment to revised climate targets by 2035, emphasizing the need for political will as highlighted by figures like Katharine Hayhoe."
+    ],
+    "summary_s": 31.6
+  }
+]

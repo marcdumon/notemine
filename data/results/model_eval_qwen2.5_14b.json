@@ -1,0 +1,386 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Paris Agreement",
+        "PROD"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "ORG"
+      ],
+      [
+        "Sixth Assessment Report",
+        "MISC"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute at Imperial College London",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "International Energy Agency (IEA)",
+        "ORG"
+      ],
+      [
+        "European Union",
+        "LOC"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "National Institute for Space Research (INPE)",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "London",
+        "LOC"
+      ],
+      [
+        "Saudi Aramco",
+        "PROD"
+      ],
+      [
+        "Shell",
+        "PROD"
+      ],
+      [
+        "BP",
+        "PROD"
+      ],
+      [
+        "ExxonMobil",
+        "PROD"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30 summit",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "Nationally Determined Contributions (NDCs)",
+        "MISC"
+      ],
+      [
+        "Dr. Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "PROD"
+      ],
+      [
+        "Iberdrola",
+        "PROD"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 43.8,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "renewable-energy",
+      "fossil-fuel-lobbying",
+      "international-environmental-policy",
+      "cop-summit",
+      "carbon-emissions",
+      "deforestation-amazon",
+      "political-will"
+    ],
+    "tags_s": 6.8,
+    "summary": [
+      "Representatives from 196 nations signed the Paris Agreement in Le Bourget, France, on December 12, 2015, aiming to limit global warming to 1.5°C above pre-industrial levels.",
+      "Global average temperatures reached 1.45°C above baseline in 2024, according to the IPCC Sixth Assessment Report, with Dr. Friederike Otto warning that time for corrective action is narrowing."
+    ],
+    "summary_s": 9.3
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "Akkoord van Parijs",
+        "MISC"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Internationaal Energieagentschap (IEA)",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Europese Unie",
+        "ORG"
+      ],
+      [
+        "Europees Commissievoorzitter Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "Nationaal Instituut voor Ruimteonderzoek (INPE)",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Londen",
+        "LOC"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "november 2025",
+        "DATE"
+      ],
+      [
+        "VN-secretaris-generaal António Guterres",
+        "PER"
+      ],
+      [
+        "Nationally Determined Contributions (NDC's)",
+        "MISC"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 34.0,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "green-deal",
+      "renewable-energy",
+      "carbon-emissions",
+      "international-environmental-policy",
+      "cop30-top",
+      "klimaatbeloften"
+    ],
+    "tags_s": 6.7,
+    "summary": [
+      "In December 2015, representatives from 196 countries signed the Paris Agreement to limit global warming to below 2°C above pre-industrial levels.",
+      "By 2024, global average temperatures had risen by 1.45°C according to the IPCC, with CO₂ emissions reaching a record high of 37.4 gigaton in 2023.",
+      "India's commitment to become climate neutral by 2070 is criticized as too late by activists like Greta Thunberg and the Youth Climate Coalition.",
+      "The upcoming COP30 summit in November 2025 will be crucial for assessing global resolve on climate action."
+    ],
+    "summary_s": 13.6
+  }
+]

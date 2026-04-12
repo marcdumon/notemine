@@ -1,0 +1,587 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris Agreement",
+        "MISC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "France",
+        "LOC"
+      ],
+      [
+        "196",
+        "NUM"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "ORG"
+      ],
+      [
+        "Sixth Assessment Report",
+        "MISC"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute at Imperial College London",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Global CO₂ emissions",
+        "MISC"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Germany",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "International Energy Agency (IEA)",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "South and Southeast Asia",
+        "LOC"
+      ],
+      [
+        "coal use",
+        "MISC"
+      ],
+      [
+        "European Union",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "President Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "Brazil's National Institute for Space Research (INPE)",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Australia",
+        "LOC"
+      ],
+      [
+        "Pacific Island nations",
+        "MISC"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "London-based think tank",
+        "MISC"
+      ],
+      [
+        "Saudi Aramco",
+        "PROD"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "September 2025",
+        "DATE"
+      ],
+      [
+        "COP30 summit",
+        "MISC"
+      ],
+      [
+        "Belém, Brazil",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "UN Secretary-General António Guterres",
+        "PER"
+      ],
+      [
+        "Dr. Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "2035",
+        "NUM"
+      ],
+      [
+        "renewable energy sector",
+        "MISC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spain's Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "solar power capacity",
+        "MISC"
+      ],
+      [
+        "2 terawatts",
+        "NUM"
+      ],
+      [
+        "430 gigawatts",
+        "NUM"
+      ],
+      [
+        "Denmark",
+        "LOC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spain's Iberdrola",
+        "ORG"
+      ],
+      [
+        "89%",
+        "NUM"
+      ],
+      [
+        "2010",
+        "DATE"
+      ]
+    ],
+    "ner_s": 40.7,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "fossil-fuels",
+      "renewable-energy"
+    ],
+    "tags_s": 2.3,
+    "summary": [
+      "Ten years after the Paris Agreement was signed, global temperatures have risen by 1.45°C above pre-industrial levels, putting us dangerously close to the 1.5°C target.",
+      "The Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report found that global CO₂ emissions reached a record high of 37.4 gigatons in 2023.",
+      "Brazil's deforestation rates in the Amazon Basin have been criticized, while India has pledged to achieve net zero by 2070, which many climate advocates consider too late."
+    ],
+    "summary_s": 8.0
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "196",
+        "NUM"
+      ],
+      [
+        "Akkoord van Parijs",
+        "MISC"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "1,5°C",
+        "NUM"
+      ],
+      [
+        "2°C",
+        "NUM"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Zesde Beoordelingsrapport",
+        "MISC"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "MISC"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "37,4 gigaton",
+        "NUM"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "Zuid- en Zuidoost-Azië",
+        "LOC"
+      ],
+      [
+        "Internationaal Energieagentschap",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Zuid-Azië",
+        "LOC"
+      ],
+      [
+        "Europese Unie",
+        "ORG"
+      ],
+      [
+        "Europees Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "President",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "2070",
+        "DATE"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Climate activists",
+        "MISC"
+      ],
+      [
+        "COP30-top",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "VN-secretaris-generaal",
+        "ORG"
+      ],
+      [
+        "Nationally Determined Contributions",
+        "MISC"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2 terawatt",
+        "NUM"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "430 gigawatt",
+        "NUM"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Deense windenergiebedrijf",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spaanse Iberdrola",
+        "ORG"
+      ],
+      [
+        "89%",
+        "NUM"
+      ],
+      [
+        "2010",
+        "DATE"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "Akkoord van Parijs",
+        "MISC"
+      ],
+      [
+        "monument",
+        "MISC"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ]
+    ],
+    "ner_s": 38.7,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "co2",
+      "renewable-energy",
+      "fossil-fuels"
+    ],
+    "tags_s": 2.7,
+    "summary": [
+      "Ten years after Paris, the world is failing to meet its climate goals. ",
+      "Global temperatures reached 1.45°C above pre-industrial levels in 2024 according to the IPCC's Sixth Assessment Report.",
+      "The global CO₂ emissions reached a record high of 37.4 gigaton in 2023, despite the expansion of renewable energy in countries like Germany, China and the United States."
+    ],
+    "summary_s": 6.0
+  }
+]

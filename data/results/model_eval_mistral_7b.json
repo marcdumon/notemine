@@ -1,0 +1,268 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris Agreement",
+        "MISC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "ORG"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute at Imperial College London",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "International Energy Agency (IEA)",
+        "ORG"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Brazil's National Institute for Space Research (INPE)",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Australian advocacy group Climate Council",
+        "ORG"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "COP30 summit",
+        "MISC"
+      ],
+      [
+        "Belém, Brazil",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 24.0,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "co2-emissions",
+      "renewable-energy",
+      "fossil-fuel-lobbying",
+      "cop30",
+      "nationally-determined-contributions"
+    ],
+    "tags_s": 3.2,
+    "summary": [
+      "In 2025, a decade after the Paris Agreement was signed, global temperatures are dangerously close to the agreed threshold. CO2 emissions reached a record high in 2023 despite expansion of renewable energy. The EU has made progress but Brazil and India lag behind. Fossil fuel companies spend millions on lobbying against climate legislation.",
+      "The upcoming COP30 summit in Belém, Brazil will test international resolve to meet the Paris Agreement goals. Renewable energy sector offers optimism with record investments and falling battery storage costs."
+    ],
+    "summary_s": 4.2
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "IPCC",
+        "MISC"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "NDC's",
+        "MISC"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 9.3,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "ipcc",
+      "co2-emissions",
+      "fossil-fuels-lobbying",
+      "eu-green-deal",
+      "brazilian-rainforest",
+      "india-climate-policy",
+      "cop30"
+    ],
+    "tags_s": 3.7,
+    "summary": [
+      "In 2024, global temperatures reached 1.45°C above pre-industrial levels, nearing the dangerous threshold set by the Paris Agreement of 1.5°C. The Intergovernmental Panel on Climate Change (IPCC) issued a warning that the window for corrective action is shrinking.",
+      "Despite the expansion of renewable energy in countries like Germany, China, and the United States, fossil fuel usage remains at historically high levels.",
+      "Brazil, one of the world's top three CO2 emitters, faces international criticism over deforestation in the Amazon, which reached 11,568 km² in 2024 according to Brazil's National Institute for Space Research (INPE)."
+    ],
+    "summary_s": 6.1
+  }
+]

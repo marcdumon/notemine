@@ -1,0 +1,52 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 52.6,
+    "tags": [
+      "paris-agreement",
+      "climate-crisis",
+      "ipcc-report",
+      "global-carbon-project",
+      "fossil-fuel-lobbying",
+      "cop30-summit",
+      "renewable-energy",
+      "climate-promises",
+      "eu-green-deal",
+      "india-net-zero"
+    ],
+    "tags_s": 34.1,
+    "summary": [
+      "The Paris Agreement, adopted in Le Bourget, France, on December 12, 2015, aimed to limit global warming to 1.5°C above pre-industrial levels.",
+      "Global temperatures reached 1.45°C above the 1850–1900 baseline in 2024, with CO₂ emissions hitting 37.4 gigatons in 2023, despite renewable energy growth in Germany, China, and the U.S.",
+      "Brazil's 11,568 km² of Amazon deforestation in 2024 and India's 2070 net-zero pledge drew criticism from climate advocates like Greta Thunberg and the Climate Council.",
+      "Major oil companies spent $750 million on lobbying against climate legislation between 2020 and 2024, with COP30 in Belém, Brazil, set for November 2025 as a critical test of global climate action."
+    ],
+    "summary_s": 16.5
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 48.1,
+    "tags": [
+      "climate-crisis",
+      "paris-agreement",
+      "co2-emissions",
+      "global-warming",
+      "climate-policy",
+      "fossil-fuel-lobby",
+      "renewable-energy",
+      "cop30",
+      "ipcc-report",
+      "energy-storage"
+    ],
+    "tags_s": 25.8,
+    "summary": [
+      "The IPCC's Sixth Assessment Report states global temperatures in 2024 rose 1.45°C above the 1850–1900 baseline, nearing the 1.5°C threshold.",
+      "Global CO₂ emissions hit 37.4 gigatonnes in 2023, with fossil fuel use remaining high despite renewable expansion in Germany, China, and the U.S.",
+      "Brazil's 2024 Amazon deforestation reached 11,568 km², drawing criticism under President Lula da Silva, while India's 2070 net-zero pledge faces backlash from climate activists.",
+      "Renewable energy growth, including China's 430 GW solar addition in 2024 and falling battery costs, offers hope amid stalled global climate action."
+    ],
+    "summary_s": 15.2
+  }
+]
