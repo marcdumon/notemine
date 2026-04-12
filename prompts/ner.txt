@@ -14,6 +14,8 @@ Rules:
 - Always return entity text in English, translating from the source language if necessary
 - Extract only clearly named entities, not generic nouns or descriptions
 - Dates should be extracted as they appear in the text, not normalised
+- Return the shortest unambiguous form of each entity — omit appositives, parenthetical expansions, and surrounding context (e.g. "PathAI" not "Boston-based PathAI Inc.", "KNAW" not "KNAW (Royal Netherlands Academy of Arts and Sciences)")
+- Extract only entities explicitly present in the text. Do not infer, generalise, or add entities not stated verbatim.
 
 Note content:
 ---

@@ -4,10 +4,11 @@ Return a JSON object with one key "summary", which is a list of 2 to 4 sentences
 form a concise summary of the note's key ideas, entities, and findings.
 
 Rules:
-- Write in English regardless of the source language — do not use any other language
+- Write in English regardless of the source language. Do NOT use Dutch, French, German, or any language other than English.
 - Each sentence should be self-contained and informative
 - Focus on who, what, where, when, and why — not on the document structure
 - Do not include phrases like "this article discusses" or "the note covers"
+- Each sentence must include at least one specific proper noun, figure, or date taken directly from the text.
 
 Note content:
 ---
