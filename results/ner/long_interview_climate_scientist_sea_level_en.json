@@ -2,7 +2,7 @@
   "file": "long_interview_climate_scientist_sea_level_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 19.164,
+  "elapsed_s": 17.0,
   "ground_truth": [
     [
       "Maria van den Berg",
@@ -208,59 +208,35 @@
     ],
     [
       "Oosterscheldekering",
-      "PROD"
+      "LOC"
     ],
     [
       "Maeslantkering",
-      "PROD"
+      "LOC"
     ],
     [
       "Haringvlietdam",
-      "PROD"
-    ],
-    [
-      "Delta Works",
-      "PROD"
+      "LOC"
     ],
     [
       "NRC journalist Tobias Schout",
       "PER"
     ],
     [
-      "0.3 and 1 metre of sea level rise by 2100",
-      "DATE"
-    ],
-    [
-      "moderate emissions scenarios",
-      "MISC"
-    ],
-    [
-      "southwestern Netherlands",
+      "Delta Works",
       "LOC"
     ],
     [
-      "Dutch Water Act",
-      "LAW"
-    ],
-    [
-      "SSP5-8.5",
-      "MISC"
-    ],
-    [
-      "West Antarctica",
+      "The Maeslantkering",
       "LOC"
     ],
     [
-      "deep uncertainty",
-      "MISC"
-    ],
-    [
-      "Peter Glas",
+      "Deltacommissaris Peter Glas",
       "PER"
     ],
     [
       "Water Square at Benthemplein",
-      "PROD"
+      "LOC"
     ],
     [
       "De Urbanisten",
@@ -268,15 +244,15 @@
     ],
     [
       "Rijnhaven floating residential district",
-      "PROD"
-    ],
-    [
-      "green roofs programme",
-      "PROD"
+      "LOC"
     ],
     [
       "Rotterdam Climate Adaptation Plan",
       "PROD"
+    ],
+    [
+      "Municipality of Rotterdam",
+      "ORG"
     ],
     [
       "Port of Rotterdam Authority",
@@ -300,18 +276,22 @@
     ],
     [
       "Schoof cabinet",
-      "MISC"
+      "ORG"
     ],
     [
-      "€14 million",
-      "MISC"
-    ],
-    [
-      "young Dutch engineers",
-      "MISC"
+      "Minister of Infrastructure Mona Keijzer",
+      "PER"
     ],
     [
       "COP27 in Sharm el-Sheikh",
+      "LOC"
+    ],
+    [
+      "Haarlemmermeer",
+      "LOC"
+    ],
+    [
+      "Zuiderzeewerken",
       "LOC"
     ]
   ],

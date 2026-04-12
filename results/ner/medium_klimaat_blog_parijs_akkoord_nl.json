@@ -2,7 +2,7 @@
   "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 22.988,
+  "elapsed_s": 25.491,
   "ground_truth": [
     [
       "Elena Fischer",
@@ -200,7 +200,7 @@
     ],
     [
       "Zesde Beoordelingsrapport",
-      "MISC"
+      "PROD"
     ],
     [
       "Dr. Friederike Otto",
@@ -239,8 +239,16 @@
       "LOC"
     ],
     [
-      "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
-      "ORG"
+      "Brazilië",
+      "LOC"
+    ],
+    [
+      "Luiz Inácio Lula da Silva",
+      "PER"
+    ],
+    [
+      "Amazonegebied",
+      "LOC"
     ],
     [
       "INPE",
@@ -259,16 +267,12 @@
       "PER"
     ],
     [
-      "Brazilië",
-      "LOC"
+      "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
+      "ORG"
     ],
     [
-      "Luiz Inácio Lula da Silva",
-      "PER"
-    ],
-    [
-      "Amazonegebied",
-      "LOC"
+      "INPE",
+      "ORG"
     ],
     [
       "India",
@@ -283,6 +287,14 @@
       "LOC"
     ],
     [
+      "Climate Council",
+      "ORG"
+    ],
+    [
+      "Australië",
+      "LOC"
+    ],
+    [
       "Greta Thunberg",
       "PER"
     ],
@@ -291,16 +303,12 @@
       "ORG"
     ],
     [
-      "Australische belangengroep Climate Council",
-      "ORG"
-    ],
-    [
       "InfluenceMap",
       "ORG"
     ],
     [
-      "Wael Sawan",
-      "PER"
+      "Londen",
+      "LOC"
     ],
     [
       "Saudi Aramco",
@@ -319,6 +327,14 @@
       "ORG"
     ],
     [
+      "Wael Sawan",
+      "PER"
+    ],
+    [
+      "COP30-top",
+      "PROD"
+    ],
+    [
       "Belém",
       "LOC"
     ],
@@ -328,7 +344,7 @@
     ],
     [
       "VN-secretaris-generaal",
-      "PROD"
+      "PER"
     ],
     [
       "The Nature Conservancy",

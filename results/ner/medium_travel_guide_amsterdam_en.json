@@ -2,7 +2,7 @@
   "file": "medium_travel_guide_amsterdam_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 14.569,
+  "elapsed_s": 16.159,
   "ground_truth": [
     [
       "Clara van Houten",
@@ -251,7 +251,15 @@
       "MISC"
     ],
     [
-      "Red Light District (De Wallen)",
+      "toeristenbelasting",
+      "MISC"
+    ],
+    [
+      "Red Light District",
+      "LOC"
+    ],
+    [
+      "De Wallen",
       "LOC"
     ]
   ],

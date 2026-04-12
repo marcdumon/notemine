@@ -2,7 +2,7 @@
   "file": "medium_reisgids_amsterdam_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 15.121,
+  "elapsed_s": 11.713,
   "ground_truth": [
     [
       "Clara van Houten",
@@ -160,10 +160,6 @@
     ],
     [
       "Schiphol",
-      "LOC"
-    ],
-    [
-      "Intercity Direct Amsterdam Centraal Station",
       "PROD"
     ],
     [
@@ -172,35 +168,23 @@
     ],
     [
       "MacBike",
-      "ORG"
+      "PROD"
     ],
     [
       "Black Bikes",
-      "ORG"
+      "PROD"
     ],
     [
       "Rijksmuseum",
       "PROD"
     ],
     [
-      "Museumstraat 1",
-      "LOC"
-    ],
-    [
       "Van Gogh Museum",
       "PROD"
     ],
     [
-      "Museumplein 6",
-      "LOC"
-    ],
-    [
       "Anne Frank Huis",
       "PROD"
-    ],
-    [
-      "Westermarkt 20, Jordaan",
-      "LOC"
     ],
     [
       "Jordaan",
@@ -208,10 +192,6 @@
     ],
     [
       "Negen Straatjes",
-      "LOC"
-    ],
-    [
-      "Amsterdam-Noord",
       "LOC"
     ],
     [
@@ -229,10 +209,6 @@
     [
       "Café de Jaren",
       "PROD"
-    ],
-    [
-      "Nieuwe Doelenstraat 20",
-      "LOC"
     ],
     [
       "Restaurant Blauw",

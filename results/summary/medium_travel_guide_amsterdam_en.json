@@ -2,8 +2,8 @@
   "file": "medium_travel_guide_amsterdam_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 5.083,
+  "elapsed_s": 7.065,
   "ground_truth": "A practical 2025 travel guide to Amsterdam covering transport (Schiphol airport, GVB trams, cycling), must-see museums (Rijksmuseum, Van Gogh Museum, Anne Frank House), neighbourhoods (Jordaan, Amsterdam-Noord, NDSM Wharf), and dining (Café de Jaren, Restaurant Blauw). The guide also notes Amsterdam's overtourism policies under Mayor Femke Halsema, including a €3 tourist tax and Airbnb restrictions.",
-  "summary": "Amsterdam is known for its museums like Rijksmuseum and Van Gogh Museum, as well as vibrant neighborhoods such as Jordaan and Amsterdam-Noord. Cycling is a popular way to explore the city, with over 881,000 bicycles available for rent. Tourists should be aware of the tourist tax and restrictions on short-term rentals in the historic center.",
+  "summary": "Amsterdam Airport Schiphol is one of Europe's busiest airports with direct connections to over 300 destinations. Rijksmuseum houses Rembrandt's *The Night Watch* and offers €22.50 adult tickets. Café de Jaren on Nieuwe Doelenstraat 20 provides a sunny terrace overlooking the Amstel River for weekend brunch. Amsterdam has banned new tourist shops in the historic centre since 2023 under mayor Femke Halsema's policies.",
   "error": null
 }

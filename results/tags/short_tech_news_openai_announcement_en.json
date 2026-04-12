@@ -2,7 +2,7 @@
   "file": "short_tech_news_openai_announcement_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 1.881,
+  "elapsed_s": 2.016,
   "ground_truth": [
     "ai",
     "gpt-5",
@@ -13,11 +13,13 @@
     "tech-conference"
   ],
   "tags": [
-    "artificial-intelligence",
+    "ai",
     "openai",
     "gpt-5",
-    "developer-conference",
-    "machine-learning"
+    "language-model",
+    "conference",
+    "ml",
+    "partnership"
   ],
   "error": null
 }

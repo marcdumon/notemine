@@ -2,7 +2,7 @@
   "file": "short_review_samsung_galaxy_s25_ultra_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.18,
+  "elapsed_s": 2.437,
   "ground_truth": [
     "android",
     "camera",
@@ -17,7 +17,8 @@
     "samsung-galaxy-s25-ultra",
     "snapdragon-8-elite",
     "camera-review",
-    "performance-analysis"
+    "ai-processing",
+    "battery-life"
   ],
   "error": null
 }

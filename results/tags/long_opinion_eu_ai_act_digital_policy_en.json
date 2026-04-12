@@ -2,7 +2,7 @@
   "file": "long_opinion_eu_ai_act_digital_policy_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.181,
+  "elapsed_s": 3.828,
   "ground_truth": [
     "big-tech",
     "chatgpt",
@@ -16,10 +16,13 @@
   ],
   "tags": [
     "eu-ai-act",
-    "regulatory-governance",
-    "ai-risk-assessment",
-    "enforcement-challenges",
-    "technology-policy"
+    "artificial-intelligence",
+    "regulation",
+    "governance",
+    "large-language-models",
+    "enforcement",
+    "lobbying",
+    "gdpr-comparison"
   ],
   "error": null
 }

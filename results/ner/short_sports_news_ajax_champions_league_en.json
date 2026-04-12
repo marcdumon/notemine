@@ -2,7 +2,7 @@
   "file": "short_sports_news_ajax_champions_league_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 7.02,
+  "elapsed_s": 7.557,
   "ground_truth": [
     [
       "Brian Brobbey",
@@ -88,7 +88,7 @@
     ],
     [
       "Bayern Munich",
-      "ORG"
+      "PROD"
     ],
     [
       "Amsterdam",
@@ -119,20 +119,20 @@
       "PER"
     ],
     [
+      "Italian",
+      "LOC"
+    ],
+    [
       "Allianz Arena",
       "LOC"
     ],
     [
-      "Munich",
-      "LOC"
+      "Vincent Kompany",
+      "PER"
     ],
     [
       "April 15",
       "DATE"
-    ],
-    [
-      "Tottenham Hotspur",
-      "ORG"
     ],
     [
       "KNVB",
@@ -141,6 +141,10 @@
     [
       "Just Spee",
       "PER"
+    ],
+    [
+      "Tottenham Hotspur",
+      "PROD"
     ]
   ],
   "error": null

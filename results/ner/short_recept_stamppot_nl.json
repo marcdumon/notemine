@@ -2,7 +2,7 @@
   "file": "short_recept_stamppot_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 5.82,
+  "elapsed_s": 7.063,
   "ground_truth": [
     [
       "Liesbeth Verhoeven",
@@ -59,6 +59,14 @@
       "ORG"
     ],
     [
+      "krulboerenkool",
+      "PROD"
+    ],
+    [
+      "rookworst",
+      "PROD"
+    ],
+    [
       "Bildtstar",
       "PROD"
     ],
@@ -67,8 +75,12 @@
       "PROD"
     ],
     [
-      "rookworst",
-      "PROD"
+      "Unox",
+      "ORG"
+    ],
+    [
+      "Hema",
+      "ORG"
     ],
     [
       "Albert Heijn",
@@ -79,11 +91,11 @@
       "ORG"
     ],
     [
-      "oktober",
+      "October",
       "DATE"
     ],
     [
-      "maart",
+      "March",
       "DATE"
     ]
   ],

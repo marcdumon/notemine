@@ -2,7 +2,7 @@
   "file": "long_opinie_eu_ai_act_digitaal_beleid_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.824,
+  "elapsed_s": 4.749,
   "ground_truth": [
     "big-tech",
     "chatgpt",
@@ -18,8 +18,12 @@
     "eu-ai-act",
     "ai-governance",
     "regulation",
-    "privacy-issues",
-    "technology-policy"
+    "algorithm-watch",
+    "openai",
+    "gpt-4",
+    "gpt-5",
+    "large-language-models",
+    "compliance"
   ],
   "error": null
 }

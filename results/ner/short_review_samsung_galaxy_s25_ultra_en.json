@@ -2,7 +2,7 @@
   "file": "short_review_samsung_galaxy_s25_ultra_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 7.727,
+  "elapsed_s": 6.179,
   "ground_truth": [
     [
       "Joris Hendriksen",
@@ -71,7 +71,7 @@
       "PROD"
     ],
     [
-      "Snapdragon 8 Elite chip",
+      "Snapdragon 8 Elite",
       "PROD"
     ],
     [
@@ -83,23 +83,19 @@
       "ORG"
     ],
     [
-      "Snapdragon 8 Gen 3",
+      "iPhone 16 Pro Max",
       "PROD"
     ],
     [
-      "Apple iPhone 16 Pro Max",
-      "PROD"
+      "Apple",
+      "ORG"
     ],
     [
       "Google Pixel 9 Pro",
       "PROD"
     ],
     [
-      "5,000 mAh battery",
-      "PROD"
-    ],
-    [
-      "Samsung Galaxy AI",
+      "ISOCELL HP9",
       "PROD"
     ],
     [
@@ -111,11 +107,11 @@
       "PROD"
     ],
     [
-      "Circle to Search powered by Google Gemini",
+      "Circle to Search",
       "PROD"
     ],
     [
-      "iPhone 16 Pro Max",
+      "Google Gemini",
       "PROD"
     ]
   ],

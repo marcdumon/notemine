@@ -2,7 +2,7 @@
   "file": "long_ai_healthcare_oncology_research_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.406,
+  "elapsed_s": 3.238,
   "ground_truth": [
     "ai",
     "amsterdam-umc",
@@ -17,9 +17,9 @@
   "tags": [
     "ai-assisted-diagnosis",
     "cancer-pathology",
-    "colorectal-cancer",
-    "clinical-trial",
-    "pathologist-augmentation"
+    "aml-umc",
+    "pathai",
+    "clinical-trial"
   ],
   "error": null
 }

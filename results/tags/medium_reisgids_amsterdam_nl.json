@@ -2,7 +2,7 @@
   "file": "medium_reisgids_amsterdam_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.02,
+  "elapsed_s": 2.92,
   "ground_truth": [
     "amsterdam",
     "canal",
@@ -16,10 +16,10 @@
   ],
   "tags": [
     "amsterdam-travel-guide",
-    "museums-netherlands",
-    "jordaan-neighborhood",
-    "food-drink-amsterdam",
-    "tourism-policy"
+    "european-capital",
+    "historical-museums",
+    "public-transit",
+    "bicycle-culture"
   ],
   "error": null
 }

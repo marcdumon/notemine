@@ -2,7 +2,7 @@
   "file": "medium_history_dutch_golden_age_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.099,
+  "elapsed_s": 3.195,
   "ground_truth": [
     "17th-century",
     "amsterdam",
@@ -17,12 +17,13 @@
     "dutch-golden-age",
     "trade",
     "voc",
-    "amsterdam",
+    "art",
+    "architecture",
     "rembrandt",
     "vermeer",
-    "architecture",
-    "spinoza",
-    "huygens"
+    "amsterdam",
+    "colonialism",
+    "spinoza"
   ],
   "error": null
 }

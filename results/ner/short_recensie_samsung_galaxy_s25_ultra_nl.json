@@ -2,7 +2,7 @@
   "file": "short_recensie_samsung_galaxy_s25_ultra_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 6.26,
+  "elapsed_s": 6.651,
   "ground_truth": [
     [
       "Joris Hendriksen",

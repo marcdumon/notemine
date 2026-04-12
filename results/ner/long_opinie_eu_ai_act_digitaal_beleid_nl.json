@@ -2,7 +2,7 @@
   "file": "long_opinie_eu_ai_act_digitaal_beleid_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 21.349,
+  "elapsed_s": 22.535,
   "ground_truth": [
     [
       "Thomas Weber",
@@ -211,6 +211,10 @@
       "LOC"
     ],
     [
+      "General-purpose AI",
+      "PROD"
+    ],
+    [
       "OpenAI's GPT-4 and GPT-5",
       "PROD"
     ],
@@ -244,10 +248,6 @@
     ],
     [
       "Cyprus",
-      "LOC"
-    ],
-    [
-      "Nederland",
       "LOC"
     ],
     [
@@ -321,6 +321,10 @@
     [
       "AI Executive Order",
       "PROD"
+    ],
+    [
+      "Biden-regering",
+      "ORG"
     ],
     [
       "UK AI Safety Institute",

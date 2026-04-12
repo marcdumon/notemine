@@ -2,7 +2,7 @@
   "file": "long_ai_gezondheidszorg_oncologie_onderzoek_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 30.643,
+  "elapsed_s": 19.103,
   "ground_truth": [
     [
       "Jan de Vries",
@@ -207,47 +207,11 @@
       "ORG"
     ],
     [
-      "VU Universitario Medico Center (VUmc)",
-      "ORG"
-    ],
-    [
-      "The Lancet Digital Health",
-      "PROD"
-    ],
-    [
-      "AI-ondersteunde pathologie",
-      "MISC"
-    ],
-    [
-      "darmkanker",
-      "LOC"
-    ],
-    [
-      "Nederland",
-      "LOC"
-    ],
-    [
-      "Kankerregistratie (IKNL)",
+      "VU Universitair Medisch Centrum (VUmc)",
       "ORG"
     ],
     [
       "Radboud Universitair Medisch Centrum",
-      "ORG"
-    ],
-    [
-      "Nijmegen",
-      "LOC"
-    ],
-    [
-      "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
-      "ORG"
-    ],
-    [
-      "AI & Gezondheid",
-      "PROD"
-    ],
-    [
-      "Cancer Center Amsterdam",
       "ORG"
     ],
     [
@@ -280,7 +244,7 @@
     ],
     [
       "Horizon Europe-subsidie",
-      "MISC"
+      "ORG"
     ],
     [
       "ZonMW",
@@ -291,59 +255,11 @@
       "ORG"
     ],
     [
-      "120 miljoen euro per jaar",
-      "MISC"
-    ],
-    [
-      "dr. Jan de Vries",
-      "PER"
-    ],
-    [
-      "prof. Maria Santos",
-      "PER"
-    ],
-    [
-      "dr. Kwame Asante",
-      "PER"
-    ],
-    [
-      "Nederlandse Vereniging voor Pathologie (NVVP)",
+      "SURFsara",
       "ORG"
     ],
     [
-      "2030",
-      "DATE"
-    ],
-    [
-      "2847 patiënten",
-      "MISC"
-    ],
-    [
-      "januari 2023",
-      "DATE"
-    ],
-    [
-      "december 2024",
-      "DATE"
-    ],
-    [
-      "6,2 werkdagen",
-      "MISC"
-    ],
-    [
-      "3,8 werkdagen",
-      "MISC"
-    ],
-    [
-      "101082218",
-      "MISC"
-    ],
-    [
-      "Royal Brompton Hospital",
-      "ORG"
-    ],
-    [
-      "Londen",
+      "Royal Brompton Hospital in Londen",
       "LOC"
     ],
     [

@@ -2,7 +2,7 @@
   "file": "medium_climate_blog_paris_agreement_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 17.724,
+  "elapsed_s": 18.924,
   "ground_truth": [
     [
       "Elena Fischer",
@@ -203,16 +203,8 @@
       "PER"
     ],
     [
-      "Germany",
-      "LOC"
-    ],
-    [
-      "China",
-      "LOC"
-    ],
-    [
-      "United States",
-      "LOC"
+      "University of Exeter",
+      "ORG"
     ],
     [
       "International Energy Agency (IEA)",
@@ -227,6 +219,18 @@
       "LOC"
     ],
     [
+      "European Union",
+      "ORG"
+    ],
+    [
+      "European Green Deal",
+      "PROD"
+    ],
+    [
+      "Ursula von der Leyen",
+      "PER"
+    ],
+    [
       "Brazil",
       "LOC"
     ],
@@ -235,8 +239,16 @@
       "PER"
     ],
     [
-      "INPE in São José dos Campos",
+      "Amazon Basin",
+      "LOC"
+    ],
+    [
+      "INPE",
       "ORG"
+    ],
+    [
+      "São José dos Campos",
+      "LOC"
     ],
     [
       "India",
@@ -253,6 +265,10 @@
     [
       "Australian advocacy group Climate Council",
       "ORG"
+    ],
+    [
+      "London",
+      "LOC"
     ],
     [
       "Saudi Aramco",
@@ -273,14 +289,6 @@
     [
       "Wael Sawan",
       "PER"
-    ],
-    [
-      "InfluenceMap",
-      "ORG"
-    ],
-    [
-      "London",
-      "LOC"
     ],
     [
       "COP30 summit in Belém, Brazil",
@@ -308,7 +316,7 @@
     ],
     [
       "BloombergNEF",
-      "ORG"
+      "PROD"
     ]
   ],
   "error": null

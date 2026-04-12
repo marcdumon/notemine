@@ -2,7 +2,7 @@
   "file": "short_tech_nieuws_openai_aankondiging_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 6.107,
+  "elapsed_s": 8.662,
   "ground_truth": [
     [
       "Sam Altman",
@@ -87,6 +87,10 @@
       "LOC"
     ],
     [
+      "OpenAI",
+      "ORG"
+    ],
+    [
       "Sam Altman",
       "PER"
     ],
@@ -103,28 +107,40 @@
       "PROD"
     ],
     [
-      "OpenAI",
-      "ORG"
-    ],
-    [
       "Google DeepMind's Gemini Ultra 2.0",
       "PROD"
+    ],
+    [
+      "MMLU-benchmark",
+      "MISC"
     ],
     [
       "Microsoft",
       "ORG"
     ],
     [
+      "Satya Nadella",
+      "PER"
+    ],
+    [
       "Redmond, Washington",
       "LOC"
     ],
     [
-      "Geoffrey Hinton",
+      "AI-veiligheidsonderzoeker Geoffrey Hinton",
       "PER"
+    ],
+    [
+      "Nobelprijswinnaar",
+      "MISC"
     ],
     [
       "EU AI Act",
       "MISC"
+    ],
+    [
+      "January 2025",
+      "DATE"
     ]
   ],
   "error": null

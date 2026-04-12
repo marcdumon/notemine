@@ -2,7 +2,7 @@
   "file": "long_opinion_eu_ai_act_digital_policy_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 22.416,
+  "elapsed_s": 16.764,
   "ground_truth": [
     [
       "Thomas Weber",
@@ -195,12 +195,12 @@
   ],
   "entities": [
     [
-      "European Parliament",
-      "ORG"
-    ],
-    [
       "Ursula von der Leyen",
       "PER"
+    ],
+    [
+      "European Parliament",
+      "ORG"
     ],
     [
       "Chinese authorities",
@@ -211,15 +211,15 @@
       "ORG"
     ],
     [
+      "Autoriteit Persoonsgegevens (AP)",
+      "ORG"
+    ],
+    [
       "Bits of Freedom",
       "ORG"
     ],
     [
       "AlgorithmWatch",
-      "ORG"
-    ],
-    [
-      "Autoriteit Persoonsgegevens (AP)",
       "ORG"
     ],
     [
@@ -243,62 +243,6 @@
       "ORG"
     ],
     [
-      "GPT-4",
-      "PROD"
-    ],
-    [
-      "GPT-5",
-      "PROD"
-    ],
-    [
-      "Gemini",
-      "PROD"
-    ],
-    [
-      "Meta",
-      "ORG"
-    ],
-    [
-      "Llama",
-      "PROD"
-    ],
-    [
-      "Anthropic",
-      "ORG"
-    ],
-    [
-      "Claude",
-      "PROD"
-    ],
-    [
-      "European AI Office",
-      "ORG"
-    ],
-    [
-      "DG CONNECT",
-      "ORG"
-    ],
-    [
-      "Bulgaria",
-      "LOC"
-    ],
-    [
-      "Romania",
-      "LOC"
-    ],
-    [
-      "Cyprus",
-      "LOC"
-    ],
-    [
-      "Netherlands",
-      "LOC"
-    ],
-    [
-      "Apple",
-      "ORG"
-    ],
-    [
       "Google",
       "ORG"
     ],
@@ -307,43 +251,15 @@
       "ORG"
     ],
     [
-      "California's CPRA",
-      "PROD"
+      "Apple",
+      "ORG"
     ],
     [
       "Irish Data Protection Commission (DPC)",
       "ORG"
     ],
     [
-      "Max Schrems",
-      "PER"
-    ],
-    [
       "noyb (None of Your Business)",
-      "ORG"
-    ],
-    [
-      "AWS",
-      "ORG"
-    ],
-    [
-      "Microsoft Azure",
-      "ORG"
-    ],
-    [
-      "Google Cloud",
-      "ORG"
-    ],
-    [
-      "EuroHPC",
-      "ORG"
-    ],
-    [
-      "Biden administration",
-      "ORG"
-    ],
-    [
-      "UK AI Safety Institute",
       "ORG"
     ],
     [
@@ -359,32 +275,64 @@
       "ORG"
     ],
     [
-      "EU Charter of Fundamental Rights",
+      "Gesellschaft für Freiheitsrechte",
+      "ORG"
+    ],
+    [
+      "Sam Altman",
+      "PER"
+    ],
+    [
+      "PathAI",
+      "PROD"
+    ],
+    [
+      "KNAW (Royal Netherlands Academy of Arts and Sciences)",
+      "ORG"
+    ],
+    [
+      "GDPR",
       "MISC"
     ],
     [
-      "March 13, 2024",
-      "DATE"
+      "CPRA",
+      "MISC"
     ],
     [
-      "April 2021",
-      "DATE"
+      "Biden administration",
+      "ORG"
     ],
     [
-      "February 2025",
-      "DATE"
+      "United States",
+      "LOC"
     ],
     [
-      "January 2023",
-      "DATE"
+      "EU AI Act",
+      "MISC"
     ],
     [
-      "November 2024",
-      "DATE"
+      "European Commission",
+      "ORG"
     ],
     [
-      "October 2023",
-      "DATE"
+      "AI Act",
+      "MISC"
+    ],
+    [
+      "EuroHPC",
+      "PROD"
+    ],
+    [
+      "AI Safety Institute",
+      "ORG"
+    ],
+    [
+      "AI Office",
+      "ORG"
+    ],
+    [
+      "AI governance dialogue",
+      "MISC"
     ]
   ],
   "error": null

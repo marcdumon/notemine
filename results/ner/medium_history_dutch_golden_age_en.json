@@ -2,7 +2,7 @@
   "file": "medium_history_dutch_golden_age_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 25.586,
+  "elapsed_s": 27.456,
   "ground_truth": [
     [
       "Hanneke Oosterhout",
@@ -152,11 +152,15 @@
   "entities": [
     [
       "Dutch Golden Age",
-      "MISC"
+      "LOC"
     ],
     [
       "1588–1702",
       "DATE"
+    ],
+    [
+      "Dutch Republic",
+      "ORG"
     ],
     [
       "Republic of the Seven United Netherlands",
@@ -179,16 +183,16 @@
       "LOC"
     ],
     [
-      "Vereenigde Oost-Indische Compagnie (VOC)",
+      "Vereenigde Oost-Indische Compagnie",
+      "ORG"
+    ],
+    [
+      "VOC",
       "ORG"
     ],
     [
       "Amsterdam Stock Exchange",
-      "MISC"
-    ],
-    [
-      "1602",
-      "DATE"
+      "PROD"
     ],
     [
       "Jan Pieterszoon Coen",
@@ -219,23 +223,47 @@
       "PROD"
     ],
     [
-      "Westindische Compagnie (WIC)",
+      "Westindische Compagnie",
       "ORG"
     ],
     [
-      "1621",
-      "DATE"
+      "WIC",
+      "ORG"
     ],
     [
       "northeastern Brazil",
       "LOC"
     ],
     [
-      "West African coast",
+      "The Hague",
       "LOC"
     ],
     [
-      "December 2022",
+      "Leiden",
+      "LOC"
+    ],
+    [
+      "Amsterdam",
+      "LOC"
+    ],
+    [
+      "Mauritshuis",
+      "PROD"
+    ],
+    [
+      "The Night Watch",
+      "PROD"
+    ],
+    [
+      "1642",
+      "DATE"
+    ],
+    [
+      "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "PROD"
+    ],
+    [
+      "1632",
       "DATE"
     ],
     [
@@ -243,28 +271,28 @@
       "PER"
     ],
     [
-      "Leiden",
-      "LOC"
+      "Johannes Vermeer",
+      "PER"
     ],
     [
-      "The Night Watch (1642)",
+      "Girl with a Pearl Earring",
       "PROD"
     ],
     [
-      "The Anatomy Lesson of Dr. Nicolaes Tulp (1632)",
-      "PROD"
+      "c. 1665",
+      "DATE"
     ],
     [
-      "Amsterdam",
+      "Delft",
       "LOC"
     ],
     [
-      "Mauritshuis in The Hague",
+      "Amsterdam's canal ring",
       "LOC"
     ],
     [
       "Grachtengordel",
-      "LOC"
+      "PROD"
     ],
     [
       "2010",
@@ -283,8 +311,12 @@
       "PROD"
     ],
     [
+      "1656",
+      "DATE"
+    ],
+    [
       "Saturn's moon Titan",
-      "MISC"
+      "PROD"
     ],
     [
       "Antonie van Leeuwenhoek",
@@ -299,6 +331,10 @@
       "PROD"
     ],
     [
+      "1674",
+      "DATE"
+    ],
+    [
       "bacteria",
       "PROD"
     ],
@@ -311,20 +347,28 @@
       "LOC"
     ],
     [
-      "1674",
-      "DATE"
-    ],
-    [
-      "Ethics (1677)",
+      "Ethics",
       "PROD"
     ],
     [
-      "Franco-Dutch War (1672–1678)",
+      "1677",
+      "DATE"
+    ],
+    [
+      "Franco-Dutch War",
       "MISC"
     ],
     [
-      "Glorious Revolution of 1688",
+      "1672–1678",
+      "DATE"
+    ],
+    [
+      "Glorious Revolution",
       "MISC"
+    ],
+    [
+      "1688",
+      "DATE"
     ]
   ],
   "error": null

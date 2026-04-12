@@ -2,7 +2,7 @@
   "file": "short_recept_stamppot_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.121,
+  "elapsed_s": 2.494,
   "ground_truth": [
     "boerenkool",
     "comfort-food",
@@ -13,11 +13,11 @@
     "winter"
   ],
   "tags": [
-    "dutch-food",
-    "stamppot",
-    "boerenkool",
-    "roast-sausage",
-    "winter-dish"
+    "hollandse-stamppot",
+    "krulboerenkool",
+    "rookworst",
+    "nederlands-koken",
+    "traditional-dutch-cuisine"
   ],
   "error": null
 }

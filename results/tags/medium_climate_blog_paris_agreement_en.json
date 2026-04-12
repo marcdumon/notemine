@@ -2,7 +2,7 @@
   "file": "medium_climate_blog_paris_agreement_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.026,
+  "elapsed_s": 3.239,
   "ground_truth": [
     "climate-change",
     "cop30",
@@ -20,7 +20,8 @@
     "renewable-energy",
     "fossil-fuel",
     "lobbying",
-    "international-climate-summit"
+    "cop30",
+    "nationally-determined-contributions"
   ],
   "error": null
 }

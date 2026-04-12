@@ -2,7 +2,7 @@
   "file": "long_ai_healthcare_oncology_research_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 13.786,
+  "elapsed_s": 18.293,
   "ground_truth": [
     [
       "Jan de Vries",
@@ -215,15 +215,15 @@
       "PROD"
     ],
     [
-      "Netherlands",
-      "LOC"
+      "Netherlands Cancer Registry (IKNL)",
+      "ORG"
     ],
     [
-      "Colorectal cancer",
-      "MISC"
+      "Royal Netherlands Academy of Arts and Sciences (KNAW)",
+      "ORG"
     ],
     [
-      "IKNL",
+      "Boston-based PathAI Inc.",
       "ORG"
     ],
     [
@@ -231,35 +231,19 @@
       "ORG"
     ],
     [
-      "Nijmegen",
-      "LOC"
-    ],
-    [
-      "KNAW (Royal Netherlands Academy of Arts and Sciences)",
-      "ORG"
-    ],
-    [
-      "PathAI Colorectal Classifier v3.1",
-      "PROD"
-    ],
-    [
-      "Boston-based PathAI Inc.",
-      "ORG"
-    ],
-    [
-      "Google Health",
-      "ORG"
-    ],
-    [
       "Delft University of Technology",
       "ORG"
     ],
     [
-      "Horizon Europe",
-      "MISC"
+      "ZonMW",
+      "ORG"
     ],
     [
-      "ZonMW (the Netherlands Organisation for Health Research and Development)",
+      "Netherlands Organisation for Health Research and Development",
+      "ORG"
+    ],
+    [
+      "Autoriteit Persoonsgegevens",
       "ORG"
     ],
     [
@@ -285,6 +269,38 @@
     [
       "Philips Healthcare",
       "ORG"
+    ],
+    [
+      "IntelliSite Pathology Solution",
+      "PROD"
+    ],
+    [
+      "March 3, 2025",
+      "DATE"
+    ],
+    [
+      "June 3, 2025",
+      "DATE"
+    ],
+    [
+      "January 2023 - December 2024",
+      "DATE"
+    ],
+    [
+      "2028",
+      "DATE"
+    ],
+    [
+      "2030",
+      "DATE"
+    ],
+    [
+      "2022",
+      "DATE"
+    ],
+    [
+      "2024",
+      "DATE"
     ]
   ],
   "error": null

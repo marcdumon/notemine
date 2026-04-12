@@ -2,7 +2,7 @@
   "file": "short_tech_news_openai_announcement_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 9.845,
+  "elapsed_s": 6.732,
   "ground_truth": [
     [
       "Sam Altman",
@@ -91,28 +91,16 @@
       "ORG"
     ],
     [
-      "Moscone Center",
-      "LOC"
-    ],
-    [
       "GPT-5",
       "PROD"
     ],
     [
+      "Moscone Center",
+      "LOC"
+    ],
+    [
       "Sam Altman",
       "PER"
-    ],
-    [
-      "March 15, 2025",
-      "DATE"
-    ],
-    [
-      "3,000 developers and investors",
-      "MISC"
-    ],
-    [
-      "MMLU benchmark",
-      "MISC"
     ],
     [
       "Google DeepMind's Gemini Ultra 2.0",

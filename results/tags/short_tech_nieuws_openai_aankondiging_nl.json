@@ -2,7 +2,7 @@
   "file": "short_tech_nieuws_openai_aankondiging_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.009,
+  "elapsed_s": 2.607,
   "ground_truth": [
     "ai",
     "gpt-5",
@@ -13,11 +13,14 @@
     "tech-conference"
   ],
   "tags": [
-    "artificial-intelligence",
+    "ai",
     "openai",
     "gpt-5",
-    "conference",
-    "san-francisco"
+    "tech-conference",
+    "ml-models",
+    "cloud-services",
+    "partnership",
+    "security-issues"
   ],
   "error": null
 }

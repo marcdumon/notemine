@@ -2,8 +2,8 @@
   "file": "medium_climate_blog_paris_agreement_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 4.189,
+  "elapsed_s": 8.432,
   "ground_truth": "Ten years after the Paris Agreement was signed in Le Bourget, France, global CO₂ emissions have reached record levels and temperatures are at 1.45°C above pre-industrial baseline. While the EU has cut emissions by 32%, major emitters like Brazil (deforestation) and India (2070 net zero target) are falling short. The upcoming COP30 summit in Belém, Brazil, is cited as a critical test of international resolve.",
-  "summary": "Ten years after the Paris Agreement, global temperatures are close to critical thresholds and emissions remain high. Major emitters like India face criticism for slow progress, while fossil fuel lobbying continues to hinder climate action. The upcoming COP30 summit in Brazil will test international commitment, with some optimism from renewable energy advancements.",
+  "summary": "According to the Intergovernmental Panel on Climate Change (IPCC), global temperatures in 2024 were 1.45°C above the 1850–1900 baseline. The European Union has cut emissions by 32% since 1990, while Brazil faces criticism for high deforestation rates in the Amazon Basin. Shell's CEO Wael Sawan rejected a report by InfluenceMap that found major oil and gas companies spent $750 million on climate legislation lobbying between 2020 and 2024. The upcoming COP30 summit in Belém, Brazil, will test international resolve to meet the Paris Agreement goals.",
   "error": null
 }

@@ -2,7 +2,7 @@
   "file": "short_sport_nieuws_ajax_champions_league_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.002,
+  "elapsed_s": 1.853,
   "ground_truth": [
     "ajax",
     "amsterdam",
@@ -14,10 +14,10 @@
   ],
   "tags": [
     "ajax",
-    "bayern-munich",
+    "bayern-munchen",
     "champions-league",
-    "uefa-tournament",
-    "football-soccer"
+    "uefa",
+    "football"
   ],
   "error": null
 }

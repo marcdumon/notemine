@@ -2,7 +2,7 @@
   "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 20.358,
+  "elapsed_s": 21.011,
   "ground_truth": [
     [
       "Maria van den Berg",
@@ -203,24 +203,12 @@
       "ORG"
     ],
     [
-      "RISES-AM",
-      "PROD"
-    ],
-    [
       "IPCC",
       "ORG"
     ],
     [
       "NRC-journalist Tobias Schout",
       "PER"
-    ],
-    [
-      "Het Zesde Beoordelingsrapport van het IPCC",
-      "MISC"
-    ],
-    [
-      "0,3 en 1 meter zeespiegelstijging tegen 2100",
-      "DATE"
     ],
     [
       "Deltawerken",
@@ -239,67 +227,47 @@
       "PROD"
     ],
     [
-      "Maeslantkering",
+      "Netherlands Waterwet",
+      "ORG"
+    ],
+    [
+      "RISES-AM",
       "PROD"
     ],
     [
-      "2017",
-      "DATE"
+      "Zesde Beoordelingsrapport van het IPCC",
+      "PROD"
     ],
     [
-      "Nederlandse Waterwet",
-      "MISC"
-    ],
-    [
-      "SSP5-8.5",
-      "MISC"
-    ],
-    [
-      "Groenland",
-      "LOC"
-    ],
-    [
-      "Antarctica",
-      "LOC"
-    ],
-    [
-      "Peter Glas",
-      "PER"
-    ],
-    [
-      "De Urbanisten",
+      "KNAW (Royal Netherlands Academy of Arts and Sciences)",
       "ORG"
+    ],
+    [
+      "Rotterdam",
+      "LOC"
     ],
     [
       "Benthemplein",
       "LOC"
     ],
     [
+      "Waterplein op het Benthemplein",
+      "PROD"
+    ],
+    [
+      "De Urbanisten",
+      "ORG"
+    ],
+    [
       "Rijnhaven",
       "LOC"
     ],
     [
-      "Gemeente Rotterdam",
+      "KNMI, het Koninklijk Nederlands Meteorologisch Instituut",
       "ORG"
     ],
     [
-      "Havenbedrijf Rotterdam",
-      "ORG"
-    ],
-    [
-      "Ministerie van Infrastructuur en Waterstaat",
-      "ORG"
-    ],
-    [
-      "KNMI",
-      "ORG"
-    ],
-    [
-      "Koninklijk Nederlands Meteorologisch Instituut",
-      "ORG"
-    ],
-    [
-      "ECMWF",
+      "ECMWF in Reading",
       "ORG"
     ],
     [
@@ -311,12 +279,44 @@
       "ORG"
     ],
     [
-      "Mona Keijzer",
+      "Ministerie van Infrastructuur en Waterstaat",
+      "ORG"
+    ],
+    [
+      "Havenbedrijf Rotterdam",
+      "ORG"
+    ],
+    [
+      "Minister of Infrastructure and Water Management, Mona Keijzer",
       "PER"
     ],
     [
-      "COP27 in Sharm el-Sheikh",
+      "TU Delft",
+      "ORG"
+    ],
+    [
+      "WUR",
+      "ORG"
+    ],
+    [
+      "Universiteit Utrecht",
+      "ORG"
+    ],
+    [
+      "VU Amsterdam",
+      "ORG"
+    ],
+    [
+      "Haarlemmermeer",
       "LOC"
+    ],
+    [
+      "Zuiderzeewerken",
+      "PROD"
+    ],
+    [
+      "Watersnoodramp van 1953",
+      "EVENT"
     ]
   ],
   "error": null

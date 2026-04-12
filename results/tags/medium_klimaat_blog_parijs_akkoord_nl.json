@@ -2,7 +2,7 @@
   "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 3.544,
+  "elapsed_s": 3.912,
   "ground_truth": [
     "climate-change",
     "cop30",
@@ -17,11 +17,12 @@
     "climate-change",
     "paris-agreement",
     "global-warming",
+    "carbon-emissions",
     "renewable-energy",
     "fossil-fuels",
     "lobbying",
-    "international-policy",
-    "environmental-sustainability"
+    "copolitical-decision-making",
+    "environmental-policy"
   ],
   "error": null
 }

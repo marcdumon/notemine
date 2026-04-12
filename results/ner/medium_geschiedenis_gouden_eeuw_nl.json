@@ -2,7 +2,7 @@
   "file": "medium_geschiedenis_gouden_eeuw_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 17.564,
+  "elapsed_s": 18.006,
   "ground_truth": [
     [
       "Hanneke Oosterhout",
@@ -171,16 +171,28 @@
       "LOC"
     ],
     [
-      "Amsterdamse Effectenbeurs",
-      "PROD"
+      "New York",
+      "LOC"
     ],
     [
       "Vereenigde Oost-Indische Compagnie",
       "ORG"
     ],
     [
+      "VOC",
+      "ORG"
+    ],
+    [
+      "Amsterdamse Effectenbeurs",
+      "PROD"
+    ],
+    [
       "Jan Pieterszoon Coen",
       "PER"
+    ],
+    [
+      "Batavia",
+      "LOC"
     ],
     [
       "Molukken",
@@ -207,12 +219,16 @@
       "ORG"
     ],
     [
+      "WIC",
+      "ORG"
+    ],
+    [
       "Brazilië",
       "LOC"
     ],
     [
-      "West-Afrikaanse kust",
-      "LOC"
+      "Trans-Atlantische slavenhandel",
+      "MISC"
     ],
     [
       "Rembrandt van Rijn",
@@ -240,7 +256,7 @@
     ],
     [
       "Saturnus' maan Titan",
-      "PROD"
+      "MISC"
     ],
     [
       "Antonie van Leeuwenhoek",
@@ -253,14 +269,6 @@
     [
       "Ethica",
       "PROD"
-    ],
-    [
-      "Frans-Nederlandse Oorlog",
-      "ORG"
-    ],
-    [
-      "Glorieuze Revolutie",
-      "EVENT"
     ]
   ],
   "error": null

@@ -2,8 +2,8 @@
   "file": "long_opinion_eu_ai_act_digital_policy_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 4.936,
+  "elapsed_s": 6.062,
   "ground_truth": "An opinion piece arguing that while the EU AI Act is a genuine regulatory achievement, its implementation is undermined by slow member-state enforcement, lobbying-induced dilution, and structural timing lags behind fast-moving AI development. The author compares the Act's likely trajectory to the GDPR's slow enforcement and argues that effective AI governance also requires European sovereign compute, a transatlantic agreement, civil society funding, and clarity on what fundamental rights the regulation is meant to protect.",
-  "summary": "The European Parliament adopted the EU Artificial Intelligence Act in March 2024, introducing a tiered risk framework for AI systems. However, enforcement challenges and potential lobbying dilution threaten its effectiveness. Critics argue that meaningful regulatory impact is unlikely before 2027 or 2028.",
+  "summary": "The European Parliament adopted the EU Artificial Intelligence Act on March 13, 2024, with 523 votes in favor and 46 against. Enforcement of the AI Act is problematic due to delays in designating competent authorities by several member states. Critics argue that the regulatory framework for General-Purpose AI models will be outdated by the time it takes effect in August 2025.",
   "error": null
 }

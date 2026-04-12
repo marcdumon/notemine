@@ -2,7 +2,7 @@
   "file": "short_recensie_samsung_galaxy_s25_ultra_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.631,
+  "elapsed_s": 2.348,
   "ground_truth": [
     "android",
     "camera",
@@ -13,11 +13,10 @@
     "snapdragon"
   ],
   "tags": [
+    "android-phone",
     "samsung-galaxy-s25-ultra",
-    "android-phones",
     "snapdragon-chip",
     "camera-technology",
-    "battery-life",
     "ai-features"
   ],
   "error": null

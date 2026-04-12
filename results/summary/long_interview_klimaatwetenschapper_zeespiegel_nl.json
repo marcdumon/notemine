@@ -2,8 +2,8 @@
   "file": "long_interview_klimaatwetenschapper_zeespiegel_nl.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 7.82,
+  "elapsed_s": 7.318,
   "ground_truth": "An interview with Dr. Maria van den Berg, professor of coastal hydrology at TU Delft and senior fellow at Deltares, about sea level rise risks to the Netherlands. She warns that current Dutch flood defence standards are based on outdated projections and advocates for adaptive pathway planning, citing Rotterdam as a world leader in adaptation. She criticises the Schoof cabinet's €14 million cut to KNMI's budget as a false economy that undermines the science needed to design flood defences.",
-  "summary": "Dr. Maria van den Berg states that the Netherlands is better prepared than most countries for sea-level rise, but faces deep uncertainty due to higher-end IPCC scenarios. Rotterdam leads in climate adaptation with projects like the Waterplein and Klimaatadaptatieplan Rotterdam, yet harbor infrastructure remains vulnerable to rapid sea-level rise. She criticizes the Dutch government's budget cuts to KNMI, arguing it undermines critical scientific support for water management design. Hope lies in young engineers focusing on nature-based solutions, international momentum for loss and damage funds, and historical resilience against flooding.",
+  "summary": "Dr. Maria van den Berg states that the Netherlands is better prepared than most countries for sea-level rise, but faces deep uncertainty due to higher-end IPCC scenarios. Rotterdam leads in climate adaptation with projects like the Waterplein and Klimaatadaptatieplan Rotterdam. The Dutch government's decision to cut funding for KNMI is criticized as a false economy by Dr. van den Berg. Hope lies in young engineers, international momentum on loss and damage funds, and Netherlands' historical resilience against water.",
   "error": null
 }

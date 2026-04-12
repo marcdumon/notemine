@@ -2,7 +2,7 @@
   "file": "long_interview_climate_scientist_sea_level_en.md",
   "backend": "ollama",
   "model": "qwen2.5:7b",
-  "elapsed_s": 2.872,
+  "elapsed_s": 2.79,
   "ground_truth": [
     "climate-science",
     "delta-works",
@@ -17,9 +17,9 @@
   "tags": [
     "sea-level-rise",
     "dutch-delta",
-    "climate-adaptation",
+    "climate-change",
     "flood-defence",
-    "research-institute"
+    "policy-making"
   ],
   "error": null
 }
