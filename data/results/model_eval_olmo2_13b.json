@@ -1,0 +1,392 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "France",
+        "LOC"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Sixth Assessment Report",
+        "PROD"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "International Energy Agency",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "South and Southeast Asia",
+        "LOC"
+      ],
+      [
+        "European Union",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "PROD"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Pacific Island nations",
+        "LOC"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "UN",
+        "ORG"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "NDCs",
+        "MISC"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 45.8,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "co2-emissions",
+      "renewable-energy",
+      "fossil-fuels",
+      "international-climate-policy",
+      "cop30",
+      "political-will"
+    ],
+    "tags_s": 7.1,
+    "summary": [
+      "Ten years after the Paris Agreement, global temperatures are dangerously close to the 1.5°C limit, with 2024 temperatures at 1.45°C above pre-industrial levels according to the IPCC.",
+      "Despite efforts in renewable energy, global CO₂ emissions reached a record high of 37.4 gigatons in 2023, as reported by the Global Carbon Project led by Pierre Friedlingstein.",
+      "The European Union has made progress with a 32% emissions cut since 1990 under the European Green Deal, while Brazil faces criticism for Amazon deforestation and India's net zero target by 2070 is deemed too late by climate advocates.",
+      "Major oil companies spent $750 million on lobbying against climate legislation between 2020 and 2024, as revealed by InfluenceMap, with Shell rejecting the findings."
+    ],
+    "summary_s": 17.3
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Akkoord van Parijs",
+        "MISC"
+      ],
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Friederike Otto",
+        "PER"
+      ],
+      [
+        "klimaatwetenschapper",
+        "MISC"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "Internationaal Energieagentschap",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "Nationaal Instituut voor Ruimteonderzoek",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Australische belangengroep",
+        "MISC"
+      ],
+      [
+        "COP30-top",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "VN",
+        "ORG"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "NDC's",
+        "MISC"
+      ],
+      [
+        "ambitieuzere doelstellingen",
+        "MISC"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "solar-energiecapaciteit",
+        "MISC"
+      ],
+      [
+        "2 terawatt",
+        "NUM"
+      ]
+    ],
+    "ner_s": 41.2,
+    "tags": [
+      "klimaatverandering",
+      "parijsakkoord",
+      "internationale samenwerking",
+      "klimaatbeloften",
+      "mondiale uitstoot",
+      "renewable_energy",
+      "CO2-uitstoot",
+      "IPCC",
+      "COP30",
+      "lobbywerk",
+      "olieindustrie",
+      "windenergie",
+      "zonne-energie"
+    ],
+    "tags_s": 10.8,
+    "summary": [
+      "Ten years after the Paris Agreement, global efforts to limit climate change to 1.5°C above pre-industrial levels are falling short, according to recent reports.",
+      "The Intergovernmental Panel on Climate Change (IPCC) reported a global average temperature increase of 1.45°C in 2024, dangerously close to the 1.5°C threshold.",
+      "The Global Carbon Project highlighted that despite the growth of renewable energy, fossil fuel use remains high, with South and Southeast Asia's coal consumption offsetting gains elsewhere.",
+      "The European Union has made measurable progress with a 32% reduction in emissions since 1990, but Brazil under President Lula da Silva faces criticism for Amazon deforestation, reaching 11,568 km² in 2024.",
+      "India's promise to become carbon-neutral by 2070 is criticized as too late by climate activists, while the Australian Climate Council calls it a betrayal to island nations.",
+      "A report by InfluenceMap revealed that oil and gas companies spent $750 million on lobbying against climate legislation between 2020 and 2024, with Shell's Wael Sawan dismissing the findings as selective and misleading.",
+      "UN Secretary-General António Guterres called for enhanced Nationally Determined Contributions (NDCs) by 2035 at COP30 in Belém, Brazil, highlighting that while the tools exist, political will is lacking.",
+      "The renewable energy sector offers a glimmer of hope with solar capacity surpassing 2 terawatts globally in 2024, and Denmark's Ørsted and Spain's Iberdrola reporting record investment years. Battery storage costs have also decreased by 89% since 2010."
+    ],
+    "summary_s": 33.3
+  }
+]

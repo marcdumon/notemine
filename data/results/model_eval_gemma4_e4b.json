@@ -1,0 +1,277 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "1850–1900",
+        "DATE"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Germany",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "International Energy Agency",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "European Union",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Brazil's National Institute for Space Research",
+        "ORG"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "2070",
+        "DATE"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "September 2025",
+        "DATE"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "2020",
+        "DATE"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "UN Secretary-General António Guterres",
+        "PER"
+      ],
+      [
+        "Dr. Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spain",
+        "LOC"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "Paris Agreement",
+        "MISC"
+      ]
+    ],
+    "ner_s": 20.0,
+    "tags": [
+      "paris-agreement",
+      "climate-change",
+      "global-warming",
+      "co2-emissions",
+      "renewable-energy",
+      "ipcc",
+      "cop30",
+      "nationally-determined-contributions"
+    ],
+    "tags_s": 2.2,
+    "summary": [
+      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but the IPCC Sixth Assessment Report noted global average temperatures in 2024 were 1.45°C above the 1850–1900 baseline.",
+      "Global CO₂ emissions hit a record 37.4 gigatons in 2023, despite progress in countries like Germany and the United States, as noted by the Global Carbon Project.",
+      "Brazil faces criticism for deforestation in the Amazon Basin, which reached 11,568 km² in 2024, while India pledged net zero by 2070.",
+      "The upcoming COP30 summit in Belém, Brazil, in November 2025, will test international resolve, as UN Secretary-General António Guterres urges updated Nationally Determined Contributions."
+    ],
+    "summary_s": 5.0
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting ',' delimiter: line 1 column 1531 (char 1530)",
+    "ner_s": 11.6,
+    "tags": [
+      "paris-agreement",
+      "climate-change",
+      "ipcc",
+      "co2-emissions",
+      "renewable-energy",
+      "global-warming",
+      "iea",
+      "cop30"
+    ],
+    "tags_s": 2.2,
+    "summary": [
+      "The Paris Agreement, formally adopted on December 12, 2015, aimed to limit global warming to 1.5°C, a goal that remains challenging as global average temperatures reached 1.45°C in 2024 according to the IPCC's Sixth Assessment Report.",
+      "Despite progress like the European Union's 32% emission reduction since 1990, the world recorded a record CO2 emission of 37.4 gigatons in 2023, with fossil fuel use remaining high.",
+      "Major oil and gas companies, including Saudi Aramco and Shell, collectively spent $750 million on lobbying against climate legislation between 2020 and 2024, according to a September 2025 report.",
+      "The upcoming COP30 summit in Belém, Brazil, in November 2025, will test international commitment, as UN Secretary-General António Guterres urges updated Nationally Determined Contributions for 2035."
+    ],
+    "summary_s": 5.7
+  }
+]

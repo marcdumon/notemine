@@ -1,0 +1,58 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 14.5,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 2.5,
+    "summary": "OpenAI announced GPT-5 in San Francisco on March 15, 2025. The model outperforms competitors on the MMLU benchmark.",
+    "summary_s": 4.3
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 3.3,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 2.9,
+    "summary": "ERROR: Unterminated string starting at: line 124 column 26 (char 5363)",
+    "summary_s": 75.9
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 183.3,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 155.9,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 159.2
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 174.7,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 175.1,
+    "summary": [
+      "The Paris Agreement, signed on December 12, 2015, by 196 countries, aimed to limit global warming to 1.5°C, but the 2024 IPCC report showed global temperatures reached 1.45°C above pre-industrial levels.",
+      "Global CO₂ emissions hit a record 37.4 gigaton in 2023 according to the Global Carbon Project, while the EU reduced emissions by 32% since 1990, and Brazil's Amazon deforestation reached 11,568 km² in 2024.",
+      "A 2025 InfluenceMap report revealed fossil fuel companies spent $750 million on lobbying against climate policies from 2020 to 2024, yet renewable energy capacity surpassed 2 terawatts in 2024 with China adding 430 gigawatts of solar power."
+    ],
+    "summary_s": 85.6
+  }
+]

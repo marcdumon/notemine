@@ -1,0 +1,141 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute at Imperial College London",
+        "ORG"
+      ],
+      [
+        "International Energy Agency",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "London- based think tank",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "UN Secretary-General",
+        "ORG"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 20",
+        "DATE"
+      ]
+    ],
+    "ner_s": 13.9,
+    "tags": [
+      "climate-change",
+      "global-warming",
+      "paris-agreement",
+      "ipcc-report",
+      "co2-emissions",
+      "renewable-energy",
+      "international-policy",
+      "climate-policy",
+      "fossil-fuels",
+      "sustainable-development"
+    ],
+    "tags_s": 3.0,
+    "summary": [
+      "Ten years after the Paris Agreement, global temperatures have reached 1.45°C above pre-industrial levels, nearing the 1.5°C threshold.",
+      "Global CO₂ emissions remain high at 37.4 gigatons in 2023, despite renewable energy growth.",
+      "Major emitters like India and Brazil face criticism for insufficient climate action, with India's net-zero pledge seen as inadequate.",
+      "Fossil fuel companies spent $750 million lobbying against climate policies between 2020-2024.",
+      "The upcoming COP30 summit in Brazil is critical for updating climate commitments, with renewable energy growth offering some hope."
+    ],
+    "summary_s": 5.0
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting value: line 1 column 6487 (char 6486)",
+    "ner_s": 51.3,
+    "tags": [
+      "climate-change",
+      "international-agreement",
+      "paris-agreement",
+      "global-warming",
+      "climate-policy"
+    ],
+    "tags_s": 2.8,
+    "summary": [
+      "The Paris Agreement aimed to limit global warming to 1.5°C, but current emissions and temperature trends show progress is insufficient.",
+      "Global CO₂ emissions remain high, and countries must strengthen climate policies to meet targets.",
+      "The COP30 summit in Brazil in 2025 will be critical for global climate action.",
+      "Renewable energy growth offers hope, but urgent political will is needed to achieve ambitious climate goals."
+    ],
+    "summary_s": 4.5
+  }
+]

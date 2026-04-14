@@ -1,0 +1,32 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 71.7,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 62.4,
+    "summary": [
+      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C or 2°C above pre-industrial levels.",
+      "Global temperatures in 2024 reached 1.45°C above the 1850–1900 baseline, nearing the critical threshold, according to the IPCC Sixth Assessment Report.",
+      "Brazil's Amazon Basin deforestation in 2024 was 11,568 km², drawing criticism from the European Union and Indian advocacy groups.",
+      "Major oil companies like Shell and ExxonMobil spent $750 million on lobbying against climate legislation between 2020 and 2024, as reported by InfluenceMap.",
+      "Renewable energy capacity globally surpassed 2 terawatts in 2024, with China leading in solar power additions and wind investments."
+    ],
+    "summary_s": 56.1
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 65.0,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 65.4,
+    "summary": [
+      "The Paris Agreement, formally adopted on December 12, 2015, aimed to limit global warming to 1.5°C above pre-industrial levels and no more than 2°C.",
+      "By 2024, global average temperatures reached 1.45°C, nearing the 1.5°C threshold, with CO2 emissions hitting a record 37.4 gigatons in 2023.",
+      "The European Union reduced emissions by 32% since 1990 through initiatives like the European Green Deal, while Brazil faced criticism for deforestation in the Amazon under President Luiz Inácio Lula da Silva.",
+      "Major fossil fuel companies, including Saudi Aramco, Shell, and BP, spent $750 million on lobbying against climate policies between 2020 and 2024, according to a 2025 report by InfluenceMap.",
+      "The upcoming COP30 summit in Belém, Brazil, in November 2025, is crucial for nations to submit more ambitious climate commitments by 2035, with renewable energy capacity reaching 2 terawatts in 2024, led by China and wind energy companies like Ørsted and Iberdrola."
+    ],
+    "summary_s": 58.4
+  }
+]

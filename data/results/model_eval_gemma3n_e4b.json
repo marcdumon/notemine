@@ -1,0 +1,470 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris Agreement",
+        "MISC"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "Sixth Assessment Report",
+        "MISC"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Professor Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Germany",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "International Energy Agency",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "South Asia",
+        "LOC"
+      ],
+      [
+        "Southeast Asia",
+        "LOC"
+      ],
+      [
+        "European Union",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "National Institute for Space Research",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "2070",
+        "DATE"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Australia",
+        "LOC"
+      ],
+      [
+        "September 2025",
+        "DATE"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "London",
+        "LOC"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "2010",
+        "DATE"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 26.6,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "renewable-energy",
+      "fossil-fuels",
+      "carbon-emissions",
+      "cop30",
+      "ndcs",
+      "climate-policy",
+      "environmental-policy"
+    ],
+    "tags_s": 3.5,
+    "summary": [
+      "The Paris Agreement, adopted in December 2015, aims to limit global warming to 1.5°C above pre-industrial levels, but current global average temperatures in 2024 are dangerously close to this threshold, according to the IPCC Sixth Assessment Report.",
+      "Global CO₂ emissions reached a record 37.4 gigatons in 2023, despite growth in renewable energy sectors in countries like Germany, China, and the United States, while fossil fuel consumption remains high, particularly in South and Southeast Asia.",
+      "The European Union has cut emissions by 32% since 1990, but countries like Brazil, under President Luiz Inácio Lula da Silva, face criticism for Amazon deforestation, and India's net-zero target of 2070 is considered too late by many.",
+      "The upcoming COP30 summit in Belém, Brazil, in November 2025, will test international resolve, with a need for more aggressive 2035 targets and political will to achieve the goals of the Paris Agreement, despite optimism in the renewable energy sector which saw solar power capacity surpass 2 terawatts in 2024."
+    ],
+    "summary_s": 7.9
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "196",
+        "MISC"
+      ],
+      [
+        "Le Bourghet",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "Akkooord van Parijs",
+        "MISC"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Zesde Beroordelingsrapport",
+        "MISC"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "IPC",
+        "ORG"
+      ],
+      [
+        "1850–1900",
+        "DATE"
+      ],
+      [
+        "Dr. Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "maand",
+        "DATE"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "professor Pierre Friedlingstei",
+        "PER"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Internationaal Energiagentschap",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Zuid-Azië",
+        "LOC"
+      ],
+      [
+        "Zuidoost-Azië",
+        "LOC"
+      ],
+      [
+        "Brazilie",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Nationaal Instituut voor Ruimteoondzoek",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "2070",
+        "DATE"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Australië",
+        "LOC"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "november 2025",
+        "DATE"
+      ],
+      [
+        "VN-secretaris-generaal António Guterres",
+        "PER"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "2 terawatt",
+        "MISC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spanje",
+        "LOC"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "2010",
+        "DATE"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2010",
+        "DATE"
+      ]
+    ],
+    "ner_s": 14.2,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "co2-emissions",
+      "renewable-energy",
+      "climate-policy",
+      "cop30",
+      "green-deal",
+      "deforestation",
+      "climate-action"
+    ],
+    "tags_s": 3.8,
+    "summary": [
+      "The Paris Agreement, adopted in 2015 to limit global warming to 1.5°C, faces a challenging reality ten years later, with 2024 global temperatures dangerously close to the 1.5°C threshold according to the IPCC's Sixth Assessment Report.",
+      "Global CO₂ emissions reached a record 37.4 gigaton in 2023, despite growth in renewable energy in countries like Germany, China, and the United States, while fossil fuel use remains high, particularly in South and Southeast Asia.",
+      "While the European Union has reduced emissions by 32% since 1990, countries like Brazil face criticism for deforestation, and India's 2070 climate neutrality goal is considered insufficient by climate activists.",
+      "The upcoming COP30 summit in Belém, Brazil, in November 2025, will be a critical test of international commitment, with a need for stronger National Determined Contributions and political will to accelerate the transition to renewable energy, which saw global solar capacity exceed 2 terawatts in 2024."
+    ],
+    "summary_s": 7.8
+  }
+]

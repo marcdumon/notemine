@@ -1,0 +1,2130 @@
+[
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 40.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "honorifics throughout; 'coal use' and 'Global CO₂ emissions' tagged as MISC; Saudi Aramco as PROD"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 2.3,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "clean atomic terms; missing deforestation, lobbying, cop30"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 8.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "misses lobbying and renewables storylines; accurate figures cited"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 38.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "honorifics; 'President' alone as PER; numeric values like '1,5°C' extracted as NUM type"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "clean terms; misses deforestation, lobbying, COP30"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 3,
+      "notes": "only 3 bullets; misses lobbying, COP30, renewables"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 20.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "context phrases like 'former European Commission President'; 'COP30 summit in Belém, Brazil' as EVENT (non-standard)"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'nationally-determined-contributions' is long but accurate"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "misses EU progress and renewables; specific figures and dates included"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 24.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'196 landen' as LOC; verbose form 'Europees Commissievoorzitter Ursula von der Leyen'"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.8,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'copolitical-will' is malformed; otherwise solid coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 7.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "good coverage; India stated as second-largest emitter (should be third)"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 43.8,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "mostly clean forms; EU as LOC (should be ORG); oil companies as PROD instead of ORG"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.8,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "compound descriptors like 'international-environmental-policy'; broad coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 9.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 4,
+      "notes": "only 2 bullets; covers background and temp only; no lobbying, renewables, deforestation"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 34.0,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "verbose 'Europees Commissievoorzitter Ursula von der Leyen'; otherwise clean and accurate types"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 3,
+      "coverage": 4,
+      "notes": "'cop30-top' and 'klimaatbeloften' are Dutch; 'international-environmental-policy' long"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 13.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "covers background, temp, India, COP30; misses lobbying and renewables detail"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 52.6,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 34.1,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'fossil-fuel-lobbying' and 'india-net-zero' are compound; 'global-carbon-project' is org-specific"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 16.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets covering all major storylines with specific figures"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 48.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 25.8,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "clean and comprehensive"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 15.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "comprehensive coverage of all storylines with correct figures"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 89.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 45.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "compound descriptors; 'renewable-energy-growth' and 'india-climate-policy' verbose"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 22.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "all 4 major storylines covered with specific names, figures, dates"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 84.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "verbose ORG forms; oil companies as PROD; 'VN-secretaris-generaal' as MISC; 'Australische belangengroep' tagged"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 41.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'fossil-fuel-lobbyists' and 'international-climate-summit' compound"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 31.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "all storylines covered; renewable energy figures accurate"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 25.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "context phrases like 'Australian advocacy group'; 'InfluenceMap' and 'BloombergNEF' as PROD; 'London-based think tank' as MISC"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "clean atomic terms; missing deforestation"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "covers background, temp, EU/Brazil; misses lobbying and renewables"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 22.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "IEA/INPE/COP30-top/NDCs/VN-secretaris-generaal all tagged as PROD; many type errors"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "missing deforestation and lobbying"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "brief; misses lobbying, India detail, COP30, renewables"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 21.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "duplicate 'Grantham Institute'; 'Imperial College London' as LOC; China/US appear as both LOC and ORG"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 1.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "very sparse; missing deforestation, lobbying, cop30"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 bullets; covers main stories except renewables/COP30"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 16.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'Grantham Institute' appears twice with different types; 'Youth Climate Coalition' as MISC instead of ORG"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 1.9,
+    "scores": {
+      "relevance": 3,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "'copenhagen-summit' is factually wrong for this document; very sparse"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "5 bullets; comprehensive coverage of all storylines"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 24.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "verbose forms like 'Australian advocacy group Climate Council'; 'Belém, Brazil' over-specific; mostly correct types"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'nationally-determined-contributions' long but accurate"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "vague on specific numbers; covers main topics in 2 bullets"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 9.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "English names in Dutch doc; sparse coverage; mostly correct types for entities present"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.7,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'fossil-fuels-lobbying' and 'indian climate-policy' compound but good coverage"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.1,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "incorrectly states Brazil is one of top three emitters (source says India is third); misses lobbying"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 23.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'Global average temperatures in 2024' as DATE; 'solar power capacity globally' and '2 terawatts' as MISC; 'Global Carbon Project' as MISC"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.7,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'nationally-determined-contributions' long; good coverage"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 11.8,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "says India is 'second-largest emitter after China and the US' (source says third-largest); 8 detailed bullets otherwise"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 16.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'1,45°C' as DATE; measurements as MISC; 'InfluenceMap' as MISC instead of ORG"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'ipcc-report' compound but common; missing India/renewables detail"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 17.5,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "same 'second-largest emitter' error; 7 detailed bullets with strong coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 53.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 39.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "clean short terms with strong coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 27.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "covers main topics; brief on India and EU progress"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 48.6,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 37.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "clean short terms with strong coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 31.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets with comprehensive coverage and specific figures"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 20.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "honorifics; verbose 'Brazil's National Institute for Space Research'; 'UN Secretary-General António Guterres' with title; mostly correct types"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 2.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'nationally-determined-contributions' long; missing deforestation"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 bullets covering main topics; misses EU 32% and renewables detail"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 11.6,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "clean; missing deforestation and lobbying"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 bullets; good coverage but brief on India and renewables detail"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 36.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "honorifics; 'UN Secretary-General' as PER; 'Paris Agreement' as PROD; duplicate entries for Friedlingstein and Saudi Aramco"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'international-relations' broad; misses deforestation and lobbying"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "only 3 bullets; misses EU progress, India, lobbying details"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 17.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "many duplicates (Belém, Guterres, Nature Conservancy repeated); '196 landen' as MISC; types mostly correct"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'amazon-deforestation' compound; good coverage"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 10.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 comprehensive bullets covering all storylines"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 31.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'South' and 'Southeast Asia' split; 'Australian' as LOC; clean forms otherwise"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse, misses lobbying, deforestation, cop30"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 3,
+      "notes": "only 1 bullet; covers only Paris Agreement background"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 23.6,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "clean forms, no honorifics; types mostly accurate"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "10 clean short terms with excellent coverage"
+    }
+  },
+  {
+    "model": "translategemma:12b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 10.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "3 bullets; misses lobbying, India, EU progress"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 13.9,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 1,
+      "notes": "hallucinates Sam Altman, OpenAI, March 20 not in source; 'London- based think tank' as ORG; 'UN Secretary-General' as ORG"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.0,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'sustainable-development' broad but present; good coverage"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 3,
+      "notes": "5 bullets covering all major topics; figures present but vague"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 51.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 4.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 1,
+      "notes": "4 bullets but entirely generic; no names, figures, or dates"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 252.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "doc title tagged as entity in NL; '196 nations' as MISC; 'UN Secretary-General António Guterres' verbose"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 33.4,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 3,
+      "notes": "'intergovernmental-panel-on-climate-change' extremely long; sparse"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 98.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets; specific quote from Dr. Friederike Otto; misses India and EU detail"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 272.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "document title 'Tien jaar na Parijs...' incorrectly tagged as MISC; 'VN-secretaris-generaal' as ORG"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 31.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 96.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "3 bullets; misses lobbying, India, EU 32% detail"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 71.7,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 62.4,
+    "scores": {
+      "relevance": 1,
+      "style": 1,
+      "language": 1,
+      "coverage": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 56.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Brazil deforestation 'drawing criticism from the European Union and Indian advocacy groups' is garbled; 'Indian advocacy groups' fabricated"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 65.0,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 65.4,
+    "scores": {
+      "relevance": 1,
+      "style": 1,
+      "language": 1,
+      "coverage": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 58.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "5 comprehensive bullets with accurate specific details"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 183.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 155.9,
+    "scores": {
+      "relevance": 1,
+      "style": 1,
+      "language": 1,
+      "coverage": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 159.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 1,
+      "specificity": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 174.7,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 175.1,
+    "scores": {
+      "relevance": 1,
+      "style": 1,
+      "language": 1,
+      "coverage": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 85.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "3 bullets; covers main topics with specific figures"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 32.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "'$750 million' and '430 gigawatts' as PROD; 'London-based think tank' as ORG; 'UN Secretary-General' as PER; 'China alone' as LOC"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 5,
+      "notes": "verbose descriptors: 'nations-climate-pledges', 'international-climate-agreements', 'fossil-fuel-dependence'"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "misses India and COP30 detail; otherwise specific and accurate"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 17.3,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 4,
+      "notes": "non-entity phrases like 'kolengebruik in Zuid- en Zuidoost-Azië' and 'bevinden zich wel' tagged; 'COP27' hallucinated instead of COP30"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.1,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "some compound descriptors; 'lobbying-for-fossils' informal"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "incorrectly says 'close to the 2°C threshold' when 1.45°C is close to the 1.5°C threshold"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 45.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'1850–1900 baseline' as LOC; 'University of Exeter' as LOC; 'European Union' as LOC; 'net zero by 2070' as DATE"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "uses underscores instead of hyphens; inconsistent style"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 8.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "5 bullets covering all major storylines; somewhat vague on specific figures"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "empty list output"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "'nationally-determined-contributions' and 'un-secretary-general' verbose"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 1,
+      "notes": "4 generic bullets with no specific names, figures, or dates"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 14.5,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 2,
+      "hallucination": 1,
+      "notes": "hallucinates Sam Altman, OpenAI, March 2025 — entirely wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 2.5,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "tags are for AI/tech topic, completely wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.3,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "hallucinates GPT-5 announcement by OpenAI — entirely wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 2,
+      "hallucination": 1,
+      "notes": "hallucinates Sam Altman, OpenAI, March 2025 — entirely wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 2.9,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "tags are for AI/tech topic, completely wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 75.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 1,
+      "specificity": 1,
+      "notes": "null output"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 26.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "honorifics; missing Wael Sawan and Katharine Hayhoe; types mostly correct"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'environmental-policy' broad; good coverage overall"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 comprehensive bullets; specific figures present"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 14.2,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "many misspellings/hallucinations: 'Le Bourghet', 'Akkooord van Parijs', 'IPC', 'Friedlingstei', 'Energiagentschap'; 'maand' as DATE"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "clean short terms with excellent coverage"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 7.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 comprehensive bullets covering all storylines"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 162.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "verbose forms with titles; numeric values and 'Ten years later' as MISC; '1850–1900 baseline' as DATE"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 10.3,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 33.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets with specific names and figures; brief on deforestation and lobbying"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 116.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "verbose forms; '196 landen' as MISC; 'Indiase tijdlijn' as MISC; numeric values as MISC"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 11.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 43.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets; covers all major storylines with specific attributions"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 120.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "clean forms without honorifics; 'Climate Council' as MISC instead of ORG is minor"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 44.7,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'intergovernmental-panel-on-climate-change' extremely long; good coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 24.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "only 2 bullets; misses India timeline, COP30, renewables detail"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 66.5,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "clean forms; 'Youth Climate Coalition' as MISC instead of ORG; 'Paris Agreement' retained in English"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 22.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "'international-climate-efforts' verbose; sparse coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 35.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 bullets; covers main topics though brief on specifics"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 486.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "countries Brazil, India, China, US tagged as ORG; 'Paris' (city) as ORG; 'European Green Deal' and 'COP30' as ORG"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 147.0,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "clean descriptors; missing deforestation and India detail"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 224.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets covering all storylines with accurate specific details"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 509.1,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "fairly clean forms; 'Europese Unie' as LOC instead of ORG; 'University of Exeter' in English in Dutch doc"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 200.9,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "'climate-solutions' vague; sparse"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 193.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "4 bullets; good coverage; brief on India detail"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 33.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "honorifics; 'UN Secretary-General' as ORG; 'Australian' as LOC; 'President Luiz Inácio Lula da Silva' with title"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 4.3,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "clean short atomic terms with excellent coverage"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 10.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets with specific figures; covers all major storylines"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 24.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "clean forms without honorifics; types mostly accurate"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.1,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'amazonia-deforestation' unusual form but understandable"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 10.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets with InfluenceMap attribution; comprehensive coverage"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 75.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "honorifics; verbose compound LOCs like 'Le Bourget, France'; 'Australian advocacy group Climate Council'; types generally correct"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'internationally-climate-policy' and 'nationally-determined-contributions' long"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 20.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 detailed bullets covering all storylines with specific figures"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 56.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "honorifics; '196 landen' as MISC; verbose forms; types generally correct"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 5.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "only 5 tags; very sparse for NL doc"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 21.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 comprehensive bullets; Ørsted/Iberdrola and 89% battery drop mentioned"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 14.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "sparse output misses most entities; 'IPCC Sixth Assessment Report' verbose; COP30 as EVENT non-standard"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "only 5 tags; misses deforestation, lobbying"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 6.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "3 bullets; misses lobbying, COP30, renewables detail"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 18.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "'1850'90' malformed date; 'South and Southeast Asia' in English in Dutch doc; COP30 as EVENT non-standard"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 3.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "only 5 tags; misses lobbying and specifics"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "3 brief bullets; misses lobbying, COP30, India net-zero detail"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 45.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "'Pacific Island nations' as LOC; missing some persons; types mostly correct"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 7.1,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "'international-climate-policy' long; good coverage"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "medium_climate_blog_paris_agreement_en.md",
+    "elapsed_s": 17.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "4 bullets; comprehensive with Shell rejection detail and Wael Sawan"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 41.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "non-entity phrases like 'klimaatwetenschapper' and 'ambitieuzere doelstellingen'; '2 terawatt' as NUM"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 10.8,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 1,
+      "coverage": 5,
+      "notes": "Dutch terms, spaces in tags, mixed separators and casing; language entirely non-English"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "elapsed_s": 33.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "8 detailed bullets; most comprehensive summary; covers all storylines with quotes"
+    }
+  }
+]

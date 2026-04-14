@@ -1,0 +1,533 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Paris Agreement",
+        "MISC"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Germany",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "International Energy Agency",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Paris",
+        "LOC"
+      ],
+      [
+        "South",
+        "LOC"
+      ],
+      [
+        "Southeast Asia",
+        "LOC"
+      ],
+      [
+        "European Union",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "National Institute for Space Research",
+        "ORG"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Australian",
+        "LOC"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "September 2025",
+        "DATE"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "London",
+        "LOC"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "UN",
+        "ORG"
+      ],
+      [
+        "NDCs",
+        "MISC"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Spain",
+        "LOC"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2010",
+        "DATE"
+      ],
+      [
+        "Paris Agreement",
+        "MISC"
+      ]
+    ],
+    "ner_s": 31.9,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "ipcc",
+      "fossil-fuels"
+    ],
+    "tags_s": 3.5,
+    "summary": [
+      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but global average temperatures in 2024 were 1.45°C above the 1850-1900 baseline according to the IPCC Sixth Assessment Report."
+    ],
+    "summary_s": 5.3
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change",
+        "ORG"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "1850–1900",
+        "DATE"
+      ],
+      [
+        "Friederike Otto",
+        "PER"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "2023",
+        "DATE"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "Universiteit van Exeter",
+        "ORG"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Internationaal Energieagentschap",
+        "ORG"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Zuid- en Zuidoost-Azië",
+        "LOC"
+      ],
+      [
+        "Europese Unie",
+        "ORG"
+      ],
+      [
+        "Europese Green Deal",
+        "MISC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "Nationaal Instituut voor Ruimteonderzoek",
+        "ORG"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Australië",
+        "LOC"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Stille Oceaan",
+        "LOC"
+      ],
+      [
+        "september 2025",
+        "DATE"
+      ],
+      [
+        "InfluenceMap",
+        "ORG"
+      ],
+      [
+        "Londen",
+        "LOC"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30",
+        "MISC"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "november 2025",
+        "DATE"
+      ],
+      [
+        "VN",
+        "ORG"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "Nationally Determined Contributions",
+        "MISC"
+      ],
+      [
+        "NDC's",
+        "MISC"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "2 terawatt",
+        "MISC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Denemarken",
+        "LOC"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "Spanje",
+        "LOC"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2010",
+        "DATE"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ]
+    ],
+    "ner_s": 23.6,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "ipcc",
+      "fossil-fuels",
+      "renewable-energy",
+      "co2-emissions",
+      "climate-policy",
+      "eu-green-deal",
+      "deforestation",
+      "lobbying"
+    ],
+    "tags_s": 5.0,
+    "summary": [
+      "Ten years after the Paris Agreement, signed in Le Bourget, France on December 12, 2015, global average temperatures in 2024 reached 1.45°C above the 1850-1900 baseline, according to the IPCC's Sixth Assessment Report.",
+      "In 2023, global CO₂ emissions hit a record 37.4 gigaton, as reported by the Global Carbon Project, while the European Union, led by former President Ursula von der Leyen, reduced emissions by 32% since 1990.",
+      "The COP30 summit, planned for November 2025 in Belém, Brazil, will be a crucial test for international commitment, with UN Secretary-General António Guterres urging countries to submit updated Nationally Determined Contributions (NDCs) with more ambitious goals for 2035."
+    ],
+    "summary_s": 10.0
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Paris Agreement",
+        "PROD"
+      ],
+      [
+        "December 12, 2015",
+        "DATE"
+      ],
+      [
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Germany",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "United States",
+        "LOC"
+      ],
+      [
+        "International Energy Agency (IEA)",
+        "ORG"
+      ],
+      [
+        "South and Southeast Asia",
+        "LOC"
+      ],
+      [
+        "Brazil",
+        "LOC"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "European Green Deal",
+        "PROD"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Amazon Basin",
+        "LOC"
+      ],
+      [
+        "Brazil's National Institute for Space Research (INPE)",
+        "ORG"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Australia",
+        "LOC"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "London-based think tank",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "$750 million",
+        "PROD"
+      ],
+      [
+        "Lobbying against climate legislation",
+        "MISC"
+      ],
+      [
+        "Belém, Brazil",
+        "LOC"
+      ],
+      [
+        "COP30 summit",
+        "PROD"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "UN Secretary-General",
+        "PER"
+      ],
+      [
+        "The Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "solar power capacity",
+        "MISC"
+      ],
+      [
+        "China alone",
+        "LOC"
+      ],
+      [
+        "Danish wind energy company Ørsted",
+        "ORG"
+      ],
+      [
+        "Spain's Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "430 gigawatts",
+        "PROD"
+      ],
+      [
+        "Paris Agreement",
+        "PROD"
+      ],
+      [
+        "November 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 32.2,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "carbon-emissions",
+      "renewable-energy",
+      "fossil-fuel-dependence",
+      "international-climate-agreements",
+      "nations-climate-pledges",
+      "deforestation-rates",
+      "lack-of-progress"
+    ],
+    "tags_s": 3.2,
+    "summary": [
+      "Global average temperatures reached 1.45°C above pre-industrial levels by 2024, bringing us dangerously close to the 1.5°C threshold set in the Paris Agreement.",
+      "Despite progress in renewable energy adoption, fossil fuel consumption remains near historic highs, with coal use in South and Southeast Asia partially offsetting gains elsewhere.",
+      "The European Union has made measurable strides in reducing emissions under its Green Deal, but Brazil faces international criticism for deforestation rates in the Amazon Basin, which reached 11,568 km² in 2024.",
+      "Major oil and gas companies collectively spent $750 million on lobbying against climate legislation between 2020 and 2024, according to a report by InfluenceMap."
+    ],
+    "summary_s": 6.0
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "Le Bourget",
+        "LOC"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "1850–1900",
+        "DATE"
+      ],
+      [
+        "12 december 2015",
+        "DATE"
+      ],
+      [
+        "2024",
+        "DATE"
+      ],
+      [
+        "37,4 gigaton",
+        "MISC"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Verenigde Staten",
+        "LOC"
+      ],
+      [
+        "Zuid- en Zuidoost-Azië",
+        "LOC"
+      ],
+      [
+        "Internationaal Energieagentschap (IEA)",
+        "ORG"
+      ],
+      [
+        "kolengebruik in Zuid- en Zuidoost-Azië",
+        "MISC"
+      ],
+      [
+        "Europese Unie",
+        "ORG"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "Amazonegebied",
+        "LOC"
+      ],
+      [
+        "Brazilië",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "MISC"
+      ],
+      [
+        "COP30-top",
+        "PROD"
+      ],
+      [
+        "Belém",
+        "LOC"
+      ],
+      [
+        "2025",
+        "DATE"
+      ],
+      [
+        "NDC's",
+        "MISC"
+      ],
+      [
+        "2035",
+        "DATE"
+      ],
+      [
+        "Londense denktank",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "750 miljoen dollar",
+        "MISC"
+      ],
+      [
+        "lobbywerk tegen klimaatwetgeving",
+        "MISC"
+      ],
+      [
+        "COP27",
+        "PROD"
+      ],
+      [
+        "2025",
+        "DATE"
+      ],
+      [
+        "VN-secretaris-generaal António Guterres",
+        "PER"
+      ],
+      [
+        "Nationally Determined Contributions (NDC's)",
+        "MISC"
+      ],
+      [
+        "bevinden zich wel",
+        "MISC"
+      ],
+      [
+        "zonne-energiecapaciteit",
+        "MISC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "430 gigawatt",
+        "MISC"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "batterijopslag",
+        "PROD"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 17.3,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "global-warming",
+      "carbon-emissions",
+      "renewable-energy",
+      "fossil-fuels",
+      "international-climate-policy",
+      "indian-politics",
+      "brazil-deforestation",
+      "lobbying-for-fossils"
+    ],
+    "tags_s": 3.1,
+    "summary": [
+      "In 2024, global average temperatures were 1.45°C above pre-industrial levels, dangerously close to the 2°C threshold set by the Paris Agreement of 2015.",
+      "Despite rapid expansion of renewable energy in countries like Germany and China, fossil fuel use reached a record high of 37.4 gigatonnes of CO₂ in 2023.",
+      "The European Union has made measurable progress under its Green Deal, reducing emissions by 32% since 1990, but Brazil faces international criticism for Amazon deforestation rates reaching 11,568 km² in 2024.",
+      "Large fossil fuel companies collectively spent $750 million on lobbying against climate legislation between 2020 and 2024, according to a September 2025 report by InfluenceMap."
+    ],
+    "summary_s": 6.7
+  }
+]

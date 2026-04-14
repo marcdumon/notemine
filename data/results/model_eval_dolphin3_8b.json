@@ -1,0 +1,234 @@
+[
+  {
+    "file": "medium_climate_blog_paris_agreement_en.md",
+    "ner": [
+      [
+        "Paris Agreement",
+        "PROD"
+      ],
+      [
+        "Le Bourget, France",
+        "LOC"
+      ],
+      [
+        "IPCC Sixth Assessment Report",
+        "MISC"
+      ],
+      [
+        "Grantham Institute at Imperial College London",
+        "ORG"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "European Green Deal",
+        "PROD"
+      ],
+      [
+        "Brazil's National Institute for Space Research (INPE)",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "COP30 summit",
+        "EVENT"
+      ],
+      [
+        "Belém, Brazil",
+        "LOC"
+      ]
+    ],
+    "ner_s": 14.5,
+    "tags": [
+      "climate-change",
+      "paris-agreement",
+      "cop30",
+      "united-nations",
+      "renewable-energy"
+    ],
+    "tags_s": 2.7,
+    "summary": [
+      "Ten years after the Paris Agreement was adopted on December 12, 2015, global warming has reached dangerously high levels at 1.45°C above pre-industrial baselines.",
+      "Global CO2 emissions hit a record 37.4 gigatons in 2023, with fossil fuel consumption remaining near historical highs despite growth in renewables.",
+      "Criticism is mounting against countries like Brazil for deforestation and India's pledge to achieve net zero by 2070, deemed too late by climate advocates."
+    ],
+    "summary_s": 6.3
+  },
+  {
+    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "ner": [
+      [
+        "1850’90",
+        "DATE"
+      ],
+      [
+        "IPCC",
+        "ORG"
+      ],
+      [
+        "Grantham Institute",
+        "ORG"
+      ],
+      [
+        "Imperial College London",
+        "ORG"
+      ],
+      [
+        "Friederike Otto",
+        "PER"
+      ],
+      [
+        "Global Carbon Project",
+        "ORG"
+      ],
+      [
+        "University of Exeter",
+        "ORG"
+      ],
+      [
+        "Pierre Friedlingstein",
+        "PER"
+      ],
+      [
+        "IEA",
+        "ORG"
+      ],
+      [
+        "South and Southeast Asia",
+        "LOC"
+      ],
+      [
+        "Ursula von der Leyen",
+        "PER"
+      ],
+      [
+        "European Green Deal",
+        "MISC"
+      ],
+      [
+        "Brazilié",
+        "LOC"
+      ],
+      [
+        "Luiz Inácio Lula da Silva",
+        "PER"
+      ],
+      [
+        "National Institute for Space Research",
+        "ORG"
+      ],
+      [
+        "São José dos Campos",
+        "LOC"
+      ],
+      [
+        "INPE",
+        "ORG"
+      ],
+      [
+        "India",
+        "LOC"
+      ],
+      [
+        "Greta Thunberg",
+        "PER"
+      ],
+      [
+        "Youth Climate Coalition",
+        "ORG"
+      ],
+      [
+        "Climate Council",
+        "ORG"
+      ],
+      [
+        "Saudi Aramco",
+        "ORG"
+      ],
+      [
+        "Shell",
+        "ORG"
+      ],
+      [
+        "BP",
+        "ORG"
+      ],
+      [
+        "ExxonMobil",
+        "ORG"
+      ],
+      [
+        "Wael Sawan",
+        "PER"
+      ],
+      [
+        "COP30",
+        "EVENT"
+      ],
+      [
+        "Belém, Brazil",
+        "LOC"
+      ],
+      [
+        "António Guterres",
+        "PER"
+      ],
+      [
+        "NDCs",
+        "MISC"
+      ],
+      [
+        "Katharine Hayhoe",
+        "PER"
+      ],
+      [
+        "Nature Conservancy",
+        "ORG"
+      ],
+      [
+        "Texas Tech University",
+        "ORG"
+      ],
+      [
+        "Ørsted",
+        "ORG"
+      ],
+      [
+        "Iberdrola",
+        "ORG"
+      ],
+      [
+        "BloombergNEF",
+        "ORG"
+      ]
+    ],
+    "ner_s": 18.2,
+    "tags": [
+      "climate-change",
+      "cop30",
+      "paris-agreement",
+      "green-deal",
+      "renewable-energy"
+    ],
+    "tags_s": 3.1,
+    "summary": [
+      "In 2015, 196 countries signed the Paris Agreement to limit global warming to 1.5°C above pre-industrial levels and not exceed 2°C.",
+      "As of 2024, global temperatures have risen to 1.45°C above the 1850-1900 average, nearing the threshold.",
+      "Despite rapid growth in renewable energy, global CO2 emissions reached a record high of 37.4 gigatons in 2023."
+    ],
+    "summary_s": 6.7
+  }
+]
