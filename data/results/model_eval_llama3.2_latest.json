@@ -1,263 +1,286 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "ner": [
+      {
+        "name": "Turkistan Islamic Party",
+        "type": "ORG"
+      },
+      {
+        "name": "East Turkestan Islamic Movement",
+        "type": "ORG"
+      },
+      {
+        "name": "Uyghur American Association",
+        "type": "ORG"
+      },
+      {
+        "name": "Jamestown Foundation",
+        "type": "ORG"
+      },
+      {
+        "name": "Al Jazeera English",
+        "type": "MEDIA"
+      },
+      {
+        "name": "New York Times",
+        "type": "MEDIA"
+      },
+      {
+        "name": "BBC News",
+        "type": "MEDIA"
+      },
+      {
+        "name": "Stratfor",
+        "type": "ORG"
+      },
+      {
+        "name": "Uran Botobekov",
+        "type": "PERSON"
+      },
+      {
+        "name": "Bill Delahunt",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sean Roberts",
+        "type": "PERSON"
+      },
+      {
+        "name": "Michael Dillon",
+        "type": "PERSON"
+      },
+      {
+        "name": "Raffaello Pantucci",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nick Holdstock",
+        "type": "PERSON"
+      },
+      {
+        "name": "Declan Walsh",
+        "type": "PERSON"
+      },
+      {
+        "name": "Eric Schmitt",
+        "type": "PERSON"
+      },
+      {
+        "name": "Pan Guang",
+        "type": "PERSON"
+      },
+      {
+        "name": "J. Todd Reed",
+        "type": "PERSON"
+      },
+      {
+        "name": "Diana Raschke",
+        "type": "PERSON"
+      },
+      {
+        "name": "Andrew McGregor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Uran Botobekov",
+        "type": "PERSON"
+      },
+      {
+        "name": "Michael Dillon",
+        "type": "PERSON"
+      },
+      {
+        "name": "Raffaello Pantucci",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nick Holdstock",
+        "type": "PERSON"
+      },
+      {
+        "name": "Declan Walsh",
+        "type": "PERSON"
+      },
+      {
+        "name": "Eric Schmitt",
+        "type": "PERSON"
+      },
+      {
+        "name": "Pan Guang",
+        "type": "PERSON"
+      },
+      {
+        "name": "J. Todd Reed",
+        "type": "PERSON"
+      },
+      {
+        "name": "Diana Raschke",
+        "type": "PERSON"
+      },
+      {
+        "name": "Andrew McGregor",
+        "type": "PERSON"
+      }
+    ],
+    "ner_s": 33.2,
+    "tags": "ERROR: Invalid \\uXXXX escape: line 1 column 4209 (char 4208)",
+    "tags_s": 81.2,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 14.3
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": "ERROR: Expecting ',' delimiter: line 1 column 62 (char 61)",
+    "ner_s": 3.6,
+    "tags": [
+      "rookstoppen",
+      "nicotineverslaving",
+      "Varenicline",
+      "Champix",
+      "NHS",
+      "UK",
+      "België",
+      "kanker",
+      "geneesmiddelen",
+      "preventie"
+    ],
+    "tags_s": 3.8,
+    "summary": [
+      "In the UK, a new smoking cessation pill called Varenicline has been launched to help over 100,000 Britons quit nicotine addiction.",
+      "The medication is seen as an improved version of Champix, which was withdrawn from the market in 2021 due to potential cancer-causing substances.",
+      "Professor Filip Lardon and rookstopcoach Els Bosch explain that without medication, quitting smoking is much harder.",
+      "Varenicline works by reducing the effect of nicotine on the brain, alleviating withdrawal symptoms, and providing a calming effect.",
+      "The pill was launched in November and is available everywhere in the UK.",
+      "Champix was also popular in Belgium, with 40,000 users in 2019 according to Riziv statistics.",
+      "Professor Lardon believes that Varenicline could be a game-changer for smoking cessation.",
+      "Rookstopcoach Els Bosch notes that while medication can help, it is not a substitute for motivation and self-help.",
+      "The pill is only available on prescription from a doctor and may have side effects such as drowsiness or depression.",
+      "It is unclear when Varenicline will be launched in Belgium.",
+      "Professor Lardon estimates that 15,000 lives could be saved each year if people stopped smoking.",
+      "Prevention remains the most important message.",
+      "A rookvrije generatie is still a dream for Professor Lardon."
+    ],
+    "summary_s": 13.6
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
     "ner": [
       [
-        "Le Bourget",
-        "LOC"
+        "IntegralAnswers",
+        "ORG"
       ],
       [
-        "Paris Agreement",
+        "canola",
         "PROD"
       ],
       [
-        "December 12",
-        "DATE"
-      ],
-      [
-        "France",
-        "LOC"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Sixth Assessment Report",
-        "MISC"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "LOC"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "London",
-        "LOC"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Germany",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "International Energy Agency",
-        "ORG"
-      ],
-      [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "South and Southeast Asia",
-        "LOC"
-      ],
-      [
-        "European Union",
-        "ORG"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "European Commission President",
-        "MISC"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "President",
-        "MISC"
-      ],
-      [
-        "National Institute for Space Research",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "ORG"
-      ],
-      [
-        "United States",
-        "ORG"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "MISC"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australian",
-        "MISC"
-      ],
-      [
-        "Pacific Island nations",
-        "MISC"
-      ],
-      [
-        "Saudi Aramco",
+        "sunflower",
         "PROD"
       ],
       [
-        "Shell",
+        "soybean oil",
         "PROD"
       ],
       [
-        "BP",
+        "omega-6",
         "PROD"
       ],
       [
-        "ExxonMobil",
-        "PROD"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "InfluenceMap",
+        "American Heart Association",
         "ORG"
       ],
       [
-        "London",
-        "LOC"
-      ],
-      [
-        "September 2025",
-        "DATE"
-      ],
-      [
-        "COP30 summit",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "UN Secretary-General",
-        "MISC"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "Texas Tech University",
+        "Harvard School of Public Health",
         "ORG"
       ],
       [
-        "The Nature Conservancy",
+        "WHO",
         "ORG"
-      ],
-      [
-        "Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "Danish wind energy company Ørsted",
-        "PROD"
-      ],
-      [
-        "Spain's Iberdrola",
-        "PROD"
-      ],
-      [
-        "BloombergNEF",
-        "MISC"
       ],
       [
         "March 2025",
         "DATE"
       ]
     ],
-    "ner_s": 21.9,
+    "ner_s": 4.4,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "sustainability",
-      "renewable-energy",
-      "fossil-fuel",
-      "energy-policy"
+      "seed-oils",
+      "omega-6",
+      "omega-3",
+      "heart-health",
+      "nutrition-facts",
+      "food-safety",
+      "dietary-balancing",
+      "inflammation-myth-busting"
     ],
-    "tags_s": 1.8,
+    "tags_s": 2.7,
     "summary": [
-      "Representatives from 196 nations signed the Paris Agreement in Le Bourget, France on December 12, 2015, aiming to limit global warming to 1.5°C above pre-industrial levels.",
-      "Global CO2 emissions reached a record 37.4 gigatons in 2023, despite progress made by countries like Germany and China in renewable energy expansion.",
-      "The European Union has cut emissions by 32% since 1990 under its Green Deal, while Brazil faces international criticism for deforestation rates in the Amazon Basin.",
-      "A landmark report found major oil and gas companies spent $750 million on lobbying against climate legislation between 2020 and 2024."
+      "Seed oils are under fire on social media, but most claims are misleading or false",
+      "They're vegetable oils made from seeds like canola, sunflower, and soybean",
+      "Replacing saturated fats with unsaturated fats lowers LDL cholesterol and reduces heart disease risk",
+      "The problem isn't omega-6, it's the imbalance of omega-6 and omega-3 in modern diets",
+      "Seed oils are high in polyunsaturated fats, but chronic inflammation is linked to poor diets and excess calories"
     ],
-    "summary_s": 5.5
+    "summary_s": 5.0
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
     "ner": [
       [
-        "Parijs",
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Kamala Harris",
+        "PER"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Selien De Schryder",
+        "PER"
+      ],
+      [
+        "Koen Schoors",
+        "PER"
+      ],
+      [
+        "UGent",
+        "ORG"
+      ],
+      [
+        "Europe",
         "LOC"
       ],
       [
-        "Le Bourget",
+        "Belgium",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "USA",
+        "LOC"
+      ],
+      [
+        "Russia",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Amerika",
+        "LOC"
+      ],
+      [
+        "Nederland",
         "LOC"
       ],
       [
@@ -265,123 +288,7 @@
         "LOC"
       ],
       [
-        "Akkoord van Parijs",
-        "PROD"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "London",
-        "LOC"
-      ],
-      [
-        "Zesde Beoordelingsrapport",
-        "MISC"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "Grantham Institute",
-        "PROD"
-      ],
-      [
-        "Friederike Otto",
-        "PER"
-      ],
-      [
-        "Londense denktank",
-        "MISC"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "PROD"
-      ],
-      [
-        "Shell",
-        "PROD"
-      ],
-      [
-        "BP",
-        "PROD"
-      ],
-      [
-        "ExxonMobil",
-        "PROD"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Europese Unie",
-        "ORG"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Europees Commissievoorzitter",
-        "MISC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
+        "Zweden",
         "LOC"
       ],
       [
@@ -389,66 +296,401 @@
         "LOC"
       ],
       [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "MISC"
-      ],
-      [
-        "Climate Council",
+        "Democraten",
         "ORG"
       ],
       [
-        "Australië",
-        "LOC"
-      ],
-      [
-        "Stille Oceaan",
-        "LOC"
-      ],
-      [
-        "September 2025",
-        "DATE"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "VN-secretaris-generaal",
-        "MISC"
-      ],
-      [
-        "Texas Tech University",
+        "Vlaams Belang",
         "ORG"
       ],
       [
-        "Katharine Hayhoe",
+        "PVDA",
+        "ORG"
+      ],
+      [
+        "Catalonië",
+        "LOC"
+      ],
+      [
+        "Baskenland",
+        "LOC"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "PROD"
+      ],
+      [
+        "Van Hool",
+        "PROD"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Jan De Nul",
+        "ORG"
+      ],
+      [
+        "DEME",
+        "ORG"
+      ],
+      [
+        "Northvolt",
+        "ORG"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Hongarije",
+        "LOC"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Syrië",
+        "LOC"
+      ]
+    ],
+    "ner_s": 16.6,
+    "tags": [
+      "economie",
+      "politiek",
+      "Trump",
+      "Poetin",
+      "EU",
+      "geopolitiek",
+      "energie",
+      "inflatie",
+      "klimaatverandering",
+      "Green Deal",
+      "automobiliteit",
+      "chemie",
+      "batterijen",
+      "Rusland",
+      "Oekraïne"
+    ],
+    "tags_s": 8.3,
+    "summary": [
+      "Belgian economists Koen Schoors and Selien De Schryder discuss the current state of the economy",
+      "They warn that the world is at a turning point, with a cyclical pattern of economic downturns followed by recoveries.",
+      "The duo also touch on topics such as climate change, artificial intelligence, and the impact of globalization on Europe.",
+      "Schoors notes that Europe needs to invest more in innovation and technology to remain competitive",
+      "De Schryder emphasizes the need for urgent action on climate change and the importance of investing in green technologies."
+    ],
+    "summary_s": 9.9
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
+        "ORG"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Poetin",
         "PER"
       ],
       [
-        "The Nature Conservancy",
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "NAVO",
+        "ORG"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "Narva",
+        "LOC"
+      ],
+      [
+        "Oostzee",
+        "LOC"
+      ],
+      [
+        "Finnen",
+        "MISC"
+      ],
+      [
+        "Centraal- en Oost-Europa",
+        "LOC"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Tusk",
+        "PER"
+      ],
+      [
+        "Robert Fico",
+        "PER"
+      ],
+      [
+        "Viktor Orbán",
+        "PER"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Ilan Sor",
+        "MISC"
+      ],
+      [
+        "Transnistrië",
+        "LOC"
+      ],
+      [
+        "Dorin Recean",
+        "PER"
+      ],
+      [
+        "Snoop",
+        "MISC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Salome Zoerabisjvili",
+        "PER"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ],
+      [
+        "FSB",
         "ORG"
       ]
     ],
-    "ner_s": 16.4,
+    "ner_s": 14.0,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "copenhagen-summit",
-      "green-deal",
-      "sustainability"
+      "russia",
+      "europa",
+      "hybrid war",
+      "navo",
+      "geopolitics",
+      "eastern europe",
+      "ukraine",
+      "poetin",
+      "kremlin",
+      "estland",
+      "latvia",
+      "litauen",
+      "poland",
+      "moldova",
+      "georgia",
+      "transnistria",
+      "eu asylum policy"
     ],
-    "tags_s": 1.9,
+    "tags_s": 6.7,
     "summary": [
-      "The global average temperature was 1.45°C above the 1850–1900 baseline in 2024, according to the IPCC.",
-      "Despite rapid growth of renewable energy in countries like Germany, China, and the US, fossil fuel use remains at a historic high.",
-      "The European Union has made measurable progress with its Green Deal, reducing emissions by 32% since 1990.",
-      "Brazil's deforestation rate in the Amazon reached 11,568 km² in 2024, according to Brazil's National Institute for Space Research.",
-      "India has promised to be climate-neutral by 2070, but critics say this timeline is too late to prevent catastrophic warming."
+      "De Finnen beschuldigen het Kremlin vorige week van het beschadigen van een belangrijke stroomkabel op de bodem van de Oostzee. Het is een voorbeeld van de ‘hybride oorlog’ die aan de randen van Europa het sterkst wordt gevoeld.",
+      "We moeten ons geestelijk voorbereiden op oorlog”, zei Mark Rutte in zijn nieuwe functie als NAVO-baas.",
+      "Een overzicht van zeven landen aan de rand van Europa laat zien hoe Rusland over de grens opereert. De lijst is geenszins compleet, maar illustreert een patroon.",
+      "Bart Schuurman, hoogleraar ‘terrorisme en politiek geweld’ aan de Universiteit Leiden, zette met twee medewerkers alle ‘hybride acties’ sinds de Russische invasie van Oekraïne op een rij.",
+      "Oekraïne is voor Poetin slechts één front van een bredere confrontatie met het Westen”, zegt Kremlin-kenner Mark Galeotti.",
+      "De Poolse premier Tusk eerder zei: We leven in vooroorlogse tijden.”",
+      "Geografie en historische ervaring met Rusland als buurman spelen hierbij een rol. Tegelijk woedt er een ‘hybride oorlog’ die met name aan de oostelijke randen van Europa sterk wordt gevoeld.",
+      "De voorvallen stapelden zich afgelopen jaar op: van grensprovocaties tot inmenging in verkiezingen, van de Poolcirkel tot de Zwarte Zee.",
+      "Het Kremlin ontkent elke betrokkenheid.",
+      "In Roemenië is het Kremlin, zoals een lokaal gezegde gaat, ‘met de kat in de zak betrapt’. De presidentsverkiezingen en een gelijktijdig referendum over de EU ging gepaard met ‘ongekende inmenging’ van het Kremlin.",
+      "In Moldavië is het Kremlin, zoals een lokaal gezegde gaat, ‘met de kat in de zak betrapt’. De presidentsverkiezingen en een gelijktijdig referendum over de EU ging gepaard met ‘ongekende inmenging’ van het Kremlin.",
+      "De Russische speciale operatie. Zo noemde Salome Zoerabisjvili, de pro-Europese president van Georgië, de parlementsverkiezing die eind oktober in haar land werd gehouden – en die gewonnen werd door een partij die de EU de rug toekeerde."
     ],
-    "summary_s": 5.7
+    "summary_s": 27.5
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Cyan Cruz",
+        "PER"
+      ],
+      [
+        "Elon Musk",
+        "PER"
+      ],
+      [
+        "Michael Gramer",
+        "PER"
+      ],
+      [
+        "Robert Thorne",
+        "PER"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "Texas Observer",
+        "ORG"
+      ],
+      [
+        "X",
+        "ORG"
+      ],
+      [
+        "Atlantic",
+        "LOC"
+      ],
+      [
+        "Florida",
+        "LOC"
+      ],
+      [
+        "Amarillo",
+        "LOC"
+      ],
+      [
+        "Austin",
+        "LOC"
+      ],
+      [
+        "New Hampshire",
+        "LOC"
+      ],
+      [
+        "Galveston",
+        "LOC"
+      ],
+      [
+        "Dallas",
+        "LOC"
+      ],
+      [
+        "Virginia",
+        "LOC"
+      ],
+      [
+        "Indian Head",
+        "LOC"
+      ],
+      [
+        "Maryland",
+        "LOC"
+      ],
+      [
+        "Atlantic",
+        "MISC"
+      ]
+    ],
+    "ner_s": 11.8,
+    "tags": [
+      "neo-nazi",
+      "white supremacist",
+      "x-social-media",
+      "elon-musk",
+      "far-right",
+      "hate speech",
+      "antisemitic",
+      "holocaust denial",
+      "nazi-apologist",
+      "tucker-carlson",
+      "conservative commentators",
+      "election officials"
+    ],
+    "tags_s": 8.2,
+    "summary": [
+      "Cyan Cruz's X account, TheOfficial1984, regularly posts antisemitic and pro-Hitler content",
+      "Michael Gramer's 9mm_smg account features antisemitic posts and references to neo-Nazi slogans",
+      "Robert Thorne's former account noble_x_x_ was suspended for violent speech in mid-June 2024",
+      "John Anthony Provenzano's utism_ account was deactivated in October after posting pro-Nazi and pro-Hitler content"
+    ],
+    "summary_s": 9.5
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Galen Reich",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "PER"
+      ],
+      [
+        "ShadowFinder",
+        "PROD"
+      ],
+      [
+        "YouTube",
+        "ORG"
+      ],
+      [
+        "Colab",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 2.9,
+    "tags": [
+      "shadowfinder",
+      "colab",
+      "google-research",
+      "location-finding",
+      "ai"
+    ],
+    "tags_s": 1.3,
+    "summary": [
+      "Galen Reich's ShadowFinder tool can locate a location using only the shadow.",
+      "The tool is available at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "Galen Reich and Gabor Friesen contributed to the video."
+    ],
+    "summary_s": 3.3
   }
 ]

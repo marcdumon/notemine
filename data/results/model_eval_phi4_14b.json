@@ -1,57 +1,41 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Le Bourget, France",
+        "Eastern Turkestan Islamic Party (ETIP)",
+        "ORG"
+      ],
+      [
+        "Turkistan Islamic Party (TIP)",
+        "ORG"
+      ],
+      [
+        "Uyghur American Association",
+        "ORG"
+      ],
+      [
+        "Jamestown Foundation",
+        "ORG"
+      ],
+      [
+        "Stratfor",
+        "ORG"
+      ],
+      [
+        "Congressional Research Service",
+        "ORG"
+      ],
+      [
+        "Guantanamo Bay",
         "LOC"
       ],
       [
-        "Paris Agreement",
-        "MISC"
-      ],
-      [
-        "December 12, 2015",
-        "DATE"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
+        "Al-Qaeda",
         "ORG"
       ],
       [
-        "Sixth Assessment Report",
-        "MISC"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "1850–1900 baseline",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute at Imperial College London",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Germany",
+        "Syria",
         "LOC"
       ],
       [
@@ -59,470 +43,802 @@
         "LOC"
       ],
       [
-        "United States",
+        "Xinjiang",
         "LOC"
       ],
       [
-        "International Energy Agency (IEA)",
-        "ORG"
-      ],
-      [
-        "Paris",
+        "Kyrgyzstan",
         "LOC"
       ],
       [
-        "South and Southeast Asia",
+        "Dubai",
         "LOC"
       ],
       [
-        "European Union",
+        "New York Times",
         "ORG"
       ],
       [
-        "European Green Deal",
-        "MISC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "Brazil's National Institute for Space Research (INPE)",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Australian advocacy group Climate Council",
-        "ORG"
-      ],
-      [
-        "Pacific Island nations",
-        "MISC"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "London",
-        "LOC"
-      ],
-      [
-        "September 2025",
-        "DATE"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30 summit",
-        "MISC"
-      ],
-      [
-        "Belém, Brazil",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "UN Secretary-General António Guterres",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions (NDCs)",
-        "MISC"
-      ],
-      [
-        "Dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "2 terawatts",
-        "MISC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "430 gigawatts",
-        "MISC"
-      ],
-      [
-        "Danish wind energy company Ørsted",
-        "ORG"
-      ],
-      [
-        "Spain's Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "ModernDiplomat",
         "ORG"
       ]
     ],
-    "ner_s": 75.7,
-    "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuel-lobbying",
-      "international-climate-policy",
-      "nationally-determined-contributions",
-      "deforestation-amazon"
-    ],
-    "tags_s": 7.6,
-    "summary": [
-      "In December 2015, representatives from 196 nations signed the Paris Agreement at Le Bourget, France, aiming to limit global warming to 1.5°C above pre-industrial levels by 2024.",
-      "The IPCC Sixth Assessment Report indicated that in 2024, global temperatures were 1.45°C above the 1850–1900 baseline, with CO₂ emissions reaching a record 37.4 gigatons in 2023 according to the Global Carbon Project led by Professor Pierre Friedlingstein.",
-      "While the European Union reduced emissions by 32% since 1990 under Ursula von der Leyen's leadership, Brazil faced criticism for deforestation rates of 11,568 km² in the Amazon Basin in 2024, and India's net zero pledge by 2070 was deemed too late by climate advocates.",
-      "A report from InfluenceMap found that major oil companies spent $750 million on lobbying against climate legislation between 2020 and 2024, while renewable energy capacity grew with solar power surpassing 2 terawatts globally in 2024."
-    ],
-    "summary_s": 20.4
+    "ner_s": 58.3,
+    "tags": "ERROR: 'tags'",
+    "tags_s": 50.8,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 70.4
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "196 landen",
-        "MISC"
-      ],
-      [
-        "Le Bourget, Frankrijk",
+        "Verenigd Koninkrijk",
         "LOC"
       ],
       [
-        "Akkoord van Parijs",
-        "MISC"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "12 december 2015",
-        "DATE"
+        "Champix",
+        "PROD"
       ],
       [
-        "1,5°C",
-        "MISC"
-      ],
-      [
-        "2°C",
-        "MISC"
-      ],
-      [
-        "Zesde Beoordelingsrapport",
-        "MISC"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "1,45°C",
-        "MISC"
-      ],
-      [
-        "1850–1900",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
+        "Filip Lardon",
         "PER"
       ],
       [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "professor Pierre Friedlingstein",
+        "Els Bosch",
         "PER"
       ],
       [
-        "Universiteit van Exeter",
+        "NHS",
         "ORG"
       ],
       [
-        "Duitsland",
+        "eind november",
+        "DATE"
+      ],
+      [
+        "België",
         "LOC"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "UAntwerpen",
+        "ORG"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "acetylcholine",
+        "MISC"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Europees geneesmiddelenbureau",
+        "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "bupropion",
+        "MISC"
+      ]
+    ],
+    "ner_s": 18.2,
+    "tags": [
+      "nicotine-dependence",
+      "varenicline",
+      "rookstoppil",
+      "healthcare",
+      "uk-nhs",
+      "medication-safety",
+      "pharmaceuticals",
+      "public-health",
+      "smoking-cessation"
+    ],
+    "tags_s": 11.1,
+    "summary": [
+      "Varenicline, a new smoking cessation pill marketed by Teva UK, aims to help over 100,000 Britons quit nicotine addiction and is available across the United Kingdom since late November.",
+      "The British health service NHS views Varenicline as a potential game-changer due to its ability to reduce nicotine's effects on the brain, alleviate cravings, and ease withdrawal symptoms.",
+      "Champix, an earlier version of Varenicline-based pill, was withdrawn from the market in 2021 by Pfizer due to nitrosamines, which are potentially carcinogenic, leading researchers to develop a new formula without these compounds.",
+      "Professor Filip Lardon and rookstopcoach Els Bosch emphasize that while Varenicline is effective, quitting smoking requires self-confidence, motivation, and guidance, with medication primarily addressing physical addiction."
+    ],
+    "summary_s": 19.3
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "IntegralAnswers",
+        "ORG"
+      ],
+      [
+        "2024-12-24",
+        "DATE"
+      ],
+      [
+        "canola oil",
+        "PROD"
+      ],
+      [
+        "sunflower oil",
+        "PROD"
+      ],
+      [
+        "soybean oil",
+        "PROD"
+      ],
+      [
+        "omega-6 fatty acids",
+        "MISC"
+      ],
+      [
+        "fish",
+        "MISC"
+      ],
+      [
+        "nuts",
+        "MISC"
+      ],
+      [
+        "seeds",
+        "MISC"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "NCBI",
+        "ORG"
+      ],
+      [
+        "WHO",
+        "ORG"
+      ]
+    ],
+    "ner_s": 11.6,
+    "tags": [
+      "seed-oils",
+      "nutrition-myths",
+      "omega-fatty-acids",
+      "dietary-health",
+      "social-media-misinformation",
+      "heart-health-benefits",
+      "food-safety-regulations"
+    ],
+    "tags_s": 7.4,
+    "summary": [
+      "IntegralAnswers debunked myths about seed oils such as canola, sunflower, and soybean oil on December 24, 2024, highlighting that most negative claims are misleading or false.",
+      "Seed oils are high in polyunsaturated fats like omega-6 fatty acids, which are essential nutrients; however, the issue lies in the imbalance of omega-6 to omega-3 in modern diets rather than omega-6 itself.",
+      "The American Heart Association recommends replacing saturated fats with unsaturated fats from seed oils to lower LDL cholesterol and reduce heart disease risk.",
+      "IntegralAnswers criticized influencers for oversimplifying studies and spreading pseudoscience, advising the use of seed oils in moderation as part of a balanced diet."
+    ],
+    "summary_s": 14.5
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Selien De Schryder",
+        "PER"
+      ],
+      [
+        "Koen Schoors",
+        "PER"
+      ],
+      [
+        "Trump",
+        "PER"
+      ],
+      [
+        "Poetin",
+        "MISC"
+      ],
+      [
+        "UGent",
+        "ORG"
+      ],
+      [
+        "Woord van het Jaar",
+        "EVENT"
+      ],
+      [
+        "FIRE-beweging",
+        "MISC"
+      ],
+      [
+        "bitcoin",
+        "PROD"
+      ],
+      [
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Kamala Harris",
+        "PER"
+      ],
+      [
+        "artificiële intelligentie",
+        "CONCEPT"
+      ],
+      [
+        "cryptomunten",
+        "MISC"
+      ],
+      [
+        "klimaatverandering",
+        "EVENT"
+      ],
+      [
+        "Vlaams Belang",
+        "ORG"
+      ],
+      [
+        "PVDA",
+        "ORG"
+      ],
+      [
+        "Russische inval in Oekraïne",
+        "EVENT"
+      ],
+      [
+        "cd&v",
+        "ORG"
+      ],
+      [
+        "Franse revolutie",
+        "EVENT"
       ],
       [
         "China",
         "LOC"
       ],
       [
-        "Verenigde Staten",
+        "Spanje",
         "LOC"
       ],
       [
-        "Internationaal Energieagentschap (IEA)",
+        "Mario Draghi",
+        "PER"
+      ],
+      [
+        "Europese Centrale Bank",
         "ORG"
+      ],
+      [
+        "Inflation Reduction Act",
+        "MISC"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "Mark Eyskens",
+        "PER"
+      ],
+      [
+        "Green Deal",
+        "EVENT"
+      ],
+      [
+        "Northvolt",
+        "ORG"
+      ],
+      [
+        "DEME",
+        "ORG"
+      ],
+      [
+        "Jan De Nul",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Roeselare",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Amerika",
+        "LOC"
       ],
       [
         "Parijs",
         "LOC"
       ],
       [
-        "Zuid- en Zuidoost-Azië",
+        "Olympische Spelen",
+        "EVENT"
+      ]
+    ],
+    "ner_s": 44.9,
+    "tags": [
+      "economics",
+      "trump-policy",
+      "inflation",
+      "global-economy",
+      "energy-crisis",
+      "political-analysis",
+      "climate-change",
+      "financial-markets",
+      "europese-economie"
+    ],
+    "tags_s": 23.6,
+    "summary": [
+      "UGent professors Selien De Schryder and Koen Schoors discuss economic cycles, noting that every seventy years there is a significant global shift leading to hardship but eventual recovery.",
+      "They address concerns about inflation and the impact of Donald Trump's policies on the economy, suggesting potential chaos if he implements promised tariffs and oil production increases.",
+      "De Schryder and Schoors highlight Europe's need for strategic economic reforms, referencing Spain's successful turnaround from a major debtor to a dynamic economy through fiscal discipline and investment in new sectors.",
+      "The professors emphasize the importance of investing in green technologies and innovation to maintain competitiveness against the US and China, despite current challenges faced by European industries."
+    ],
+    "summary_s": 31.4
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
         "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Ivangorod",
+        "LOC"
+      ],
+      [
+        "Narva",
+        "LOC"
+      ],
+      [
+        "Oostzee",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Finland",
+        "LOC"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "NAVO",
+        "ORG"
+      ],
+      [
+        "Tusk",
+        "PER"
+      ],
+      [
+        "Poolse premier",
+        "MISC"
+      ],
+      [
+        "Bart Schuurman",
+        "PER"
+      ],
+      [
+        "Universiteit Leiden",
+        "ORG"
+      ],
+      [
+        "Oost-Europa",
+        "LOC"
+      ],
+      [
+        "West-Europa",
+        "LOC"
+      ],
+      [
+        "Mark Galeotti",
+        "PER"
+      ],
+      [
+        "Viktor Orbán",
+        "PER"
+      ],
+      [
+        "Robert Fico",
+        "PER"
+      ],
+      [
+        "Noorwegen",
+        "LOC"
+      ],
+      [
+        "Nils Andreas Stensønes",
+        "PER"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "Evenes",
+        "LOC"
+      ],
+      [
+        "Zweden",
+        "LOC"
+      ],
+      [
+        "Bollnäs",
+        "LOC"
+      ],
+      [
+        "Leksand",
+        "LOC"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "Kaja Kallas",
+        "PER"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Litouwen",
+        "LOC"
+      ],
+      [
+        "Letland",
+        "LOC"
+      ],
+      [
+        "Wit-Rusland",
+        "LOC"
+      ],
+      [
+        "Poolse grenswacht",
+        "MISC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Klaus Ioannis",
+        "PER"
+      ],
+      [
+        "Snoop",
+        "ORG"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Ilan Sor",
+        "PER"
+      ],
+      [
+        "Transnistrië",
+        "LOC"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ],
+      [
+        "Salome Zoerabisjvili",
+        "PER"
       ],
       [
         "Europese Unie",
         "ORG"
       ],
       [
-        "Europese Green Deal",
-        "MISC"
+        "FSB",
+        "ORG"
       ],
       [
-        "Ursula von der Leyen",
+        "Dmitri Medvedev",
         "PER"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "11.568 km²",
-        "MISC"
-      ],
-      [
-        "Brazilië's Nationaal Instituut voor Ruimteonderzoek (INPE)",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Australische belangengroep Climate Council",
-        "ORG"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Londen",
-        "LOC"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "2020",
-        "DATE"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "750 miljoen dollar",
-        "MISC"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30-top",
-        "MISC"
-      ],
-      [
-        "Belém, Brazilië",
-        "LOC"
-      ],
-      [
-        "november 2025",
-        "DATE"
-      ],
-      [
-        "VN-secretaris-generaal António Guterres",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions (NDC's)",
-        "MISC"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "2 terawatt",
-        "MISC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "430 gigawatt",
-        "MISC"
-      ],
-      [
-        "Deense windenergiebedrijf Ørsted",
-        "ORG"
-      ],
-      [
-        "Spaans Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
       ]
     ],
-    "ner_s": 56.2,
+    "ner_s": 49.3,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "carbon-emissions",
-      "renewable-energy"
+      "russia-europe-relations",
+      "hybrid-warfare",
+      "geopolitical-strategy",
+      "eastern-european-security",
+      "russian-influence"
     ],
-    "tags_s": 5.6,
+    "tags_s": 17.0,
     "summary": [
-      "A decade after its adoption at Le Bourget, France, on December 12, 2015, the Paris Agreement's goal to limit global warming is in jeopardy as temperatures reached 1.45°C above pre-industrial levels by 2024.",
-      "Despite progress like the EU reducing emissions by 32% since 1990 under Ursula von der Leyen's European Green Deal, challenges persist with Brazil facing criticism for Amazon deforestation and India's climate neutrality target set for 2070, deemed too late by activists.",
-      "InfluenceMap reported that major oil companies spent $750 million on lobbying against climate legislation from 2020 to 2024, while the upcoming COP30 in Belém, Brazil, in November 2025 is seen as a critical test of global commitment to updated Nationally Determined Contributions (NDCs).",
-      "Renewable energy offers hope with solar capacity surpassing 2 terawatts globally in 2024 and significant investments by Ørsted and Iberdrola, alongside an 89% drop in battery storage costs since 2010."
+      "Russia is accused of engaging in 'hybrid warfare' to sow fear and unrest in Europe, with incidents ranging from sabotaging a power cable in Finland to cyberattacks in Estonia. Mark Rutte, as NATO Secretary-General, emphasized the need for mental preparation for war.",
+      "In Eastern Europe, hybrid actions have increased significantly since Russia's invasion of Ukraine, including sabotage acts like cutting military cables in Norway and contaminating water supplies in Sweden, which are seen as efforts to destabilize these nations.",
+      "Russia is accused of influencing elections and political processes in countries like Romania and Moldova, with tactics such as disinformation campaigns and financial manipulation aimed at creating discord and undermining democratic institutions.",
+      "The Kremlin's strategy involves exploiting divisions within the EU and NATO by targeting their perceived weaknesses, using hybrid warfare to prevent coordinated action against Russia, while maintaining influence through local allies like Viktor Orbán in Hungary."
     ],
-    "summary_s": 21.3
+    "summary_s": 27.6
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Elon Musk",
+        "PER"
+      ],
+      [
+        "X",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "white supremacist",
+        "MISC"
+      ],
+      [
+        "neo-Nazi content",
+        "MISC"
+      ],
+      [
+        "Atlantic",
+        "ORG"
+      ],
+      [
+        "Texas Observer",
+        "ORG"
+      ],
+      [
+        "Cyan Cruz",
+        "PER"
+      ],
+      [
+        "Michael Gramer",
+        "PER"
+      ],
+      [
+        "Robert Thorne",
+        "PER"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "Naval Surface Warfare Center in Indian Head, Maryland",
+        "LOC"
+      ],
+      [
+        "KNAW",
+        "MISC"
+      ],
+      [
+        "Lucas Gage",
+        "PER"
+      ],
+      [
+        "Tucker Carlson",
+        "PER"
+      ],
+      [
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Thomas Massie",
+        "PER"
+      ],
+      [
+        "GOP Arizona state Senator Wendy Rogers",
+        "PER"
+      ],
+      [
+        "Sebastian Gorka",
+        "PER"
+      ],
+      [
+        "Chuck DeVore",
+        "PER"
+      ],
+      [
+        "Texas Public Policy Foundation",
+        "ORG"
+      ],
+      [
+        "David Lane",
+        "PER"
+      ],
+      [
+        "The Order",
+        "ORG"
+      ],
+      [
+        "Hispano-Suiza",
+        "ORG"
+      ],
+      [
+        "Boeing",
+        "ORG"
+      ],
+      [
+        "SpaceX",
+        "ORG"
+      ],
+      [
+        "New Hampshire Ball Bearings",
+        "ORG"
+      ],
+      [
+        "George Floyd",
+        "PER"
+      ],
+      [
+        "nygil cullins",
+        "PER"
+      ],
+      [
+        "Lloyd Blankfein",
+        "PER"
+      ],
+      [
+        "Goldman Sachs",
+        "ORG"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "FINRA",
+        "ORG"
+      ],
+      [
+        "University of Utah",
+        "LOC"
+      ],
+      [
+        "Salt Lake City, Utah",
+        "LOC"
+      ],
+      [
+        "Dallas",
+        "LOC"
+      ],
+      [
+        "Arlington, Virginia",
+        "LOC"
+      ],
+      [
+        "Indian Head, Maryland",
+        "LOC"
+      ]
+    ],
+    "ner_s": 47.0,
+    "tags": [
+      "elon-musk",
+      "social-media-moderation",
+      "neo-nazi-content",
+      "white-supremacist-accounts",
+      "x-platform",
+      "anonymous-extremists",
+      "far-right-politics",
+      "antisemitism",
+      "hate-speech",
+      "digital-footprint"
+    ],
+    "tags_s": 25.6,
+    "summary": [
+      "Under Elon Musk's ownership, X (formerly Twitter) has seen a rise in white supremacist and neo-Nazi content, with anonymous accounts gaining followers. The Texas Observer identified four operators of such accounts: Cyan Cruz, Michael Gramer, Robert Thorne, and John Anthony Provenzano.",
+      "Cyan Cruz operates 'TheOfficial1984', which posts antisemitic and pro-Hitler content; he has been linked to the username 'CyRebel'. Michael Gramer's account '9mm_smg' features neo-Nazi slogans and antisemitism, with ties to aerospace companies.",
+      "Robert Thorne's accounts 'Noble1945' and 'noble_x_x_' shared violent speech and Nazi symbols; he is a vice president at JP Morgan Chase. John Anthony Provenzano operated 'utism_', posting pro-Nazi content, and works at the Naval Surface Warfare Center in Maryland.",
+      "Elon Musk has interacted with some of these accounts, raising concerns about moderation on X. The platform's transparency report shows a significant drop in moderated hate speech accounts from 2021 to 2024."
+    ],
+    "summary_s": 38.9
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Galen Reich",
+        "PER"
+      ],
+      [
+        "gabor friesen",
+        "PER"
+      ],
+      [
+        "ShadowFinderColab.ipynb",
+        "PROD"
+      ],
+      [
+        "@galen_reich",
+        "MISC"
+      ],
+      [
+        "@gabor_friesen",
+        "MISC"
+      ]
+    ],
+    "ner_s": 5.1,
+    "tags": [
+      "shadow-location-finding",
+      "video-tutorial",
+      "google-colab",
+      "github-repository",
+      "collaboration",
+      "twitter-profiles"
+    ],
+    "tags_s": 3.3,
+    "summary": [
+      "A tool for finding a location using only shadows is available at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "Gabor Friesen and Galen Reich contributed to the development of this tool, with Galen reachable on Twitter @galen_reich and Gabor at @gabor_friesen."
+    ],
+    "summary_s": 6.9
   }
 ]

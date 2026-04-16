@@ -1,268 +1,779 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "MISC"
-      ],
-      [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "December 12, 2015",
-        "DATE"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute at Imperial College London",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "International Energy Agency (IEA)",
-        "ORG"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "European Green Deal",
-        "MISC"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Brazil's National Institute for Space Research (INPE)",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Australian advocacy group Climate Council",
-        "ORG"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "COP30 summit",
-        "MISC"
-      ],
-      [
-        "Belém, Brazil",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "Eastern Turkistan Islamic Party",
         "ORG"
       ]
     ],
-    "ner_s": 24.0,
+    "ner_s": 25.1,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuel-lobbying",
-      "cop30",
-      "nationally-determined-contributions"
+      "terrorism",
+      "china",
+      "xinjiang",
+      "etim",
+      "islamic_militants"
     ],
-    "tags_s": 3.2,
+    "tags_s": 12.9,
     "summary": [
-      "In 2025, a decade after the Paris Agreement was signed, global temperatures are dangerously close to the agreed threshold. CO2 emissions reached a record high in 2023 despite expansion of renewable energy. The EU has made progress but Brazil and India lag behind. Fossil fuel companies spend millions on lobbying against climate legislation.",
-      "The upcoming COP30 summit in Belém, Brazil will test international resolve to meet the Paris Agreement goals. Renewable energy sector offers optimism with record investments and falling battery storage costs."
+      "The Eastern Turkistan Islamic Party (ETIM) is a militant group that seeks to establish an independent state called East Turkestan in the Xinjiang region of China. The ETIM was designated as a terrorist organization by the United Nations Security Council in 2002, and it has been linked to several attacks in China, including bombings and shootings. The group is believed to have ties with al-Qaeda and other extremist organizations. The ETIM was also outlawed by Kyrgyzstan's Supreme Court in November 2003."
     ],
-    "summary_s": 4.2
+    "summary_s": 15.9
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "IPCC",
-        "MISC"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "Grantham Institute",
+        "Champix",
+        "PROD"
+      ],
+      [
+        "NHS",
         "ORG"
       ],
       [
-        "Imperial College London",
+        "Verenigd Koninkrijk",
+        "LOC"
+      ],
+      [
+        "België",
+        "LOC"
+      ],
+      [
+        "Pfizer",
         "ORG"
       ],
       [
-        "Pierre Friedlingstein",
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Filip Lardon",
         "PER"
       ],
       [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "Ursula von der Leyen",
+        "Els Bosch",
         "PER"
+      ]
+    ],
+    "ner_s": 6.2,
+    "tags": [
+      "smoking-cessation",
+      "varenicline",
+      "champix",
+      "nicotine-dependence",
+      "healthcare",
+      "uk",
+      "belgium",
+      "medication",
+      "rookstoppil"
+    ],
+    "tags_s": 5.2,
+    "summary": [
+      "A new nicotine cessation pill called Varenicline is available in the UK and helps over 100,000 Britons quit smoking. It is seen as an improved version of Champix, a pill that was removed from the market in 2021 due to potential cancer-causing substances. Varenicline works by reducing the effect of nicotine on the brain, easing cravings, and softening withdrawal symptoms. It is not yet known if it will be available in Belgium.",
+      "Champix was popular in Belgium with around 40,000 people using it at its peak in 2019. The pill was effective but was removed from the market in 2021 due to a high level of nitrosamines, a potential cancer-causing substance."
+    ],
+    "summary_s": 8.7
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "IntegralAnswers",
+        "ORG"
       ],
       [
-        "European Green Deal",
+        "canola",
+        "PROD"
+      ],
+      [
+        "sunflower",
+        "PROD"
+      ],
+      [
+        "soybean oil",
+        "PROD"
+      ],
+      [
+        "omega-6",
         "MISC"
       ],
       [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon",
-        "LOC"
-      ],
-      [
-        "INPE",
+        "American Heart Association",
         "ORG"
       ],
       [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Climate Council",
+        "Harvard School of Public Health",
         "ORG"
       ],
       [
-        "COP30",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "NDC's",
-        "MISC"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "WHO",
         "ORG"
       ]
     ],
-    "ner_s": 9.3,
+    "ner_s": 4.9,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "ipcc",
-      "co2-emissions",
-      "fossil-fuels-lobbying",
-      "eu-green-deal",
-      "brazilian-rainforest",
-      "india-climate-policy",
-      "cop30"
+      "seed-oils",
+      "canola",
+      "sunflower",
+      "soybean-oil",
+      "omega-6",
+      "inflammation",
+      "heart-health",
+      "diet",
+      "food-safety",
+      "social-media",
+      "pseudoscience"
     ],
-    "tags_s": 3.7,
+    "tags_s": 4.1,
     "summary": [
-      "In 2024, global temperatures reached 1.45°C above pre-industrial levels, nearing the dangerous threshold set by the Paris Agreement of 1.5°C. The Intergovernmental Panel on Climate Change (IPCC) issued a warning that the window for corrective action is shrinking.",
-      "Despite the expansion of renewable energy in countries like Germany, China, and the United States, fossil fuel usage remains at historically high levels.",
-      "Brazil, one of the world's top three CO2 emitters, faces international criticism over deforestation in the Amazon, which reached 11,568 km² in 2024 according to Brazil's National Institute for Space Research (INPE)."
+      "Seed oils like canola, sunflower, and soybean oil are high in essential nutrients, particularly omega-6 fatty acids. Misconceptions about seed oils causing inflammation or being unhealthy are largely false. Modern food safety regulations ensure their safety. Moderate consumption of seed oils is recommended as part of a balanced diet.",
+      "The imbalance of omega-6 and omega-3 in modern diets, rather than the presence of omega-6 alone, may contribute to inflammation. Eating fish, nuts, and seeds can help restore this balance.",
+      "Replacing saturated fats with unsaturated fats like seed oils lowers LDL cholesterol and reduces heart disease risk, as recommended by groups like the American Heart Association."
     ],
-    "summary_s": 6.1
+    "summary_s": 7.0
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Amerika",
+        "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Duitsland",
+        "LOC"
+      ],
+      [
+        "Frankrijk",
+        "LOC"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Tesla",
+        "ORG"
+      ],
+      [
+        "Northvolt",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ]
+    ],
+    "ner_s": 15.3,
+    "tags": [
+      "economy",
+      "inflation",
+      "tariffs",
+      "trade",
+      "politics"
+    ],
+    "tags_s": 13.6,
+    "summary": [
+      "Koen Schoors and Selien De Schryder discuss the state of the global economy in 2023, focusing on inflation, tariffs, and competition between countries.",
+      "Schoors and De Schryder express concern about potential economic chaos caused by Trump's proposed tariffs and import fees, which could lead to increased inflation and a loose-lose situation for the entire world.",
+      "They also discuss Europe's competitiveness with the United States and China, noting that Europe is currently lagging behind in terms of investment in new technologies such as photonics, quantum computing, AI, and the latest generation chips.",
+      "Schoors and De Schryder suggest that Europe needs to invest more in industrial policy and prioritize green industries in order to remain competitive."
+    ],
+    "summary_s": 18.2
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Oostzee",
+        "LOC"
+      ],
+      [
+        "Narva",
+        "LOC"
+      ],
+      [
+        "Finland",
+        "LOC"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "NAVO",
+        "ORG"
+      ],
+      [
+        "Centraal- en Oost-Europa",
+        "LOC"
+      ],
+      [
+        "hybride oorlog",
+        "MISC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Geografie",
+        "MISC"
+      ],
+      [
+        "historische ervaring",
+        "MISC"
+      ],
+      [
+        "Rusland als buurman",
+        "MISC"
+      ],
+      [
+        "hybride acties",
+        "MISC"
+      ],
+      [
+        "Bart Schuurman",
+        "PER"
+      ],
+      [
+        "Universiteit Leiden",
+        "ORG"
+      ],
+      [
+        "terrorisme en politiek geweld",
+        "MISC"
+      ],
+      [
+        "Russische invasie van Oekraïne",
+        "DATE"
+      ],
+      [
+        "Kremlin-kenner",
+        "MISC"
+      ],
+      [
+        "Mark Galeotti",
+        "PER"
+      ],
+      [
+        "hybride oorlogsvoering",
+        "MISC"
+      ],
+      [
+        "Oekraïne is voor Poetin slechts één front",
+        "MISC"
+      ],
+      [
+        "oorlog",
+        "MISC"
+      ],
+      [
+        "toespraak",
+        "MISC"
+      ],
+      [
+        "NATO.int",
+        "ORG"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Tusk",
+        "PER"
+      ],
+      [
+        "Geografie en historische ervaring",
+        "MISC"
+      ],
+      [
+        "hybride oorlog",
+        "MISC"
+      ],
+      [
+        "grensprovocaties",
+        "MISC"
+      ],
+      [
+        "inmenging in verkiezingen",
+        "MISC"
+      ],
+      [
+        "Poolcirkel",
+        "LOC"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Kremlin ontkent elke betrokkenheid.",
+        "MISC"
+      ],
+      [
+        "Oost-Europa",
+        "LOC"
+      ],
+      [
+        "kanarie in de kolenmijn",
+        "MISC"
+      ],
+      [
+        "sterkte incidenten",
+        "MISC"
+      ],
+      [
+        "Bart Schuurman (medewerkers)",
+        "PER"
+      ],
+      [
+        "moord",
+        "MISC"
+      ],
+      [
+        "volkskrant.nl",
+        "ORG"
+      ],
+      [
+        "hybride acties sinds de Russische invasie van Oekraïne",
+        "DATE"
+      ],
+      [
+        "dataverse.harvard.edu",
+        "ORG"
+      ],
+      [
+        "Kremlin-kenner",
+        "MISC"
+      ],
+      [
+        "hybride oorlogsvoering",
+        "MISC"
+      ],
+      [
+        "Oekraïne is voor Poetin slechts één front van een bredere confrontatie met het Westen",
+        "MISC"
+      ],
+      [
+        "Sabotageacties",
+        "MISC"
+      ],
+      [
+        "brandstichting in een Pools warenhuis",
+        "MISC"
+      ],
+      [
+        "onrust",
+        "MISC"
+      ],
+      [
+        "Galeotti",
+        "PER"
+      ],
+      [
+        "inschatten van Russische invloed is een ‘slingerbeweging’",
+        "MISC"
+      ],
+      [
+        "Russische complot",
+        "MISC"
+      ],
+      [
+        "sinister James Bond-schurkachtig type",
+        "MISC"
+      ],
+      [
+        "tweedracht zaaien",
+        "MISC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "vermeende Russische inmenging",
+        "MISC"
+      ],
+      [
+        "Rusland betrokken?",
+        "MISC"
+      ],
+      [
+        "Kremlin is er doorgaans niet op uit de verkiezingsresultaten te beïnvloeden",
+        "MISC"
+      ],
+      [
+        "verkiezingsresultaten",
+        "DATE"
+      ],
+      [
+        "tweedracht zaaien",
+        "MISC"
+      ],
+      [
+        "Noorwegen",
+        "LOC"
+      ],
+      [
+        "Nils Andreas Stensønes",
+        "PER"
+      ],
+      [
+        "legerkabel",
+        "PROD"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "internationale conferentie",
+        "ORG"
+      ],
+      [
+        "bewijs voor sabotage was er niet",
+        "MISC"
+      ],
+      [
+        "Zweden",
+        "LOC"
+      ],
+      [
+        "Bollnäs",
+        "LOC"
+      ],
+      [
+        "waterreservoir",
+        "PROD"
+      ],
+      [
+        "geweld",
+        "MISC"
+      ],
+      [
+        "analisten",
+        "PER"
+      ],
+      [
+        "hybride oorlogsvoering",
+        "MISC"
+      ],
+      [
+        "Russische ambassade sprak van ‘russofobe retoriek’",
+        "MISC"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "gps-signalen verstoord",
+        "PROD"
+      ],
+      [
+        "inlichtingendiensten wijzen naar Rusland",
+        "ORG"
+      ],
+      [
+        "cyberaanvallen",
+        "MISC"
+      ],
+      [
+        "mei",
+        "DATE"
+      ],
+      [
+        "incident",
+        "MISC"
+      ],
+      [
+        "bbc.com",
+        "ORG"
+      ],
+      [
+        "narva",
+        "LOC"
+      ],
+      [
+        "grensrivier",
+        "PROD"
+      ],
+      [
+        "Kaja Kallas",
+        "PER"
+      ],
+      [
+        "angst en onrust zaait",
+        "MISC"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Litouwen",
+        "LOC"
+      ],
+      [
+        "Letland",
+        "LOC"
+      ],
+      [
+        "hybride oorlogsvoering aan de oostgrens met Wit-Rusland",
+        "MISC"
+      ],
+      [
+        "duizenden migranten uit het Midden-Oosten en Afrika",
+        "LOC"
+      ],
+      [
+        "illegale ‘pushbacks’",
+        "MISC"
+      ],
+      [
+        "geweld",
+        "MISC"
+      ],
+      [
+        "88 migranten kwamen om",
+        "DATE"
+      ],
+      [
+        "nieuwe grensmuur in Polen",
+        "PROD"
+      ],
+      [
+        "migranten",
+        "LOC"
+      ],
+      [
+        "asielrecht",
+        "MISC"
+      ],
+      [
+        "deskundigen waarschuwen dat mensenrechten buitenspel komen te staan wanneer overheden migratie enkel beschouwen als een veiligheidsvraagstuk",
+        "MISC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "presidentsverkiezingen geannuleerd",
+        "DATE"
+      ],
+      [
+        "gemanipuleerde onlinecampagne van Georgescu op TikTok",
+        "DATE"
+      ],
+      [
+        "hoe-een-schimmige-tiktokcampagne-de-onbekende-roemeense-georgescu-bovenaan-in-de-peilingen-bracht",
+        "MISC"
+      ],
+      [
+        "documenten van de Roemeense veiligheidsdiensten",
+        "ORG"
+      ],
+      [
+        "bewijs voor Russische inmenging moeilijk is te vinden",
+        "MISC"
+      ],
+      [
+        "onderzoeksplatform Snoop ontdekte",
+        "ORG"
+      ],
+      [
+        "advertentiebedrijf met Russische banden",
+        "ORG"
+      ],
+      [
+        "desinformatiecampagnes uitrolde in Duitsland en Frankrijk",
+        "MISC"
+      ],
+      [
+        "vruchtbare aarde",
+        "MISC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "presidentsverkiezingen en een gelijktijdig referendum over de EU",
+        "DATE"
+      ],
+      [
+        "ongekende inmenging van het Kremlin",
+        "MISC"
+      ],
+      [
+        "autotiteiten onthulden een netwerk om kiezers om te kopen met geld uit Rusland",
+        "MISC"
+      ],
+      [
+        "noodtoestand",
+        "DATE"
+      ],
+      [
+        "energievoorraad van Moldavië in gevaar brengen",
+        "MISC"
+      ],
+      [
+        "komend jaar zijn er parlementsverkiezingen die bepalen of de pro-Europese krachten het grootst blijven in het parlement",
+        "DATE"
+      ],
+      [
+        "vorige week waarschuwde",
+        "DATE"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ]
+    ],
+    "ner_s": 63.5,
+    "tags": [
+      "hybrid-warfare",
+      "europe",
+      "russia",
+      "ukraine",
+      "baltic-states",
+      "nato",
+      "political-interference",
+      "election-meddling",
+      "propaganda",
+      "cyberattacks"
+    ],
+    "tags_s": 10.7,
+    "summary": [
+      "Russia is using hybrid warfare strategies to sow fear and unrest in Europe. The Kremlin has been accused of damaging a key power cable in the Baltic Sea. This is part of a broader confrontation with the West, according to experts.",
+      "Incidents such as sabotage and cyber attacks have increased, particularly at borders with Eastern European countries like Estonia and Poland. Russia denies any involvement.",
+      "The Finnish Prime Minister Mika Rutte warned in his NATO speech that Europe is living in pre-war times. There is a growing sense among Eastern European nations that Russia's war in Ukraine is not limited to the battlefield."
+    ],
+    "summary_s": 12.9
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Robert Thorne",
+        "PER"
+      ],
+      [
+        "Noble1945",
+        "ORG"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "Utism_",
+        "ORG"
+      ],
+      [
+        "Naval Surface Warfare Center",
+        "ORG"
+      ]
+    ],
+    "ner_s": 15.3,
+    "tags": [
+      "extremism",
+      "nazi",
+      "neo-nazi",
+      "hate speech",
+      "twitter",
+      "x"
+    ],
+    "tags_s": 13.9,
+    "summary": [
+      "The article discusses three X accounts with a history of posting pro-Nazi, pro-Hitler, and antisemitic content. The accounts are Noble1945 (formerly Noble_x_x_), Utism_, and John Anthony Provenzano/Utism_. The article provides details about each account's history, posts, and potential identities of the operators. It also mentions a fourth account, 9mm_smg, which has a large following and shares similar views but was not the focus of the investigation."
+    ],
+    "summary_s": 16.7
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Galen Reich",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "PER"
+      ],
+      [
+        "Colab.research.google.com",
+        "LOC"
+      ],
+      [
+        "Galen_reich",
+        "MISC"
+      ],
+      [
+        "gabor_friesen",
+        "MISC"
+      ]
+    ],
+    "ner_s": 2.2,
+    "tags": [
+      "shadow-detection",
+      "location-finding",
+      "python",
+      "google-colab",
+      "video-tutorial",
+      "twitter",
+      "gabor_friesen",
+      "galen_reich"
+    ],
+    "tags_s": 1.7,
+    "summary": [
+      "A tool called ShadowFinder is available for locating a position using only shadows. It was developed by Gabor and Galen Reich, who are active on Twitter as @gabor_friesen and @galen_reich respectively."
+    ],
+    "summary_s": 1.9
   }
 ]

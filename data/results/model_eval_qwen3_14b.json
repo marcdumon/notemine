@@ -1,276 +1,463 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
-    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 89.1,
-    "tags": [
-      "ipcc",
-      "iea",
-      "climate-agreement",
-      "global-warming",
-      "fossil-fuel-lobbying",
-      "renewable-energy-growth",
-      "brazil-deforestation",
-      "india-climate-policy",
-      "cop30",
-      "net-zero-targets"
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "ner": [
+      {
+        "name": "East Turkestan Islamic Movement",
+        "type": "ORG"
+      },
+      {
+        "name": "Turkistan Islamic Party",
+        "type": "ORG"
+      },
+      {
+        "name": "United Nations Security Council",
+        "type": "ORG"
+      },
+      {
+        "name": "Mahsum",
+        "type": "PER"
+      },
+      {
+        "name": "Emeti Yakuf",
+        "type": "PER"
+      },
+      {
+        "name": "2001",
+        "type": "DATE"
+      },
+      {
+        "name": "2008",
+        "type": "DATE"
+      },
+      {
+        "name": "2010",
+        "type": "DATE"
+      }
     ],
-    "tags_s": 45.6,
-    "summary": [
-      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but 2024 temperatures reached 1.45°C above pre-industrial levels, according to the IPCC Sixth Assessment Report.",
-      "Global CO₂ emissions hit 37.4 gigatons in 2023, with fossil fuel use remaining high despite renewable growth in Germany, China, and the U.S., while Brazil's deforestation in the Amazon reached 11,568 km² in 2024 per INPE.",
-      "Oil and gas giants like Saudi Aramco and Shell spent $750 million lobbying against climate laws between 2020-2024, per InfluenceMap, as India's 2070 net-zero pledge faces criticism from Greta Thunberg and the Climate Council.",
-      "The COP30 summit in Belém, Brazil, in November 2025, will assess updated climate commitments, with UN Secretary-General António Guterres urging stronger 2035 targets."
-    ],
-    "summary_s": 22.8
+    "ner_s": 70.8,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 37.1,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 23.7
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "Parijs",
+        "Filip Lardon",
+        "PER"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "NHS",
+        "ORG"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "KOS",
+        "ORG"
+      ],
+      [
+        "Photonews",
+        "ORG"
+      ],
+      [
+        "Verenigd Koninkrijk",
         "LOC"
       ],
       [
-        "Le Bourget",
+        "België",
         "LOC"
       ],
       [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "Akkord van Parijs",
-        "MISC"
-      ],
-      [
-        "12 december 2015",
+        "eind november",
         "DATE"
       ],
       [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "Duitsland",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "Internationaal Energieagentschap",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Europese Unie",
-        "ORG"
-      ],
-      [
-        "Europese Green Deal",
-        "MISC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Australische belangengroep",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Stille Oceaan",
-        "LOC"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "PROD"
-      ],
-      [
-        "Shell",
-        "PROD"
-      ],
-      [
-        "BP",
-        "PROD"
-      ],
-      [
-        "ExxonMobil",
-        "PROD"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30-top",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "VN-secretaris-generaal",
-        "MISC"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "Ørsted",
-        "PROD"
-      ],
-      [
-        "Iberdrola",
-        "PROD"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "september 2025",
+        "2021",
         "DATE"
       ],
       [
-        "november 2025",
+        "2019",
         "DATE"
       ],
       [
-        "2023",
-        "DATE"
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "nitrosamines",
+        "MISC"
+      ]
+    ],
+    "ner_s": 52.1,
+    "tags": [
+      "smoking-cessation",
+      "varenicline",
+      "champix",
+      "nicotine-addiction",
+      "health-medicine",
+      "pharmaceuticals",
+      "drug-safety",
+      "UK-healthcare",
+      "Belgium-healthcare",
+      "competitive-antagonist"
+    ],
+    "tags_s": 47.0,
+    "summary": [
+      "The UK has introduced Varenicline, a new smoking cessation pill targeting over 100,000 Britons, as an improved version of Champix, which was withdrawn in 2021 due to potential carcinogens.",
+      "Belgian experts Filip Lardon and Els Bosch highlight Varenicline's dual mechanism as a competitive antagonist, reducing nicotine's effects while providing mild relaxation, though it requires a doctor's prescription and is not suitable for those with kidney issues.",
+      "In Belgium, Champix was widely used by 40,000 people in 2019, but its removal left a gap filled temporarily by alternatives like Wellbutrin, while Varenicline's EU approval and potential market entry remain pending.",
+      "Professor Lardon emphasizes that preventing smoking initiation could save 15,000 lives annually in Belgium, though Varenicline alone may prevent 2,000 tobacco-related deaths per year."
+    ],
+    "summary_s": 24.7
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 79.6,
+    "tags": [
+      "seed-oils",
+      "omega-6",
+      "heart-health",
+      "diet-misinformation",
+      "cooking-oils",
+      "inflammation-debate",
+      "food-safety",
+      "nutrition-science",
+      "processed-foods",
+      "health-myths"
+    ],
+    "tags_s": 27.1,
+    "summary": [
+      "IntegralAnswers debunked myths about seed oils (canola, sunflower, soybean) on December 24, 2024, stating most social media claims are misleading or false.",
+      "The note clarifies that omega-6 in seed oils isn't inherently harmful, emphasizing the importance of balancing omega-6 with omega-3 from fish and nuts, as supported by NCBI research.",
+      "The American Heart Association recommends seed oils over saturated fats for reducing LDL cholesterol and heart disease risk, while criticizing influencers for spreading fear-based pseudoscience."
+    ],
+    "summary_s": 30.1
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 105.0,
+    "tags": [
+      "trump",
+      "putin",
+      "bitcoin",
+      "green-deal",
+      "inflation",
+      "economy",
+      "belgium-economy",
+      "ai",
+      "energy-policy",
+      "climate-policy"
+    ],
+    "tags_s": 84.8,
+    "summary": [
+      "Economists Selien De Schryder and Koen Schoors from UGent highlight economic cycles and warn that Trump's potential oil policies could destabilize Putin's Russia within a month by lowering energy prices.",
+      "They note Belgium's resilient economy despite high energy costs and inflation, while criticizing Europe's lag in AI and green technology investment compared to the U.S. and China.",
+      "The professors emphasize the need for urgent climate action and institutional reforms, citing historical patterns of global crises followed by eventual recovery through innovation and policy shifts."
+    ],
+    "summary_s": 37.5
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Russia",
+        "LOC"
+      ],
+      [
+        "Estonia",
+        "LOC"
+      ],
+      [
+        "Narva",
+        "LOC"
+      ],
+      [
+        "Ivangorod",
+        "LOC"
+      ],
+      [
+        "Finland",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Baltic Sea",
+        "LOC"
+      ],
+      [
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "Central and Eastern Europe",
+        "LOC"
+      ],
+      [
+        "Donald Tusk",
+        "PER"
+      ],
+      [
+        "Ukraine",
+        "LOC"
+      ],
+      [
+        "Vladimir Putin",
+        "PER"
+      ],
+      [
+        "Bart Schuurman",
+        "PER"
+      ],
+      [
+        "Leiden University",
+        "ORG"
+      ],
+      [
+        "Harvard University",
+        "ORG"
+      ],
+      [
+        "Mark Galeotti",
+        "PER"
+      ],
+      [
+        "Romania",
+        "LOC"
+      ],
+      [
+        "Constitutional Court",
+        "ORG"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Klaus Ioannis",
+        "PER"
+      ],
+      [
+        "Moldova",
+        "LOC"
+      ],
+      [
+        "Transnistria",
+        "LOC"
+      ],
+      [
+        "Georgia",
+        "LOC"
+      ],
+      [
+        "Salome Zourabishvili",
+        "PER"
+      ],
+      [
+        "Georgian Dream",
+        "ORG"
+      ],
+      [
+        "Dmitry Medvedev",
+        "PER"
+      ],
+      [
+        "Russian Security Council",
+        "ORG"
+      ],
+      [
+        "Norway",
+        "LOC"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "Evenes",
+        "LOC"
+      ],
+      [
+        "Bollnäs",
+        "LOC"
+      ],
+      [
+        "Leksand",
+        "LOC"
+      ],
+      [
+        "Poland",
+        "LOC"
+      ],
+      [
+        "Lithuania",
+        "LOC"
+      ],
+      [
+        "Latvia",
+        "LOC"
+      ],
+      [
+        "Belarus",
+        "LOC"
+      ],
+      [
+        "Finnish-Russian border",
+        "LOC"
       ],
       [
         "2024",
         "DATE"
       ],
       [
-        "Nationally Determined Contributions",
+        "2025",
+        "DATE"
+      ],
+      [
+        "hybrid war",
         "MISC"
       ],
       [
-        "NDC's",
+        "canary in the coal mine",
         "MISC"
+      ],
+      [
+        "discord",
+        "MISC"
+      ],
+      [
+        "Robert Fico",
+        "PER"
+      ],
+      [
+        "Viktor Orbán",
+        "PER"
       ]
     ],
-    "ner_s": 84.3,
+    "ner_s": 100.2,
     "tags": [
-      "paris-agreement",
-      "climate-change",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuel-lobbyists",
-      "international-climate-summit",
-      "climate-policy",
-      "global-warming",
-      "climate-activism"
+      "hybrid-warfare",
+      "russia",
+      "nato",
+      "east-europe",
+      "central-europe",
+      "election-interference",
+      "cyber-attacks",
+      "migrant-pushbacks",
+      "geopolitical-tensions",
+      "russian-ukraine-conflict"
     ],
-    "tags_s": 41.6,
+    "tags_s": 49.6,
     "summary": [
-      "The Paris Agreement, signed in 2015, aimed to limit global warming to 1.5°C, but 2024 temperatures reached 1.45°C above pre-industrial levels, according to the IPCC's Sixth Assessment Report.",
-      "Global CO₂ emissions hit 37.4 gigaton in 2023, while the EU reduced emissions by 32% since 1990, but Brazil's deforestation in the Amazon reached 11,568 km² in 2024, per INPE.",
-      "India's 2070 climate neutrality pledge faces criticism from Greta Thunberg, and fossil fuel companies spent $750 million on lobbying against climate legislation between 2020-2024, per InfluenceMap's 2025 report.",
-      "Renewable energy growth offers hope, with global solar capacity exceeding 2 terawatts in 2024, China adding 430 gigawatts, and battery storage costs dropping 89% since 2010, per BloombergNEF."
+      "Finland accused Russia in 2023 of damaging a critical power cable in the Baltic Sea, highlighting hybrid warfare tactics targeting Europe's eastern borders.",
+      "Estonia reported 96 incidents of Russian blimps near its territory in 2024, up from 18 in 2022, as part of Moscow's strategy to sow fear and destabilize NATO members.",
+      "Romania's Constitutional Court annulled its December 2024 presidential election due to alleged Russian interference via TikTok campaigns, though concrete evidence remains elusive.",
+      "Experts like Mark Galeotti note a shift in Russian hybrid warfare since 2023, with increased sabotage and geopolitical manipulation aimed at fracturing Western alliances."
     ],
-    "summary_s": 31.2
+    "summary_s": 38.3
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": "ERROR: Unterminated string starting at: line 227 column 5 (char 5158)",
+    "ner_s": 133.9,
+    "tags": [
+      "x-twitter",
+      "neo-nazi",
+      "far-right-extremism",
+      "hate-speech",
+      "online-extremism",
+      "jp-morgan-chase",
+      "naval-surface-warfare-center",
+      "splc",
+      "antisemitism",
+      "white-nationalism"
+    ],
+    "tags_s": 72.6,
+    "summary": {
+      "who": "Cyan Cruz, Michael Gramer, Robert Thorne, and John Provenzano",
+      "what": "Identification of four neo-Nazi X (formerly Twitter) account operators linked to extremist activities",
+      "where": "United States (specific locations not detailed)",
+      "when": "October 2024 (article publication), June 2024 (account suspensions)",
+      "why": "Linked to neo-Nazi groups, hate speech, and extremist content dissemination",
+      "proper_nouns": [
+        "Southern Poverty Law Center",
+        "ADL (Anti-Defamation League)",
+        "New Hampshire Ball Bearings",
+        "JP Morgan Chase",
+        "Naval Surface Warfare Center"
+      ],
+      "figures": {
+        "followers": "Accounts had between 10,000 to 50,000 followers",
+        "suspensions": "Three accounts suspended in June 2024"
+      }
+    },
+    "summary_s": 42.6
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "gabor",
+        "PER"
+      ],
+      [
+        "galen",
+        "PER"
+      ],
+      [
+        "ShadowFinder",
+        "PROD"
+      ]
+    ],
+    "ner_s": 74.7,
+    "tags": [
+      "shadow-finder",
+      "geolocation",
+      "google-colab",
+      "youtube",
+      "galen-reich",
+      "gabor-friesen",
+      "open-source",
+      "shadow-analysis"
+    ],
+    "tags_s": 40.5,
+    "summary": [
+      "A method to find a location using shadows is presented in a YouTube video, with the associated tool available at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "The tool's development is credited to Gabor Friesen (@gabor_friesen) and Galen Reich (@galen_reich) for their contributions."
+    ],
+    "summary_s": 39.5
   }
 ]

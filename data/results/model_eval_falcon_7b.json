@@ -1,21 +1,8 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
-    "ner": [
-      [
-        "Sam Altman",
-        "PER"
-      ],
-      [
-        "OpenAI",
-        "ORG"
-      ],
-      [
-        "March 2025",
-        "DATE"
-      ]
-    ],
-    "ner_s": 14.5,
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "ner": "ERROR: Expecting ',' delimiter: line 1 column 128 (char 127)",
+    "ner_s": 9.6,
     "tags": [
       "ai",
       "openai",
@@ -23,12 +10,38 @@
       "tech-conference",
       "llm"
     ],
-    "tags_s": 2.5,
-    "summary": "OpenAI announced GPT-5 in San Francisco on March 15, 2025. The model outperforms competitors on the MMLU benchmark.",
-    "summary_s": 4.3
+    "tags_s": 3.3,
+    "summary": "ERROR: Unterminated string starting at: line 1 column 7013 (char 7012)",
+    "summary_s": 57.3
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
+      {
+        "entities": [
+          {
+            "name": "Sam Altman",
+            "type": "ORG"
+          },
+          {
+            "name": "OpenAI",
+            "type": "ORG"
+          },
+          {
+            "name": "March 2025",
+            "type": "DATE"
+          }
+        ]
+      }
+    ],
+    "ner_s": 4.2,
+    "tags": "ERROR: Unterminated string starting at: line 3 column 20 (char 43)",
+    "tags_s": 56.8,
+    "summary": "ERROR: Unterminated string starting at: line 5 column 15 (char 335)",
+    "summary_s": 57.1
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
     "ner": [
       [
         "Sam Altman",
@@ -43,7 +56,7 @@
         "DATE"
       ]
     ],
-    "ner_s": 3.3,
+    "ner_s": 3.1,
     "tags": [
       "ai",
       "openai",
@@ -51,8 +64,107 @@
       "tech-conference",
       "llm"
     ],
-    "tags_s": 2.9,
-    "summary": "ERROR: Unterminated string starting at: line 124 column 26 (char 5363)",
-    "summary_s": 75.9
+    "tags_s": 2.7,
+    "summary": "OpenAI announced GPT-5 in San Francisco on March 15, 2025. It outperforms competitors on the MMLU benchmark.",
+    "summary_s": 4.8
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      {
+        "name": "Sam Altman",
+        "type": "ORG"
+      },
+      {
+        "name": "OpenAI",
+        "type": "ORG"
+      },
+      {
+        "name": "March 2025",
+        "type": "DATE"
+      }
+    ],
+    "ner_s": 4.2,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 3.2,
+    "summary": "ERROR: Unterminated string starting at: line 1 column 288 (char 287)",
+    "summary_s": 58.7
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 4602 (char 4601)",
+    "ner_s": 62.3,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 3.2,
+    "summary": "ERROR: Unterminated string starting at: line 1 column 6499 (char 6498)",
+    "summary_s": 59.3
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 3.4,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 3.2,
+    "summary": "ERROR: Unterminated string starting at: line 1 column 5818 (char 5817)",
+    "summary_s": 60.2
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 1.8,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 1.5,
+    "summary": "ERROR: Unterminated string starting at: line 2 column 14 (char 15)",
+    "summary_s": 56.4
   }
 ]

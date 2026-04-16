@@ -1,392 +1,438 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "France",
-        "LOC"
-      ],
-      [
-        "Grantham Institute",
+        "East Turkestan Islamic Movement",
         "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Sixth Assessment Report",
-        "PROD"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "International Energy Agency",
-        "ORG"
-      ],
-      [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "South and Southeast Asia",
-        "LOC"
-      ],
-      [
-        "European Union",
-        "ORG"
-      ],
-      [
-        "European Green Deal",
-        "PROD"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Pacific Island nations",
-        "LOC"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "UN",
-        "ORG"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "NDCs",
-        "MISC"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ]
-    ],
-    "ner_s": 45.8,
-    "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuels",
-      "international-climate-policy",
-      "cop30",
-      "political-will"
-    ],
-    "tags_s": 7.1,
-    "summary": [
-      "Ten years after the Paris Agreement, global temperatures are dangerously close to the 1.5°C limit, with 2024 temperatures at 1.45°C above pre-industrial levels according to the IPCC.",
-      "Despite efforts in renewable energy, global CO₂ emissions reached a record high of 37.4 gigatons in 2023, as reported by the Global Carbon Project led by Pierre Friedlingstein.",
-      "The European Union has made progress with a 32% emissions cut since 1990 under the European Green Deal, while Brazil faces criticism for Amazon deforestation and India's net zero target by 2070 is deemed too late by climate advocates.",
-      "Major oil companies spent $750 million on lobbying against climate legislation between 2020 and 2024, as revealed by InfluenceMap, with Shell rejecting the findings."
-    ],
-    "summary_s": 17.3
-  },
-  {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
-    "ner": [
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Akkoord van Parijs",
-        "MISC"
-      ],
-      [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Friederike Otto",
-        "PER"
-      ],
-      [
-        "klimaatwetenschapper",
-        "MISC"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "Internationaal Energieagentschap",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "Nationaal Instituut voor Ruimteonderzoek",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
       ],
       [
         "China",
         "LOC"
       ],
       [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
+        "Uighur",
         "PER"
       ],
       [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australische belangengroep",
-        "MISC"
-      ],
-      [
-        "COP30-top",
-        "MISC"
-      ],
-      [
-        "Belém",
+        "Islamic Turkistan",
         "LOC"
       ],
       [
-        "Brazilië",
+        "Xinjiang",
         "LOC"
       ],
       [
-        "VN",
+        "Muslim",
+        "ORG"
+      ]
+    ],
+    "ner_s": 32.3,
+    "tags": [
+      "terrorism",
+      "East Turkestan Islamic Movement",
+      "ETIM",
+      "China",
+      "Xinjiang",
+      "Islamic militants"
+    ],
+    "tags_s": 14.3,
+    "summary": [
+      "The East Turkestan Islamic Movement (ETIM) is a militant group seeking independence for the Uighur region of Xinjiang, China.",
+      "The group has been linked to international terrorist organizations and has been involved in violent activities against Chinese authorities."
+    ],
+    "summary_s": 16.1
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Riziv",
         "ORG"
       ],
       [
-        "António Guterres",
+        "UAntwerpen",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "nicotine",
+        "MISC"
+      ],
+      [
+        "acetylcholine",
+        "MISC"
+      ],
+      [
+        "nitrosamines",
+        "MISC"
+      ]
+    ],
+    "ner_s": 13.6,
+    "tags": [
+      "rookstopmiddel",
+      "varenicline",
+      "champix",
+      "kanker",
+      "gezondheid",
+      "stoppen-roken",
+      "medicijn",
+      "belgië",
+      "verenigd-koninkrijk",
+      "nicotineverslaving"
+    ],
+    "tags_s": 11.9,
+    "summary": [
+      "In het Verenigd Koninkrijk is een nieuwe rookstoppil op de markt gekomen die meer dan 100.000 Britten van hun nicotineverslaving af moet helpen. De pil, Varenicline, is een verbeterde versie van Champix en helpt door het effect van nicotine op de hersenen te verminderen, de hunkering naar een sigaret te verlichten en de ontwenningsverschijnselen te verzachten. Het is een dubbele bedrieger die rustgevend werkt zonder het bijkomend effect van roken te geven. Varenicline werd eind november op de markt gebracht en is in het Verenigd Koninkrijk beschikbaar, maar nog niet in België. Professor Filip Lardon en rookstopcoach Els Bosch zien de pil als een gamechanger, alhoewel ze betonen dat stoppen met roken altijd een combinatie van zelfvertrouwen, motivatie en begeleiding vereist. De pil is alleen verkrijgbaar op voorschrift van een arts en kan bijwerkingen hebben zoals slaperigheid of depressie. Professor Lardon stelt vast dat preventie de belangrijkste boodschap blijft over het afstaan met roken."
+    ],
+    "summary_s": 29.7
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "IntegralAnswers",
+        "ORG"
+      ],
+      [
+        "canola",
+        "LOC"
+      ],
+      [
+        "sunflower",
+        "LOC"
+      ],
+      [
+        "soybean",
+        "LOC"
+      ],
+      [
+        "omega-6",
+        "MISC"
+      ],
+      [
+        "polyunsaturated fats",
+        "MISC"
+      ],
+      [
+        "PUFAs",
+        "MISC"
+      ],
+      [
+        "omega-3",
+        "MISC"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "NCBI",
+        "ORG"
+      ],
+      [
+        "WHO",
+        "ORG"
+      ]
+    ],
+    "ner_s": 11.4,
+    "tags": [
+      "seed-oils",
+      "nutrition",
+      "diet",
+      "health",
+      "omega-6",
+      "polyunsaturated-fats",
+      "cooking-oils",
+      "inflammation",
+      "heart-health",
+      "food-myths"
+    ],
+    "tags_s": 7.2,
+    "summary": [
+      "Seed oils like canola, sunflower, and soybean oil are under fire on social media with misleading claims, but they are high in essential omega-6 fatty acids which are beneficial when balanced with omega-3.",
+      "The real issue is the imbalance of omega-6 and omega-3 in diets, not the omega-6 itself; eating fish, nuts, and seeds helps restore this balance.",
+      "Seed oils do not directly cause inflammation; chronic inflammation is linked to poor diets and excess calories, not seed oils used in moderation as part of a balanced diet.",
+      "Concerns about toxic compounds from cooking seed oils are overhyped; oils with high smoke points like canola or avocado oil are safe for moderate heating, and seed oils are beneficial for heart health when replacing saturated fats."
+    ],
+    "summary_s": 15.9
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Koen Schoors",
         "PER"
       ],
       [
-        "NDC's",
-        "MISC"
+        "Selien De Schlyder",
+        "PER"
       ],
       [
-        "ambitieuzere doelstellingen",
-        "MISC"
+        "Northvolt",
+        "ORG"
       ],
       [
-        "2035",
+        "Zweden",
+        "LOC"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Amerika",
+        "LOC"
+      ],
+      [
+        "Trump",
+        "PER"
+      ],
+      [
+        "Postkoeriers",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "Syrië",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Georgie",
+        "LOC"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Oekraïn",
+        "LOC"
+      ],
+      [
+        "Amerikaanse",
+        "ORG"
+      ]
+    ],
+    "ner_s": 24.6,
+    "tags": [
+      "economie",
+      "transitie",
+      "klimaatverandering",
+      "energie",
+      "batterijen",
+      "automobilindustrie",
+      "chemie",
+      "groene industrie",
+      "Europa",
+      "Rusland",
+      "Oekraïne"
+    ],
+    "tags_s": 16.9,
+    "summary": [
+      "We doen het, in vergelijking met de rest van de wereld, redelijk. We zijn, tegen de verwachtingen in, niet in een recessie beland.",
+      "De Europese industrie ziet voor een stuk af omdat ze zolang getwijfeld hebben om te investeren."
+    ],
+    "summary_s": 17.4
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Salome Zoerabisjvili",
+        "PER"
+      ],
+      [
+        "Georgië",
+        "GPE"
+      ],
+      [
+        "pro-Europese",
+        "ORG"
+      ],
+      [
+        "EU",
+        "ORG"
+      ],
+      [
+        "Rusland",
+        "GPE"
+      ],
+      [
+        "Moldavië",
+        "GPE"
+      ],
+      [
+        "Transnistrië",
+        "GPE"
+      ],
+      [
+        "Ilan Sor",
+        "PER"
+      ],
+      [
+        "Komend jaar",
         "DATE"
       ],
       [
-        "The Nature Conservancy",
+        "parlementsverkiezingen",
+        "EVENT"
+      ]
+    ],
+    "ner_s": 19.9,
+    "tags": [
+      "hybrid-warfare",
+      "Russia",
+      "Eastern-Europe",
+      "election-meddling",
+      "political-manipulation"
+    ],
+    "tags_s": 13.9,
+    "summary": [
+      "Rusland gebruikt een combinatie van subtiele en agressieve acties om invloed uit te oefenen op landen in Oost-Europa.",
+      "Deze tactiek is geïllustreerd door recente ontwikkelingen in Roemenië, Moldavië en Georgië."
+    ],
+    "summary_s": 18.2
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "John Anthony Provenzano",
+        "PERSON"
+      ],
+      [
+        "Utism\", "
+      ],
+      [
+        "JP Morgan Chase",
         "ORG"
       ],
       [
-        "Texas Tech University",
+        "Dallas",
+        "LOCATION"
+      ],
+      [
+        "Virginia",
+        "LOCATION"
+      ],
+      [
+        "Maryland",
+        "LOCATION"
+      ],
+      [
+        "Naval Surface Warfare Center",
         "ORG"
       ],
       [
-        "Ørsted",
-        "ORG"
+        "Indian Head",
+        "LOCATION"
+      ]
+    ],
+    "ner_s": 17.2,
+    "tags": [
+      "extremism",
+      "social-media",
+      "far-right",
+      "nazi",
+      "holocaust-denial",
+      "antisemitism",
+      "twitter",
+      "x-social",
+      "investigation"
+    ],
+    "tags_s": 15.2,
+    "summary": [
+      "Michaela Ross, a vice president at JP Morgan Chase, confirmed that John Anthony Provenzano is no longer employed by the firm following an investigation into his extremist activities.",
+      "Ross stated that the company does not tolerate hate speech and takes such incidents seriously."
+    ],
+    "summary_s": 16.4
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "GalenReich",
+        "PER"
       ],
       [
-        "Iberdrola",
-        "ORG"
+        "ShadowFinder",
+        "PROD"
       ],
       [
-        "BloombergNEF",
-        "ORG"
+        "colab.research.google.com",
+        "LOC"
       ],
       [
-        "solar-energiecapaciteit",
+        "twitter",
         "MISC"
       ],
       [
-        "2 terawatt",
-        "NUM"
+        "gabor",
+        "PER"
+      ],
+      [
+        "GalenReich",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
       ]
     ],
-    "ner_s": 41.2,
+    "ner_s": 5.8,
     "tags": [
-      "klimaatverandering",
-      "parijsakkoord",
-      "internationale samenwerking",
-      "klimaatbeloften",
-      "mondiale uitstoot",
-      "renewable_energy",
-      "CO2-uitstoot",
-      "IPCC",
-      "COP30",
-      "lobbywerk",
-      "olieindustrie",
-      "windenergie",
-      "zonne-energie"
+      "shadow-location",
+      "geolocation",
+      "computervision",
+      "machine-learning",
+      "python-programming",
+      "colab",
+      "gis"
     ],
-    "tags_s": 10.8,
+    "tags_s": 3.4,
     "summary": [
-      "Ten years after the Paris Agreement, global efforts to limit climate change to 1.5°C above pre-industrial levels are falling short, according to recent reports.",
-      "The Intergovernmental Panel on Climate Change (IPCC) reported a global average temperature increase of 1.45°C in 2024, dangerously close to the 1.5°C threshold.",
-      "The Global Carbon Project highlighted that despite the growth of renewable energy, fossil fuel use remains high, with South and Southeast Asia's coal consumption offsetting gains elsewhere.",
-      "The European Union has made measurable progress with a 32% reduction in emissions since 1990, but Brazil under President Lula da Silva faces criticism for Amazon deforestation, reaching 11,568 km² in 2024.",
-      "India's promise to become carbon-neutral by 2070 is criticized as too late by climate activists, while the Australian Climate Council calls it a betrayal to island nations.",
-      "A report by InfluenceMap revealed that oil and gas companies spent $750 million on lobbying against climate legislation between 2020 and 2024, with Shell's Wael Sawan dismissing the findings as selective and misleading.",
-      "UN Secretary-General António Guterres called for enhanced Nationally Determined Contributions (NDCs) by 2035 at COP30 in Belém, Brazil, highlighting that while the tools exist, political will is lacking.",
-      "The renewable energy sector offers a glimmer of hope with solar capacity surpassing 2 terawatts globally in 2024, and Denmark's Ørsted and Spain's Iberdrola reporting record investment years. Battery storage costs have also decreased by 89% since 2010."
+      "In the video, a method to find a location using only its shadow is demonstrated, utilizing a tool accessible via a link to a Google Colab notebook.",
+      "Galen Reich and Gabor Friesen contributed to this technique and are acknowledged for their involvement in developing the tool."
     ],
-    "summary_s": 33.3
+    "summary_s": 5.4
   }
 ]

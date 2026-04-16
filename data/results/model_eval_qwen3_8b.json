@@ -1,52 +1,408 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 52.6,
-    "tags": [
-      "paris-agreement",
-      "climate-crisis",
-      "ipcc-report",
-      "global-carbon-project",
-      "fossil-fuel-lobbying",
-      "cop30-summit",
-      "renewable-energy",
-      "climate-promises",
-      "eu-green-deal",
-      "india-net-zero"
-    ],
-    "tags_s": 34.1,
-    "summary": [
-      "The Paris Agreement, adopted in Le Bourget, France, on December 12, 2015, aimed to limit global warming to 1.5°C above pre-industrial levels.",
-      "Global temperatures reached 1.45°C above the 1850–1900 baseline in 2024, with CO₂ emissions hitting 37.4 gigatons in 2023, despite renewable energy growth in Germany, China, and the U.S.",
-      "Brazil's 11,568 km² of Amazon deforestation in 2024 and India's 2070 net-zero pledge drew criticism from climate advocates like Greta Thunberg and the Climate Council.",
-      "Major oil companies spent $750 million on lobbying against climate legislation between 2020 and 2024, with COP30 in Belém, Brazil, set for November 2025 as a critical test of global climate action."
-    ],
-    "summary_s": 16.5
+    "ner_s": 60.3,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 61.3,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 61.9
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
-    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 48.1,
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
+      [
+        "Verenigd Koninkrijk",
+        "LOC"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "NHS",
+        "ORG"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "UAntwerpen",
+        "ORG"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Filip Lardon",
+        "PER"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "2021",
+        "DATE"
+      ],
+      [
+        "november",
+        "DATE"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "nicotinevervangers",
+        "PROD"
+      ],
+      [
+        "kankerexpert",
+        "MISC"
+      ],
+      [
+        "rookstopcoach",
+        "MISC"
+      ]
+    ],
+    "ner_s": 51.2,
     "tags": [
-      "climate-crisis",
-      "paris-agreement",
-      "co2-emissions",
-      "global-warming",
-      "climate-policy",
-      "fossil-fuel-lobby",
-      "renewable-energy",
-      "cop30",
-      "ipcc-report",
-      "energy-storage"
+      "varenicline",
+      "champix",
+      "smoking-cessation",
+      "nicotine-addiction",
+      "pharmaceutical-innovation",
+      "healthcare-regulation",
+      "public-health",
+      "medical-treatment",
+      "prescription-medications",
+      "health-outcomes"
     ],
-    "tags_s": 25.8,
+    "tags_s": 28.7,
     "summary": [
-      "The IPCC's Sixth Assessment Report states global temperatures in 2024 rose 1.45°C above the 1850–1900 baseline, nearing the 1.5°C threshold.",
-      "Global CO₂ emissions hit 37.4 gigatonnes in 2023, with fossil fuel use remaining high despite renewable expansion in Germany, China, and the U.S.",
-      "Brazil's 2024 Amazon deforestation reached 11,568 km², drawing criticism under President Lula da Silva, while India's 2070 net-zero pledge faces backlash from climate activists.",
-      "Renewable energy growth, including China's 430 GW solar addition in 2024 and falling battery costs, offers hope amid stalled global climate action."
+      "Varenicline, a new medication in the UK, aims to help over 100,000 Britons quit smoking by reducing nicotine's effects.",
+      "Champix, a previous nicotine replacement drug withdrawn in 2021 due to potential carcinogens, was used by 40,000 Belgians in 2019.",
+      "The UK's NHS views Varenicline as a game-changer, available since November 2023, with Pfizer and Teva UK involved in its development.",
+      "Experts estimate Varenicline could prevent 2,000 smoking-related deaths in Belgium, though prevention remains the most effective strategy."
     ],
-    "summary_s": 15.2
+    "summary_s": 17.8
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 46.9,
+    "tags": [
+      "seed-oils",
+      "omega-6",
+      "omega-3",
+      "heart-health",
+      "diet-nutrition",
+      "social-media-misinformation",
+      "food-safety",
+      "cooking-oils",
+      "diet-myths",
+      "processed-foods"
+    ],
+    "tags_s": 19.9,
+    "summary": [
+      "IntegralAnswers (2024-12-24) debunks myths about seed oils like canola and sunflower, stating most social media claims are false.",
+      "The American Heart Association recommends replacing saturated fats with seed oils to lower LDL cholesterol.",
+      "Harvard School of Public Health notes that omega-6 imbalance, not the fats themselves, links to inflammation.",
+      "WHO guidelines emphasize balanced fat intake, including seed oils in moderation."
+    ],
+    "summary_s": 14.2
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      {
+        "entity-text": "Koen Schoors",
+        "type": "PER"
+      },
+      {
+        "entity-text": "Selien De Schryder",
+        "type": "PER"
+      },
+      {
+        "entity-text": "UGent",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "Demorgen",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "Northvolt",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "DEME",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "Jan De Nul",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "Van Hool",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "VDL",
+        "type": "ORG"
+      },
+      {
+        "entity-text": "bitcoin",
+        "type": "PROD"
+      },
+      {
+        "entity-text": "AI",
+        "type": "MISC"
+      },
+      {
+        "entity-text": "Woord van het Jaar",
+        "type": "MISC"
+      },
+      {
+        "entity-text": "Green Deal",
+        "type": "MISC"
+      },
+      {
+        "entity-text": "Inflation Reduction Act",
+        "type": "MISC"
+      },
+      {
+        "entity-text": "België",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "Europa",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "Oekraïne",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "Rusland",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "Amerika",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "Zweden",
+        "type": "LOC"
+      },
+      {
+        "entity-text": "2025",
+        "type": "DATE"
+      },
+      {
+        "entity-text": "zeventig jaar",
+        "type": "DATE"
+      },
+      {
+        "entity-text": "Trump",
+        "type": "PER"
+      },
+      {
+        "entity-text": "Poetin",
+        "type": "PER"
+      },
+      {
+        "entity-text": "Mario Draghi",
+        "type": "PER"
+      },
+      {
+        "entity-text": "Joe Biden",
+        "type": "PER"
+      },
+      {
+        "entity-text": "China",
+        "type": "LOC"
+      }
+    ],
+    "ner_s": 45.7,
+    "tags": [
+      "economics",
+      "inflation",
+      "bitcoin",
+      "green-deal",
+      "us-china-competition",
+      "european-economy",
+      "climate-change",
+      "trump-policies",
+      "russia-ukraine-conflict",
+      "fire-movement"
+    ],
+    "tags_s": 36.2,
+    "summary": [
+      "Koen Schoors and Selien De Schryder predict a potential 2025 Ukraine conflict if Trump increases oil production, which could destabilize Russia's economy.",
+      "Spain's economic recovery, driven by fiscal discipline and strategic investments, contrasts with Europe's struggles to modernize industries and reduce CO2 emissions.",
+      "Bitcoin's speculative nature is criticized by economists, who warn against using it as a reliable store of value despite its short-term gains.",
+      "The EU faces challenges in balancing climate goals with industrial competitiveness, as seen in the struggles of Northvolt and the success of Belgian engineering firms like DEME."
+    ],
+    "summary_s": 29.5
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Expecting value: line 1 column 5044 (char 5043)",
+    "ner_s": 80.2,
+    "tags": [
+      "hybrid-warfare",
+      "russian-strategy",
+      "eastern-europe",
+      "geopolitical-tension",
+      "cyberattacks",
+      "disinformation",
+      "nato-border",
+      "election-interference",
+      "border-security",
+      "information-warfare"
+    ],
+    "tags_s": 38.2,
+    "summary": [
+      "Finland accused Russia of damaging a key cable in the Baltic Sea in October 2024, part of a broader hybrid warfare strategy.",
+      "Estonia reported large-scale GPS jamming in 2024, with Russian forces removing half the border barriers near Narva, per PM Kaja Kallas.",
+      "Poland and Lithuania have faced hybrid attacks since 2021, including migrant pushbacks and cyber incidents, with 88 deaths linked to border clashes.",
+      "Experts like Mark Galeotti note Russia’s decade-long strategy to destabilize NATO, targeting internal divisions and weakening Western unity."
+    ],
+    "summary_s": 19.7
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      {
+        "type": "PER",
+        "text": "Michael Gramer"
+      },
+      {
+        "type": "PER",
+        "text": "Robert Thorne"
+      },
+      {
+        "type": "PER",
+        "text": "John Anthony Provenzano"
+      },
+      {
+        "type": "PER",
+        "text": "Hannah Gais"
+      },
+      {
+        "type": "PER",
+        "text": "David Lane"
+      },
+      {
+        "type": "PER",
+        "text": "Oswald Mosley"
+      },
+      {
+        "type": "PER",
+        "text": "Travis Brown"
+      },
+      {
+        "type": "PER",
+        "text": "Lloyd Blankfein"
+      },
+      {
+        "type": "PER",
+        "text": "Michaela Ross"
+      },
+      {
+        "type": "ORG",
+        "text": "Southern Poverty Law Center"
+      },
+      {
+        "type": "ORG",
+        "text": "JP Morgan Chase"
+      },
+      {
+        "type": "ORG",
+        "text": "FINRA"
+      },
+      {
+        "type": "ORG",
+        "text": "Naval Surface Warfare Center"
+      },
+      {
+        "type": "ORG",
+        "text": "Goldman Sachs"
+      },
+      {
+        "type": "ORG",
+        "text": "New Hampshire Ball Bearings"
+      },
+      {
+        "type": "ORG",
+        "text": "Boeing"
+      },
+      {
+        "type": "ORG",
+        "text": "Hispano-Suiza"
+      },
+      {
+        "type": "ORG",
+        "text": "Texas Observer"
+      },
+      {
+        "type": "DATE",
+        "text": "March 7, 2023"
+      },
+      {
+        "type": "DATE",
+        "text": "May 7, 2023"
+      },
+      {
+        "type": "DATE",
+        "text": "June 2024"
+      },
+      {
+        "type": "DATE",
+        "text": "September 2020"
+      },
+      {
+        "type": "DATE",
+        "text": "October 2023"
+      }
+    ],
+    "ner_s": 51.5,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 63.0,
+    "summary": "Under Elon Musk's ownership, neo-Nazi accounts like 9mm_smg, Noble1945, and utism_ were allowed on X, despite their antisemitic content and Nazi slogans. The Texas Observer's 2024 investigation revealed these accounts had 100K+ followers, with Noble1945 linked to Michael Gramer, a former Nazi Party member. Musk's policies faced criticism for enabling hate speech, while the Navy suspended Provenzano after his employment due to ties to white supremacist groups. The Southern Poverty Law Center and FOIA requests highlighted ongoing scrutiny of X's moderation practices.",
+    "summary_s": 24.7
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 44.9,
+    "tags": [
+      "shadow-finder",
+      "colab",
+      "gabor-friesen",
+      "galen-reich",
+      "youtube",
+      "github",
+      "geolocation"
+    ],
+    "tags_s": 13.9,
+    "summary": [
+      "The ShadowFinderColab.ipynb tool enables location determination using shadow analysis.",
+      "Galen Reich and Gabor Friesen contributed to the tool, with Galen on Twitter @galen_reich and Gabor on Twitter @gabor_friesen.",
+      "A YouTube video demonstrates the shadow-based location-finding method."
+    ],
+    "summary_s": 11.3
   }
 ]

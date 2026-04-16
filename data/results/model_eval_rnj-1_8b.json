@@ -1,87 +1,7 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute at Imperial College London",
-        "ORG"
-      ],
-      [
-        "International Energy Agency",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "London- based think tank",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "UN Secretary-General",
-        "ORG"
-      ],
-      [
-        "Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
       [
         "Sam Altman",
         "PER"
@@ -95,47 +15,171 @@
         "DATE"
       ]
     ],
-    "ner_s": 13.9,
+    "ner_s": 23.5,
     "tags": [
-      "climate-change",
-      "global-warming",
-      "paris-agreement",
-      "ipcc-report",
-      "co2-emissions",
-      "renewable-energy",
-      "international-policy",
-      "climate-policy",
-      "fossil-fuels",
-      "sustainable-development"
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
     ],
-    "tags_s": 3.0,
+    "tags_s": 14.3,
     "summary": [
-      "Ten years after the Paris Agreement, global temperatures have reached 1.45°C above pre-industrial levels, nearing the 1.5°C threshold.",
-      "Global CO₂ emissions remain high at 37.4 gigatons in 2023, despite renewable energy growth.",
-      "Major emitters like India and Brazil face criticism for insufficient climate action, with India's net-zero pledge seen as inadequate.",
-      "Fossil fuel companies spent $750 million lobbying against climate policies between 2020-2024.",
-      "The upcoming COP30 summit in Brazil is critical for updating climate commitments, with renewable energy growth offering some hope."
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
     ],
-    "summary_s": 5.0
+    "summary_s": 14.8
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
-    "ner": "ERROR: Expecting value: line 1 column 6487 (char 6486)",
-    "ner_s": 51.3,
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [],
+    "ner_s": 4.2,
     "tags": [
-      "climate-change",
-      "international-agreement",
-      "paris-agreement",
-      "global-warming",
-      "climate-policy"
+      "health",
+      "nicotine",
+      "smoking",
+      "medication",
+      "varenicline",
+      "quit-smoking",
+      "nicotine-replacement",
+      "healthcare",
+      "pharmaceuticals"
     ],
-    "tags_s": 2.8,
+    "tags_s": 5.3,
     "summary": [
-      "The Paris Agreement aimed to limit global warming to 1.5°C, but current emissions and temperature trends show progress is insufficient.",
-      "Global CO₂ emissions remain high, and countries must strengthen climate policies to meet targets.",
-      "The COP30 summit in Brazil in 2025 will be critical for global climate action.",
-      "Renewable energy growth offers hope, but urgent political will is needed to achieve ambitious climate goals."
+      "Varenicline, a new smoking cessation pill, is now available in the UK, offering help to over 100,000 Britons. It is a more advanced version of Champix, previously withdrawn due to potential cancer risks. The pill helps reduce nicotine cravings and withdrawal symptoms, aiding smokers in quitting.",
+      "The new pill, Varenicline, is expected to be available in Belgium soon, offering a safer alternative to Champix, which was previously withdrawn due to cancer risks. The pill helps reduce nicotine cravings and withdrawal symptoms, aiding smokers in quitting.",
+      "The new pill, Varenicline, is expected to be available in Belgium soon, offering a safer alternative to Champix, which was previously withdrawn due to cancer risks. The pill helps reduce nicotine cravings and withdrawal symptoms, aiding smokers in quitting.",
+      "The new pill, Varenicline, is expected to be available in Belgium soon, offering a safer alternative to Champix, which was previously withdrawn due to cancer risks. The pill helps reduce nicotine cravings and withdrawal symptoms, aiding smokers in quitting."
     ],
-    "summary_s": 4.5
+    "summary_s": 10.4
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [],
+    "ner_s": 2.5,
+    "tags": [
+      "seed-oils",
+      "nutrition",
+      "health",
+      "myth-busting",
+      "food-science",
+      "diet",
+      "omega-6",
+      "omega-3",
+      "cooking-oils",
+      "heart-health"
+    ],
+    "tags_s": 3.6,
+    "summary": [
+      "Seed oils, such as canola, sunflower, and soybean oil, are high in polyunsaturated fats, particularly omega-6 fatty acids. Debunking myths about their health impacts, these oils are safe for consumption when used in moderation as part of a balanced diet. They do not cause inflammation, heart disease, or obesity when consumed in appropriate amounts. Replacing saturated fats with unsaturated fats like seed oils improves heart health. Claims of toxicity or harm from processing are unfounded, and seed oils are safe for regular consumption."
+    ],
+    "summary_s": 5.5
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 20, 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 13.5,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 13.4,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 13.9
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 5238 (char 5237)",
+    "ner_s": 69.0,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 9.6,
+    "summary": [
+      "The article discusses the geopolitical tensions between Russia and Ukraine, focusing on the ongoing conflict in Ukraine and the impact on global politics. It highlights the role of key players such as the United States, Russia, and NATO, and the implications of the conflict on international relations. The article also touches on the economic and humanitarian aspects of the conflict, including the impact on civilians and infrastructure in Ukraine."
+    ],
+    "summary_s": 11.4
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 20",
+        "DATE"
+      ]
+    ],
+    "ner_s": 15.4,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 15.1,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 15.3
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Galen Reich",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "PER"
+      ]
+    ],
+    "ner_s": 1.6,
+    "tags": [
+      "shadow-finding",
+      "location-tracking",
+      "geolocation",
+      "shadow-analysis",
+      "tool-development"
+    ],
+    "tags_s": 1.5,
+    "summary": [
+      "The video demonstrates a tool for locating a location using only shadow patterns, developed by Galen Reich and Gabor Friesen, with a tutorial available on Google Colab.",
+      "The tool, accessible via a YouTube video and a Colab notebook, allows users to determine locations based on shadow observations, with contributions from Galen Reich (@galen_reich) and Gabor Friesen (@gabor_friesen) on Twitter."
+    ],
+    "summary_s": 3.5
   }
 ]

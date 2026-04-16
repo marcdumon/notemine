@@ -1,371 +1,946 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "MISC"
-      ],
-      [
-        "Le Bourget, France",
-        "LOC"
-      ],
-      [
-        "December 12, 2015",
-        "DATE"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
+        "East Turkistan Islamic Party (ETIM)",
         "ORG"
-      ],
-      [
-        "Sixth Assessment Report",
-        "MISC"
-      ],
-      [
-        "Global average temperatures in 2024",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute at Imperial College London",
-        "ORG"
-      ],
-      [
-        "Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "MISC"
-      ],
-      [
-        "International Energy Agency (IEA)",
-        "ORG"
-      ],
-      [
-        "Paris, France",
-        "LOC"
-      ],
-      [
-        "European Green Deal",
-        "MISC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30 summit",
-        "MISC"
-      ],
-      [
-        "Belém, Brazil",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "UN Secretary-General António Guterres",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions (NDCs)",
-        "MISC"
-      ],
-      [
-        "Dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "solar power capacity globally",
-        "MISC"
-      ],
-      [
-        "2 terawatts",
-        "MISC"
-      ],
-      [
-        "2024",
-        "DATE"
       ],
       [
         "China",
-        "LOC"
+        "GPE"
       ],
       [
-        "Danish wind energy company Ørsted",
+        "Xinjiang",
+        "GPE"
+      ],
+      [
+        "Uyghurs",
+        "TNC"
+      ],
+      [
+        "Islamic militants",
+        "TNC"
+      ],
+      [
+        "Global terrorist threat",
+        "TNC"
+      ],
+      [
+        "J. Todd Reed",
+        "PER"
+      ],
+      [
+        "Diana Raschke",
+        "PER"
+      ],
+      [
+        "ABC-CLIO",
         "ORG"
       ],
       [
-        "Iberdrola",
+        "2010",
+        "DATE"
+      ],
+      [
+        "Praeger",
         "ORG"
+      ],
+      [
+        "978-0-313-36540-9",
+        "ISBN"
       ]
     ],
-    "ner_s": 23.0,
+    "ner_s": 35.5,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuels",
-      "lobbying",
-      "cop30",
-      "nationally-determined-contributions"
+      "terrorism",
+      "China",
+      "Xinjiang",
+      "East Turkestan Islamic Party (ETIM)",
+      "Uyghurs",
+      "global terrorist threat"
     ],
-    "tags_s": 3.7,
-    "summary": [
-      "In December 2015, 196 nations signed the Paris Agreement to limit global warming to 1.5°C above pre-industrial levels.",
-      "As of 2024, global temperatures are 1.45°C higher than the 1850–1900 baseline, per the IPCC's Sixth Assessment Report.",
-      "Global CO₂ emissions hit a record 37.4 gigatons in 2023, with fossil fuel consumption near historic levels despite renewable energy expansion.",
-      "The European Union has reduced emissions by 32% since 1990 but Brazil faces criticism for Amazon deforestation under President Lula da Silva's administration.",
-      "India, now the third-largest emitter, plans to achieve net zero by 2070, a timeline criticized as too late by climate advocates.",
-      "Major oil and gas companies spent $750 million on lobbying against climate legislation from 2020 to 2024, according to InfluenceMap.",
-      "COP30 in Belém, Brazil, scheduled for November 2025, will assess nations' progress and commitment to the Paris Agreement.",
-      "Despite challenges, renewable energy advancements offer hope with solar capacity surpassing 2 terawatts in 2024 and battery storage costs falling significantly."
-    ],
-    "summary_s": 11.8
+    "tags_s": 17.9,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 37.6
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "Parijs",
-        "LOC"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "Akkoord van Parijs",
-        "MISC"
+        "NHS",
+        "ORG"
       ],
       [
-        "1,45°C",
-        "DATE"
+        "Champix",
+        "PROD"
       ],
       [
-        "Dr. Friederike Otto",
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Filip Lardon",
         "PER"
       ],
       [
-        "Grantham Institute van het Imperial College London",
-        "ORG"
-      ],
-      [
-        "37,4 gigaton",
-        "MISC"
-      ],
-      [
-        "Global Carbon Project",
-        "MISC"
-      ],
-      [
-        "professor Pierre Friedlingstein",
+        "Els Bosch",
         "PER"
+      ]
+    ],
+    "ner_s": 7.3,
+    "tags": [
+      "healthcare",
+      "smoking-cessation",
+      "varenicline",
+      "nicotine-addiction",
+      "medication",
+      "european-medicines-agency",
+      "belgium",
+      "rookstopcoach",
+      "nicotine-replacement-therapy"
+    ],
+    "tags_s": 7.1,
+    "summary": [
+      "A new quit-smoking pill named Varenicline has been introduced in the UK to help over 100,000 Britons overcome their nicotine addiction.",
+      "Varenicline is considered an improved version of Champix, another quit-smoking pill that was withdrawn from the market in 2021 due to potential carcinogenic substances.",
+      "The British health service NHS sees Varenicline as a potential gamechanger; it works by reducing nicotine's effect on the brain, alleviating cravings and easing withdrawal symptoms like irritability.",
+      "Varenicline became available in late November across the UK, with many viewing it as an enhanced version of Champix, which also worked based on varenicline but was removed from the market due to potential carcinogens.",
+      "In Belgium, Champix was popular, used by approximately 40,000 people in 2019. Kankerexpert Filip Lardon remains positive about Champix's effectiveness, stating it was a potentially good tool for those who struggled to quit smoking through other means.",
+      "Pfizer removed Champix from the market in 2021 due to excessive nitrosamines, which can lead to cancer. Researchers have since been searching for new formulations without these compounds.",
+      "Farmaceutical company Teva UK has found such a formula based on varenicline, which works by binding to nicotine receptors in the body and preventing nicotine from producing its calming effect.",
+      "Rookstopcoach Els Bosch welcomes Varenicline's arrival, noting that Champix was a significant aid for many. However, she emphasizes that quitting smoking is a combination of self-confidence, motivation, and guidance; medication primarily helps manage the physical addiction.",
+      "Varenicline can only be obtained with a doctor's prescription, and it's not recommended for individuals with kidney issues. Possible side effects include drowsiness or depression.",
+      "The European Medicines Agency must still thoroughly test Varenicline before its availability in Belgium; its price is estimated at around 300 euros for 56 pills."
+    ],
+    "summary_s": 22.6
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "canola",
+        "PROD"
       ],
       [
-        "Universiteit van Exeter",
-        "ORG"
+        "sunflower",
+        "PROD"
       ],
       [
-        "Europese Green Deal",
-        "MISC"
+        "soybean",
+        "PROD"
       ],
       [
-        "Ursula von der Leyen",
-        "PER"
+        "PUFAs",
+        "PROD"
       ],
       [
-        "Brazilië",
-        "LOC"
+        "omega-6 fatty acids",
+        "PROD"
       ],
       [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "2070",
-        "DATE"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "InfluenceMap",
-        "MISC"
-      ],
-      [
-        "Londense denktank",
-        "MISC"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "november 2025",
-        "DATE"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions (NDC's)",
-        "MISC"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "zonne-energiecapaciteit",
-        "MISC"
-      ],
-      [
-        "2 terawatt",
-        "MISC"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "IntegralAnswers",
         "ORG"
       ]
     ],
-    "ner_s": 16.2,
+    "ner_s": 4.9,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "ipcc-report",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuels",
-      "lobbying",
-      "cop30"
+      "seed-oils",
+      "myths-debunked",
+      "omega-6-fatty-acids",
+      "heart-health",
+      "diet-misinformation"
     ],
-    "tags_s": 4.2,
+    "tags_s": 4.0,
     "summary": [
-      "Ten years after the Paris Agreement, global temperatures are dangerously close to the 1.5°C threshold, at 1.45°C above pre-industrial levels in 2024, according to the IPCC's Sixth Assessment Report.",
-      "In 2023, global CO2 emissions reached a record high of 37.4 gigatonnes, despite growth in renewable energy; fossil fuel use remains high, with coal consumption in South and Southeast Asia offsetting other gains, as noted by the IEA.",
-      "The European Union has reduced emissions by 32% since 1990 through its European Green Deal, but Brazil faces criticism for rapid deforestation in the Amazon under President Luiz Inácio Lula da Silva, with 11,568 km² lost in 2024 alone.",
-      "India, the world's second-largest emitter after China and the US, has pledged to be climate neutral by 2070, a timeline criticized as too late by activists like Greta Thunberg and the Youth Climate Coalition.",
-      "A September 2025 InfluenceMap report revealed that major oil and gas companies spent $750 million on lobbying against climate legislation between 2020-2024, with Shell's Wael Sawan dismissing the findings as selective and misleading.",
-      "The upcoming COP30 in Belém, Brazil, scheduled for November 2025, will test international resolve; UN Secretary-General António Guterres has called for updated Nationally Determined Contributions with more ambitious 2035 goals.",
-      "Despite falling short of required targets, the renewable energy sector offers hope, with solar capacity surpassing 2 terawatts in 2024 and investments by Ørsted and Iberdrola reaching records; battery storage costs have dropped 89% since 2010."
+      "Seed oils such as canola, sunflower, and soybean oil are being unfairly criticized on social media for misleading claims.",
+      "These vegetable oils, high in polyunsaturated fats like omega-6 fatty acids, are essential nutrients.",
+      "The issue isn't the omega-6 content but the imbalance with omega-3 in modern diets, which can be corrected by consuming fish, nuts, and seeds.",
+      "Chronic inflammation is more linked to poor diets and excess calories than seed oils used in moderation as part of a balanced diet.",
+      "Replacing saturated fats with unsaturated fats from seed oils lowers LDL cholesterol and reduces heart disease risk, as recommended by organizations like the American Heart Association.",
+      "Modern food safety regulations ensure seed oils are safe to consume, dispelling claims of toxins or harm from processing.",
+      "Almost all foods undergo some form of processing; refining seed oils removes impurities and improves stability without making them harmful.",
+      "There's no strong evidence linking seed oils directly to cancer or obesity; overeating, not the type of oil, causes weight gain.",
+      "Decades of research show replacing saturated fats with unsaturated fats from seed oils improves heart health.",
+      "Influencers oversimplify and cherry-pick studies, ignoring complex diet and health science for clout."
     ],
-    "summary_s": 17.5
+    "summary_s": 14.4
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Koen Schoors",
+        "PER"
+      ],
+      [
+        "Selien De Schryder",
+        "PER"
+      ],
+      [
+        "European economy",
+        "ORG"
+      ],
+      [
+        "US-China competition",
+        "EVENT"
+      ],
+      [
+        "Green Deal",
+        "POLICY"
+      ],
+      [
+        "Northvolt battery factory",
+        "ORG"
+      ],
+      [
+        "Russian invasion of Ukraine",
+        "EVENT"
+      ]
+    ],
+    "ner_s": 31.2,
+    "tags": [
+      "economic analysis",
+      "European Union",
+      "industrial policy",
+      "green transition",
+      "Koen Schoors",
+      "Selien De Schryder",
+      "Russia-Ukraine conflict",
+      "energy prices",
+      "inflation",
+      "investment in green technologies"
+    ],
+    "tags_s": 18.1,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 29.3
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Oostzee",
+        "LOC"
+      ],
+      [
+        "Narva",
+        "LOC"
+      ],
+      [
+        "Fort Ivangorod",
+        "LOC"
+      ],
+      [
+        "Finnen",
+        "MISC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "NAVO",
+        "ORG"
+      ],
+      [
+        "Tusk",
+        "PER"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Hybride oorlog",
+        "MISC"
+      ],
+      [
+        "Poolcirkel",
+        "LOC"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Bart Schuurman",
+        "PER"
+      ],
+      [
+        "Universiteit Leiden",
+        "ORG"
+      ],
+      [
+        "Mark Galeotti",
+        "PER"
+      ],
+      [
+        "Viktor Orbán",
+        "PER"
+      ],
+      [
+        "Robert Fico",
+        "PER"
+      ],
+      [
+        "Noorwegen",
+        "LOC"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "Nils Andreas Stensønes",
+        "PER"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Sabotageacties",
+        "MISC"
+      ],
+      [
+        "Brandstichting in Pools warenhuis",
+        "MISC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Kaja Kallas",
+        "PER"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "gps-signalen",
+        "MISC"
+      ],
+      [
+        "Inlichtingendiensten",
+        "MISC"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Wit-Rusland",
+        "LOC"
+      ],
+      [
+        "Migranten",
+        "MISC"
+      ],
+      [
+        "Poolse grenswacht",
+        "ORG"
+      ],
+      [
+        "Mensenrechtenorganisaties",
+        "MISC"
+      ],
+      [
+        "Russische propaganda",
+        "MISC"
+      ],
+      [
+        "Geopolitieke guerrilla",
+        "MISC"
+      ],
+      [
+        "Democratieën met onderlinge meningsverschillen",
+        "MISC"
+      ],
+      [
+        "Kritische benadering",
+        "MISC"
+      ],
+      [
+        "Russische invloed",
+        "MISC"
+      ],
+      [
+        "Slingerbeweging",
+        "MISC"
+      ],
+      [
+        "Vandalisme",
+        "MISC"
+      ],
+      [
+        "Estse politiecommandant",
+        "PER"
+      ],
+      [
+        "Noorwegen",
+        "LOC"
+      ],
+      [
+        "Vijandelijke acties vanuit Rusland",
+        "MISC"
+      ],
+      [
+        "Doorgesneden legerkabel",
+        "MISC"
+      ],
+      [
+        "Internationale conferentie tegen *jamming*",
+        "MISC"
+      ],
+      [
+        "Bewijs voor sabotage",
+        "MISC"
+      ],
+      [
+        "Militaire vliegbasis Evenes",
+        "LOC"
+      ],
+      [
+        "Poolcirkel",
+        "LOC"
+      ],
+      [
+        "Russische *blimps*",
+        "MISC"
+      ],
+      [
+        "Angst en ongerustheid",
+        "MISC"
+      ],
+      [
+        "Russische retoriek",
+        "MISC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Poetin-bewonderaar",
+        "MISC"
+      ],
+      [
+        "Steun aan Oekraïne stoppen",
+        "MISC"
+      ],
+      [
+        "Gemanipuleerde onlinecampagne",
+        "MISC"
+      ],
+      [
+        "TikTok",
+        "MISC"
+      ],
+      [
+        "Russische inmenging",
+        "MISC"
+      ],
+      [
+        "President Klaus Ioannis",
+        "PER"
+      ],
+      [
+        "Roemeense veiligheidsdiensten",
+        "ORG"
+      ],
+      [
+        "Beïnvloeding door een ‘statelijke actor’",
+        "MISC"
+      ],
+      [
+        "Eerdere Russische pogingen om invloed uit te oefenen",
+        "MISC"
+      ],
+      [
+        "Concreet bewijs voor Russische inmenging",
+        "MISC"
+      ],
+      [
+        "Liefs uit het Oosten",
+        "MISC"
+      ],
+      [
+        "Onafhankelijke media",
+        "MISC"
+      ],
+      [
+        "Ultranationalistische kandidaat",
+        "MISC"
+      ],
+      [
+        "Annuleren van de verkiezingen",
+        "MISC"
+      ],
+      [
+        "Rechtsstaat die succesvol ingrijpt tegen buitenlandse inmenging",
+        "MISC"
+      ],
+      [
+        "Mensenrechten buitenspel staan",
+        "MISC"
+      ],
+      [
+        "Veiligheidsvraagstuk",
+        "MISC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Ultranationalistische kandidaat Calin Georgescu",
+        "MISC"
+      ],
+      [
+        "Poetin-bewonderaar",
+        "MISC"
+      ],
+      [
+        "Steun aan Oekraïne stoppen",
+        "MISC"
+      ],
+      [
+        "TikTok-campagne",
+        "MISC"
+      ],
+      [
+        "Russische inmenging",
+        "MISC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Documenten van Roemeense veiligheidsdiensten",
+        "MISC"
+      ],
+      [
+        "Beïnvloeding door een ‘statelijke actor’",
+        "MISC"
+      ],
+      [
+        "Eerdere Russische pogingen om invloed uit te oefenen",
+        "MISC"
+      ],
+      [
+        "Concreet bewijs voor Russische inmenging moeilijk te vinden",
+        "MISC"
+      ],
+      [
+        "Onafhankelijke media",
+        "MISC"
+      ],
+      [
+        "Snoop",
+        "MISC"
+      ],
+      [
+        "Advertentiebedrijf met Russische banden",
+        "MISC"
+      ],
+      [
+        "Desinformatiecampagnes uitrollen in Duitsland en Frankrijk",
+        "MISC"
+      ],
+      [
+        "Vruchtbare aarde",
+        "MISC"
+      ],
+      [
+        "Ultranationalist Calin Georgescu",
+        "MISC"
+      ],
+      [
+        "Annulering van de verkiezingen",
+        "MISC"
+      ],
+      [
+        "Rechtsstaat die succesvol ingrijpt tegen buitenlandse inmenging",
+        "MISC"
+      ],
+      [
+        "Mensenrechten buitenspel staan",
+        "MISC"
+      ],
+      [
+        "Veiligheidsvraagstuk",
+        "MISC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Ongekende inmenging",
+        "MISC"
+      ],
+      [
+        "Autoriteiten, ngo’s en onafhankelijke media",
+        "MISC"
+      ],
+      [
+        "Onlinedesinformatie",
+        "MISC"
+      ],
+      [
+        "Netwerk om kiezers om te kopen met geld uit Rusland",
+        "MISC"
+      ],
+      [
+        "Pro-Russische oligarch Ilan Sor",
+        "MISC"
+      ],
+      [
+        "Noodtoestand",
+        "MISC"
+      ],
+      [
+        "Rusland dreigt stop te zetten in de gastoevoer naar Transnistrië",
+        "MISC"
+      ],
+      [
+        "Energievoorraad van Moldavië in gevaar",
+        "MISC"
+      ],
+      [
+        "Parlementsverkiezingen",
+        "MISC"
+      ],
+      [
+        "Pro-Europese krachten",
+        "MISC"
+      ],
+      [
+        "Mensenrechten buitenspel staan wanneer overheden migratie enkel beschouwen als een veiligheidsvraagstuk",
+        "MISC"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ],
+      [
+        "Russische speciale operatie",
+        "MISC"
+      ],
+      [
+        "Salome Zoerabisjvili",
+        "PER"
+      ],
+      [
+        "Pro-Europese president van Georgië",
+        "MISC"
+      ],
+      [
+        "Parlementsverkiezing",
+        "MISC"
+      ],
+      [
+        "Partij die de EU de rug toekeerde",
+        "MISC"
+      ],
+      [
+        "Antiwesterse oud-voetballer",
+        "MISC"
+      ],
+      [
+        "Intimidatie en omkoping van kiezers",
+        "MISC"
+      ],
+      [
+        "Propaganda op publieke tv-zenders",
+        "MISC"
+      ],
+      [
+        "Geweld tegen oppositiekandidaten",
+        "MISC"
+      ],
+      [
+        "Russische veiligheidsdienst FSB",
+        "MISC"
+      ],
+      [
+        "Dmitri Medvedev",
+        "PER"
+      ],
+      [
+        "Vicevoorzitter van de Russische Veiligheidsraad",
+        "MISC"
+      ],
+      [
+        "Protesten gelijk aan de pro-Europese revolutie in Oekraïne van 2013",
+        "MISC"
+      ],
+      [
+        "Rusland aangrepen om zijn buurland binnen te vallen",
+        "MISC"
+      ],
+      [
+        "Gewoonlijk loopt het slecht af",
+        "MISC"
+      ]
+    ],
+    "ner_s": 72.1,
+    "tags": [
+      "hybrid-warfare",
+      "russia-europe-relations",
+      "nato",
+      "putin",
+      "estonia",
+      "finland",
+      "poland",
+      "romania",
+      "moldova",
+      "georgia",
+      "election-meddling",
+      "cyberattacks",
+      "gps-jamming",
+      "migrant-crisis"
+    ],
+    "tags_s": 14.1,
+    "summary": [
+      "Russia is accused of damaging a crucial power cable in the Baltic Sea, exemplifying its 'hybrid warfare' tactics near Europe's borders.",
+      "NATO chief Mark Rutte warned about preparing for war, echoing sentiments in Central and Eastern Europe where Russia's aggression is keenly felt.",
+      "Incidents such as border provocations and election meddling have escalated across Eastern Europe, with Russia denying any involvement.",
+      "A study of seven European countries illustrates a pattern of Russian activities beyond its borders, with Eastern Europe often serving as a testing ground.",
+      "The number of hybrid actions has increased in severity since the 2014 Ukrainian invasion, extending geographically to Western Europe.",
+      "Experts like Mark Galeotti suggest that while Russia aims not to conquer the West, it seeks to paralyze it through internal disputes and inter-state rivalries."
+    ],
+    "summary_s": 19.3
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Cruz",
+        "PER"
+      ],
+      [
+        "Texas",
+        "GPE"
+      ],
+      [
+        "U.S.",
+        "GPE"
+      ],
+      [
+        "El Paso",
+        "GPE"
+      ],
+      [
+        "border city",
+        "NOUN"
+      ],
+      [
+        "Mexico",
+        "GPE"
+      ],
+      [
+        "Trump",
+        "PER"
+      ],
+      [
+        "2016",
+        "DATE"
+      ],
+      [
+        "election",
+        "EVENT"
+      ],
+      [
+        "supporter base",
+        "NOUN"
+      ],
+      [
+        "rally",
+        "EVENT"
+      ],
+      [
+        "El Paso",
+        "GPE"
+      ],
+      [
+        "crowd",
+        "NOUN"
+      ],
+      [
+        "pro-Trump chants",
+        "NOUN"
+      ],
+      [
+        "Mexican government",
+        "ORG"
+      ],
+      [
+        "rapist",
+        "NOUN"
+      ],
+      [
+        "drug dealers",
+        "NOUN"
+      ],
+      [
+        "criminals",
+        "NOUN"
+      ],
+      [
+        "rapists",
+        "NOUN"
+      ],
+      [
+        "comment",
+        "EVENT"
+      ],
+      [
+        "backlash",
+        "EVENT"
+      ],
+      [
+        "criticism",
+        "EVENT"
+      ],
+      [
+        "Mexican-American community",
+        "ORG"
+      ],
+      [
+        "offensive",
+        "ADJ"
+      ],
+      [
+        "insensitive",
+        "ADJ"
+      ],
+      [
+        "Trump's rhetoric",
+        "NOUN"
+      ],
+      [
+        "immigration policies",
+        "NOUN"
+      ],
+      [
+        "El Paso residents",
+        "PER"
+      ],
+      [
+        "protest",
+        "EVENT"
+      ],
+      [
+        "demonstration",
+        "EVENT"
+      ],
+      [
+        "rally",
+        "EVENT"
+      ],
+      [
+        "counter-protest",
+        "EVENT"
+      ]
+    ],
+    "ner_s": 26.8,
+    "tags": [
+      "extremism",
+      "social_media",
+      "investigative_journalism",
+      "Texas Observer",
+      "X_accounts"
+    ],
+    "tags_s": 29.7,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 34.3
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "galen",
+        "PER"
+      ],
+      [
+        "Galen Reich",
+        "MISC"
+      ],
+      [
+        "gabor",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "MISC"
+      ]
+    ],
+    "ner_s": 2.0,
+    "tags": [
+      "shadow-tracking",
+      "location-determination",
+      "tool-development",
+      "galen-reich",
+      "gabor-friesen"
+    ],
+    "tags_s": 1.8,
+    "summary": [
+      "Galen Reich and Gabor Friesen developed a tool called ShadowFinder for locating places using shadows.",
+      "They presented this tool in a video available on YouTube.",
+      "The authors, Galen Reich and Gabor Friesen, can be followed on Twitter at @galen_reich and @gabor_friesen respectively."
+    ],
+    "summary_s": 3.1
   }
 ]

@@ -1,24 +1,76 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 183.3,
-    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "tags_s": 155.9,
-    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "summary_s": 159.2
+    "ner_s": 329.8,
+    "tags": "ERROR: 'tags'",
+    "tags_s": 113.3,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 150.2
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 174.7,
+    "ner_s": 206.8,
     "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "tags_s": 175.1,
-    "summary": [
-      "The Paris Agreement, signed on December 12, 2015, by 196 countries, aimed to limit global warming to 1.5°C, but the 2024 IPCC report showed global temperatures reached 1.45°C above pre-industrial levels.",
-      "Global CO₂ emissions hit a record 37.4 gigaton in 2023 according to the Global Carbon Project, while the EU reduced emissions by 32% since 1990, and Brazil's Amazon deforestation reached 11,568 km² in 2024.",
-      "A 2025 InfluenceMap report revealed fossil fuel companies spent $750 million on lobbying against climate policies from 2020 to 2024, yet renewable energy capacity surpassed 2 terawatts in 2024 with China adding 430 gigawatts of solar power."
+    "tags_s": 204.0,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 197.6
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 160.9,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 157.0,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 174.4
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 324.7,
+    "tags": "ERROR: 'tags'",
+    "tags_s": 200.8,
+    "summary": "ERROR: 'summary'",
+    "summary_s": 197.3
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 321.1,
+    "tags": [
+      "hybrid-warfare",
+      "russia-europe-relations",
+      "geopolitical-strategy",
+      "nato",
+      "disinformation",
+      "election-interference",
+      "cyber-attacks",
+      "migrant-crisis",
+      "security-threats",
+      "kremlin-strategy"
     ],
-    "summary_s": 85.6
+    "tags_s": 210.5,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 319.6
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 288.8,
+    "tags": "ERROR: 'tags'",
+    "tags_s": 121.2,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 291.0
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 125.5,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 123.5,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 123.3
   }
 ]

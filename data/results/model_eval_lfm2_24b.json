@@ -1,489 +1,1043 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "PROD"
+        "East Turkestan Islamic Party",
+        "GROUP"
       ],
       [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "France",
-        "LOC"
-      ],
-      [
-        "December 12",
-        "DATE"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "1850–1900",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "Germany",
-        "LOC"
+        "Uyghur separatists",
+        "GROUP"
       ],
       [
         "China",
-        "LOC"
+        "COUNTRY"
+      ],
+      [
+        "East Turkestan Islamic Movement",
+        "GROUP"
+      ],
+      [
+        "Turkistan Islamic Party",
+        "GROUP"
+      ],
+      [
+        "Al-Qaeda",
+        "ORG"
+      ],
+      [
+        "Kashgar",
+        "LOCATION"
+      ],
+      [
+        "Uyghur Muslims",
+        "GROUP"
+      ],
+      [
+        "Xinjiang",
+        "LOCATION"
+      ],
+      [
+        "Tajikistan",
+        "LOCATION"
+      ],
+      [
+        "Afghanistan",
+        "LOCATION"
+      ],
+      [
+        "Pakistan",
+        "LOCATION"
       ],
       [
         "United States",
-        "LOC"
+        "COUNTRY"
       ],
       [
-        "International Energy Agency",
-        "ORG"
-      ],
-      [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "European Union",
-        "ORG"
-      ],
-      [
-        "European Green Deal",
-        "PROD"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "Brazil's National Institute for Space Research",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
-        "PROD"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "UN Secretary-General",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions",
-        "PROD"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "Dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Solar power",
-        "PROD"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Terawatts",
-        "PROD"
-      ],
-      [
-        "Denmark",
-        "LOC"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "Battery storage",
-        "PROD"
-      ],
-      [
-        "BloombergNEF",
+        "United Nations Security Council",
         "ORG"
       ]
     ],
-    "ner_s": 36.7,
-    "tags": [
-      "paris-agreement",
-      "climate-change",
-      "co2-emissions",
-      "renewable-energy",
-      "international-relations",
-      "fossil-fuels",
-      "net-zero",
-      "climate-policy",
-      "solar-power",
-      "wind-energy"
-    ],
-    "tags_s": 5.4,
+    "ner_s": 41.6,
+    "tags": "ERROR: 'tags'",
+    "tags_s": 72.7,
     "summary": [
-      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but global temperatures in 2024 reached 1.45°C above pre-industrial levels.",
-      "Global CO₂ emissions hit a record 37.4 gigatons in 2023, with fossil fuel use remaining high despite renewable energy growth in Germany, China, and the United States.",
-      "The upcoming COP30 summit in Belém, Brazil, in November 2025 will test international commitment, with the IPCC warning that the window for action is rapidly closing."
+      "The East Turkistan Islamic Movement (ETIM), also known as the Uyghur separatist movement, has been designated as a terrorist organization by China, the United States, and the European Union.",
+      "ETIM's activities include separatist violence, terrorist attacks, and insurgency operations primarily in China's Xinjiang region.",
+      "The group has been linked to numerous high-profile attacks, such as the 2008 Beijing Olympics security incidents and the 2014 Kunming railway station stabbing.",
+      "ETIM's leadership has faced significant losses, including the death of its leader Akhtar Hussain in a U.S. drone strike in 2010 and the death of key figures like Mahsum Keshtenin in 2009.",
+      "The organization has undergone reorganization after the death of Mahsum, with Shohrat Azadi emerging as a prominent leader.",
+      "ETIM has been involved in cross-border operations, including attacks in Kashmir and collaborations with other militant groups.",
+      "The Chinese government attributes some attacks to ETIM, while critics argue that state repression fuels separatist sentiments.",
+      "International designations of ETIM as terrorists have been contentious, with some countries opposing such labels due to political considerations.",
+      "The group's ideology centers on Uyghur nationalism and resistance to Chinese rule, advocating for an independent East Turkestan."
     ],
-    "summary_s": 7.4
+    "summary_s": 32.1
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "Parijs",
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Philipp Lardon",
+        "PER"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "NHS",
+        "ORG"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Europese geneesmiddelenbureau",
+        "ORG"
+      ],
+      [
+        "Belgium",
         "LOC"
       ],
       [
-        "196 landen",
+        "Vereniging voor Tabakvrije Lucht",
+        "ORG"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Nierproblemen",
         "MISC"
       ],
       [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "12 december 2015",
-        "DATE"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
+        "Arts",
         "PER"
       ],
       [
-        "Grantham Institute",
-        "ORG"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "Imperial College London",
-        "ORG"
+        "Champix",
+        "PROD"
       ],
       [
-        "Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Europese Green Deal",
+        "Nicotine",
         "MISC"
       ],
       [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "2070",
-        "DATE"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "2025",
-        "DATE"
-      ],
-      [
-        "COP30",
+        "Rokstoppcoach",
         "MISC"
       ],
       [
-        "Belém",
-        "LOC"
+        "Vereniging voor Tabakvrije Lucht",
+        "ORG"
       ],
       [
-        "Brazilië",
-        "LOC"
+        "Wellbutrin",
+        "PROD"
       ],
       [
-        "António Guterres",
+        "BPC",
+        "ORG"
+      ],
+      [
+        "archive.fo",
+        "MISC"
+      ],
+      [
+        "archive.today",
+        "MISC"
+      ],
+      [
+        "KNAW",
+        "ORG"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "UAntwerpen",
+        "ORG"
+      ],
+      [
+        "Photonews",
+        "ORG"
+      ],
+      [
+        "HLN",
+        "ORG"
+      ],
+      [
+        "Europese Geneesmiddelenbureau",
+        "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Antagonist",
+        "MISC"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Nicotine",
+        "MISC"
+      ],
+      [
+        "Rokstoppcoach",
         "PER"
       ],
       [
-        "The Nature Conservancy",
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Arts",
+        "PER"
+      ],
+      [
+        "Nierproblemen",
+        "MISC"
+      ],
+      [
+        "Europese Geneesmiddelenbureau",
         "ORG"
       ],
       [
-        "Texas Tech University",
+        "Rokvereniging",
         "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Nierproblemen",
+        "MISC"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Rokstopcoach",
+        "PER"
+      ],
+      [
+        "HLN",
+        "ORG"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "KNAW",
+        "ORG"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Arts",
+        "PER"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Nicotine",
+        "MISC"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Rokstoppcoach",
+        "PER"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Nierproblemen",
+        "MISC"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Rokstopcoach",
+        "PER"
+      ],
+      [
+        "HLN",
+        "ORG"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "KNAW",
+        "ORG"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Arts",
+        "PER"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Nicotine",
+        "MISC"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Rokvereniging",
+        "ORG"
+      ],
+      [
+        "Nierproblemen",
+        "MISC"
       ]
     ],
-    "ner_s": 17.9,
+    "ner_s": 34.3,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "co2-emissions",
-      "renewable-energy",
-      "lobbying",
-      "international-policy",
-      "sustainability",
-      "global-warming",
-      "eu-green-deal",
-      "amazon-deforestation"
+      "nicotine-replacement",
+      "healthcare",
+      "pharmaceuticals",
+      "smoking-cessation",
+      "varenicline",
+      "public-health",
+      "medical-advice",
+      "research",
+      "belgium",
+      "uk-health"
+    ],
+    "tags_s": 9.6,
+    "summary": [
+      "The new medication Varenicline, marketed as Varenicline in the UK and produced by Teva UK, aims to help over 100,000 Brits quit smoking by reducing nicotine cravings and withdrawal symptoms.",
+      "Experts like Filip Lardon and Els Bosch highlight that medication combined with behavioral support is crucial for successful smoking cessation, noting that 30% of quitters succeed without medication but 70% relapse without it.",
+      "Varenicline was withdrawn in 2021 due to potential carcinogenic nitrosamines, and its reintroduction in the UK faces regulatory scrutiny, with a decision expected after European Medicines Agency evaluation.",
+      "In Belgium, Champix (varenicline) was popular in 2019 with 40,000 users, but was removed due to nitrosamine risks; Teva UK claims to have resolved this issue with their new formula.",
+      "The pill works by binding to nicotine receptors, blocking nicotine’s effects while providing mild calming effects, described as a 'double deceiver' by Professor Lardon.",
+      "Rookstopcoach Els Bosch emphasizes that quitting smoking requires self-confidence, motivation, and guidance, with medication reducing relapse rates to 30% after one year.",
+      "Preventing smoking initiation is critical, as 15,000 annual deaths in Belgium are linked to tobacco, and preventing smoking could save 15,000 lives yearly."
+    ],
+    "summary_s": 17.7
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "IntegralAnswers",
+        "ORG"
+      ],
+      [
+        "canola",
+        "PROD"
+      ],
+      [
+        "sunflower",
+        "PROD"
+      ],
+      [
+        "soybean",
+        "PROD"
+      ],
+      [
+        "2024-12-24",
+        "DATE"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "WHO",
+        "ORG"
+      ],
+      [
+        "omega-6",
+        "MISC"
+      ],
+      [
+        "polyunsaturated fats",
+        "MISC"
+      ],
+      [
+        "PUFAs",
+        "MISC"
+      ],
+      [
+        "omega-3",
+        "MISC"
+      ],
+      [
+        "inflammation",
+        "MISC"
+      ],
+      [
+        "heart disease",
+        "MISC"
+      ],
+      [
+        "cholesterol",
+        "MISC"
+      ],
+      [
+        "USDA",
+        "ORG"
+      ],
+      [
+        "USDA",
+        "ORG"
+      ],
+      [
+        "Food and Drug Administration",
+        "ORG"
+      ],
+      [
+        "National Institutes of Health",
+        "ORG"
+      ],
+      [
+        "Centers for Disease Control and Prevention",
+        "ORG"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "National Institutes of Health",
+        "ORG"
+      ],
+      [
+        "World Health Organization",
+        "ORG"
+      ],
+      [
+        "toxins",
+        "MISC"
+      ],
+      [
+        "processed foods",
+        "MISC"
+      ],
+      [
+        "food safety regulations",
+        "MISC"
+      ],
+      [
+        "clout-chasers",
+        "MISC"
+      ],
+      [
+        "influencers",
+        "MISC"
+      ],
+      [
+        "social media",
+        "MISC"
+      ],
+      [
+        "pseudoscience",
+        "MISC"
+      ]
+    ],
+    "ner_s": 15.0,
+    "tags": [
+      "seed-oils",
+      "omega-6",
+      "inflammation",
+      "nutrition",
+      "diet",
+      "heart-health",
+      "food-safety",
+      "myths",
+      "science",
+      "nutrition-facts"
     ],
     "tags_s": 5.9,
     "summary": [
-      "The Paris Agreement aimed to limit global warming to 1.5°C, but in 2024, global temperatures reached 1.45°C above pre-industrial levels according to the IPCC.",
-      "Dr. Friederike Otto warned that the window for corrective action is rapidly closing, while fossil fuel use remains historically high despite renewable energy growth in Germany, China, and the United States.",
-      "The European Union reduced emissions by 32% since 1990 under the European Green Deal, but Brazil's deforestation rate hit 11,568 km² in 2024, and India's 2070 net-zero target was criticized as insufficient by climate activists.",
-      "A September 2025 report revealed that oil and gas companies spent $750 million on lobbying against climate legislation, and the upcoming COP30 in Belém, Brazil, will test global commitment to stronger 2035 targets."
+      "Seed oils such as canola, sunflower, and soybean are often misrepresented on social media, with claims about their health effects being largely misleading.",
+      "The primary issue is not seed oils themselves but the imbalance between omega-6 and omega-3 fatty acids in modern diets, which can be corrected by consuming foods like fish and nuts.",
+      "Moderate use of seed oils in cooking is safe, and replacing saturated fats with unsaturated fats from seed oils can lower LDL cholesterol and reduce heart disease risk, as recommended by the American Heart Association."
     ],
-    "summary_s": 10.0
+    "summary_s": 7.9
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 5414 (char 5413)",
+    "ner_s": 103.8,
+    "tags": [
+      "economy",
+      "inflation",
+      "climate change",
+      "technology",
+      "politics",
+      "europe",
+      "business",
+      "ai",
+      "green energy",
+      "geopolitics"
+    ],
+    "tags_s": 22.7,
+    "summary": [
+      "Economists Koen Schoors and Selien De Schryder discuss the cyclical nature of global economic crises and the potential for improvement despite recurring challenges.",
+      "They highlight the impact of inflation, geopolitical tensions such as the war in Ukraine, and the role of government policies on economic stability.",
+      "The article emphasizes the importance of innovation, green energy investments, and strategic industrial policies for Europe's economic resilience.",
+      "It also addresses concerns about political polarization, the future of the Green Deal, and the potential effects of U.S. policies on global markets.",
+      "Both professors express cautious optimism, noting historical recoveries after crises but warning of ongoing risks such as climate change and institutional weaknesses."
+    ],
+    "summary_s": 26.1
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "Nicolas Sarkozy",
+        "PER"
+      ],
+      [
+        "Mark Rutte",
+        "PER"
+      ],
+      [
+        "Poland",
+        "LOC"
+      ],
+      [
+        "Ukraine",
+        "LOC"
+      ],
+      [
+        "Russia",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Bart Schuurman",
+        "PER"
+      ],
+      [
+        "Universiteit Leiden",
+        "ORG"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Mark Galeotti",
+        "PER"
+      ],
+      [
+        "Pools",
+        "LOC"
+      ],
+      [
+        "Sabotageacties",
+        "MISC"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Kaja Kallas",
+        "PER"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Noord-Europa",
+        "LOC"
+      ],
+      [
+        "Noord-Noorwegen",
+        "LOC"
+      ],
+      [
+        "Zuid-Europa",
+        "LOC"
+      ],
+      [
+        "Zuid-Europa",
+        "LOC"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Kazja Kallas",
+        "PER"
+      ],
+      [
+        "Russia",
+        "LOC"
+      ],
+      [
+        "Wit-Rusland",
+        "LOC"
+      ],
+      [
+        "Litouwen",
+        "LOC"
+      ],
+      [
+        "Letland",
+        "LOC"
+      ],
+      [
+        "Midden-Oosten",
+        "LOC"
+      ],
+      [
+        "Afrika",
+        "LOC"
+      ],
+      [
+        "Moskou",
+        "LOC"
+      ],
+      [
+        "Noorse inlichtingendienst",
+        "ORG"
+      ],
+      [
+        "Nils Andreas Stensønes",
+        "PER"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Litouwen",
+        "LOC"
+      ],
+      [
+        "Letland",
+        "LOC"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Transnistrië",
+        "LOC"
+      ],
+      [
+        "Ilan Sor",
+        "PER"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ],
+      [
+        "Salome Zoerabisjvili",
+        "PER"
+      ],
+      [
+        "Antiwesterse oud-voetballer",
+        "MISC"
+      ],
+      [
+        "Dmitri Medvedev",
+        "PER"
+      ],
+      [
+        "FSB",
+        "ORG"
+      ],
+      [
+        "Kazja Kallas",
+        "PER"
+      ],
+      [
+        "Nicolas Sarkozy",
+        "PER"
+      ],
+      [
+        "Grondwettelijk Hof",
+        "ORG"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "EU",
+        "ORG"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Russia",
+        "LOC"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Kremlin-torens",
+        "MISC"
+      ],
+      [
+        "Getty Images",
+        "MISC"
+      ],
+      [
+        "Nature",
+        "ORG"
+      ],
+      [
+        "Volkskrant",
+        "ORG"
+      ],
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "HRW",
+        "ORG"
+      ],
+      [
+        "Reuters",
+        "ORG"
+      ],
+      [
+        "Snoop",
+        "ORG"
+      ],
+      [
+        "Visegradinsight",
+        "ORG"
+      ],
+      [
+        "ANAP",
+        "ORG"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "Kazja Kallas",
+        "PER"
+      ],
+      [
+        "Nicolas Sarkozy",
+        "PER"
+      ],
+      [
+        "Ilan Sor",
+        "PER"
+      ],
+      [
+        "Salome Zoerabisjvili",
+        "PER"
+      ],
+      [
+        "Antiwesterse oud-voetballer",
+        "PER"
+      ],
+      [
+        "Dmitri Medvedev",
+        "PER"
+      ],
+      [
+        "FSB",
+        "ORG"
+      ],
+      [
+        "Kazja Kallas",
+        "PER"
+      ],
+      [
+        "Nicolas Sarkozy",
+        "PER"
+      ],
+      [
+        "Geselecteerd door de redactie",
+        "MISC"
+      ]
+    ],
+    "ner_s": 41.9,
+    "tags": [
+      "eastern-europe",
+      "geopolitics",
+      "hybrid-warfare",
+      "russia-ukraine",
+      "media-influence",
+      "cyber-security",
+      "political-influence",
+      "election-interference",
+      "nato",
+      "security-studies"
+    ],
+    "tags_s": 17.0,
+    "summary": [
+      "The article discusses Russia's hybrid warfare tactics along Europe's eastern borders, including cyberattacks, disinformation, and energy coercion, as exemplified by incidents in Estonia, Poland, and the Baltic states.",
+      "It highlights the increasing frequency and severity of hybrid incidents, with a notable rise in sabotage activities such as cable tampering and GPS jamming, attributed to Russian actors.",
+      "The text emphasizes the strategic goal of sowing discord within NATO and the EU by exploiting political divisions and undermining trust among member states.",
+      "It also examines the role of historical grievances and geographical proximity in shaping Russia's approach, particularly in countries like Finland, Norway, and the Baltic nations."
+    ],
+    "summary_s": 19.9
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
+        "ORG"
+      ],
+      [
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 23.0,
+    "tags": [
+      "neo-nazi",
+      "white-supremacist",
+      "far-right",
+      "x",
+      "social-media",
+      "content",
+      "moderation",
+      "extremism"
+    ],
+    "tags_s": 23.5,
+    "summary": [
+      "Four anonymous X accounts promoting neo-Nazi and white supremacist content were identified by the Texas Observer, with operators linked to Texas and a connection to Elon Musk's X platform.",
+      "The operators of these accounts, including Michael Gramer, Robert Thorne, and John Anthony Provenzano, have ties to various professional and personal backgrounds, with some employed by JP Morgan Chase.",
+      "The accounts have rapidly grown in followers and regularly post hate speech, including antisemitic and fascist ideologies, while evading bans and platform restrictions."
+    ],
+    "summary_s": 26.1
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "Galen Reich",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "PER"
+      ],
+      [
+        "Twitter",
+        "MISC"
+      ],
+      [
+        "shadow",
+        "MISC"
+      ],
+      [
+        "Galen Reich",
+        "ORG"
+      ],
+      [
+        "Gabor Friesen",
+        "ORG"
+      ],
+      [
+        "Galen Reich",
+        "PROD"
+      ],
+      [
+        "Gabor Friesen",
+        "PROD"
+      ]
+    ],
+    "ner_s": 3.8,
+    "tags": [
+      "shadow-location",
+      "shadow-tool",
+      "ai-tools",
+      "geolocation",
+      "tech-tutorial",
+      "python",
+      "colab",
+      "gabor-friesen",
+      "galen-reich"
+    ],
+    "tags_s": 3.0,
+    "summary": [
+      "The method uses a shadow length calculation based on the sun's angle to determine a location's latitude.",
+      "Gabor and Galen contributed to the development of the ShadowFinder tool hosted on Google Colab.",
+      "The tool is available at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "ShadowFinder can be used to estimate geographic coordinates by measuring shadow length at a known time."
+    ],
+    "summary_s": 4.8
   }
 ]

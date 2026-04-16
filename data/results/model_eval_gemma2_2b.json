@@ -1,587 +1,784 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "MISC"
+        "Sam Altman",
+        "PERSON"
       ],
       [
-        "Le Bourget",
-        "LOC"
+        "OpenAI",
+        "ORGANIZATION"
       ],
       [
-        "France",
-        "LOC"
-      ],
-      [
-        "196",
-        "NUM"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
-        "ORG"
-      ],
-      [
-        "Sixth Assessment Report",
-        "MISC"
-      ],
-      [
-        "2024",
+        "March 2025",
         "DATE"
-      ],
+      ]
+    ],
+    "ner_s": 11.1,
+    "tags": [
+      "terrorism",
+      "china",
+      "east turkistan",
+      "uyghurs",
+      "islamic extremism",
+      "al qaeda",
+      "et im",
+      "xinjiang",
+      "pakistan",
+      "russia",
+      "us",
+      "global terrorism",
+      "conflict resolution",
+      "human rights"
+    ],
+    "tags_s": 8.5,
+    "summary": [
+      {
+        "summary": [
+          "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+          "The model outperforms competitors on the MMLU benchmark."
+        ],
+        "source": "https://openai.com/blog/gpt-5"
+      },
+      {
+        "summary": [
+          "The model outperforms competitors on the MMLU benchmark."
+        ],
+        "source": "https://openai.com/blog/gpt-5"
+      }
+    ],
+    "summary_s": 10.2
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
       [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute at Imperial College London",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Global CO₂ emissions",
-        "MISC"
-      ],
-      [
-        "2023",
-        "DATE"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Germany",
+        " Verenigd Koninkrijk",
         "LOC"
       ],
       [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "International Energy Agency (IEA)",
-        "ORG"
-      ],
-      [
-        "Paris",
-        "LOC"
-      ],
-      [
-        "South and Southeast Asia",
-        "LOC"
-      ],
-      [
-        "coal use",
-        "MISC"
-      ],
-      [
-        "European Union",
-        "ORG"
-      ],
-      [
-        "European Green Deal",
-        "MISC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "Brazil's National Institute for Space Research (INPE)",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australia",
-        "LOC"
-      ],
-      [
-        "Pacific Island nations",
-        "MISC"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "London-based think tank",
-        "MISC"
-      ],
-      [
-        "Saudi Aramco",
+        "Champix",
         "PROD"
       ],
       [
-        "Shell",
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "KNAW",
         "ORG"
       ],
       [
-        "BP",
+        "NHS",
         "ORG"
       ],
       [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "September 2025",
-        "DATE"
-      ],
-      [
-        "COP30 summit",
-        "MISC"
-      ],
-      [
-        "Belém, Brazil",
+        "UK",
         "LOC"
       ],
       [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "UN Secretary-General António Guterres",
-        "PER"
-      ],
-      [
-        "Dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
+        "Pfizer",
         "ORG"
       ],
       [
-        "Texas Tech University",
+        "Teva UK",
         "ORG"
       ],
       [
-        "2035",
-        "NUM"
+        "Wellbutrin",
+        "PROD"
       ],
       [
-        "renewable energy sector",
-        "MISC"
+        "Bupropion",
+        "PROD"
       ],
       [
-        "China",
+        "Europees geneesmiddelenbureau",
+        "ORG"
+      ],
+      [
+        "Belgium",
         "LOC"
       ],
       [
-        "Ørsted",
+        "UAntwerpen",
         "ORG"
       ],
       [
-        "Spain's Iberdrola",
-        "ORG"
+        "Prof. dr. Filip Lardon",
+        "PER"
       ],
       [
-        "BloombergNEF",
-        "ORG"
+        "Els Bosch",
+        "PER"
       ],
       [
-        "2024",
-        "DATE"
+        "Champix",
+        "PROD"
       ],
       [
-        "solar power capacity",
+        "nicotine",
         "MISC"
       ],
       [
-        "2 terawatts",
+        "Acetylcholine",
+        "MISC"
+      ],
+      [
+        "A",
+        "MISC"
+      ],
+      [
+        "Hartpatiënten",
+        "MISC"
+      ],
+      [
+        "Diabetici",
+        "MISC"
+      ],
+      [
+        "Nicorette",
+        "MISC"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "Heart",
+        "MISC"
+      ],
+      [
+        "Diabetes",
+        "MISC"
+      ],
+      [
+        "Smoking cessation",
+        "MISC"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "15.000",
         "NUM"
       ],
       [
-        "430 gigawatts",
+        "2.000",
         "NUM"
       ],
       [
-        "Denmark",
-        "LOC"
+        "Preventie",
+        "MISC"
       ],
       [
-        "Ørsted",
-        "ORG"
+        "Rookvrije generatie",
+        "MISC"
       ],
       [
-        "Spain's Iberdrola",
-        "ORG"
-      ],
-      [
-        "89%",
-        "NUM"
-      ],
-      [
-        "2010",
-        "DATE"
+        "Droom",
+        "MISC"
       ]
     ],
-    "ner_s": 40.7,
+    "ner_s": 17.1,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "fossil-fuels",
-      "renewable-energy"
+      "smoking",
+      "nicotine",
+      "cessation",
+      "medicine",
+      "pharmaceuticals",
+      "health",
+      "cancer",
+      "research",
+      "prevention",
+      "quitting",
+      "healthcare"
+    ],
+    "tags_s": 3.6,
+    "summary": [
+      "A new nicotine replacement medication called Varenicline has been released in the UK. It is similar to Champix, a previous successful smoking cessation medication, but with improved safety and efficacy. The drug works by binding to nicotinoreceptors in the brain, reducing cravings and withdrawal symptoms.  It's expected to be available soon in Belgium as well. ",
+      "Professor Filip Lardon, a renowned expert on cancer and smoking cessation, believes Varenicline could significantly reduce smoking-related deaths. He emphasizes that prevention is key to creating a smoke-free generation."
+    ],
+    "summary_s": 7.9
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "IntegralAnswers",
+        "ORG"
+      ],
+      [
+        "seed oils",
+        "MISC"
+      ],
+      [
+        "Canola",
+        "PROD"
+      ],
+      [
+        "Sunflower",
+        "PROD"
+      ],
+      [
+        "Soybean",
+        "PROD"
+      ],
+      [
+        "Omega-6 fatty acids",
+        "MISC"
+      ],
+      [
+        "Fish",
+        "PER"
+      ],
+      [
+        "Nuts",
+        "MISC"
+      ],
+      [
+        "Seeds",
+        "MISC"
+      ],
+      [
+        "Butter",
+        "PROD"
+      ],
+      [
+        "LDL cholesterol",
+        "MISC"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "WHO guidelines on fats",
+        "MISC"
+      ],
+      [
+        "x.com",
+        "ORG"
+      ],
+      [
+        "Instagram",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "Facebook",
+        "ORG"
+      ],
+      [
+        "YouTube",
+        "ORG"
+      ],
+      [
+        "TikTok",
+        "ORG"
+      ],
+      [
+        "LinkedIn",
+        "ORG"
+      ],
+      [
+        "Reddit",
+        "ORG"
+      ],
+      [
+        "Tumblr",
+        "ORG"
+      ],
+      [
+        "Pinterest",
+        "ORG"
+      ],
+      [
+        "Medium",
+        "MISC"
+      ],
+      [
+        "Quora",
+        "MISC"
+      ],
+      [
+        "Google",
+        "ORG"
+      ],
+      [
+        "Apple",
+        "ORG"
+      ],
+      [
+        "Amazon",
+        "ORG"
+      ],
+      [
+        "Microsoft",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "ORG"
+      ],
+      [
+        "SpaceX",
+        "ORG"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "Reddit",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "Facebook",
+        "ORG"
+      ],
+      [
+        "YouTube",
+        "ORG"
+      ],
+      [
+        "TikTok",
+        "ORG"
+      ],
+      [
+        "LinkedIn",
+        "ORG"
+      ],
+      [
+        "Tumblr",
+        "ORG"
+      ],
+      [
+        "Pinterest",
+        "ORG"
+      ],
+      [
+        "Medium",
+        "MISC"
+      ],
+      [
+        "Quora",
+        "MISC"
+      ],
+      [
+        "Google",
+        "ORG"
+      ],
+      [
+        "Apple",
+        "ORG"
+      ],
+      [
+        "Amazon",
+        "ORG"
+      ],
+      [
+        "Microsoft",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "ORG"
+      ],
+      [
+        "SpaceX",
+        "ORG"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "Reddit",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "Facebook",
+        "ORG"
+      ],
+      [
+        "YouTube",
+        "ORG"
+      ],
+      [
+        "TikTok",
+        "ORG"
+      ],
+      [
+        "LinkedIn",
+        "ORG"
+      ],
+      [
+        "Tumblr",
+        "ORG"
+      ],
+      [
+        "Pinterest",
+        "ORG"
+      ],
+      [
+        "Medium",
+        "MISC"
+      ],
+      [
+        "Quora",
+        "MISC"
+      ],
+      [
+        "Google",
+        "ORG"
+      ],
+      [
+        "Apple",
+        "ORG"
+      ],
+      [
+        "Amazon",
+        "ORG"
+      ],
+      [
+        "Microsoft",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "ORG"
+      ],
+      [
+        "SpaceX",
+        "ORG"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "Reddit",
+        "ORG"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "Facebook",
+        "ORG"
+      ],
+      [
+        "YouTube",
+        "ORG"
+      ],
+      [
+        "TikTok",
+        "ORG"
+      ],
+      [
+        "LinkedIn",
+        "ORG"
+      ],
+      [
+        "Tumblr",
+        "ORG"
+      ],
+      [
+        "Pinterest",
+        "ORG"
+      ],
+      [
+        "Medium",
+        "MISC"
+      ],
+      [
+        "Quora",
+        "MISC"
+      ],
+      [
+        "Google",
+        "ORG"
+      ],
+      [
+        "Apple",
+        "ORG"
+      ],
+      [
+        "Amazon",
+        "ORG"
+      ],
+      [
+        "Microsoft",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "ORG"
+      ],
+      [
+        "SpaceX",
+        "ORG"
+      ],
+      [
+        "Meta",
+        "ORG"
+      ],
+      [
+        "WHO guidelines on fats",
+        "MISC"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "Research on omega-6 & inflammation",
+        "MISC"
+      ],
+      [
+        "ncbi.nlm.nih.gov",
+        "MISC"
+      ],
+      [
+        "heart.org",
+        "ORG"
+      ],
+      [
+        "hsph.harvard.edu",
+        "ORG"
+      ],
+      [
+        "who.int",
+        "ORG"
+      ]
+    ],
+    "ner_s": 39.9,
+    "tags": [
+      "seed-oils",
+      "inflammation",
+      "heart-health",
+      "nutrition",
+      "diet"
     ],
     "tags_s": 2.3,
     "summary": [
-      "Ten years after the Paris Agreement was signed, global temperatures have risen by 1.45°C above pre-industrial levels, putting us dangerously close to the 1.5°C target.",
-      "The Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report found that global CO₂ emissions reached a record high of 37.4 gigatons in 2023.",
-      "Brazil's deforestation rates in the Amazon Basin have been criticized, while India has pledged to achieve net zero by 2070, which many climate advocates consider too late."
+      "Seed oils are vegetable oils made from seeds like canola, sunflower, and soybean. They contain omega-6 fatty acids which some claim promote inflammation but modern diets lack balance of omega-6 and omega-3. ",
+      "Replacing saturated fats with unsaturated fats can improve heart health.",
+      "Claims of seed oils causing cancer or obesity have no credible basis."
     ],
-    "summary_s": 8.0
+    "summary_s": 5.2
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 8361 (char 8360)",
+    "ner_s": 132.9,
+    "tags": [
+      "economics",
+      "inflation",
+      "climate change",
+      "politics",
+      "technology",
+      "energy",
+      "europe",
+      "russia",
+      "china",
+      "united states",
+      "global economy",
+      "business",
+      "innovation",
+      "industry",
+      "environment",
+      "sustainable development"
+    ],
+    "tags_s": 6.8,
+    "summary": [
+      {
+        "text": "This article discusses the economic outlook for Europe and the world. It highlights the challenges of inflation, energy prices, and geopolitical tensions. The authors argue that while there are significant risks, there is also potential for growth and innovation in areas like renewable energy and sustainable technologies."
+      },
+      {
+        "text": "The article explores the impact of the war in Ukraine on the global economy. It discusses the role of Russia and its allies, as well as the response of Western countries to the conflict. The authors suggest that a lasting peace is essential for economic stability."
+      },
+      {
+        "text": "The article also examines the future of electric vehicles and battery production. It highlights the challenges faced by European manufacturers in this sector, while emphasizing the potential for growth in areas like green technology and sustainable energy."
+      },
+      {
+        "text": "Finally, the authors offer their insights on the geopolitical landscape. They discuss the complex relationship between Russia and the West, as well as the potential for future conflict and cooperation."
+      }
+    ],
+    "summary_s": 15.1
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      {
+        "text": "Sam Altman",
+        "type": "PERSON"
+      },
+      {
+        "text": "ORG",
+        "type": "ORG"
+      },
+      {
+        "text": "March 2025",
+        "type": "DATE"
+      }
+    ],
+    "ner_s": 5.2,
+    "tags": [
+      "Russia",
+      "Ukraine",
+      "NATO",
+      "hybrid warfare",
+      "geopolitics",
+      "EU",
+      "Moldova",
+      "Georgia",
+      "Belarus",
+      "Poland",
+      "Lithuania",
+      "Latvia",
+      "Estonia",
+      "Finland",
+      "Sweden",
+      "Norway",
+      "France",
+      "Germany",
+      "UK",
+      "US"
+    ],
+    "tags_s": 6.5,
+    "summary": [
+      "This article discusses the increasing use of hybrid warfare tactics by Russia to destabilize neighboring countries. The Kremlin is employing various methods, including disinformation campaigns, cyberattacks, and proxy conflicts, to achieve its geopolitical goals. These actions are aimed at sowing discord among populations, undermining democratic institutions, and creating a climate of fear and uncertainty. ",
+      "The article explores the specific examples of hybrid warfare in several Eastern European countries: Moldova, Georgia, Poland, and Ukraine. It highlights how Russia is attempting to influence elections, manipulate public opinion, and destabilize these nations through various means. The Kremlin's tactics are often aimed at undermining Western support for these countries and creating a favorable environment for its own expansionist ambitions.",
+      "The article examines the impact of hybrid warfare on international relations and security. It discusses how these tactics challenge traditional notions of war and conflict, blurring the lines between conventional warfare and political manipulation. The use of hybrid warfare raises concerns about the future of international stability and cooperation."
+    ],
+    "summary_s": 13.8
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      {
+        "name": "Robert Thorne"
+      },
+      {
+        "name": "Michael Gramer"
+      },
+      {
+        "name": "John Anthony Provenzano"
+      },
+      {
+        "name": "Sam Altman"
+      },
+      {
+        "name": "OpenAI"
+      },
+      {
+        "name": "March 2025"
+      }
+    ],
+    "ner_s": 7.8,
+    "tags": [
+      "extremism",
+      "white nationalism",
+      "neo-Nazism",
+      "hate speech",
+      "social media",
+      "online radicalization",
+      "violence",
+      "terrorism",
+      "conspiracy theories",
+      "cybersecurity",
+      "data privacy",
+      "legal implications"
+    ],
+    "tags_s": 7.7,
+    "summary": [
+      {
+        "summary": [
+          "Robert Thorne/Noble1945 and John Anthony Provenzano: Two accounts linked to neo-Nazi ideology have been deactivated. The accounts were active for a short period of time before being removed from the platform. Both accounts shared similar content, including antisemitic and pro-Nazi slogans. Their activities are under investigation by law enforcement."
+        ],
+        "author": "The Texas Observer"
+      },
+      {
+        "summary": [
+          "Michael Gramer's account was suspended after posting violent speech. The account had a history of sharing hateful content, including swastikas and Holocaust denial. His account has been deactivated."
+        ]
+      },
+      {
+        "summary": [
+          "Hannah Gais, a researcher at the Southern Poverty Law Center, has provided insight into the activities of these accounts. She has identified them as part of a larger network of extremist groups that are actively spreading hate speech online."
+        ]
+      }
+    ],
+    "summary_s": 15.0
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
     "ner": [
       [
-        "Parijs",
-        "LOC"
+        "ShadowFinder",
+        "PROD"
       ],
       [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "196",
-        "NUM"
-      ],
-      [
-        "Akkoord van Parijs",
+        "YouTube",
         "MISC"
       ],
       [
-        "12 december 2015",
-        "DATE"
-      ],
-      [
-        "1,5°C",
-        "NUM"
-      ],
-      [
-        "2°C",
-        "NUM"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Zesde Beoordelingsrapport",
-        "MISC"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
+        "Galen Reich",
         "PER"
       ],
       [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
+        "Gabor Friesen",
         "PER"
       ],
       [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "MISC"
-      ],
-      [
-        "2023",
-        "DATE"
-      ],
-      [
-        "37,4 gigaton",
-        "NUM"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Duitsland",
-        "LOC"
-      ],
-      [
-        "Zuid- en Zuidoost-Azië",
-        "LOC"
-      ],
-      [
-        "Internationaal Energieagentschap",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Zuid-Azië",
-        "LOC"
-      ],
-      [
-        "Europese Unie",
-        "ORG"
-      ],
-      [
-        "Europees Green Deal",
-        "MISC"
-      ],
-      [
-        "Ursula von der Leyen",
+        "@galen_reich",
         "PER"
       ],
       [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
+        "@gabor_friesen",
         "PER"
       ],
       [
-        "President",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "2070",
-        "DATE"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "Climate activists",
+        "https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb",
         "MISC"
-      ],
-      [
-        "COP30-top",
-        "MISC"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "VN-secretaris-generaal",
-        "ORG"
-      ],
-      [
-        "Nationally Determined Contributions",
-        "MISC"
-      ],
-      [
-        "Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "2 terawatt",
-        "NUM"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "430 gigawatt",
-        "NUM"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "Deense windenergiebedrijf",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Spaanse Iberdrola",
-        "ORG"
-      ],
-      [
-        "89%",
-        "NUM"
-      ],
-      [
-        "2010",
-        "DATE"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "Akkoord van Parijs",
-        "MISC"
-      ],
-      [
-        "monument",
-        "MISC"
-      ],
-      [
-        "Parijs",
-        "LOC"
       ]
     ],
-    "ner_s": 38.7,
+    "ner_s": 5.9,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2",
-      "renewable-energy",
-      "fossil-fuels"
+      "shadow-finding",
+      "location-determination",
+      "ai-tools",
+      "deep-learning",
+      "research"
     ],
-    "tags_s": 2.7,
+    "tags_s": 1.9,
     "summary": [
-      "Ten years after Paris, the world is failing to meet its climate goals. ",
-      "Global temperatures reached 1.45°C above pre-industrial levels in 2024 according to the IPCC's Sixth Assessment Report.",
-      "The global CO₂ emissions reached a record high of 37.4 gigaton in 2023, despite the expansion of renewable energy in countries like Germany, China and the United States."
+      "This note explains how to find a location using only the shadow."
     ],
-    "summary_s": 6.0
+    "summary_s": 1.4
   }
 ]

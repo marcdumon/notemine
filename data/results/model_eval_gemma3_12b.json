@@ -1,543 +1,345 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Paris Agreement",
-        "MISC"
-      ],
-      [
-        "December 12, 2015",
-        "DATE"
-      ],
-      [
-        "1.5°C",
-        "MISC"
-      ],
-      [
-        "2°C",
-        "MISC"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
+        "Eastern Turkistan Islamic Party",
         "ORG"
       ],
       [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "1850–1900",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
+        "Emeti Yakuf",
         "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Germany",
-        "LOC"
       ],
       [
         "China",
-        "LOC"
+        "GPE"
       ],
       [
-        "United States",
-        "LOC"
-      ],
-      [
-        "International Energy Agency",
+        "Al-Qaeda",
         "ORG"
       ],
       [
-        "IEA",
+        "Turkistan Islamic Party",
         "ORG"
       ],
       [
-        "Paris",
+        "Xinjiang",
+        "GPE"
+      ],
+      [
+        "Kyrgyzstan",
+        "GPE"
+      ],
+      [
+        "Pakistan",
+        "GPE"
+      ],
+      [
+        "Dubai",
+        "GPE"
+      ],
+      [
+        "Syria",
+        "GPE"
+      ]
+    ],
+    "ner_s": 31.3,
+    "tags": [
+      "terrorism",
+      "China",
+      "Xinjiang",
+      "Uyghurs",
+      "ETIM",
+      "Islamic militants",
+      "Central Asia",
+      "Pakistan",
+      "Syria",
+      "Turkistan Islamic Party"
+    ],
+    "tags_s": 17.5,
+    "summary": [
+      "The Eastern Turkistan Islamic Party (ETIM), also known as the Turkistan Islamic Party (TIP), is a Uyghur separatist group seeking independence for Xinjiang, China.",
+      "ETIM has been designated as a terrorist organization by China, the United Nations, and several other countries.",
+      "The group's origins trace back to the late 1990s and early 2000s, with connections to al-Qaeda and the Taliban.",
+      "ETIM has claimed responsibility for various attacks in China, though the extent of their involvement is often disputed.",
+      "The group's leadership has been targeted in U.S. drone strikes in Pakistan.",
+      "ETIM fighters have reportedly joined conflicts in Syria, aligning with various Islamist factions.",
+      "The group utilizes online platforms to disseminate propaganda and recruit members.",
+      "China's government has cracked down on ETIM and its supporters, leading to accusations of human rights abuses.",
+      "The group's existence and activities remain a source of tension between China and several countries.",
+      "Recent reports suggest a reorganization and potential resurgence of ETIM activity."
+    ],
+    "summary_s": 24.4
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
+      [
+        "Verenigd Koninkrijk",
         "LOC"
       ],
       [
-        "European Union",
-        "ORG"
-      ],
-      [
-        "European Green Deal",
+        "100.000",
         "MISC"
       ],
       [
-        "Ursula von der Leyen",
-        "PER"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "European Commission",
-        "ORG"
+        "Champix",
+        "PROD"
       ],
       [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "2024",
+        "2021",
         "DATE"
       ],
       [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "2070",
-        "DATE"
-      ],
-      [
-        "Greta Thunberg",
+        "Filip Lardon",
         "PER"
       ],
       [
-        "Youth Climate Coalition",
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "NHS",
         "ORG"
       ],
       [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australian",
+        "België",
         "LOC"
       ],
       [
-        "Saudi Aramco",
+        "Riziv",
         "ORG"
       ],
       [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "September 2025",
+        "2019",
         "DATE"
       ],
       [
-        "InfluenceMap",
+        "Pfizer",
         "ORG"
       ],
       [
-        "London",
-        "LOC"
+        "Teva UK",
+        "ORG"
       ],
       [
-        "COP30",
+        "november",
+        "DATE"
+      ],
+      [
+        "professor Lardon",
+        "PER"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "bupropion",
+        "PROD"
+      ],
+      [
+        "Europees geneesmiddelenbureau",
+        "ORG"
+      ],
+      [
+        "300 euro",
         "MISC"
       ],
       [
-        "Belém",
+        "België",
         "LOC"
       ],
       [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "UN Secretary-General",
-        "ORG"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "NDCs",
-        "MISC"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "Dr. Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Spain",
-        "LOC"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
-        "ORG"
-      ],
-      [
-        "2010",
-        "DATE"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Danish",
-        "LOC"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "2 terawatts",
+        "15.000",
         "MISC"
       ]
     ],
-    "ner_s": 33.6,
+    "ner_s": 12.3,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "ipcc",
-      "renewable-energy",
-      "deforestation",
-      "fossil-fuel-lobbying",
-      "cop30",
-      "ndcs",
-      "net-zero",
-      "iea"
+      "smoking-cessation",
+      "varenicline",
+      "champix",
+      "nicotine-addiction",
+      "public-health",
+      "pharmaceuticals",
+      "belgium",
+      "uk",
+      "nhs",
+      "nitrosamines"
     ],
-    "tags_s": 4.3,
+    "tags_s": 6.9,
     "summary": [
-      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but global average temperatures in 2024 reached 1.45°C above the 1850–1900 baseline according to the IPCC Sixth Assessment Report.",
-      " Global CO₂ emissions hit a record 37.4 gigatons in 2023, despite renewable energy expansion in countries like Germany and China, with fossil fuel consumption remaining high.",
-      " Brazil's deforestation rates reached 11,568 km² in 2024, drawing criticism for President Luiz Inácio Lula da Silva, while India has pledged to achieve net zero by 2070, a timeline criticized by Greta Thunberg.",
-      " The upcoming COP30 summit in Belém, Brazil, in November 2025, will assess international progress, and solar power capacity globally surpassed 2 terawatts in 2024, with China adding 430 gigawatts."
+      "A new smoking cessation pill called Varenicline has been launched in the United Kingdom to help over 100,000 people quit nicotine addiction.",
+      "Varenicline is considered an improved version of Champix, a pill that was removed from the market in 2021 due to concerns about potential carcinogens.",
+      "Professor Filip Lardon and coach Els Bosch emphasize that medication, like Varenicline, can reduce relapse rates when combined with self-confidence and motivation.",
+      "Nicotinevervangingsmiddelen are currently the primary alternative for those seeking to quit smoking in Belgium, where Champix was previously used by approximately 40,000 people in 2019."
     ],
-    "summary_s": 10.3
+    "summary_s": 10.5
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
     "ner": [
       [
-        "Le Bourget",
-        "LOC"
+        "IntegralAnswers",
+        "ORG"
       ],
       [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "12 december 2015",
+        "2024-12-24",
         "DATE"
       ],
       [
-        "1,5°C",
+        "canola",
+        "PROD"
+      ],
+      [
+        "sunflower",
+        "PROD"
+      ],
+      [
+        "soybean oil",
+        "PROD"
+      ],
+      [
+        "omega-6",
         "MISC"
       ],
       [
-        "2°C",
+        "fish",
         "MISC"
       ],
       [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "1850–1900",
-        "DATE"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "2023",
-        "DATE"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "Duitsland",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "Internationaal Energieagentschap",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Parijs",
-        "LOC"
-      ],
-      [
-        "Zuid- en Zuidoost-Azië",
-        "LOC"
-      ],
-      [
-        "Europese Unie",
-        "ORG"
-      ],
-      [
-        "Europese Green Deal",
+        "nuts",
         "MISC"
       ],
       [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "Nationaal Instituut voor Ruimteonderzoek",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Australië",
-        "LOC"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "september 2025",
-        "DATE"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Londen",
-        "LOC"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "2020",
-        "DATE"
-      ],
-      [
-        "2024",
-        "DATE"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
+        "seeds",
         "MISC"
       ],
       [
-        "Belém",
-        "LOC"
+        "avocado oil",
+        "PROD"
       ],
       [
-        "november 2025",
-        "DATE"
+        "American Heart Association",
+        "ORG"
       ],
       [
-        "António Guterres",
+        "butter",
+        "PROD"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "WHO",
+        "ORG"
+      ],
+      [
+        "ncbi.nlm.nih.gov",
+        "ORG"
+      ],
+      [
+        "who.int",
+        "ORG"
+      ],
+      [
+        "olive oil",
+        "PROD"
+      ]
+    ],
+    "ner_s": 9.2,
+    "tags": [
+      "seed-oils",
+      "nutrition",
+      "omega-6",
+      "omega-3",
+      "heart-health",
+      "dietary-fats",
+      "inflammation",
+      "cooking-oils",
+      "food-science",
+      "health-myths"
+    ],
+    "tags_s": 5.5,
+    "summary": [
+      "IntegralAnswers debunked myths surrounding seed oils, including canola, sunflower, and soybean oil, in a series of posts on December 24, 2024.",
+      "The analysis clarifies that the issue isn't omega-6 fatty acids themselves, but rather an imbalance with omega-3, which can be corrected through diet including fish, nuts, and seeds.",
+      "Replacing saturated fats like butter with unsaturated fats found in seed oils is recommended by the American Heart Association to lower LDL cholesterol and reduce heart disease risk.",
+      "The posts emphasize that modern food safety regulations ensure seed oils are safe for consumption and that claims of toxicity lack credible evidence."
+    ],
+    "summary_s": 8.4
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Selien De Schryder",
         "PER"
       ],
       [
-        "VN",
-        "ORG"
-      ],
-      [
-        "Nationally Determined Contributions",
-        "MISC"
-      ],
-      [
-        "NDC's",
-        "MISC"
-      ],
-      [
-        "2035",
-        "DATE"
-      ],
-      [
-        "dr. Katharine Hayhoe",
+        "Koen Schoors",
         "PER"
       ],
       [
-        "The Nature Conservancy",
+        "Trump",
+        "PER"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "UGent",
         "ORG"
       ],
       [
-        "Texas Tech University",
-        "ORG"
+        "Koen Schoors",
+        "PER"
       ],
       [
-        "2024",
-        "DATE"
-      ],
-      [
-        "2 terawatt",
+        "Woord van het Jaar",
         "MISC"
       ],
       [
-        "China",
+        "België",
         "LOC"
       ],
       [
-        "Ørsted",
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Kamala Harris",
+        "PER"
+      ],
+      [
+        "Amerika",
+        "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "artificiële intelligentie",
+        "MISC"
+      ],
+      [
+        "Vlaams Belang",
         "ORG"
       ],
       [
-        "Denemarken",
-        "LOC"
-      ],
-      [
-        "Iberdrola",
+        "PVDA",
         "ORG"
       ],
       [
@@ -545,38 +347,248 @@
         "LOC"
       ],
       [
-        "BloombergNEF",
+        "Mario Draghi",
+        "PER"
+      ],
+      [
+        "China",
+        "LOC"
+      ],
+      [
+        "Joe Biden",
+        "PER"
+      ],
+      [
+        "Meta",
         "ORG"
       ],
       [
-        "2010",
-        "DATE"
+        "Rusland",
+        "LOC"
       ],
       [
-        "Akkoord van Parijs",
-        "MISC"
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Mark Eyskens",
+        "PER"
+      ],
+      [
+        "CVP",
+        "ORG"
+      ],
+      [
+        "DEME",
+        "ORG"
+      ],
+      [
+        "Jan De Nul",
+        "ORG"
+      ],
+      [
+        "Northvolt",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "Syrië",
+        "LOC"
+      ],
+      [
+        "Parijs",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Georgie",
+        "LOC"
       ]
     ],
-    "ner_s": 24.2,
+    "ner_s": 23.6,
     "tags": [
+      "economics",
+      "trump",
+      "inflation",
+      "bitcoin",
+      "ai",
       "climate-change",
-      "paris-agreement",
-      "ipcc",
-      "fossil-fuels",
-      "renewable-energy",
-      "co2-emissions",
-      "eu-green-deal",
-      "amazonia-deforestation",
-      "climate-activism",
-      "ndc"
+      "europe",
+      "regulations",
+      "belgium",
+      "spain"
     ],
-    "tags_s": 5.1,
+    "tags_s": 14.9,
     "summary": [
-      "Ten years after the signing of the Paris Agreement on December 12, 2015, global average temperatures in 2024 reached 1.45°C above the 1850–1900 baseline, according to the IPCC's Sixth Assessment Report.",
-      "The Global Carbon Project, led by professor Pierre Friedlingstein at the University of Exeter, reported a record global CO₂ emission of 37.4 gigaton in 2023, despite renewable energy expansion in countries like Germany, China, and the United States.",
-      "InfluenceMap's September 2025 report revealed that companies like Saudi Aramco, Shell, and ExxonMobil spent $750 million lobbying against climate legislation between 2020 and 2024.",
-      "The upcoming COP30 in Belém, Brazil, in November 2025, will be a crucial test for international commitment, with UN Secretary-General António Guterres urging countries to submit updated Nationally Determined Contributions (NDCs)."
+      "Economists Koen Schoors and Selien De Schryder highlight a cyclical pattern of global instability, referencing a 70-year cycle culminating in hardship but ultimately leading to progress.",
+      "Regarding the economy, they express optimism despite concerns like Trump's potential policies, the rise of artificial intelligence, and the ongoing war in Ukraine, noting that Belgium's economy has performed relatively well compared to other nations.",
+      "Selien De Schryder emphasizes the importance of addressing climate change and the need for a shift in mindset, while Koen Schoors points to the potential for a significant shift if Donald Trump increases oil production, which could destabilize Russia."
     ],
-    "summary_s": 10.6
+    "summary_s": 18.5
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 4886 (char 4885)",
+    "ner_s": 83.9,
+    "tags": [
+      "russia",
+      "europe",
+      "hybrid-warfare",
+      "nato",
+      "kremlin",
+      "geopolitics",
+      "ukraine",
+      "propaganda",
+      "election-interference",
+      "cybersecurity"
+    ],
+    "tags_s": 11.7,
+    "summary": [
+      "Finnen accuse the Kremlin of damaging a crucial underwater power cable in the Baltic Sea, illustrating a 'hybrid war' felt strongly at Europe's borders, as stated in a speech by NATO chief Mark Rutte.",
+      "Bart Schuurman, a terrorism and political violence professor at Leiden University, documented hybrid actions since the Russian invasion of Ukraine, noting a rise in incidents, increased severity including murder, and a geographic shift towards Western Europe.",
+      "In Roemenië, the Constitutional Court annulled the presidential elections in December due to alleged Russian interference, highlighting a pattern of Kremlin tactics aimed at sowing discord rather than directly manipulating outcomes.",
+      "Nils Andreas Stensønes, head of the Norwegian intelligence service, reported increased hostile actions from Russia, including the discovery of a severed cable on the island of Andøya in September.",
+      "Kremlin-watcher Mark Galeotti emphasizes that Russia's strategy remains consistent, aiming to paralyze the West by exploiting internal divisions and vulnerabilities within democratic alliances."
+    ],
+    "summary_s": 17.8
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Michael Gramer",
+        "PER"
+      ],
+      [
+        "New Hampshire Ball Bearings",
+        "ORG"
+      ],
+      [
+        "Lloyd Blankfein",
+        "PER"
+      ],
+      [
+        "Robert Thorne",
+        "PER"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "Naval Surface Warfare Center",
+        "ORG"
+      ],
+      [
+        "David Lane",
+        "PER"
+      ],
+      [
+        "The Order",
+        "ORG"
+      ],
+      [
+        "Oswald Mosley",
+        "PER"
+      ],
+      [
+        "Hannah Gais",
+        "PER"
+      ],
+      [
+        "Goldman Sachs",
+        "ORG"
+      ],
+      [
+        "FINRA",
+        "ORG"
+      ]
+    ],
+    "ner_s": 22.7,
+    "tags": [
+      "extremism",
+      "social media",
+      "investigation",
+      "online hate",
+      "Texas Observer"
+    ],
+    "tags_s": 18.0,
+    "summary": [
+      "Multiple X (formerly Twitter) accounts associated with extremist views have been identified and investigated.",
+      "Robert Thorne, a vice president at JP Morgan Chase, is linked to the now-suspended account 'noble_x_x_' and a new account 'noble1945', prompting an internal investigation and his subsequent departure from the firm.",
+      "Michael Gramer, operating as '9mm_smg', is a New Hampshire landowner and former employee of New Hampshire Ball Bearings, who defends extremist slogans and expresses admiration for fascist figures.",
+      "John Anthony Provenzano, using the accounts 'utism_' and formerly 'JohnnyBullzeye', is suspected of working at the Naval Surface Warfare Center in Indian Head, Maryland, and is under investigation.",
+      "Travis Brown's tools and data breach information were crucial in linking these individuals to their online identities and activities.",
+      "The investigation revealed connections between these individuals and various organizations, including Goldman Sachs, JP Morgan Chase, and the U.S. Navy.",
+      "The accounts shared content promoting Nazi ideology, Holocaust denial, and violent sentiments, raising concerns about extremism and hate speech."
+    ],
+    "summary_s": 26.5
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "GalenReich",
+        "PER"
+      ],
+      [
+        "Galen",
+        "PER"
+      ],
+      [
+        "Gabor",
+        "PER"
+      ],
+      [
+        "Gabor Friesen",
+        "PER"
+      ],
+      [
+        "ShadowFinder",
+        "PROD"
+      ],
+      [
+        "twitter",
+        "ORG"
+      ],
+      [
+        "colab.research.google.com",
+        "ORG"
+      ]
+    ],
+    "ner_s": 3.7,
+    "tags": [
+      "shadow-mapping",
+      "location-finding",
+      "geospatial",
+      "google-colab",
+      "shadowfinder"
+    ],
+    "tags_s": 2.2,
+    "summary": [
+      "The note details a method for locating a place using shadows, demonstrated via a YouTube video linked at https://www.youtube.com/watch?v=pQIjDPFgdJA.",
+      "A tool for shadow analysis is available on Google Colab at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "Galen Reich, whose Twitter handle is @galen_reich, and Gabor Friesen, with the Twitter handle @gabor_friesen, contributed to the video and the tool.",
+      "The note expresses thanks to Gabor and Galen for their involvement and contribution to the project."
+    ],
+    "summary_s": 6.5
   }
 ]

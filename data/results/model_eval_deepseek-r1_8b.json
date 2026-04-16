@@ -1,51 +1,146 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
-    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 53.3,
-    "tags": [
-      "paris-agreement",
-      "climate-change",
-      "global-warming",
-      "emissions",
-      "ipcc",
-      "renewable-energy",
-      "fossil-fuel",
-      "deforestation",
-      "ndcs",
-      "cop30"
-    ],
-    "tags_s": 39.9,
-    "summary": [
-      "Ten years after the Paris Agreement was signed in 2015, global temperatures reached 1.45°C above pre-industrial levels in 2024.",
-      "Major fossil fuel companies spent $750 million lobbying against climate legislation between 2020 and 2024, while Brazil faces criticism for its Amazon deforestation rates.",
-      "Renewable energy growth offers hope, with solar capacity surpassing 2 terawatts globally in 2024, but updated commitments at COP30 in 2025 are essential for meeting climate goals."
-    ],
-    "summary_s": 27.7
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "ner": "ERROR: Unterminated string starting at: line 1 column 5309 (char 5308)",
+    "ner_s": 78.6,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 20.3,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 37.4
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 48.6,
+    "ner_s": 52.3,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "co2-emissions",
-      "renewable-energy",
-      "deforestation",
-      "fossil-fuel-lobby",
-      "ipcc",
-      "climate-policy",
-      "ndc"
+      "varenicline",
+      "smoking-cessation",
+      "nicotine-addiction",
+      "champix",
+      "withdrawal-symptoms",
+      "nicotine-receptor",
+      "public-health",
+      "smoking-prevention"
     ],
-    "tags_s": 37.5,
+    "tags_s": 33.2,
     "summary": [
-      "The Paris Agreement, formally adopted on December 12, 2015, aimed to limit global warming to 1.5°C, but in 2024, temperatures reached 1.45°C above pre-industrial levels as reported by the IPCC.",
-      "Global CO₂ emissions peaked at 37.4 gigaton in 2023, with the EU reducing its emissions by 32% since 1990, while Brazil faced criticism for deforestation of 11,568 km² in 2024.",
-      "Fossil fuel lobbyists spent $750 million opposing climate legislation between 2020 and 2024, yet renewable energy advancements, like solar capacity exceeding 2 terawatts, offer hope for meeting climate goals.",
-      "The upcoming COP30 conference in November 2025 will assess international commitment to revised climate targets by 2035, emphasizing the need for political will as highlighted by figures like Katharine Hayhoe."
+      "In the United Kingdom, Varenicline, a new smoking cessation pill, has been introduced in November to assist over 100,000 Britons in quitting nicotine addiction.",
+      "This medication is an improved alternative to Champix, which was removed from the Belgian market in 2021 due to carcinogenic nitrosamines.",
+      "Experts like Professor Filip Lardon emphasize that while Varenicline can help reduce withdrawal symptoms, it is not a miracle cure and requires prescription, with prevention still being key."
     ],
-    "summary_s": 31.6
+    "summary_s": 44.6
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 50.1,
+    "tags": [
+      "seed-oils",
+      "omega-6",
+      "omega-3",
+      "inflammation",
+      "heart-health",
+      "cholesterol",
+      "pufas",
+      "nutrition",
+      "diet-myths",
+      "food-safety"
+    ],
+    "tags_s": 51.7,
+    "summary": [
+      "IntegralAnswers debunked myths about seed oils in a 2024 tweet, highlighting their high omega-6 content.",
+      "The American Heart Association recommends seed oils for lowering LDL cholesterol and reducing heart disease risk.",
+      "Harvard School of Public Health research shows seed oils are safe and do not cause inflammation or cancer when consumed moderately.",
+      "WHO guidelines support the use of seed oils as part of a balanced diet, countering claims of toxicity."
+    ],
+    "summary_s": 25.7
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 64.4,
+    "tags": [
+      "economics",
+      "inflation",
+      "geopolitics",
+      "climate-change",
+      "ai",
+      "energy",
+      "cryptocurrency",
+      "education",
+      "global-economy",
+      "green-energy"
+    ],
+    "tags_s": 37.8,
+    "summary": [
+      "Selien De Schryder and Koen Schoors from UGent discuss global economic trends, including the risks of Trump's trade policies and the 2020s inflation crisis.",
+      "They emphasize the need for Europe to address climate change and competitiveness, referencing Mario Draghi's report on EU competitiveness.",
+      "The professors also address climate change impacts, noting challenges like Northvolt's financial struggles and the need for innovation."
+    ],
+    "summary_s": 43.1
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 59.1,
+    "tags": [
+      "hybrid-war",
+      "russian-influence",
+      "sowing-fear",
+      "europe-conflict",
+      "disinformation",
+      "cyber-attack",
+      "migrant-crisis",
+      "political-interference",
+      "nato",
+      "geopolitical-tension"
+    ],
+    "tags_s": 33.5,
+    "summary": [
+      "Russia's hybrid warfare strategy aims to destabilize Europe by sowing fear and discord, as described by Kremlin expert Mark Galeotti who notes a shift since 2021.",
+      "Incidents like sabotage in Poland and GPS jamming in Estonia have surged, with Estonia reporting 96 such events in 2024, according to police data.",
+      "This approach includes disinformation and undermining elections, such as the annulment of Romanian elections due to suspected Russian involvement, as highlighted by a study from eleven Western intelligence services."
+    ],
+    "summary_s": 38.7
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 66.4,
+    "tags": [
+      "extremism",
+      "neo-nazism",
+      "white-nationalism",
+      "antisemitism",
+      "social-media",
+      "x-account",
+      "online-hate",
+      "hate-speech",
+      "investigation",
+      "platform-moderation"
+    ],
+    "tags_s": 40.9,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 20.0
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 47.4,
+    "tags": [
+      "shadow-location",
+      "archaeology",
+      "navigation",
+      "shadow-finder",
+      "technology",
+      "location-finding"
+    ],
+    "tags_s": 31.8,
+    "summary": [
+      "ShadowFinder is a tool for locating positions using shadow observations, hosted on Google Colab.",
+      "Galen Reich and Gabor Friesen contributed to this method and its implementation.",
+      "The technique is explained in a YouTube video and a GitHub-based Colab notebook."
+    ],
+    "summary_s": 21.4
   }
 ]

@@ -1,270 +1,434 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "ner": "ERROR: Unterminated string starting at: line 152 column 10 (char 5917)",
+    "ner_s": 97.8,
+    "tags": [
+      "East Turkestan Islamic Movement",
+      "ETIM",
+      "Uyghur",
+      "Xinjiang",
+      "China",
+      "Islamic extremism",
+      "separatist movement",
+      "al-Qaeda",
+      "UNSCR 2354",
+      "Al-Qaeda affiliated",
+      "Arabic",
+      "English",
+      "Uyghur",
+      "Chinese",
+      "Salafist jihadism",
+      "Ethnic nationalism",
+      "Islamism",
+      "Global Terrorism Database",
+      "2014 Kunming attack",
+      "2014 Vientiane attack",
+      "2013 Tiananmen Square attack",
+      "2014 Urumqi knife attack",
+      "2014 Yunnan attack",
+      "2014 Kashgar attacks",
+      "2014 Huanggang District attack",
+      "2014 China Northern Airlines hijacking attempt",
+      "2013 Tianjin attack",
+      "2014 Beijing attack",
+      "2014 Xinjiang attacks",
+      "2014 Kunshan attack",
+      "2014 Shaanxi attack",
+      "2014 Fujian attack",
+      "2014 Henan attack",
+      "2014 Guizhou attack",
+      "2014 Chongqing attack",
+      "2014 Shenzhen attack",
+      "2014 Guangxi attack",
+      "2014 Jiangxi attack",
+      "2014 Shandong attack",
+      "2014 Hebei attack",
+      "2014 Anhui attack",
+      "2014 Hubei attack",
+      "2014 Hunan attack",
+      "2014 Zhejiang attack",
+      "2014 Jiangsu attack",
+      "2014 Fujian attack",
+      "2014 Gansu attack",
+      "2014 Inner Mongolia attack",
+      "2014 Liaoning attack",
+      "2014 Jilin attack",
+      "2014 Heilongjiang attack",
+      "2014 Hong Kong attack",
+      "2015 Shaoguan attack",
+      "2015 Kaili attack",
+      "2015 Guangzhou attack",
+      "2016 Hegang attack",
+      "2016 Wenzhou attack",
+      "2017 Yibin attack",
+      "2018 Qujing attack",
+      "2019 Kashgar attack",
+      "2019 Turpan attack",
+      "2022 Beijing attack",
+      "al-Qaeda in the Indian Subcontinent",
+      "East Turkestan Liberation Organization",
+      "World Uyghur Congress",
+      "Turkistan Islamic Party",
+      "China's Muslim Far Northwest",
+      "Kunming attack",
+      "Vientiane attack",
+      "Tiananmen Square attack",
+      "Urumqi knife attack",
+      "Yunnan attack",
+      "Kashgar attacks",
+      "Huanggang District attack",
+      "China Northern Airlines hijacking attempt",
+      "Tianjin attack",
+      "Beijing attack",
+      "Xinjiang attacks",
+      "Kunshan attack",
+      "Shaanxi attack",
+      "Fujian attack",
+      "Henan attack",
+      "Guizhou attack",
+      "Chongqing attack",
+      "Shenzhen attack",
+      "Guangxi attack",
+      "Jiangxi attack",
+      "Shandong attack",
+      "Hebei attack",
+      "Anhui attack",
+      "Hubei attack",
+      "Hunan attack",
+      "Zhejiang attack",
+      "Jiangsu attack",
+      "Fujian attack",
+      "Gansu attack",
+      "Inner Mongolia attack",
+      "Liaoning attack",
+      "Jilin attack",
+      "Heilongjiang attack",
+      "Hong Kong attack",
+      "Shaoguan attack",
+      "Kaili attack",
+      "Guangzhou attack",
+      "Hegang attack",
+      "Wenzhou attack",
+      "Yibin attack",
+      "Qujing attack",
+      "Kashgar attack",
+      "Turpan attack",
+      "Beijing attack",
+      "Xinjiang separatists",
+      "Operation showed the inability of the Chinese authorities",
+      "UNSCR 2354",
+      "al-Qaeda affiliated",
+      "Arabic",
+      "English",
+      "Uyghur",
+      "Chinese",
+      "Salafist jihadism",
+      "Ethnic nationalism",
+      "Islamism",
+      "Global Terrorism Database",
+      "2014 Kunming attack",
+      "2014 Vientiane attack",
+      "2014 Tiananmen Square attack",
+      "2014 Urumqi knife attack",
+      "2014 Yunnan attack",
+      "2014 Kashgar attacks",
+      "2014 Huanggang District attack",
+      "2014 China Northern Airlines hijacking attempt",
+      "2014 Tianjin attack",
+      "2014 Beijing attack",
+      "2014 Xinjiang attacks",
+      "2014 Kunshan attack",
+      "2014 Shaanxi attack",
+      "2014 Fujian attack",
+      "2014 Henan attack",
+      "2014 Guizhou attack",
+      "2014 Chongqing attack",
+      "2014 Shenzhen attack",
+      "2014 Guangxi attack",
+      "2014 Jiangxi attack",
+      "2014 Shandong attack",
+      "2014 Hebei attack",
+      "2014 Anhui attack",
+      "2014 Hubei attack",
+      "2014 Hunan attack",
+      "2014 Zhejiang attack",
+      "2014 Jiangsu attack",
+      "2014 Fujian attack",
+      "2014 Gansu attack",
+      "2014 Inner Mongolia attack",
+      "2014 Liaoning attack",
+      "2014 Jilin attack",
+      "2014 Heilongjiang attack",
+      "2014 Hong Kong attack",
+      "2015 Shaoguan attack",
+      "2015 Kaili attack",
+      "2015 Guangzhou attack",
+      "2016 Hegang attack",
+      "2016 Wenzhou attack",
+      "2017 Yibin attack",
+      "2018 Qujing attack",
+      "2019 Kashgar attack",
+      "2019 Turpan attack",
+      "2022 Beijing attack"
+    ],
+    "tags_s": 81.5,
+    "summary": [
+      "On March 15, 2025, OpenAI unveiled GPT-5 in San Francisco.",
+      "This model surpasses its rivals in performance on the MMLU benchmark."
+    ],
+    "summary_s": 9.5
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "Le Bourget",
+        "Het Verenigd Koninkrijk",
         "LOC"
       ],
       [
-        "Paris Agreement",
+        "Varenicline",
         "PROD"
       ],
       [
-        "196",
-        "NUM"
-      ],
-      [
-        "nations",
-        "MISC"
-      ],
-      [
-        "France",
-        "LOC"
-      ],
-      [
-        "December 12, 2015",
-        "DATE"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC)",
-        "ORG"
-      ],
-      [
-        "Sixth Assessment Report",
+        "Champix",
         "PROD"
       ],
       [
-        "global average temperatures",
-        "MISC"
+        "KNAW",
+        "ORG"
       ],
       [
-        "1850–1900 baseline",
+        "Britse gezondheidsdienst NHS",
+        "ORG"
+      ],
+      [
+        "België",
         "LOC"
       ],
       [
-        "Dr. Friederike Otto",
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Professor Filip Lardon",
         "PER"
       ],
       [
-        "Grantham Institute at Imperial College London",
+        "UAntwerpen",
         "ORG"
       ],
       [
-        "Global Carbon Project",
+        "Pfizer",
         "ORG"
       ],
       [
-        "Professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "University of Exeter",
-        "LOC"
-      ],
-      [
-        "International Energy Agency (IEA)",
-        "ORG"
-      ],
-      [
-        "European Union",
-        "LOC"
-      ],
-      [
-        "European Green Deal",
+        "nitrosamines",
         "PROD"
       ],
       [
-        "Ursula von der Leyen",
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Els Bosch",
         "PER"
       ],
       [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "National Institute for Space Research (INPE)",
+        "Europees geneesmiddelenbureau",
         "ORG"
       ],
       [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "United States",
-        "LOC"
-      ],
-      [
-        "net zero by 2070",
-        "DATE"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council (Australia)",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "London",
-        "LOC"
-      ],
-      [
-        "COP30 summit",
+        "Wellbutrin",
         "PROD"
       ],
       [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "November 2025",
-        "DATE"
-      ],
-      [
-        "UN Secretary-General António Guterres",
-        "PER"
-      ],
-      [
-        "Nationally Determined Contributions (NDCs)",
+        "bupropion",
         "PROD"
       ],
       [
-        "2035",
-        "DATE"
-      ],
+        "Prof. dr. Filip Lardon",
+        "PER"
+      ]
+    ],
+    "ner_s": 14.7,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 6.3,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 7.3
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [],
+    "ner_s": 3.9,
+    "tags": [
+      "seed_oils",
+      "canola_oil",
+      "sunflower_oil",
+      "soybean_oil",
+      "polyunsaturated_fats",
+      "PUFAs",
+      "omega-6_fatty_acids",
+      "essential_nutrients",
+      "vegetable_oils",
+      "moderation",
+      "healthy_fats",
+      "social_media_misinformation"
+    ],
+    "tags_s": 8.6,
+    "summary": [
+      "Seed oils (like canola, sunflower, and soybean oil) are under fire on social media but most claims against them are misleading or false.",
+      "They're high in polyunsaturated fats (PUFAs), essential nutrients, and the problem isn't omega-6; it's the imbalance of omega-6 and omega-3 in modern diets."
+    ],
+    "summary_s": 7.8
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
       [
-        "Dr. Katharine Hayhoe",
+        "Sam Altman",
         "PER"
       ],
       [
-        "The Nature Conservancy",
+        "OpenAI",
         "ORG"
       ],
       [
-        "Texas Tech University",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "solar power capacity globally",
-        "MISC"
-      ],
-      [
-        "2 terawatts",
+        "March 2025",
         "DATE"
+      ]
+    ],
+    "ner_s": 8.7,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 8.5,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 9.2
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
       ],
       [
-        "Danish wind energy company Ørsted",
+        "OpenAI",
         "ORG"
       ],
       [
-        "Spain's Iberdrola",
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 8.8,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 8.6,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 9.2
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Sam Altman",
+        "PER"
+      ],
+      [
+        "OpenAI",
         "ORG"
       ],
       [
-        "battery storage costs",
-        "MISC"
+        "March 2025",
+        "DATE"
+      ]
+    ],
+    "ner_s": 8.9,
+    "tags": [
+      "ai",
+      "openai",
+      "gpt-5",
+      "tech-conference",
+      "llm"
+    ],
+    "tags_s": 8.6,
+    "summary": [
+      "OpenAI announced GPT-5 in San Francisco on March 15, 2025.",
+      "The model outperforms competitors on the MMLU benchmark."
+    ],
+    "summary_s": 9.3
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "GalenReich",
+        "ORG"
       ],
       [
-        "BloombergNEF",
+        "ShadowFinderColab.ipynb",
+        "PROD"
+      ],
+      [
+        "GalenReich",
+        "PER"
+      ],
+      [
+        "twitter",
+        "ORG"
+      ],
+      [
+        "gabor_friesen",
+        "PER"
+      ],
+      [
+        "twitter",
         "ORG"
       ]
     ],
-    "ner_s": 45.5,
+    "ner_s": 4.6,
     "tags": [
-      "climate_change",
-      "global_warming",
-      "paris_agreement",
-      "co2_emissions",
-      "fossil_fuels",
-      "renewable_energy",
-      "lobbying"
+      "shadow-analysis",
+      "location-detection",
+      "computer-vision",
+      "youtube-video",
+      "colab-notebook",
+      "collaboration",
+      "twitter-mention",
+      "galen-reich",
+      "gabor-friesen"
     ],
-    "tags_s": 4.2,
+    "tags_s": 3.5,
     "summary": [
-      "Ten years after the Paris Agreement was adopted, global temperatures have risen to 1.45°C above pre-industrial levels, nearing the threshold.",
-      "Global CO₂ emissions reached a record high in 2023 despite rapid expansion of renewable energy in some countries; fossil fuel consumption remains high.",
-      "While the EU has made progress under its European Green Deal, Brazil faces criticism for Amazon deforestation and India's net-zero timeline is considered too late by many climate advocates.",
-      "Major oil and gas companies spent $750 million on lobbying against climate legislation between 2020 and 2024.",
-      "The upcoming COP30 summit will test international resolve; renewable energy sector offers hope, with solar power capacity surpassing 2 terawatts globally for the first time in 2024."
+      "This note demonstrates a method to find locations using shadows and provides a link to a related tool (https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb).",
+      "The video credits Gabor and Galen for their contributions to the project, with Twitter handles provided: Galen Reich (@galen_reich) and Gabor Friesen (@gabor_friesen)."
     ],
-    "summary_s": 8.4
-  },
-  {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
-    "ner": [],
-    "ner_s": 2.9,
-    "tags": [
-      "climate-change",
-      "paris-agreement",
-      "carbon-emissions",
-      "renewable-energy",
-      "fossil-fuels",
-      "lobbying",
-      "cop-conference",
-      "un-secretary-general",
-      "nationally-determined-contributions"
-    ],
-    "tags_s": 5.5,
-    "summary": [
-      "Ten years after Paris climate agreement, global efforts fall short in meeting ambitious goals.",
-      "Notable countries like Brazil and India face criticism for slow progress and high emissions.",
-      "Fossil fuel lobbying remains a significant challenge to climate policies.",
-      "Renewable energy sector shows promise with record-breaking capacities."
-    ],
-    "summary_s": 5.1
+    "summary_s": 5.4
   }
 ]

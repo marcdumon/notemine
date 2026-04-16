@@ -1,133 +1,9 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "PROD"
-      ],
-      [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "European Green Deal",
-        "PROD"
-      ],
-      [
-        "former European Commission President",
-        "PER"
-      ],
-      [
-        "Brazil",
-        "LOC"
-      ],
-      [
-        "President Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazon Basin",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australia",
-        "LOC"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "London",
-        "LOC"
-      ],
-      [
-        "COP30 summit in Belém, Brazil",
-        "EVENT"
-      ],
-      [
-        "Belém",
-        "LOC"
-      ],
-      [
-        "UN Secretary-General António Guterres",
-        "PER"
-      ],
-      [
-        "The Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
+        "Turkistan Islamic Party",
         "ORG"
       ],
       [
@@ -135,252 +11,588 @@
         "LOC"
       ],
       [
-        "Danish wind energy company Ørsted",
+        "Al Jazeera English",
+        "MEDIA"
+      ],
+      [
+        "New York Times",
+        "MEDIA"
+      ],
+      [
+        "NEFA Foundation",
         "ORG"
       ],
       [
-        "Spain's Iberdrola",
+        "Pakistan",
+        "LOC"
+      ],
+      [
+        "Xinhua News Agency",
+        "MEDIA"
+      ],
+      [
+        "RTI.org.tw",
+        "MEDIA"
+      ],
+      [
+        "Turkistan Islamic Party",
         "ORG"
       ],
       [
-        "BloombergNEF",
-        "ORG"
+        "Syria",
+        "LOC"
       ]
     ],
-    "ner_s": 20.4,
+    "ner_s": 28.7,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "global-warming",
-      "renewable-energy",
-      "fossil-fuel",
-      "lobbying",
-      "cop30",
-      "nationally-determined-contributions"
+      "terrorism",
+      "east-turkestan",
+      "islamic-militants",
+      "china",
+      "global-terrorism",
+      "drone-strikes"
     ],
-    "tags_s": 3.4,
+    "tags_s": 12.5,
     "summary": [
-      "According to the Intergovernmental Panel on Climate Change (IPCC), global temperatures in 2024 are dangerously close to the 1.5°C threshold.",
-      "India has pledged net zero by 2070, a timeline criticized as too late by climate advocates.",
-      "Major oil and gas companies spent $750 million lobbying against climate legislation between 2020 and 2024.",
-      "The upcoming COP30 summit in Belém will test international resolve to meet the Paris Agreement's goals."
+      "The Eastern Turkistan Islamic Movement (ETIM) is a militant organization that emerged in the early 2000s with the goal of establishing an independent state for Uighur Muslims in Xinjiang, China.",
+      "The group has been linked to al-Qaeda and other terrorist organizations, but its existence and activities have been disputed by some analysts.",
+      "There have been several high-profile attacks attributed to ETIM in Xinjiang, including a 2014 attack on Kunming railway station that killed over 30 people.",
+      "China has designated ETIM as a terrorist organization and has carried out military operations against the group in Xinjiang.",
+      "The United Nations has listed ETIM as a terrorist entity since 2002.",
+      "Some analysts argue that ETIM is obscure but not unknown, with evidence of its existence and activities coming from various sources including former Uighur detainees at Guantanamo Bay.",
+      "There have been reports of ETIM members fighting in Syria, although the group's current status and activities are unclear."
+    ],
+    "summary_s": 20.8
+  },
+  {
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
+    "ner": [
+      [
+        "Verenigd Koninkrijk",
+        "LOC"
+      ],
+      [
+        "NHS",
+        "ORG"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ],
+      [
+        "Champix",
+        "PROD"
+      ],
+      [
+        "Pfizer",
+        "ORG"
+      ],
+      [
+        "Teva UK",
+        "ORG"
+      ],
+      [
+        "Filip Lardon",
+        "PER"
+      ],
+      [
+        "Els Bosch",
+        "PER"
+      ],
+      [
+        "Riziv",
+        "ORG"
+      ],
+      [
+        "Acetylcholine",
+        "PROD"
+      ],
+      [
+        "Wellbutrin",
+        "PROD"
+      ],
+      [
+        "bupropion",
+        "PROD"
+      ],
+      [
+        "Varenicline",
+        "PROD"
+      ]
+    ],
+    "ner_s": 8.8,
+    "tags": [
+      "uk-health-service",
+      "varenicline",
+      "champix",
+      "nicotine-addiction",
+      "anti-smoking-pills"
+    ],
+    "tags_s": 4.3,
+    "summary": [
+      "Varenicline, a new smoking cessation pill, is available in the UK and may help over 100,000 Britons quit nicotine addiction.",
+      "In Belgium, Champix was popular among 40,000 people until it was withdrawn due to potential carcinogenic nitrosamines in 2021."
     ],
     "summary_s": 6.4
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
     "ner": [
       [
-        "196 landen",
-        "LOC"
-      ],
-      [
-        "Le Bourget",
-        "LOC"
-      ],
-      [
-        "Frankrijk",
-        "LOC"
-      ],
-      [
-        "Akkoord van Parijs",
+        "IntegralAnswers",
         "PROD"
       ],
       [
-        "12 december 2015",
-        "DATE"
-      ],
-      [
-        "Intergovernmental Panel on Climate Change",
-        "ORG"
-      ],
-      [
-        "IPCC",
-        "ORG"
-      ],
-      [
-        "Zesde Beoordelingsrapport",
+        "canola oil",
         "PROD"
       ],
       [
-        "Dr. Friederike Otto",
-        "PER"
-      ],
-      [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "professor Pierre Friedlingstein",
-        "PER"
-      ],
-      [
-        "Universiteit van Exeter",
-        "ORG"
-      ],
-      [
-        "Internationaal Energieagentschap",
-        "ORG"
-      ],
-      [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "Zuid- en Zuidoost-Azië",
-        "LOC"
-      ],
-      [
-        "Brazilië",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "Amazonegebied",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "Europese Unie",
-        "ORG"
-      ],
-      [
-        "Europees Commissievoorzitter Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "Brazilië's Nationaal Instituut voor Ruimteonderzoek",
-        "ORG"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "China",
-        "LOC"
-      ],
-      [
-        "Verenigde Staten",
-        "LOC"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Australië",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "InfluenceMap",
-        "ORG"
-      ],
-      [
-        "Londen",
-        "LOC"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30-top",
+        "sunflower oil",
         "PROD"
       ],
       [
-        "Belém",
-        "LOC"
+        "soybean oil",
+        "PROD"
       ],
       [
-        "VN-secretaris-generaal António Guterres",
-        "PER"
+        "omega-6 fatty acids",
+        "MISC"
       ],
       [
-        "The Nature Conservancy",
+        "American Heart Association",
         "ORG"
       ],
       [
-        "Texas Tech University",
+        "Harvard School of Public Health",
         "ORG"
       ],
       [
-        "Ørsted",
+        "NCBI",
         "ORG"
       ],
       [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "WHO",
         "ORG"
       ]
     ],
-    "ner_s": 24.5,
+    "ner_s": 5.8,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "co2-emissions",
-      "renewable-energy",
-      "fossil-fuels",
-      "lobbying",
-      "copolitical-will",
-      "global-warming"
+      "seed-oils",
+      "myths-debunked",
+      "omega-6-fatty-acids",
+      "heart-health",
+      "diet-nutrition"
     ],
-    "tags_s": 3.8,
+    "tags_s": 3.4,
     "summary": [
-      "In 2024, global temperatures were 1.45°C above pre-industrial levels according to the IPCC.",
-      "India's emissions are second only to China and the US, with a net-zero target set for 2070, deemed too late by climate activists.",
-      "Between 2020 and 2024, oil and gas companies spent $750 million on lobbying against climate legislation.",
-      "The upcoming COP30 in Belém in November 2025 will test global commitment to the Paris Agreement."
+      "Seed oils like canola and sunflower are safe for cooking when used moderately.",
+      "Claims linking seed oils to cancer or obesity lack credible evidence according to health organizations."
     ],
-    "summary_s": 7.0
+    "summary_s": 3.8
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Koen Schoors",
+        "PER"
+      ],
+      [
+        "Sелин 德施瑞德",
+        "PER"
+      ],
+      [
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "PathAI",
+        "PROD"
+      ],
+      [
+        "KNAW",
+        "ORG"
+      ],
+      [
+        "UGent",
+        "ORG"
+      ],
+      [
+        "bitcoin",
+        "PROD"
+      ],
+      [
+        "Humpty Trumpty",
+        "MISC"
+      ],
+      [
+        "FIRE-beweging",
+        "MISC"
+      ],
+      [
+        "Vlaams Belang",
+        "ORG"
+      ],
+      [
+        "PVDA",
+        "ORG"
+      ],
+      [
+        "cd&v",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ],
+      [
+        "Northvolt",
+        "PROD"
+      ],
+      [
+        "DEME",
+        "ORG"
+      ],
+      [
+        "Jan De Nul",
+        "ORG"
+      ],
+      [
+        "Tesla",
+        "PROD"
+      ],
+      [
+        "Meta",
+        "PROD"
+      ],
+      [
+        "Northvolt",
+        "PROD"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Georgie",
+        "LOC"
+      ]
+    ],
+    "ner_s": 21.1,
+    "tags": [
+      "economy",
+      "inflation",
+      "cryptocurrency",
+      "ai",
+      "trump",
+      "russia-ukraine-war",
+      "green-transition",
+      "belgian-politics"
+    ],
+    "tags_s": 11.6,
+    "summary": [
+      "Koen Schoors en Selien De Schryder geloven dat Europa op kantelpunten van de wereldwijde economie staat, met inflatie als een belangrijk thema.",
+      "De professoren zien optimisme in technologische innovaties en de Green Deal, maar zijn pessimistisch over de huidige politieke constellaties."
+    ],
+    "summary_s": 13.5
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Kremlin",
+        "ORG"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "Poolcirkel",
+        "LOC"
+      ],
+      [
+        "Zwarte Zee",
+        "LOC"
+      ],
+      [
+        "Pools warenhuis",
+        "PROD"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Noorwegen",
+        "LOC"
+      ],
+      [
+        "Zweden",
+        "LOC"
+      ],
+      [
+        "Andøya",
+        "LOC"
+      ],
+      [
+        "Evenes",
+        "LOC"
+      ],
+      [
+        "Belarus",
+        "LOC"
+      ],
+      [
+        "Litouwen",
+        "LOC"
+      ],
+      [
+        "Letland",
+        "LOC"
+      ],
+      [
+        "Calin Georgescu",
+        "PER"
+      ],
+      [
+        "Kaja Kallas",
+        "PER"
+      ],
+      [
+        "Robert Fico",
+        "PER"
+      ],
+      [
+        "Viktor Orbán",
+        "PER"
+      ],
+      [
+        "Moskou",
+        "LOC"
+      ],
+      [
+        "Hongarije",
+        "LOC"
+      ],
+      [
+        "Slovenië",
+        "LOC"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "TikTok",
+        "PROD"
+      ],
+      [
+        "Belarus",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Transnistrië",
+        "LOC"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ]
+    ],
+    "ner_s": 19.1,
+    "tags": [
+      "russia-eu-conflict",
+      "hybrid-warfare",
+      "nato-security",
+      "european-unrest",
+      "geopolitical-strategy"
+    ],
+    "tags_s": 8.2,
+    "summary": [
+      "Rusland zaait angst en onrust aan via hybride oorlogsvoering aan de randen van Europa, zoals sabotageacties en inmenging in verkiezingen.",
+      "Het Kremlin probeert het Westen te verlammen door tweedracht te zaaien en zwaktes uit te buiten.",
+      "Politici waarschuwen voor de gevolgen op mensenrechten en stabiliteit in landen zoals Roemenië, Moldavië en Georgië."
+    ],
+    "summary_s": 11.7
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Elon Musk",
+        "PER"
+      ],
+      [
+        "New Hampshire Ball Bearings",
+        "ORG"
+      ],
+      [
+        "Boeing",
+        "ORG"
+      ],
+      [
+        "Hispano-Suiza",
+        "ORG"
+      ],
+      [
+        "JP Morgan Chase",
+        "ORG"
+      ],
+      [
+        "Goldman Sachs",
+        "ORG"
+      ],
+      [
+        "Navy Surface Warfare Center in Indian Head",
+        "ORG"
+      ],
+      [
+        "Southern Poverty Law Center",
+        "ORG"
+      ],
+      [
+        "David Lane",
+        "PER"
+      ],
+      [
+        "The Order",
+        "ORG"
+      ],
+      [
+        "Oswald Mosley",
+        "PER"
+      ],
+      [
+        "George Floyd",
+        "PER"
+      ],
+      [
+        "NYgil Cullins",
+        "PER"
+      ],
+      [
+        "Travis Brown",
+        "PER"
+      ],
+      [
+        "Lloyd Blankfein",
+        "PER"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "Bobby Thorne",
+        "PER"
+      ]
+    ],
+    "ner_s": 18.8,
+    "tags": [
+      "neo-nazi",
+      "white-supremacist",
+      "extremism",
+      "social-media",
+      "elon-musk"
+    ],
+    "tags_s": 12.6,
+    "summary": [
+      "Four neo-Nazi accounts with over half a million followers collectively were identified by the Texas Observer.",
+      "These include Cyan Cruz's TheOfficial1984, Michael Gramer's 9mm_smg, Robert Thorne's Noble1945, and John Anthony Provenzano's utism_.",
+      "Elon Musk has engaged with these accounts despite their promotion of white supremacist content."
+    ],
+    "summary_s": 15.1
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "PathAI",
+        "PROD"
+      ],
+      [
+        "Boston",
+        "LOC"
+      ],
+      [
+        "Royal Netherlands Academy of Arts and Sciences",
+        "ORG"
+      ],
+      [
+        "gabor",
+        "PER"
+      ],
+      [
+        "galen",
+        "PER"
+      ],
+      [
+        "ShadowFinderColab",
+        "PROD"
+      ],
+      [
+        "YouTube",
+        "MISC"
+      ]
+    ],
+    "ner_s": 3.5,
+    "tags": [
+      "shadow-finding",
+      "location-determination",
+      "astronomy",
+      "open-source",
+      "python"
+    ],
+    "tags_s": 1.7,
+    "summary": [
+      "Galen Reich and Gabor Friesen contributed to the ShadowFinder tool.",
+      "The video discusses how to find a location using only shadows."
+    ],
+    "summary_s": 2.1
   }
 ]

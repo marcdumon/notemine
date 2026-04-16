@@ -1,234 +1,440 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": [
       [
-        "Paris Agreement",
-        "PROD"
+        "Turkistan Islamic Party",
+        "ORG"
       ],
       [
-        "Le Bourget, France",
-        "LOC"
+        "East Turkestan Islamic Movement",
+        "ORG"
       ],
       [
-        "IPCC Sixth Assessment Report",
+        "Uyghur American Association",
+        "ORG"
+      ],
+      [
+        "Jamestown Foundation",
+        "ORG"
+      ],
+      [
+        "Al Arabiya",
+        "ORG"
+      ],
+      [
+        "New York Times",
         "MISC"
       ],
       [
-        "Grantham Institute at Imperial College London",
+        "Praeger",
         "ORG"
       ],
       [
-        "Global Carbon Project",
+        "ABC-CLIO",
         "ORG"
       ],
       [
-        "University of Exeter",
+        "NEFA Foundation",
         "ORG"
       ],
       [
-        "European Green Deal",
-        "PROD"
-      ],
-      [
-        "Brazil's National Institute for Space Research (INPE)",
+        "Congressional Research Service",
         "ORG"
       ],
       [
-        "Shell",
+        "Stratfor",
         "ORG"
       ],
       [
-        "ExxonMobil",
-        "ORG"
+        "Syria",
+        "LOC"
       ],
       [
-        "COP30 summit",
-        "EVENT"
+        "China",
+        "LOC"
       ],
       [
-        "Belém, Brazil",
+        "Xinjiang",
+        "LOC"
+      ],
+      [
+        "Kyrgyzstan",
+        "LOC"
+      ],
+      [
+        "Pakistan",
+        "LOC"
+      ],
+      [
+        "US",
         "LOC"
       ]
     ],
-    "ner_s": 14.5,
+    "ner_s": 27.1,
     "tags": [
-      "climate-change",
-      "paris-agreement",
-      "cop30",
-      "united-nations",
-      "renewable-energy"
+      "system",
+      "artificial intelligence",
+      "machine learning",
+      "natural language processing",
+      "language model"
     ],
-    "tags_s": 2.7,
+    "tags_s": 14.4,
     "summary": [
-      "Ten years after the Paris Agreement was adopted on December 12, 2015, global warming has reached dangerously high levels at 1.45°C above pre-industrial baselines.",
-      "Global CO2 emissions hit a record 37.4 gigatons in 2023, with fossil fuel consumption remaining near historical highs despite growth in renewables.",
-      "Criticism is mounting against countries like Brazil for deforestation and India's pledge to achieve net zero by 2070, deemed too late by climate advocates."
+      "The Eastern Turkistan Islamic Movement (ETIM), also known as the Islamic Party of Turkistan or the East Turkestan Independence Movement, is a Uyghur separatist group that has been designated as a terrorist organization by several countries.",
+      "Founded in the 1990s, ETIM aims to establish an independent state for the Uyghurs, who are a Muslim ethnic group primarily residing in Xinjiang, China.",
+      "The group has been linked to various terrorist attacks and is believed to have connections with international terrorist organizations such as al-Qaeda.",
+      "ETIM's existence and activities have been a subject of debate among experts, with some questioning its legitimacy and the extent of its influence.",
+      "In recent years, ETIM has been active in Syria, fighting alongside other jihadist groups against the Syrian government."
     ],
-    "summary_s": 6.3
+    "summary_s": 20.9
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": [
       [
-        "1850’90",
-        "DATE"
+        "Varenicline",
+        "PROD"
       ],
       [
-        "IPCC",
+        "Champix",
+        "PROD"
+      ],
+      [
+        "NHS",
         "ORG"
       ],
       [
-        "Grantham Institute",
-        "ORG"
-      ],
-      [
-        "Imperial College London",
-        "ORG"
-      ],
-      [
-        "Friederike Otto",
+        "Filip Lardon",
         "PER"
       ],
       [
-        "Global Carbon Project",
-        "ORG"
-      ],
-      [
-        "University of Exeter",
-        "ORG"
-      ],
-      [
-        "Pierre Friedlingstein",
+        "Els Bosch",
         "PER"
       ],
       [
-        "IEA",
-        "ORG"
-      ],
-      [
-        "South and Southeast Asia",
-        "LOC"
-      ],
-      [
-        "Ursula von der Leyen",
-        "PER"
-      ],
-      [
-        "European Green Deal",
-        "MISC"
-      ],
-      [
-        "Brazilié",
-        "LOC"
-      ],
-      [
-        "Luiz Inácio Lula da Silva",
-        "PER"
-      ],
-      [
-        "National Institute for Space Research",
-        "ORG"
-      ],
-      [
-        "São José dos Campos",
-        "LOC"
-      ],
-      [
-        "INPE",
-        "ORG"
-      ],
-      [
-        "India",
-        "LOC"
-      ],
-      [
-        "Greta Thunberg",
-        "PER"
-      ],
-      [
-        "Youth Climate Coalition",
-        "ORG"
-      ],
-      [
-        "Climate Council",
-        "ORG"
-      ],
-      [
-        "Saudi Aramco",
-        "ORG"
-      ],
-      [
-        "Shell",
-        "ORG"
-      ],
-      [
-        "BP",
-        "ORG"
-      ],
-      [
-        "ExxonMobil",
-        "ORG"
-      ],
-      [
-        "Wael Sawan",
-        "PER"
-      ],
-      [
-        "COP30",
-        "EVENT"
-      ],
-      [
-        "Belém, Brazil",
-        "LOC"
-      ],
-      [
-        "António Guterres",
-        "PER"
-      ],
-      [
-        "NDCs",
-        "MISC"
-      ],
-      [
-        "Katharine Hayhoe",
-        "PER"
-      ],
-      [
-        "Nature Conservancy",
-        "ORG"
-      ],
-      [
-        "Texas Tech University",
-        "ORG"
-      ],
-      [
-        "Ørsted",
-        "ORG"
-      ],
-      [
-        "Iberdrola",
-        "ORG"
-      ],
-      [
-        "BloombergNEF",
+        "Teva UK",
         "ORG"
       ]
     ],
-    "ner_s": 18.2,
+    "ner_s": 5.9,
     "tags": [
-      "climate-change",
-      "cop30",
-      "paris-agreement",
-      "green-deal",
-      "renewable-energy"
+      "rookstoppil",
+      "varenicline",
+      "champix",
+      "nhs",
+      "kankerexpert",
+      "rookstopcoach",
+      "nicotineverslaving",
+      "geneesmiddel"
     ],
-    "tags_s": 3.1,
+    "tags_s": 5.5,
     "summary": [
-      "In 2015, 196 countries signed the Paris Agreement to limit global warming to 1.5°C above pre-industrial levels and not exceed 2°C.",
-      "As of 2024, global temperatures have risen to 1.45°C above the 1850-1900 average, nearing the threshold.",
-      "Despite rapid growth in renewable energy, global CO2 emissions reached a record high of 37.4 gigatons in 2023."
+      "A new smoking cessation pill, Varenicline, has been launched in the United Kingdom to help over 100,000 Brits quit nicotine addiction.",
+      "Varenicline is considered an improved version of Champix, a medication that was removed from the market in 2021 due to potential carcinogenic substances.",
+      "Experts and coaches discuss the effectiveness of Varenicline and its availability in Belgium."
     ],
-    "summary_s": 6.7
+    "summary_s": 7.2
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": [
+      [
+        "Seed oils",
+        "MISC"
+      ],
+      [
+        "canola oil",
+        "PROD"
+      ],
+      [
+        "sunflower oil",
+        "PROD"
+      ],
+      [
+        "soybean oil",
+        "PROD"
+      ],
+      [
+        "polyunsaturated fats (PUFAs)",
+        "MISC"
+      ],
+      [
+        "omega-6 fatty acids",
+        "MISC"
+      ],
+      [
+        "IntegralAnswers",
+        "ORG"
+      ],
+      [
+        "American Heart Association",
+        "ORG"
+      ],
+      [
+        "Harvard School of Public Health",
+        "ORG"
+      ],
+      [
+        "WHO",
+        "ORG"
+      ]
+    ],
+    "ner_s": 6.2,
+    "tags": [
+      "seed-oils",
+      "debunking-myths",
+      "omega-6",
+      "heart-health",
+      "food-safety"
+    ],
+    "tags_s": 3.0,
+    "summary": [
+      "Seed oils like canola, sunflower, and soybean oil are often criticized on social media, but most claims against them are false or misleading.",
+      "These oils contain essential nutrients such as omega-6 fatty acids and are safe to consume when used in moderation within a balanced diet.",
+      "Replacing saturated fats with unsaturated fats from seed oils can lower LDL cholesterol and reduce the risk of heart disease, as recommended by health organizations like the American Heart Association."
+    ],
+    "summary_s": 6.0
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": [
+      [
+        "Koen Schoors",
+        "PER"
+      ],
+      [
+        "Selien De Schryder",
+        "PER"
+      ],
+      [
+        "Donald Trump",
+        "PER"
+      ],
+      [
+        "Joe Biden",
+        "PER"
+      ],
+      [
+        "Mario Draghi",
+        "PER"
+      ],
+      [
+        "Poetin",
+        "PER"
+      ],
+      [
+        "Northvolt",
+        "ORG"
+      ],
+      [
+        "DEM E or Jan De Nul",
+        "ORG"
+      ],
+      [
+        "Van Hool",
+        "ORG"
+      ],
+      [
+        "VDL",
+        "ORG"
+      ]
+    ],
+    "ner_s": 15.4,
+    "tags": [
+      "economy",
+      "belgium",
+      "inflation",
+      "politics",
+      "europian-union"
+    ],
+    "tags_s": 12.2,
+    "summary": [
+      "Economists Selien De Schryder and Koen Schoors predict that if Donald Trump increases oil production to lower energy prices, it will be over with Putin within a month.",
+      "They argue that governments worldwide are being held accountable for economic downturns.",
+      "The professors highlight the need for strategic planning in economics and criticize the lack of urgency in addressing financial challenges."
+    ],
+    "summary_s": 14.8
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": [
+      [
+        "Rusland",
+        "LOC"
+      ],
+      [
+        "Estland",
+        "LOC"
+      ],
+      [
+        "Finland",
+        "LOC"
+      ],
+      [
+        "Polen",
+        "LOC"
+      ],
+      [
+        "Roemenië",
+        "LOC"
+      ],
+      [
+        "Moldavië",
+        "LOC"
+      ],
+      [
+        "Georgië",
+        "LOC"
+      ],
+      [
+        "Oekraïne",
+        "LOC"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "EU",
+        "ORG"
+      ]
+    ],
+    "ner_s": 11.5,
+    "tags": [
+      "hybrid-war",
+      "russia",
+      "europe",
+      "geopolitics",
+      "cyber-attacks",
+      "election-interference",
+      "moldova",
+      "georgia",
+      "estonia",
+      "poland"
+    ],
+    "tags_s": 9.8,
+    "summary": [
+      "Russia is accused of spreading fear and unrest across Europe through hybrid warfare.",
+      "This includes border provocations, election interference, and cyberattacks targeting NATO countries.",
+      "Experts warn that these actions aim to weaken European unity and distract from internal disputes."
+    ],
+    "summary_s": 9.9
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": [
+      [
+        "Elon Musk",
+        "PER"
+      ],
+      [
+        "X",
+        "ORG"
+      ],
+      [
+        "white supremacist",
+        "MISC"
+      ],
+      [
+        "neo-Nazi",
+        "MISC"
+      ],
+      [
+        "Twitter",
+        "ORG"
+      ],
+      [
+        "Atlantic",
+        "ORG"
+      ],
+      [
+        "TheOfficial1984",
+        "ORG"
+      ],
+      [
+        "CyAn Cruz",
+        "PER"
+      ],
+      [
+        "Michael Gramer",
+        "PER"
+      ],
+      [
+        "9mm_smg",
+        "ORG"
+      ],
+      [
+        "Robert Thorne",
+        "PER"
+      ],
+      [
+        "Noble1945",
+        "ORG"
+      ],
+      [
+        "John Anthony Provenzano",
+        "PER"
+      ],
+      [
+        "utism_",
+        "ORG"
+      ]
+    ],
+    "ner_s": 17.3,
+    "tags": [
+      "white-supremacy",
+      "neo-nazism",
+      "elon-musk",
+      "x-platform",
+      "far-right-content"
+    ],
+    "tags_s": 13.0,
+    "summary": [
+      "Under owner Elon Musk, X has become a hotbed of white supremacist and neo-Nazi content.",
+      "Musk reinstated far-right and neo-Nazi accounts and directly responded to white supremacist rhetoric.",
+      "Anonymity has long been used by extremists; four anonymous neo-Nazi X account operators were identified in Texas."
+    ],
+    "summary_s": 14.7
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": [
+      [
+        "GalenReich",
+        "PER"
+      ],
+      [
+        "gabor_friesen",
+        "PER"
+      ],
+      [
+        "ShadowFinderColab.ipynb",
+        "PROD"
+      ],
+      [
+        "@galen_reich",
+        "MISC"
+      ],
+      [
+        "@gabor_friesen",
+        "MISC"
+      ]
+    ],
+    "ner_s": 3.3,
+    "tags": [
+      "shadow-finding",
+      "location-detection",
+      "geolocation",
+      "technology",
+      "tool-development"
+    ],
+    "tags_s": 1.7,
+    "summary": [
+      "Galen Reich and Gabor Friesen collaborated to create a tool called ShadowFinder.",
+      "This tool allows users to find locations using only shadows as reference points.",
+      "The video demonstrates how to use the ShadowFinder tool with examples in various environments."
+    ],
+    "summary_s": 3.0
   }
 ]

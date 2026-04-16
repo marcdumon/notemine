@@ -1,32 +1,106 @@
 [
   {
-    "file": "medium_climate_blog_paris_agreement_en.md",
+    "file": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 71.7,
+    "ner_s": 81.6,
     "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "tags_s": 62.4,
-    "summary": [
-      "The Paris Agreement, adopted on December 12, 2015, aimed to limit global warming to 1.5°C or 2°C above pre-industrial levels.",
-      "Global temperatures in 2024 reached 1.45°C above the 1850–1900 baseline, nearing the critical threshold, according to the IPCC Sixth Assessment Report.",
-      "Brazil's Amazon Basin deforestation in 2024 was 11,568 km², drawing criticism from the European Union and Indian advocacy groups.",
-      "Major oil companies like Shell and ExxonMobil spent $750 million on lobbying against climate legislation between 2020 and 2024, as reported by InfluenceMap.",
-      "Renewable energy capacity globally surpassed 2 terawatts in 2024, with China leading in solar power additions and wind investments."
-    ],
-    "summary_s": 56.1
+    "tags_s": 74.0,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 74.4
   },
   {
-    "file": "medium_klimaat_blog_parijs_akkoord_nl.md",
+    "file": "20241220_125543_Nieuwe pil helpt om te stoppen met roken binnenkort ook bij ons “Hier zitten veel mensen op te wachten”.md",
     "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "ner_s": 65.0,
+    "ner_s": 61.7,
     "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
-    "tags_s": 65.4,
+    "tags_s": 61.8,
     "summary": [
-      "The Paris Agreement, formally adopted on December 12, 2015, aimed to limit global warming to 1.5°C above pre-industrial levels and no more than 2°C.",
-      "By 2024, global average temperatures reached 1.45°C, nearing the 1.5°C threshold, with CO2 emissions hitting a record 37.4 gigatons in 2023.",
-      "The European Union reduced emissions by 32% since 1990 through initiatives like the European Green Deal, while Brazil faced criticism for deforestation in the Amazon under President Luiz Inácio Lula da Silva.",
-      "Major fossil fuel companies, including Saudi Aramco, Shell, and BP, spent $750 million on lobbying against climate policies between 2020 and 2024, according to a 2025 report by InfluenceMap.",
-      "The upcoming COP30 summit in Belém, Brazil, in November 2025, is crucial for nations to submit more ambitious climate commitments by 2035, with renewable energy capacity reaching 2 terawatts in 2024, led by China and wind energy companies like Ørsted and Iberdrola."
+      "A new nicotine replacement therapy, Varenicline, is being introduced in the United Kingdom to help over 100,000 Britons quit smoking, similar to Champix which was previously withdrawn due to safety concerns.",
+      "Varenicline, available since late November 2021, works by binding to nicotine receptors to reduce cravings and withdrawal symptoms, offering a potential alternative to Champix for those seeking to stop smoking.",
+      "Professor Filip Lardon and coach Els Bosch highlight that without medication, quitting smoking often leads to relapse, emphasizing the need for pharmacological support.",
+      "The medication is not recommended for individuals with kidney problems and may cause side effects like dizziness or depression, requiring a prescription from a doctor."
     ],
-    "summary_s": 58.4
+    "summary_s": 65.4
+  },
+  {
+    "file": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 57.0,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 55.2,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 55.9
+  },
+  {
+    "file": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 72.0,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 72.5,
+    "summary": [
+      "Koen Schoors and Selien De Schryder discuss the cyclical nature of economic downturns, comparing the current situation to historical events like the French Revolution and industrialization, suggesting that while past cycles ended in hardship, they also brought improvements.",
+      "They express concern over rising inflation in Europe, attributed to Russian influence in Ukraine, and the potential impact of Trump's policies on the US economy, including increased imports and possible debt relief. They warn of a global economic downturn if these trends continue.",
+      "The professors highlight the need for Europe to focus on sustainable energy and innovation to compete with the US and China, emphasizing the importance of investing in renewable technologies and addressing climate change to avoid long-term economic consequences.",
+      "Schoors and De Schryder note the political challenges in Europe, including the risk of extreme parties gaining power and the struggle to balance environmental policies with economic interests, while advocating for urgent strategies to manage the economy and avoid repeating past mistakes."
+    ],
+    "summary_s": 77.4
+  },
+  {
+    "file": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 69.6,
+    "tags": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "tags_s": 69.4,
+    "summary": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "summary_s": 68.8
+  },
+  {
+    "file": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 73.8,
+    "tags": [
+      "white-supremacy",
+      "neo-nazi",
+      "antisemitism",
+      "social-media-moderation",
+      "x-twitter",
+      "elons-musk",
+      "far-right-accounts",
+      "hate-speech",
+      "texas-observer",
+      "exposed-operators"
+    ],
+    "tags_s": 82.0,
+    "summary": [
+      "Elon Musk's social media platform X, formerly Twitter, has become a hub for white supremacist and neo-Nazi content under his ownership.",
+      "Four anonymous neo-Nazi accounts with a combined 500,000 followers at their peak were identified by the Texas Observer as operated by individuals including Cyan Cruz (TheOfficial1984), Michael Gramer (9mm_SMG), Robert Thorne (Noble1945), and John Anthony Provenzano (Utism_).",
+      "These accounts promote Holocaust denial, antisemitic content, and neo-Nazi ideologies, and have attracted significant followings and interactions, including replies from Elon Musk and other public figures.",
+      "X's moderation policies have decreased, allowing these accounts to grow in popularity and reach, despite promises to combat hate speech and deboost such content for revenue reasons."
+    ],
+    "summary_s": 69.8
+  },
+  {
+    "file": "20250102_183239_how to find a location using only the shadow.md",
+    "ner": "ERROR: Expecting value: line 1 column 1 (char 0)",
+    "ner_s": 51.9,
+    "tags": [
+      "shadow-finding",
+      "geolocation",
+      "computer-vision",
+      "machine-learning",
+      "openai",
+      "colab tool",
+      "gabor-friesen",
+      "galen-reich",
+      "youtube tutorial",
+      "python-programming"
+    ],
+    "tags_s": 45.6,
+    "summary": [
+      "The video 'how to find a location using only the shadow' demonstrates a method for locating places based on shadows.",
+      "Developed by Galen Reich and Gabor Friesen, the tool is accessible via a Google Colab notebook at https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb.",
+      "Galen Reich can be found on Twitter at @galen_reich and Gabor Friesen at @gabor_friesen."
+    ],
+    "summary_s": 27.1
   }
 ]
