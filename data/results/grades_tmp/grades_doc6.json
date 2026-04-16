@@ -1,0 +1,950 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 51.5,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Non-standard dict format; missing key entities (Elon Musk, Cyan Cruz); otherwise accurate"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 63.0,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 24.7,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Gramer called \"former Nazi Party member\" (wrong); 100K+ understates actual 500K; Navy situation mischaracterized"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 133.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 72.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Excellent specific tags including JP Morgan Chase and Naval Surface Warfare Center"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 42.6,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "JSON structured output rather than prose; minor date error; very detailed with all four operators and key orgs"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 117.9,
+    "scores": null
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive; includes pro-hitler, holocaust-denial, JP Morgan Chase, Naval Surface Warfare Center"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 21.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; accurately lists all four operators with ages/jobs; misses Musk connections and political figures"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 11.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Atlantic misclassified as LOC; Florida not in article; duplicated Atlantic entry"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 8.2,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Multi-word tags without hyphens; Tucker Carlson and election officials are minor mentions"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 9.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Accurate account details; misses Musk direct engagement and political connections"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Very sparse; only covers Thorne and Provenzano; account handles as ORG is debatable"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 13.9,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "\"hate speech\" no hyphen; very sparse; misses Elon Musk, investigation, JP Morgan Chase, Navy"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 16.7,
+    "scores": {
+      "factual_accuracy": 2,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Says article focuses on three accounts and 9mm_smg was not the focus; 9mm_smg is one of the four main accounts"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 26.8,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 1,
+      "notes": "Wrong document content; El Paso/Mexico/Trump 2016 rally not in this article; non-standard types (GPE, NOUN, EVENT)"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 29.7,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Uses underscores instead of hyphens; very sparse; misses neo-nazi, Elon Musk, antisemitism"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 34.3,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 66.4,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 40.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good coverage; investigative and platform-moderation angle; misses Elon Musk specifically"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 20.0,
+    "scores": null
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 19.3,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "Massively repetitive Twitter/X only; PRODUCT is non-standard type; missing all persons and organizations"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 8.0,
+    "scores": {
+      "relevance": 3,
+      "style": 2,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Multi-word tags without hyphens; \"digital privacy\" not main topic; sparse and generic"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 9.6,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Describes financial fraud and illegal activities; article is about neo-Nazi social media accounts"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 23.0,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 23.5,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 3,
+      "notes": "\"content\" is not a meaningful standalone tag; \"x\" too generic; misses Elon Musk and antisemitism"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 26.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Only Thorne is at JP Morgan Chase not \"some\"; misses Musk direct engagement with accounts"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.4,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.1,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.3,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 210.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 3,
+      "notes": "\"OpenAI\" hallucinated; missing main subjects (Cruz, Gramer, Thorne, Provenzano); verbose location names"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 146.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage including online-anonymity; all kebab-case; includes Texas Observer"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 207.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Truncated; names all four operators; good coverage of main points including JP Morgan Chase"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 73.8,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 82.0,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "\"elons-musk\" typo; \"exposed-operators\" is specific and fitting; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 69.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; names all four operators with X account handles; good coverage"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 288.8,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 121.2,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 291.0,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 22.0,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 4,
+      "notes": "TheOfficial1984 misclassified as PER; many vague descriptive MISC entities; X as PROD non-standard"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 5.6,
+    "scores": {
+      "relevance": 4,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"elizabeth-wurtzel\" hallucinated - not in article; \"hateful-content-eradication\" awkward"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 7.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Truncated; comprehensive coverage of context and all four operators"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 8.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 8.6,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 9.3,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 60.2,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 61.8,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 16.6,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Multi-word tags without hyphens; comprehensive including investigative methods like data breaches and facial recognition"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 23.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Truncated; does not name operators; omits Texas Observer investigation and Elon Musk angle"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 160.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\"white supremacist\" and \"neo-Nazi content\" are descriptions not named entities; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 40.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 5 tags; misses Elon Musk, antisemitism, investigation, JP Morgan Chase, Navy"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 84.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; good specificity with account names and follower counts; covers Musk context"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 92.4,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Non-standard dict format; missing Elon Musk and Cyan Cruz; otherwise accurate types"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 48.9,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 51.3,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Provenzano mischaracterized as \"former U.S. Navy official\"; single sentence lacks operator details"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 397.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 3,
+      "notes": "\"Sam Altman\" hallucinated; missing Elon Musk and Cyan Cruz"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 319.4,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 291.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Names all four operators; mentions investigation methods and employment concerns; misses political connections"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 22.7,
+    "scores": {
+      "entity_form": 5,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Missing Elon Musk, Cyan Cruz, and Texas Observer; otherwise accurate and clean"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 18.0,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Multi-word tags without hyphens; only 5 generic tags; misses neo-nazi, Elon Musk, antisemitism, white nationalism"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 26.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; strong specificity for Thorne and Gramer; misses Cruz and Musk context"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 47.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "KNAW hallucinated; Naval Surface Warfare Center misclassified as LOC; embedded title in Wendy Rogers"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 25.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive; \"digital-footprint\" and \"anonymous-extremists\" are specific and fitting"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 38.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; excellent specificity with account names and follower counts; covers Cruz and Gramer in detail"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 17.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "\"CyAn Cruz\" misspelling; X account handles as ORG is debatable; \"white supremacist\" as MISC is a description"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 13.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 5 tags; misses antisemitism, investigation, JP Morgan Chase, Navy"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 14.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Says four operators are in Texas but only three are; no operator names; very sparse"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 17.2,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Non-standard types (PERSON, LOCATION); malformed \"Utism\\\"\" entity; very sparse, only covers Provenzano section"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Twitter and x-social overlap; misses Elon Musk, JP Morgan Chase, Naval angles"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 16.4,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Attributes JP Morgan Chase firing to Provenzano instead of Thorne; entirely misses the main story"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 7.8,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 2,
+      "notes": "No type field in output; Sam Altman, OpenAI, March 2025 hallucinated; mixed doc content"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 7.7,
+    "scores": {
+      "relevance": 3,
+      "style": 2,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Multi-word tags without hyphens; \"terrorism\", \"cybersecurity\", \"data privacy\" not main topics"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.0,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "\"Law enforcement investigation\" not in article; covers only Thorne and Gramer; misses Cruz and Provenzano"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 18.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "\"NYgil Cullins\" misspelling; missing Cyan Cruz, Michael Gramer, Texas Observer"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 12.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 5 generic tags; misses antisemitism, investigation, JP Morgan Chase, Navy"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 15.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Names all four operators and accounts; misses investigation methods, JP Morgan Chase, Naval facility"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 48.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Missing key subjects (Cruz, Gramer, Thorne, Provenzano); Simon & Schuster from URL not article text"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 30.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good coverage; online-anonymity is specific; misses JP Morgan Chase and Navy angles"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20250102_152451_Revealed the Operators Behind Four Major Neo-Nazi X Accounts.md",
+    "elapsed_s": 37.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Names all four operators with 500K figure and JP Morgan Chase confirmation; good coverage"
+    }
+  }
+]

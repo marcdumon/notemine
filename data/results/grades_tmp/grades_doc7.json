@@ -1,0 +1,990 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 44.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 13.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Well-formed; includes tool, people, platform and method"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 11.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; complete for sparse source"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 74.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "First-name-only for gabor and galen; misses RAINBOLT and YouTube; otherwise clean"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 40.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive; covers all aspects including open-source"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 39.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate and complete"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Joined names (GalenReich/GaborFriesen); Twitter as MISC instead of ORG"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Core topic well covered; misses contributors"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 4.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; all key aspects covered"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 3,
+      "notes": "March 2025 hallucinated; not in source"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.3,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "google-research inaccurate; ai too generic; only 5 tags"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "ShadowFinder attributed solely to Galen Reich; should be collaborative"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Colab.research.google.com tagged as LOC (wrong); Twitter handles duplicated as MISC"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.7,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Underscore in person handles; twitter as tag is meta"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.9,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Refers to Gabor and Galen Reich implying shared surname; Gabor is Friesen not Reich"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.0,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Same persons extracted twice (first name + full name); full names misclassified as MISC"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Misses ShadowFinder tool name and Colab platform"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate and complete"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 47.4,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 31.8,
+    "scores": {
+      "relevance": 3,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Archaeology is off-topic; navigation vague"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 21.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Slightly over-expands on technique beyond source content"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "GalenReich joined name; gabor and galen duplicated as first names"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Solid; misses ShadowFinder tool name explicitly"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; does not name contributors"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.8,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Each person triple-classified as PER/ORG/PROD; shadow is not a named entity"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage of topic, tool, people and method"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 4.8,
+    "scores": {
+      "factual_accuracy": 2,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Fabricates sun angle and latitude calculation not in source"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.6,
+    "scores": {
+      "entity_form": 5,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Minimal but clean; misses ShadowFinder"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Multiple redundant shadow-* tags; misses contributors and platform"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; covers all key aspects"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 31.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Duplicates (GalenReich + galen_reich, gabor + gabor_friesen); Twitter handles as extra entities"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 17.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Only 5 tags; sparse coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 40.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Includes URLs; most thorough coverage"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 51.9,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 45.6,
+    "scores": {
+      "relevance": 3,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Space-separated multi-word tags (colab tool, youtube tutorial); openai is off-topic"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 27.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; complete"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 125.5,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 123.5,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 123.3,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.0,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "YouTube misclassified as PROD; Colab as PROD debatable"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.8,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "web-dev off-topic; data-science and machine-learning are assumptions"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.0,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Says Galen Reich demonstrates the video but presenter is RAINBOLT; attribution error"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 4.6,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "GalenReich duplicated as ORG and PER; twitter appears twice"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "twitter-mention is meta; otherwise good"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate; vague on contributors"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.8,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 1,
+      "notes": "Wrong-document response; extracted Sam Altman and OpenAI not in source"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.5,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Wrong-document response; OpenAI/GPT-5 tags unrelated to source"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 56.4,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "GalenReich should be Galen Reich; Twitter better as ORG than MISC"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "machine-vision and computer-vision are near-duplicates"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate and complete"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "gabor and galen extracted as single compound entity; misses PROD"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 6.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Only 5 tags; misses contributors and tool name"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 14.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate; does not name contributors"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 97.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "First names only; handles as MISC is acceptable"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 29.2,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "machine-learning and ai not explicit in source; misses contributors"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 32.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; includes YouTube video ID"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 170.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "First names plus handles both as PER (redundant duplicate extraction)"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 244.3,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "shadow-geometry slightly specific; solid overall"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 148.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Includes Twitter handles; most thorough"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.7,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Multiple duplicates: GalenReich+Galen, Gabor+Gabor Friesen"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Only 5 tags; shadow-mapping imprecise"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 6.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; includes YouTube URL"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Twitter handles extracted separately from full names; .ipynb filename as PROD debatable"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "twitter-profiles and collaboration are meta; misses method-specific tags"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 6.9,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Contributors attributed to the video rather than just the tool; minor error"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Joined/underscore formatted handles; .ipynb as PROD debatable"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "technology and tool-development too generic; misses contributors"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; complete"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.8,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 2,
+      "notes": "OpenAI hallucinated; colab.research.google.com tagged as LOC (wrong); duplicate GalenReich"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "computervision missing hyphen; gis assumed from context"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Mostly accurate; omits Twitter handles"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Full URL extracted as entity; handles as PER wrong; YouTube as MISC not ORG"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.9,
+    "scores": {
+      "relevance": 3,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "deep-learning assumed; ai-tools too generic; very sparse"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Restates title only; misses all details"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 3.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 1,
+      "notes": "PathAI, Boston, Royal Netherlands Academy hallucinated; none in source"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 1.7,
+    "scores": {
+      "relevance": 4,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "astronomy tangential; misses contributors and specific tool name"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 2.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate but sparse; omits Colab link and Twitter handles"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 2,
+      "notes": "KNAW hallucinated; not in source"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "relevance": 3,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "solar-time and data-visualization not in source; misses contributors"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20250102_183239_how to find a location using only the shadow.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Contributors attributed to the video rather than just tool; minor error"
+    }
+  }
+]

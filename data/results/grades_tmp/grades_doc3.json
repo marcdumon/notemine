@@ -1,0 +1,979 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 46.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 19.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Excellent coverage including social media misinformation angle"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 14.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Comprehensive with named organizations and specific claims"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 79.6,
+    "scores": null
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 27.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive; health-myths and diet-misinformation capture debunking angle"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 30.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Mentions influencers and cherry-picking; names specific orgs"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 6.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Clean, accurate extraction"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Missing explicit debunking angle"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate but no specific org citations; misses some claim categories"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.4,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "omega-6 mistyped as PROD; March 2025 date hallucinated"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage with myth-busting angle"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good coverage across all main points; no specific org citations"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Accurate; missing date but otherwise good"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.1,
+    "scores": {
+      "relevance": 4,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Too granular with individual oils as tags; covers debunking angle well"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Well-rounded; mentions AHA"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "PUFAs and omega-6 incorrectly tagged as PROD; key orgs missing"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good selection; somewhat limited"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 14.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Highly detailed; mentions AHA, all main myth categories, influencer critique"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 50.1,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 51.7,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive; \"nutrition\" alone too broad"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 25.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Good specificity with org citations; slight overstatement of Harvard position"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Multiple duplicates; secondary entities included; URLs as MISC acceptable"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Focuses on oil types; misses debunking/myth context"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; misses processing and cancer/obesity myth sections"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 15.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 2,
+      "notes": "USDA, FDA, NIH, CDC not in source document; many borderline MISC entities"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.9,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Redundancy (nutrition/nutrition-facts); \"myths\" and \"science\" too generic"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate; light on processing myths and influencer critique"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.5,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Empty output"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.6,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good debunking angle; some generic tags (health, diet)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Single dense sentence; accurate but no specific org citations"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 58.7,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Missing key PROD entities (oils) but no errors"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 29.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Concise and relevant; limited coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 80.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Solid; mentions AHA and influencers; misses cooking advice"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 57.0,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 55.2,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 55.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 160.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 157.0,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 174.4,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.7,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 3,
+      "notes": "IntegralAnswers wrong as PER; fish wrong as PER; \"seed oils in moderation\" wrong as DATE"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Several generic tags; misses myth/debunking angle"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Bare minimum; no org citations; misses several claim categories"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Empty output"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 8.6,
+    "scores": {
+      "relevance": 4,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Uses underscores instead of hyphens; overly granular oil types"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Very brief; only covers 2 main points"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Responded to wrong document (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.7,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 4.8,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 9.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Misspellings of IntegralAnswers and soybean; x.com as ORG borderline"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage with debunking angle; \"nutrition\" generic"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 9.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good coverage; mentions AHA but not Harvard/WHO/NCBI"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 25.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "Cooking oils classified as MISC instead of PROD"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 11.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Concise but misses key topics like omega-6 and heart-health"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 27.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Covers cooking advice explicitly; mentions org and pseudoscience critique"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 35.7,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "URL domains tagged as ORG instead of MISC"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 25.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Covers debunking angle well; some generic tags (diet, nutrition)"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 25.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good; misses processing/toxicity and cooking advice sections"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 889.6,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "fish/nuts/seeds as PROD borderline; missing IntegralAnswers and date"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 229.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Precise tags with debunking angle; missing food-safety"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 217.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Includes cooking advice; mentions AHA"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 9.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "URL domains tagged as ORG instead of MISC"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage; some generic tags (nutrition)"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 8.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Well-structured; names source account, AHA, addresses multiple myth categories"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 11.6,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "fish/nuts/seeds as MISC borderline; otherwise accurate"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.4,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"omega-fatty-acids\" too vague; otherwise good coverage"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 14.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Names source, mentions AHA, includes influencer/pseudoscience critique"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 6.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\"Seed oils\" generic category tagged as MISC; otherwise accurate"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Concise and relevant; limited coverage"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 6.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Concise and accurate; misses processing and cooking sections"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 11.4,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "canola/sunflower/soybean misclassified as LOC instead of PROD"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.2,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Several generic tags (nutrition, diet, health); food-myths covers debunking"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 15.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Includes cooking advice; no specific org citations"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 39.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 1,
+      "notes": "Massive hallucination: hundreds of social media and tech companies repeated; Fish as PER wrong"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 2.3,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Very limited; misses debunking angle and omega-6 topics"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Basic coverage; no org citations; misses several myth categories"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 5.8,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "IntegralAnswers misclassified as PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good specific tags with debunking angle"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 3.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Very brief; only 2 sentences; misses most key points"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 9.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Missing key PROD entities (oils); URLs correctly as MISC"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 7.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Well-rounded coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20241224_232156_Debunking the Myths About Seed Oils.md",
+    "elapsed_s": 13.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Detailed and specific; minor imprecision on processing argument"
+    }
+  }
+]

@@ -1,0 +1,958 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 45.7,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Non-standard dict format; missing PER entities (Trump, Poetin, Draghi etc.); orgs and locs accurate"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 36.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Excellent coverage; all main topics represented"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 29.5,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Comprehensive; names DEME, Northvolt, Spain; minor framing issue on Russia destabilization claim"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 105.0,
+    "scores": null
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 84.8,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage; \"trump\" and \"economy\" too generic alone"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 37.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Good coverage; mentions 70-year cycle and Trump/Putin oil angle; misses bitcoin and industry specifics"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 24.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "Companies (Meta, Tesla, Northvolt, Van Hool, VDL, DEME, Jan De Nul, Audi) misclassified as PROD; many duplicates; \"DEM\" truncated"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.4,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Typo \"europian-union\"; some generic tags; missing bitcoin, AI, Russia-Ukraine"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 15.5,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Oversimplified comparison to 1970s inflation; misses bitcoin, Belgium, Russia-Ukraine, Northvolt"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 16.6,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "\"Democraten\" not in source document; Tesla misclassified as PROD"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 8.3,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 1,
+      "coverage": 5,
+      "notes": "Tags in Dutch instead of English; comprehensive content coverage"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 9.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Generic; misses bitcoin, Trump/Putin oil, Belgium debt"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 15.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Very sparse; missing all PER entities; only geographic locations and a few companies"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.6,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; only 5 generic tags; misses most key topics"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 18.2,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Wrong year (2023); mentions Draghi report and photonics/quantum; misses bitcoin and Russia-Ukraine"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 31.2,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Invalid types (EVENT, POLICY); vague concept phrases instead of named entities; very sparse"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 18.1,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Multi-word tags with spaces instead of hyphens; otherwise good coverage"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 29.3,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 64.4,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 37.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good coverage; \"education\" is tangential to main article"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 43.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Mentions Draghi report and Northvolt; misses bitcoin, Putin/oil angle, 70-year cycle"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 12.0,
+    "scores": null
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 6.6,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"schoors-de-schryder\" is unusual but valid; misses bitcoin, AI, Russia-Ukraine"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 9.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Good specificity; names Inflation Reduction Act, Biden, Spain; misses bitcoin and Belgian debt"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 103.8,
+    "scores": null
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 22.7,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Spaces in \"climate change\" and \"green energy\" instead of hyphens"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 26.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good coverage of main themes; lacks specific examples like Northvolt/DEME/bitcoin"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.5,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.4,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.9,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 292.0,
+    "scores": {
+      "entity_form": 5,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Excellent comprehensive extraction; all types correct"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 108.0,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; only 5 tags; misses most key topics"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 161.1,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Covers main themes; missing bitcoin, Putin/oil, Belgium debt, Northvolt"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 72.0,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 72.5,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 77.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Truncated output; \"possible debt relief\" not in source; covers 70-year cycle and inflation"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 324.7,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 200.8,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 197.3,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 20.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 4,
+      "notes": "Invalid types (VERB, NOUN, NUM); extracts common nouns and concepts instead of named entities"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.8,
+    "scores": {
+      "relevance": 5,
+      "style": 1,
+      "language": 1,
+      "coverage": 5,
+      "notes": "Tags in Dutch; no hyphens; massive duplicates"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 7.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 1,
+      "specificity": 3,
+      "notes": "Summary in Dutch instead of English"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 8.7,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 8.5,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 9.2,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 4.2,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 3,
+      "hallucination": 1,
+      "notes": "Wrong document; Sam Altman misclassified as ORG"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 58.7,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 60.2,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 15.6,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good coverage; some generic tags; misses bitcoin and AI"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 18.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Names misspelled (De Schrider, Schooers); truncated; no specific org citations"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 123.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\"Europese Unie\" tagged as LOC instead of ORG; includes cultural phrases as MISC"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 38.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; only 5 tags; misses bitcoin, AI, Russia-Ukraine and other key topics"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 65.6,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Truncated; good historical context; mentions Belgium economy; misses bitcoin and Northvolt"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 80.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Sparse but accurate; missing most ORGs and LOCs"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 36.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good comprehensive coverage including AI, European competitiveness, Trump/Putin"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 40.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Mentions Trump/Putin/oil angle; misses bitcoin, 70-year cycle, Northvolt/Spain"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 764.9,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 3,
+      "notes": "PathAI and KNAW hallucinated; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 351.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage including economic cycles angle"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 305.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good coverage across all main themes including bitcoin and Northvolt"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 23.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Koen Schoors and Trump duplicated; otherwise comprehensive and accurate types"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 14.9,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"trump\", \"europe\" too generic; Spain referenced but minor angle"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 18.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Covers key themes and Trump/oil/Russia angle; misses bitcoin and industry specifics"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 44.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "Poetin misclassified as MISC; non-standard types (EVENT, CONCEPT); \"klimaatverandering\" is not a named entity"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 23.6,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 4,
+      "coverage": 4,
+      "notes": "\"europese-economie\" is Dutch in otherwise English tag set; misses bitcoin and AI"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 31.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Truncated; mentions Spain model and Biden IRA; misses bitcoin and Putin/oil angle"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 15.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "\"DEM E or Jan De Nul\" garbled; sparse but accurate types"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 12.2,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Typo \"europian-union\"; very generic and sparse; misses most key topics"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 14.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Uses title quote as first sentence; very sparse; misses most content"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 24.6,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "De Schryder misspelled as \"De Schlyder\"; \"Postkoeriers\" and \"Amerikaanse\" are not named entities"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 16.9,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 1,
+      "coverage": 3,
+      "notes": "Tags in Dutch; \"groene industrie\" has spaces; narrow industry-focused coverage"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 17.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 1,
+      "specificity": 3,
+      "notes": "Two direct Dutch quotes from article; not a proper summary; in Dutch"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 132.9,
+    "scores": null
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 6.8,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Multi-word tags without hyphens; broad but generic coverage; misses bitcoin and Belgium"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 15.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Generic paragraphs; no specific names; oversimplifies Russia angle"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 21.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 2,
+      "hallucination": 3,
+      "notes": "Selien De Schryder rendered in garbled Cyrillic/Chinese; PathAI and KNAW hallucinated; Northvolt/Tesla/Meta misclassified as PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 11.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good specific tags; misses climate-change explicitly"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 13.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 1,
+      "specificity": 2,
+      "notes": "Summary in Dutch; only 2 generic sentences"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 61.9,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "PathAI Inc. and Royal Netherlands Academy hallucinated; \"techbedrijven\" is a generic noun; Demorgen.be misclassified as PROD"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 25.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; compound tag forms overly specific; misses most key topics"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20241227_115034_‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’ Selien De Schryder en Koen Schoors maken de staat op van de economie.md",
+    "elapsed_s": 28.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Very sparse; only 2 sentences; mentions 70-year cycle; misses most key content"
+    }
+  }
+]

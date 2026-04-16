@@ -1,0 +1,862 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 60.3,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 61.3,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 61.9,
+    "scores": null
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 70.8,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Clean forms, correct types; sparse (8 entities); Emeti Yakuf not verified in source portion read"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 37.1,
+    "scores": null
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 23.7,
+    "scores": null
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 37.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 3,
+      "notes": "Uyghur Turkistan Islamic Party is an invented name form; reference-section persons likely real"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 20.8,
+    "scores": null
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 22.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Focuses on ETIM existence debate not main overview; sources cited are plausible"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 33.2,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 3,
+      "notes": "Non-standard types (MEDIA, PERSON); many duplicated entities; reference-section persons"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 81.2,
+    "scores": null
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 14.3,
+    "scores": null
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 25.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 5,
+      "hallucination": 4,
+      "notes": "Only one entity extracted; Eastern Turkistan Islamic Party is slightly wrong name form"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 12.9,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Relevant and mostly atomic; only 5 tags so coverage is narrow"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 15.9,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Single sentence with UN 2002, Kyrgyzstan 2003, al-Qaeda links - accurate specifics"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 35.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 1,
+      "hallucination": 3,
+      "notes": "Non-standard types (GPE, TNC, ISBN); ISBN as entity is invalid; concept phrases as entities"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 17.9,
+    "scores": {
+      "relevance": 4,
+      "style": 2,
+      "language": 5,
+      "coverage": 3,
+      "notes": "East Turkestan Islamic Party (ETIM) and global terrorist threat are verbose phrases"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 37.6,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 78.6,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 20.3,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 37.4,
+    "scores": null
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 22.4,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 2,
+      "notes": "All typed GPE (non-standard); hallucinated Islamic Republic of Iran and India not in source"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 7.5,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Relevant but very sparse (5 tags); misses Syria, Pakistan, al-Qaeda, Uyghur, ETIM"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 11.6,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Completely wrong framing: describes Uyghur human rights article, not TIP militant org"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 41.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 4,
+      "notes": "Non-standard types (GROUP, COUNTRY, LOCATION); Uyghur separatists and Uyghur Muslims are groups not named entities"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 72.7,
+    "scores": null
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 32.1,
+    "scores": {
+      "factual_accuracy": 2,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Hallucinated Akhtar Hussain, Shohrat Azadi, Kashmir operations not in source"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 23.5,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Processed wrong document (OpenAI/GPT-5 content)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 14.3,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Wrong document: AI/tech tags for terrorism article"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 14.8,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Wrong document: GPT-5 San Francisco announcement"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 193.6,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 3,
+      "notes": "Turkistan Islamic Party in Syria verbose; Abu al-Zubaydah and Osama bin Laden not in source; ETHNIC_GROUP non-standard"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 147.3,
+    "scores": {
+      "relevance": 4,
+      "style": 2,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Almost all tags are verbose multi-word phrases"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 190.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate overview covering designation, ideology, attacks, debate; lacks specific dates/names"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 81.6,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 74.0,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 74.4,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 329.8,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 113.3,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 150.2,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 15.7,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 4.9,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 5.1,
+    "scores": null
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 97.8,
+    "scores": null
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 81.5,
+    "scores": {
+      "relevance": 2,
+      "style": 1,
+      "language": 5,
+      "coverage": 3,
+      "notes": "~90 hallucinated attack events not in source; nearly all verbose multi-word phrases"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 9.5,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Wrong document: GPT-5 announcement"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 9.6,
+    "scores": null
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 3.3,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Wrong document: AI/tech tags"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 57.3,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 126.4,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 71.2,
+    "scores": {
+      "relevance": 4,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good topic coverage but majority are verbose multi-word phrases; Turkey not prominent in source"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 77.6,
+    "scores": null
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 98.5,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Includes foreign-script verbose name versions; inverted Pan Guang as Guang, Pan; NAT non-standard type"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 48.4,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Relevant and broad but majority are verbose multi-word phrases"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 79.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Best summary: covers founding, structure, Syria, capability debate, controversy with Uyghur groups"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 66.9,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document: OpenAI/GPT-5 entities"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 44.3,
+    "scores": {
+      "relevance": 4,
+      "style": 4,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Relevant atomic tags; very sparse (5 tags only)"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 54.0,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate but sparse; covers ETIM, al-Qaeda, Syria, capability debate"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 409.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Non-standard MEDIA type; Emeti Yakuf questionable; Kyrgyzstan Lenin District Court very specific reference"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 293.5,
+    "scores": {
+      "relevance": 4,
+      "style": 1,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Nearly all are verbose multi-word phrases"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 422.9,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Good overview; ISIS link overstated; covers main angles without specific dates/names"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 31.3,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Clean forms; GPE non-standard; Eastern Turkistan Islamic Party slightly wrong name"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 17.5,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "All relevant; some multi-word tags (Islamic militants, Turkistan Islamic Party)"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 24.4,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Comprehensive 10-point summary with UNSC designation, founding, Syria, drone strikes"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 58.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Parenthetical acronyms in names; mostly reference-section entities; accurate types"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 50.8,
+    "scores": null
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 70.4,
+    "scores": null
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 27.1,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "Clean forms; New York Times as MISC instead of ORG; reference-section entities mostly real"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 14.4,
+    "scores": {
+      "relevance": 1,
+      "style": 2,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Wrong document: AI/ML tags for terrorism article"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 20.9,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate overview; mentions Syria and al-Qaeda; lacks specific dates"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 32.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 1,
+      "hallucination": 4,
+      "notes": "Uighur as PER, Islamic Turkistan as LOC, Muslim as ORG - all wrong types; vague entities"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 14.3,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Relevant; multi-word phrases; very narrow (6 tags only)"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 16.1,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Accurate but extremely sparse (2 sentences, no specifics, no names/dates)"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 11.1,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document: OpenAI/GPT-5 entities; uses non-standard PERSON/ORGANIZATION types"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 8.5,
+    "scores": {
+      "relevance": 3,
+      "style": 3,
+      "language": 5,
+      "coverage": 3,
+      "notes": "et im is broken ETIM; russia not prominent; multi-word phrases; conflict resolution tangential"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 10.2,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Wrong document: GPT-5 announcement with fake URL"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 28.7,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 4,
+      "notes": "MEDIA non-standard type; RTI.org.tw is URL fragment; duplicate entry; no persons identified"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 12.5,
+    "scores": {
+      "relevance": 4,
+      "style": 4,
+      "language": 5,
+      "coverage": 2,
+      "notes": "drone-strikes valid; good hyphenated style; very narrow (6 tags)"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 20.8,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Accurate with specific facts: 2014 Kunming (31 dead), UN 2002, Guantanamo, Syria"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 97.4,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 2,
+      "notes": "Chinese-language output; non-standard types (GRP, FAC, LANG); repeated hallucinated entities"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 43.3,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Islamic movement is vague multi-word; only 5 tags, narrow coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20241217_192002_Turkistan Islamic Party - Wikiwand.md",
+    "elapsed_s": 36.2,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Accurate but brief (4 sentences); mentions UN Security Council, drone strikes, factional split"
+    }
+  }
+]

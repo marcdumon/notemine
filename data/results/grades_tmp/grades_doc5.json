@@ -1,0 +1,964 @@
+[
+  {
+    "model": "qwen3:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 80.2,
+    "scores": null
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 38.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Excellent coverage of all key themes"
+    }
+  },
+  {
+    "model": "qwen3:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 19.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Minor imprecision on border barrier description; misses Romanian/Moldovan election interference angle"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 100.2,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 4,
+      "hallucination": 4,
+      "notes": "\"Harvard University\" inferred from URL reference not named in text; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 49.6,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage including migrant-pushbacks angle"
+    }
+  },
+  {
+    "model": "qwen3:14b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 38.3,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Wrong year for Finland cable (2023); excellent statistics specificity with Estonia blimp count"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 31.0,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "Finland misclassified as PER; \"Poeitn\" misspelling; duplicates; \"Pools warenhuis\" and \"Kremlin-torens\" not proper named entities"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 11.6,
+    "scores": {
+      "relevance": 4,
+      "style": 3,
+      "language": 5,
+      "coverage": 5,
+      "notes": "\"navy\" incorrect tag (likely NAVO mis-autocorrect); redundant generic tags; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "llama3.1:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 10.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Very generic; no country-specific examples; no specific people or statistics cited"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 14.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 4,
+      "notes": "Rusland misclassified as ORG; Ilan Sor as MISC instead of PER; Snoop as MISC instead of ORG; \"Dorin Recean\" from URL only"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 6.7,
+    "scores": {
+      "relevance": 5,
+      "style": 2,
+      "language": 2,
+      "coverage": 5,
+      "notes": "Mixed Dutch and English; multi-word tags without hyphens"
+    }
+  },
+  {
+    "model": "llama3.2:latest",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 27.5,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 1,
+      "specificity": 3,
+      "notes": "Direct quotes from Dutch article; not a proper English summary"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 63.5,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Extracts quotes, common nouns, and descriptions as entities; \"Russische invasie van Oekraïne\" as DATE wrong"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 10.7,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good coverage; misses migration and country-specific examples"
+    }
+  },
+  {
+    "model": "mistral:7b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 12.9,
+    "scores": {
+      "factual_accuracy": 2,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Rutte described as \"Finnish Prime Minister Mika Rutte\" - wrong role, wrong first name, wrong nationality"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 72.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\"Brandstichting in Pools warenhuis\" is a description not a named entity; otherwise good coverage"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 14.1,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Excellent specific tags including GPS-jamming; comprehensive country coverage"
+    }
+  },
+  {
+    "model": "granite3.3:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 19.3,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Truncated; comprehensive; names Rutte and Schuurman; covers multiple countries"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 59.1,
+    "scores": null
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 33.5,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 5,
+      "notes": "\"sowing-fear\" is awkward phrasing; otherwise good coverage"
+    }
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 38.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good specificity; \"shift since 2021\" imprecise; misses Norway/Sweden/Moldova/Georgia"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 10.5,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "\"Finnen\" and \"Poolse\" misclassified as PER; Snoop misclassified as PROD; duplicates"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 5.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Limited coverage; misses cyber-attacks, migration, GPS-jamming, specific countries"
+    }
+  },
+  {
+    "model": "gemma4:e4b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 8.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; comprehensive coverage of main themes; good expert citations"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 41.9,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 2,
+      "notes": "\"Nicolas Sarkozy\" hallucinated; \"Kazja Kallas\" misspelling; \"Zuid-Europa\" not in text; \"Pools\" as LOC wrong"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 17.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"security-studies\" is academic field not a topic; otherwise good"
+    }
+  },
+  {
+    "model": "lfm2:24b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 19.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good thematic coverage; mentions cable tampering and GPS jamming; misses Romania/Moldova/Georgia specifics"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 69.0,
+    "scores": null
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 9.6,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "rnj-1:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 11.4,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Generic Russia-Ukraine summary that does not reflect specific article content"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 282.8,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "Embedded descriptors in entity text (\"Kremlin-kenner Mark Galeotti\"); \"NAVO-baas\" is not a named entity"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 90.2,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; leading space in \" Kremlin-strategy\"; misses election meddling, migration, cyber, GPS"
+    }
+  },
+  {
+    "model": "qwen2.5:32b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 145.4,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Good comprehensive coverage of all countries; no expert citations"
+    }
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 69.6,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 69.4,
+    "scores": null
+  },
+  {
+    "model": "olmo-3:7b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 68.8,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 321.1,
+    "scores": null
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 210.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Comprehensive coverage with good specific tags"
+    }
+  },
+  {
+    "model": "qwen3-vl:30b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 319.6,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 64.3,
+    "scores": null
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 3.4,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 6 generic tags; misses election meddling, migration, cyber, GPS-jamming"
+    }
+  },
+  {
+    "model": "granite4:7b-a1b-h",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 6.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 1,
+      "specificity": 2,
+      "notes": "Summary in Dutch instead of English"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 8.8,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 4,
+      "hallucination": 1,
+      "notes": "Wrong document content (OpenAI/GPT-5 context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 8.6,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "solar:10.7b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 9.2,
+    "scores": {
+      "factual_accuracy": 1,
+      "coverage": 1,
+      "language": 5,
+      "specificity": 1,
+      "notes": "Summary of wrong document"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 62.3,
+    "scores": null
+  },
+  {
+    "model": "falcon:7b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 3.2,
+    "scores": {
+      "relevance": 1,
+      "style": 5,
+      "language": 5,
+      "coverage": 1,
+      "notes": "Tags for wrong document (OpenAI/AI context)"
+    }
+  },
+  {
+    "model": "falcon:7b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 59.3,
+    "scores": null
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 20.1,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 3,
+      "hallucination": 5,
+      "notes": "\"Finnen\" as ORG wrong; \"Zeven landen\" and \"Zweed\" are not named entities; many duplicates; embedded title in \"Poolse premieer Tusk\""
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 10.5,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 5,
+      "notes": "Good coverage including migration-security angle"
+    }
+  },
+  {
+    "model": "gemma3n:e4b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 13.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 1,
+      "specificity": 3,
+      "notes": "Summary in Dutch; truncated; covers multiple countries"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 189.8,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 2,
+      "hallucination": 5,
+      "notes": "Non-standard EVENT type; \"Moord\" and \"Poetins optiek\" are not named entities; many duplicates"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 28.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 5 tags; misses election meddling, migration, specific countries"
+    }
+  },
+  {
+    "model": "phi4-reasoning:14b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 80.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 1,
+      "specificity": 4,
+      "notes": "Summary in Dutch; covers multiple countries with expert quotes"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 96.0,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\" gps-signalen verstoord\" is a description not an entity; leading space; duplicates; Snoop correctly as ORG"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 46.9,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"border-provocations\" specific and good; misses migration and GPS-jamming"
+    }
+  },
+  {
+    "model": "deepseek-r1:14b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 33.0,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 3,
+      "notes": "Poland/Sweden/Estonia examples slightly conflated; misses Romania, Norway, expert citations"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 624.7,
+    "scores": {
+      "entity_form": 4,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Mix of English/Dutch; \"Finland-Russia border\" is not a named entity; otherwise comprehensive and accurate"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 277.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "\"baltic-states\" adds geographic precision; misses election meddling and migration"
+    }
+  },
+  {
+    "model": "deepseek-r1:32b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 251.0,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 5,
+      "language": 5,
+      "specificity": 4,
+      "notes": "Good comprehensive coverage; no expert citations but mentions all key countries"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 83.9,
+    "scores": null
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 11.7,
+    "scores": {
+      "relevance": 5,
+      "style": 4,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good general coverage; misses migration and GPS-jamming angles"
+    }
+  },
+  {
+    "model": "gemma3:12b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 17.8,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 5,
+      "notes": "Truncated; excellent expert citations; names Schuurman, Leiden University, Romania court annulment"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 49.3,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 4,
+      "hallucination": 5,
+      "notes": "\"Poolse premier\" is a descriptor not a named entity; NATO and NAVO extracted as duplicate; otherwise comprehensive"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 17.0,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; 5 tags; misses election meddling, migration, cyber, GPS"
+    }
+  },
+  {
+    "model": "phi4:14b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 27.6,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 4,
+      "language": 5,
+      "specificity": 4,
+      "notes": "\"Contaminating water supplies\" overstates article content; truncated; covers Norway/Sweden/Estonia and Romania/Moldova"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 11.5,
+    "scores": {
+      "entity_form": 5,
+      "type_accuracy": 5,
+      "hallucination": 5,
+      "notes": "Very sparse (7 countries, 2 orgs) but all accurate"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 9.8,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Good country-specific tags; misses migration and Norway/Sweden examples"
+    }
+  },
+  {
+    "model": "dolphin3:8b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 9.9,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 2,
+      "language": 5,
+      "specificity": 2,
+      "notes": "Very generic; no country-specific details, expert citations, or statistics"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 19.9,
+    "scores": {
+      "entity_form": 2,
+      "type_accuracy": 1,
+      "hallucination": 5,
+      "notes": "Non-standard types (GPE, EVENT); \"pro-Europese\" extracted as ORG; very sparse, only covers Georgia/Moldova section"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 13.9,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Capitalization inconsistency; very sparse; narrow coverage"
+    }
+  },
+  {
+    "model": "olmo2:13b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 18.2,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 1,
+      "language": 1,
+      "specificity": 2,
+      "notes": "Two generic Dutch sentences; not a proper summary"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 5.2,
+    "scores": {
+      "entity_form": 1,
+      "type_accuracy": 1,
+      "hallucination": 1,
+      "notes": "Wrong document content; \"ORG\" extracted as entity text; non-standard type \"PERSON\""
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 6.5,
+    "scores": {
+      "relevance": 4,
+      "style": 2,
+      "language": 5,
+      "coverage": 3,
+      "notes": "Multi-word tags without hyphens; overcounts country tags; UK and US not in article"
+    }
+  },
+  {
+    "model": "gemma2:2b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 13.8,
+    "scores": {
+      "factual_accuracy": 3,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 2,
+      "notes": "\"Proxy conflicts\" not mentioned in article; generic coverage without specific names"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 19.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "\"Slovenië\" wrong for Robert Fico who is Slovak; \"Pools warenhuis\" not a named entity; NATO and Belarus duplicated"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 8.2,
+    "scores": {
+      "relevance": 5,
+      "style": 5,
+      "language": 5,
+      "coverage": 2,
+      "notes": "Very sparse; only 5 tags; misses most specific topics"
+    }
+  },
+  {
+    "model": "qwen2.5:7b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 11.7,
+    "scores": {
+      "factual_accuracy": 5,
+      "coverage": 3,
+      "language": 1,
+      "specificity": 2,
+      "notes": "Summary in Dutch; covers main themes generically"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "ner",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 41.1,
+    "scores": {
+      "entity_form": 3,
+      "type_accuracy": 3,
+      "hallucination": 3,
+      "notes": "Kremlin misclassified as LOC; \"Fins\" is an adjective not PER; KNAW hallucinated"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "tags",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 20.5,
+    "scores": {
+      "relevance": 5,
+      "style": 3,
+      "language": 5,
+      "coverage": 4,
+      "notes": "Typo \"eastern-europa-conflict\"; otherwise good coverage"
+    }
+  },
+  {
+    "model": "qwen2.5:14b",
+    "task": "summary",
+    "doc": "20250102_125943_Zo probeert Rusland angst en onrust in Europa te zaaien ‘Hun strategie was, is en blijft hetzelfde’.md",
+    "elapsed_s": 25.7,
+    "scores": {
+      "factual_accuracy": 4,
+      "coverage": 3,
+      "language": 5,
+      "specificity": 4,
+      "notes": "\"Since 2023\" inaccurate; misses country-specific examples; good expert citations"
+    }
+  }
+]
